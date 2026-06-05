@@ -16,29 +16,29 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Arvo
+      body: Special Elite
+      code: Space Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#f4ebd0"
+        lightgray: "#e6cca0"
+        gray: "#8b5a2b"
+        darkgray: "#2b261d"
+        dark: "#1a130b"
+        secondary: "#164a2b"
+        tertiary: "#b8860b"
+        highlight: rgba(184, 134, 11, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#161310"
+        lightgray: "#2d251e"
+        gray: "#a08060"
+        darkgray: "#e0d0b0"
+        dark: "#f5e6c8"
+        secondary: "#2e7d46"
+        tertiary: "#cca300"
+        highlight: rgba(46, 125, 70, 0.2)
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
