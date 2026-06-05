@@ -5,7 +5,7 @@ title: Welcome to Quartz
 This is a blank Quartz installat
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-A indian opisałe [[indianie|test]] dobrzeg sdzw [[europejczyków]] tud a [[azjatow]] aaa [[content]] tu ejst strona ss rrawdf
+A indian opisałe [[indianie|test]] dobrzesg sdzw [[europejczyków]] tud a [[azjatow]] aaa [[content]] tu ejst strona ss rrawdf
 
 s
 
