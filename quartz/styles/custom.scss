@@ -1,3 +1,29 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+// Nadanie nagłówkom klimatu retro-plakatu "WANTED"
+h1,
+h2,
+h3 {
+  text-transform: uppercase; /* Wielkie litery dodają klimatu z XIX w. */
+  letter-spacing: 1px;
+}
+
+// Zmiana wyglądu ramek (np. wokół kodu czy cytatów) na bardziej surowe
+blockquote {
+  border-left: 4px solid var(--secondary) !important;
+  background-color: rgba(139, 90, 43, 0.05);
+  font-style: italic;
+}
+
+// Delikatna tekstura dla całej strony (opcjonalnie)
+// Jeśli chcesz, aby tło nie było idealnie gładkie, odkomentuj poniższe linie:
+body {
+  background-image:
+    radial-gradient(var(--lightgray) 0.5px, transparent 0.5px),
+    radial-gradient(var(--lightgray) 0.5px, var(--light) 0.5px);
+  background-size: 20px 20px;
+  background-position:
+    0 0,
+    10px 10px;
+}
