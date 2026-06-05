@@ -1,29 +1,126 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-// Nadanie nagłówkom klimatu retro-plakatu "WANTED"
-h1,
-h2,
-h3 {
-  text-transform: uppercase; /* Wielkie litery dodają klimatu z XIX w. */
-  letter-spacing: 1px;
+
+// ====================================================================
+// SMOCZY DZIKI ZACHÓD (1800s Fantasy) - EDYCJA PERGAMIN & BRUDNE ZŁOTO
+// ====================================================================
+
+// --- 1. MOTYW JASNY (Wyblakły, plamisty pergamin + Brudne złoto) ---
+:root {
+  --light: #f4ebd0 !important;         // Baza tła
+  --lightgray: #e6cca0 !important;     // Tło kart / bloków
+  --gray: #8b5a2b !important;          // Siodłowy brąz
+  --darkgray: #2b261d !important;      // Standardowy tekst
+  --dark: #1a130b !important;          // Nagłówki (Stal)
+  
+  // NOWE: Brudne złoto (kruszec) jako główny akcent zamiast zieleni
+  --secondary: #a38245 !important;     // Surowe złoto dla linków
+  --tertiary: #c5a86b !important;      // Rozbłysk złota (Hover)
+  
+  --highlight: #a3824521 !important;   // Podświetlenie tekstu
+  --textHighlight: #fff23688 !important;
+
+  --background-primary: var(--light) !important;
+  --text-normal: var(--darkgray) !important;
+  --text-muted: var(--gray) !important;
+  --text-accent: var(--secondary) !important;
+  --link-color: var(--secondary) !important;
+
+  // Efekt starego, nieregularnego pergaminu (Jaśniejszy środek, przyciemniane brzegi i plamy)
+  --pergamin-gradient: radial-gradient(circle at 30% 20%, #f7f0dc 0%, #f4ebd0 40%, #e8dbb5 80%, #dfcf9f 100%) !important;
 }
 
-// Zmiana wyglądu ramek (np. wokół kodu czy cytatów) na bardziej surowe
+// --- 2. MOTYW CIEMNY (Przypalany, mroczny pergamin + Świecący kruszec) ---
+:root[saved-theme="dark"] {
+  --light: #161310 !important;         // Baza tła
+  --lightgray: #2d251e !important;     // Bloki kodu
+  --gray: #a08060 !important;          // Tekst wyciszony
+  --darkgray: #e0d0b0 !important;      // Standardowy tekst
+  --dark: #f5e6c8 !important;          // Nagłówki (Kość słoniowa)
+  
+  // NOWE: Brudne złoto w wersji nocnej (bardziej nasycone, by odcinało się od mroku)
+  --secondary: #c59b4c !important;     // Świecący w mroku surowy kruszec
+  --tertiary: #e2b969 !important;      // Jasne, oczyszczone złoto (Hover)
+  
+  --highlight: #c59b4c26 !important;
+  --textHighlight: #b3aa0288 !important;
+
+  --background-primary: var(--light) !important;
+  --text-normal: var(--darkgray) !important;
+  --text-muted: var(--gray) !important;
+  --text-accent: var(--secondary) !important;
+  --link-color: var(--secondary) !important;
+
+  // Efekt przypalonego, głębokiego pergaminu nocą (Nieregularne cienie w rogach ekranu)
+  --pergamin-gradient: radial-gradient(circle at 70% 30%, #1c1814 0%, #161310 50%, #0f0d0b 85%, #080605 100%) !important;
+}
+
+// ====================================================================
+// GLOBALNA STYLIZACJA I TYPOGRAFIA (Aplikowanie gradientów i fontów)
+// ====================================================================
+
+// Nałożenie nieregularnego gradientu pergaminu na całą strukturę strony
+html, body, #quartz-body, .page, main, article {
+  background: var(--pergamin-gradient) !important;
+  background-attachment: fixed !important; // Gradient nie przewija się drastycznie z tekstem, dając efekt arkusza
+  color: var(--darkgray) !important;
+}
+
+// Nadpisanie pasków bocznych i belek, aby nie psuły gradientu pod spodem
+.sidebar, .page-header, .page-footer, .center, .left, .right {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+// Elementy tekstowe, listy, tabele
+p, span, li, time, .u-p, table, td, th {
+  font-family: 'Special Elite', monospace !important;
+  color: var(--darkgray) !important;
+  line-height: 1.6 !important;
+}
+
+// Nagłówki prasowe z epoki
+h1, h2, h3, h4, h5, h6, .header, .page-title, h1 *, h2 *, h3 * {
+  font-family: 'Arvo', serif !important;
+  color: var(--dark) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  font-weight: 700 !important;
+  background-color: transparent !important;
+}
+
+// Linki (Złoty kruszec)
+a, .internal-link, .external-link, a * {
+  font-family: 'Special Elite', monospace !important;
+  color: var(--secondary) !important;
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px !important;
+  background-color: transparent !important;
+  transition: color 0.2s ease !important;
+
+  &:hover, &:hover * {
+    color: var(--tertiary) !important;
+  }
+}
+
+// Podkreślenia pod nagłówkami (jeśli Quartz je generuje, użyją brudnego złota)
+h1, h2 {
+  border-bottom: 1px solid var(--secondary) !important;
+}
+
+// Bloki cytatów (Złota linia boczna)
 blockquote {
   border-left: 4px solid var(--secondary) !important;
-  background-color: rgba(139, 90, 43, 0.05);
-  font-style: italic;
+  background-color: rgba(163, 130, 69, 0.05) !important;
+  padding: 0.5rem 1rem !important;
+  margin: 1rem 0 !important;
+  font-style: italic !important;
 }
 
-// Delikatna tekstura dla całej strony (opcjonalnie)
-// Jeśli chcesz, aby tło nie było idealnie gładkie, odkomentuj poniższe linie:
-body {
-  background-image:
-    radial-gradient(var(--lightgray) 0.5px, transparent 0.5px),
-    radial-gradient(var(--lightgray) 0.5px, var(--light) 0.5px);
-  background-size: 20px 20px;
-  background-position:
-    0 0,
-    10px 10px;
+// Bloki kodu
+code, pre, pre * {
+  font-family: var(--codeFont) !important;
+  background-color: var(--lightgray) !important;
+  color: var(--dark) !important;
 }
