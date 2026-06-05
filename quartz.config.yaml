@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: dracomurica.github.io/quartz
+  baseUrl: elastoshei-mg.github.io/dracomurica
   ignorePatterns:
     - private
     - templates
@@ -274,6 +274,10 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/tui
+    enabled: true
+    options: {}
     order: 50
 layout:
   groups:
