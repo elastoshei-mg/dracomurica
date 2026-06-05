@@ -7,4 +7,4 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 A indian opisałe [[indianie]] dobrze sdzw
 
-[indianie]: indianie "indianie"
+[indianie]: indianie "sssss"
