@@ -50,6 +50,3 @@ Przekazanie Luizjany Stanom Zjednoczonym wywołuje panikę wśród francuskich c
 
 👉 Przejdź do kolejnego etapu: [[Kaplani]]
 
-[Smocza Alchemia|alchemików komercyjnych]: <Smocza Alchemia> "Smocza Alchemia"
-[Smoki Ameryki Polnocnej|smoków]: <Smoki Ameryki Polnocnej> "Smoki Ameryki Polnocnej"
-[Kaplani]: Kaplani "Kaplani"

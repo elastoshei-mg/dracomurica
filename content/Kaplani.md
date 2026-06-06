@@ -1,49 +1,66 @@
-W świecie roku 1803 religia nie jest jedynie kwestią filozofii czy wewnętrznego przekonania – jest namacalną siłą manifestującą się poprzez autentyczne, mierzalne cuda. Rozłam chrześcijaństwa na katolicyzm i protestantyzm oraz powstanie Kościoła Anglikańskiego zyskały potężny, militarny i polityczny wymiar. Każda z frakcji posiada swoich sankcjonowanych przez Boga (lub państwo) Cudotwórców, którzy odgrywają kluczowe role w stabilizowaniu społeczeństw i prowadzeniu wojen.
-
+---
+title: Kapłani i Cudotwórcy
+tags: [frakcja, magia, religia, mechanika]
+aliases: [Cudotwórcy, Divine Favor, kapłani]
 ---
 
-## ⚙️ Mechanika GURPS 4e: Boska Przychylnosc (Divine Favor)
+# Kapłani i Cudotwórcy
 
-W przeciwieństwie do [[Europejsy Uzytkownicy Magii|Czarodziejów]], kapłani w tym świecie nie rzucają tradycyjnych zaklęć z podręczników magii. Ich moc opiera się w całości na podręczniku **GURPS Thaumatology: Divine Favor**.
+Religia w roku 1803 nie jest kwestią filozofii. Cuda zdarzają się na oczach świadków, wrogowie Kościoła giną od boskiego ognia, a modlitwa w odpowiednim języku potrafi obrócić bitwę. Rozłam chrześcijaństwa na katolicyzm, protestantyzm i anglikanizm zyskał wymiar czysto militarny — bo każda z tych tradycji modli się inaczej, a różnica w skuteczności jest mierzalna i bezlitosna.
 
-* **Rdzeń Mechaniki:** Kapłan kupuje zaletę `Divine Favor` jako poziom ogólnej relacji z bóstwem (koszt 15 punktów na poziomie 1, do kilkuset punktów na poziomach najwyższych).
-* **Rzucanie Cudów:** Aby zamanifestować wolę Bożą, gracz wykonuje rzut kostkami na swoją wartość `Divine Favor`. Sukces oznacza, że bóstwo wysłuchało modlitwy i interweniuje.
-* **Wyuczone Modlitwy (Learned Prayers):** Kapłani mogą dokupować stałe, powtarzalne cuda (np. leczenie chorób, wywoływanie świętego ognia, nakładanie barier ochronnych) jako Zdolności (Advantages) z modyfikatorem `Divine (-10%)`.
-* **Brak Kosztu Energii:** Rzucanie cudów nie kosztuje Punktów Zmęczenia (`FP`). Ograniczeniem jest jednak moralność kapłana – jeśli złamie on surowe zasady swojego wyznania (`Vows`,  `Disciplines of Faith`), jego `Divine Favor` zostaje natychmiastowo zablokowane przez Boga, dopóki postać nie odprawi ciężkiej pokuty.
+## Mechanika: Boska Przychylność (Divine Favor)
 
----
+Kapłani nie rzucają zaklęć z podręczników. Ich moc opiera się na podręczniku **GURPS Thaumatology: Divine Favor**.
 
-## ⛪ Podzial Religijno-Polityczny w Roku 1803
+Kapłan kupuje zaletę `Divine Favor` jako poziom relacji z bóstwem (15 punktów na poziomie 1, do kilkuset na najwyższych). Aby zamanifestować cud, wykonuje rzut na swoją wartość `Divine Favor`. Sukces oznacza interwencję.
 
-### 1. Kościół Katolicki (Egzorcyści i Inkwizycja)
+Kapłani mogą dokupować stałe, powtarzalne cuda (leczenie ran, święty ogień, bariery ochronne) jako Zdolności z modyfikatorem `Divine (-10%)`. Rzucanie cudów nie kosztuje `FP`. Ograniczeniem jest moralność — złamanie zasad wyznania (`Vows`, `Disciplines of Faith`) blokuje `Divine Favor` do czasu ciężkiej pokuty.
 
-Najbardziej hierarchiczna i ortodoksyjna struktura, która po traumach rewolucji we Francji próbuje odzyskać wpływy w Nowym Świecie.
-* **Specjalizacja:** Ich cudotwórcy skupiają się na absolutnej ochronie przed siłami nieczystymi (`Abjuration`,  `Exorcism`) oraz walce z plagami zombie. Katoliccy kapłani są niezrównani w wykrywaniu i niszczeniu paktów z demonami w ramach [[Czarna Magia i Demonologia|Czarnej Magii]].
-* **W Luizjanie:** Nowy Orlean to miasto głęboko katolickie (dziedzictwo francuskie i hiszpańskie). Lokalny kler patrzy z przerażeniem na napływ amerykańskich protestantów i potajemnie finansuje zakony, by te chroniły hiszpańsko-francuską ludność przed "heretykami z północy".
+> [!mechanics]
+> **Premia językowa:** Modlitwa po łacinie daje bonus `+3` do rzutu na `Divine Favor` (odpowiednik połowy skuteczności w przeliczeniu na poziomy zalety). Modlitwy w innych językach nie mają premii ani kary — łacina jest skuteczniejsza z przyczyn, których żaden teolog nie potrafi zadowalająco wyjaśnić.
+> **Wyuczone modlitwy po łacinie:** Learned Prayers odprawiane po łacinie zyskują modyfikator `Potent (+20%)` bez dodatkowego kosztu punktowego — pod warunkiem, że kapłan zna język na poziomie Native lub Accented.
+> **Nauka łaciny:** Umiejętność Language (Latin) kosztuje standardowo. Dla kapłanów bez teologicznego wykształcenia traktowana jako Mental/Average.
 
-### 2. Kościół Anglikański (Służba Koronie Brytyjskiej)
+## Łaciński problem
 
-Państwowa religia Imperium Brytyjskiego, w której kapłani są jednocześnie urzędnikami państwowymi i oficerami armii.
-* **Specjalizacja:** Ich cuda są pragmatyczne, nastawione na kontrolę pogody, logistykę wojskową oraz stabilizowanie nastrojów społecznych. W [[Kanada|brytyjskiej Kanadzie]] anglikańscy cudotwórcy współpracują z [[Indianie|Indiańskimi Druidami]], łącząc boską moc z magią natury w celu przetrwania morderczych zim.
+Fakty są następujące. Modlitwy po łacinie działają o połowę skuteczniej. Nikt nie wie, dlaczego.
 
-### 3. Amerykańskie Sekty i Protestanci (Wędrowni Kaznodzieje)
+Odkrycie nie jest nowe — katoliccy teologowie dokumentują tę anomalię od co najmniej XII wieku, choć przez wieki traktowali ją jako dowód na wyższość jedynego prawdziwego Kościoła, a nie jako osobny fenomen wymagający wyjaśnienia. Po reformacji i wybuchu protestanckich cudów debata stała się pilniejsza. Skoro Bóg wysłuchuje heretyków modlących się po niemiecku i angielsku, to dlaczego łacina wciąż działa lepiej?
 
-Brak jednego, oficjalnego kościoła w USA doprowadził do eksplozji religijnego zapału na Dzikim Zachodzie i pograniczu. Purytanie, baptyści i metodyści rywalizują o dusze osadników.
-* **Specjalizacja:** Charyzmatyczni kaznodzieje manifestują widowiskowe, gwałtowne cuda – masowe uzdrawianie ślepych, wypędzanie lokalnych demonów z lasów czy sprowadzanie deszczu na wysuszone uprawy. Ich potęga buduje kult jednostki, co często prowadzi do powstawania groźnych fanatycznych kultów na [[Codzienne Zycie i Zwyczaje w USA|amerykańskim pograniczu]].
+Hipotez jest kilka. Żadna nie jest powszechnie przyjęta.
 
----
+Dominikańska szkoła tradycjonalistyczna twierdzi, że łacina jest bliższa pierwotnemu językowi Stworzenia — jakiemuś prajęzykowi, którego ślad przetrwał w kościelnej łacinie. Jezuici ripostują, że to nonsens historyczny, bo Biblia nie była pisana po łacinie. Ich własna teoria mówi o "uświęceniu przez użycie" — że dwa tysiące lat modlitw w tym samym języku nasyciło go mocą, którą kolejne pokolenia tylko pogłębiają.
 
-## ⚔️ Konflikt w Nowym Orleanie (1803)
+Protestanccy teologowie mają problem. Część zaprzecza samemu faktowi, twierdząc, że to katolicka propaganda i manipulacja pomiarem. Inni — głównie w Anglii — po cichu przyznają różnicę, ale twierdzą, że szczerość wiary kompensuje brak łaciny. To nieprawda, co można zmierzyć, ale wygodna nieprawda. Kalwiniści w Genewie i Szkocji stoją na stanowisku, że Bóg w swojej suwerenności może działać przez każdy język i że premii łacińskiej po prostu nie ma — to iluzja stworzona przez błędną metodologię. Powiedzenie tego głośno w Nowym Jorku jest ryzykowne, bo każdy żołnierz, który widział katolickiego egzorcystę przy pracy, wie, że coś jest na rzeczy.
 
-Przejście Luizjany pod władzę USA to nie tylko zmiana flag na masztach – to początek cichej wojny religijnej. Katoliccy cudotwórcy z Nowego Orleanu próbują utrzymać swoje święte miejsca i relikwie przed profanacją ze strony napływających amerykańskich łowców [[Smoki Ameryki Polnocnej|smoków]]. Jednocześnie oba te obozy muszą stale uważać na afrykańskie wiedźmy voodoo, których szamańskie rytuały na bagnach zyskują na sile z każdym dniem chaosu.
+Anglikanie znaleźli się w najtrudniejszej pozycji. *Book of Common Prayer* jest po angielsku — to był świadomy wybór Henryka VIII i Cranmera, manifest że prawdziwy Kościół nie potrzebuje łaciny. Trzysta lat później okazuje się, że potrzebuje. Londyn od 1798 roku prowadzi tajne eksperymenty z "kompensacją liturgiczną" — wybranymi kapłanami, którzy uczą się łaciny i odprawiają część ceremonii w obu językach. Program jest ściśle tajny, bo jego istnienie przyznaje, że reformacja religijnie kosztowała.
 
----
+## Kościół Katolicki
 
-👉 Przejdź do kolejnego etapu: [[Afrykanskie Wiedzmy]]
+Najbardziej hierarchiczna struktura religijna działająca w Nowym Świecie, konsolidująca siły po traumach rewolucji we Francji.
 
-[Czarna Magia i Demonologia|Czarnej Magii]: <Czarna Magia i Demonologia> "Czarna Magia i Demonologia"
-[Kanada|brytyjskiej Kanadzie]: Kanada "Kanada"
-[Indianie|Indiańskimi Druidami]: Indianie "Indianie"
-[Codzienne Zycie i Zwyczaje w USA|amerykańskim pograniczu]: <Codzienne Zycie i Zwyczaje w USA> "Codzienne Zycie i Zwyczaje w USA"
-[Smoki Ameryki Polnocnej|smoków]: <Smoki Ameryki Polnocnej> "Smoki Ameryki Polnocnej"
-[Afrykanskie Wiedzmy]: <Afrykanskie Wiedzmy> "Afrykanskie Wiedzmy"
+Katoliccy cudotwórcy specjalizują się w egzorcyzmach i walce z siłami nieczystymi. Są najskuteczniejsi w wykrywaniu i niszczeniu paktów z demonami opisanych w [[Czarna Magia i Demonologia|Czarnej Magii]] — w dużej mierze dlatego, że rytuały egzorcyzmu (*Rituale Romanum* z 1614 roku) są w całości po łacinie i korzystają z pełnej premii językowej. Protestancki egzorcysta wykonuje ten sam rytuał po angielsku i osiąga połowę efektu. Różnica bywa dosłownie śmiertelna.
+
+W Nowym Orleanie kler katolicki obserwuje napływ amerykańskich protestantów z mieszaniną przerażenia i zimnej satysfakcji. Protestantyzm jest herezją, ale herezją z osłabionym Bogiem. Lokalny biskup potajemnie finansuje co najmniej trzy zakony, których zadaniem jest ochrona kapliczkowej infrastruktury liturgicznej przed profanacją ze strony nowych władz.
+
+## Kościół Anglikański
+
+Państwowa religia Imperium Brytyjskiego. Kapłani anglikańscy są jednocześnie urzędnikami koronnymi, oficerami armii i — coraz częściej — niekomfortowo świadomymi swoich ograniczeń.
+
+W [[Kanada|Kanadzie]] anglikańscy cudotwórcy współpracują z [[Indianie|indiańskimi druidami]], łącząc boskie bariery pogodowe z magią natury. Ta współpraca działa. Problem polega na tym, że im głębiej anglikanie wchodzą w tę współpracę, tym bardziej widoczna staje się luka między tym, co potrafią sami, a tym, co potrafiliby, gdyby modlili się po łacinie.
+
+Londyński program "kompensacji liturgicznej" tworzy pierwszych anglikańskich kapłanów biegle władających łaciną. W armii są nazywani nieoficjalnie *Latin Prayers* i traktowani jak artyleria ciężka — zbyt cenni do wysyłania na pierwszą linię, zbyt użyteczni by ich nie wysyłać.
+
+## Protestanckie sekty w USA
+
+Brak państwowego kościoła w USA doprowadził do eksplozji wyznaniowej na pograniczu. Baptyści, metodyści i setki pomniejszych sekt rywalizują o dusze osadników. Wędrowni kaznodzieje manifestują widowiskowe cuda na camp meetings — uzdrowienia, wypędzanie demonów z lasów, sprowadzanie deszczu.
+
+Wszystkie te cuda są autentyczne. Wszystkie działają o połowę słabiej, niż działałyby po łacinie.
+
+Spora część kaznodziejów po prostu tego nie wie — nikt im nie powiedział, a porównać nie ma z czym. Ci, którzy wiedzą, reagują różnie. Niektórzy zaczynają wplatać łacińskie formuły w angielskie kazania, co teologicznie jest nieortodoksyjne i przez współwiernych odbierane podejrzliwie. Inni twierdzą głośno, że szczerość wiary wynagradza wszystko. Jeden baptystyczny kaznodzieja z Tennessee, [[Ezra Cole]], głosi od 1801 roku, że łaciński bonus jest diabelską pułapką mającą przywieść wiernych z powrotem do Rzymu — i ma sporą grupę zwolenników.
+
+## Konflikt w Nowym Orleanie (1803)
+
+Przekazanie Luizjany Stanom Zjednoczonym to kolizja dwóch tradycji liturgicznych. Jedna modli się po łacinie i od stuleci wie, że to ma znaczenie. Druga modli się po angielsku i dopiero zaczyna rozumieć, co traci.
+
+Katoliccy egzorcyści z Nowego Orleanu chronią swoje relikwie i kaplice przed profanacją. Protestanccy łowcy [[Smoki Ameryki Polnocnej|smoków]] przybywający z północy mają więcej broni i więcej pieniędzy. Obydwa obozy muszą jednocześnie uważać na [[Afrykanskie Wiedzmy|wiedźmy voodoo]], które — jak się okazuje — część łacińskich formuł katolickich przejęły do własnych rytuałów i używają ich ze zrozumieniem skuteczności.
