@@ -82,11 +82,11 @@ p, span, li, time, .u-p, table, td, th {
 
 // Nagłówki prasowe z epoki
 h1, h2, h3, h4, h5, h6, .header, .page-title, h1 *, h2 *, h3 * {
-  font-family: 'Arvo', serif !important;
+  font-family: 'Sancreek', serif !important;
   color: var(--dark) !important;
-  text-transform: uppercase !important;
-  letter-spacing: 1px !important;
-  font-weight: 700 !important;
+  text-transform: none !important;
+  letter-spacing: 2px !important;
+  font-weight: 400 !important;
   background-color: transparent !important;
 }
 
