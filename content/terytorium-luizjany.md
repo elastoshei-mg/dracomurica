@@ -1,172 +1,123 @@
 ---
 title: Terytorium Luizjany (1802)
 tags: [luizjana, terytorium, usa, francja, hiszpania, rdzenne narody, geografia, polityka]
-aliases: [Louisiana Territory, Louisiana Purchase]
+aliases: [Louisiana Territory, Luizjana, Louisiana Purchase]
 ---
 
 # Terytorium Luizjany (1802)
 
-W roku 1802 Terytorium Luizjany jest ziemią między rzekami. Rozciąga się od zachodniego brzegu [[Missisipi]] aż po daleki zachód, o którym nikt w Waszyngtonie nie ma pojęcia. Pomiędzy tymi dwoma punktami leżą tysiące mil rzek, prerii, gór i lasów, zamieszkanych przez dziesiątki [[Rdzenne narody Ameryki Północnej (1802)|rdzennych narodów]], garstkę francuskich i hiszpańskich kupców, i absolutnie nikogo, kto mówiłby po angielsku z wolnej woli.
+W roku 1802 Terytorium Luizjany jest ziemią między rzekami. Rozciąga się od zachodniego brzegu [[Missisipi]] aż po dalekie Góry Skaliste, o których w Waszyngtonie wiadomo niewiele. Pomiędzy tymi dwoma punktami leżą tysiące mil rzek, prerii i lasów, zamieszkanych przez dziesiątki [[Rdzenne narody Ameryki Północnej (1802)|rdzennych narodów]], garść francuskich i hiszpańskich kupców i faktorie handlowe rozrzucone wzdłuż głównych szlaków rzecznych.
 
-Politycznie — jest to ziemia francuska, od 1800 roku, dzięki tajnemu [[Traktat San Ildefonso]]. Faktycznie — administracja pozostaje w rękach [[Hiszpanii]], której gubernatorzy w [[Nowy Orlean]] jeszcze nie dostali rozkazów przekazania władzy. Terytorium jest niezmierzonym, niekontrolowanym skarbem geopolitycznym. Dla [[Thomas Jefferson|Thomasa Jeffersona]] to klucz do ekspansji USA. Dla [[Napoleon Bonaparte|Napoleona]] — to waluta w negocjacjach z USA i [[Wielką Brytanią]].
+Politycznie — Francja, od [[Traktat San Ildefonso|Traktatu San Ildefonso]] w 1800 roku. Faktycznie — administracja w rękach Hiszpanii, której urzędnicy w [[Nowy Orlean|Nowym Orleanie]] nie dostali jeszcze rozkazu przekazania władzy. Militarnie — [[Osagowie]], [[Paunisi]], [[Komancze]] i kilkanaście innych narodów, z którymi żadne europejskie mocarstwo nie podpisało żadnego traktatu.
 
 ---
 
-## Geografia i terytorium
+## Geografia
 
 ### Rzeka Missisipi — kręgosłup kontynentu
 
-[[Missisipi]] — najdłuższa rzeka Ameryki Północnej — wyznacza naturalną granicę między Wschodem a Zachodem. W 1802 roku jej wody niosą handel z wnętrza kontynentu do Nowego Orleanu — wołowina, wieprzowina, whisky z Kentucky, tytoń z Wirginii, futra z [[Kanada Brytyjska|Kanady]].
+[[Missisipi]] wyznacza wschodnią granicę terytorium i jednocześnie jest jego główną arterią handlową. Jej dorzecze obejmuje około jednej i pół miliona kilometrów kwadratowych — obszar trzy razy większy od Francji. Rzeki Missouri, Arkansas, Red River i kilkadziesiąt mniejszych dopływów spinają prerie w jedną sieć, przez którą płyną futra, bawole skóry i kukurydza z głębi kontynentu w stronę [[Nowy Orlean|Nowego Orleanu]].
 
-Dorzecze Missisipi obejmuje około 1,2 miliona mil kwadratowych. To obszar cztery razy większy od Francji. Rzeka Missouri, jej główny dopływ, płynie na północny zachód przez ziemie [[Osagów]] i [[Paunisów]], zanim skręci na wschód przez Wielkie Równiny. Południowy dopływ, [[Arkansas]], płynie przez ziemie Komanczów i [[Nowej Hiszpanii]].
+Rzeka Missouri biegnie na północny zachód przez ziemie [[Osagów]] i [[Paunisów]], zanim skręci przez Wielkie Równiny ku zachodowi. Nikt spośród anglosaskich Amerykanów nie dopłynął jeszcze do jej źródeł. [[Lewis i Clark]] wyruszą w 1804 roku.
 
-W 1802 roku większość dorzecza Missisipi — szczególnie te części na zachód od rzeki — jest poza zasięgiem jakiejkolwiek europejskiej administracji. Kontrolowane przez [[Rdzenne narody]] — [[Osagowie]], [[Paunisi]], [[Komancze]], [[Siuksowie]] (Lakota), [[Czejenowie]] i inni.
+### Preria i wody
 
-### Nowy Orlean — klucz do ujścia
+Za Missouri otwierają się Wielkie Równiny — bezkresne trawiaste przestrzenie, po których przemieszczają się milionowe stada bizonów. Na południu terytorium: bagna i lasy wschodniej Luizjany, porośnięte cyprysami i trzciną, z gęstą siecią kanałów i rozlewisk.
 
-[[Nowy Orlean]] w 1802 roku — małe miasto z europejską architekturą i wieloma kulturami, strzegące ujścia Missisipi. Właścicielem jest formalnie Francja, administracja hiszpańska. Ale jego faktyczni właściciele to [[Rdzenne narody]], które kontrolują ruch na rzekach i szlakach handlowych.
+Na zachodnim horyzoncie terytorium — [[Góry Skaliste]]. W 1802 roku żaden Europejczyk nie przekroczył ich od Północy. Dokąd biegną, jak wysokie są, co leży za nimi — to pytania bez odpowiedzi.
 
-Hiszpański gubernator, baron de Carondelet, przedkładał interes Hiszpanii nad interes Francji, a nawet interes USA. Zamknięcie portu dla amerykańskich barek (październik 1802) przez hiszpańskie władze wywołało kryzys polityczny w Waszyngtonie i skłoniło [[Thomasa Jeffersona]] do zakupu Luizjany.
+---
 
-### Preria i góry
+## Rdzenne narody — rzeczywiści właściciele
 
-Na zachód od Missouri rozciągają się Wielkie Równiny — bezkresne morze traw, którymi rządzą [[bizon]] i [[Koń]]. To terytorium [[Komanczów]] i [[Siuksów]] (Lakota), którzy nauczyli się jeździć konno i zmienili swoje życie z nomadycznego na mobilne i potężne.
+[[Osagowie]] kontrolują centralne dorzecze — Missouri i Arkansas, okolice dzisiejszego Missouri, Kansas i Arkansas. Każda ekspedycja handlowa, która wchodzi na ich terytorium bez uzgodnienia, spotyka się ze zbrojną interwencją lub zatrzymaniem. [[Pawhuska]] prowadzi politykę wielostronną: handluje z Francuzami z Saint Louis, toleruje Hiszpanów na południu, obserwuje Amerykanów ze wschodu.
 
-Na zachód od Wielkich Równin zaczynają się [[Góry Skaliste]]. Ich wschodni skraj to pasma [[Black Hills]], [[Bighorn Mountains]], [[Wasatch Range]]. Na zachód od Gór Skalistych — tereny, o których w 1802 roku nikt w Waszyngtonie nie ma żadnego pojęcia. Dotarcie do [[Oceanu Spokojnego]] jest celem przyszłych wypraw [[Lewis i Clark]].
+Cztery grupy [[Paunisów]] zajmują prerie dzisiejszej Nebraski — rolnicy uprawiający kukurydzę w stałych osadach i myśliwi bawolego stada jednocześnie. Ich pozycja geopolityczna jest trudna: ze wschodu naciskają Siuksowie, od południa Komancze, z zachodu Szoszoni. Kupcy z Saint Louis traktują ich jako naturalny punkt wejścia na Równiny.
+
+[[Komancze]] dominują na południu, od Teksasu po Kansas. Zerwali z [[Szoszonami]] w pierwszej połowie XVIII wieku, gdy dostali konie, i w ciągu pokolenia stali się największą siłą militarną południowych prerii. Kontrolują handel końmi między Meksykiem a całym Zachodem — każdy koń użytkowany przez Kiowów, Czejenów czy Arapahów przeszedł prawdopodobnie przez komanczańskie ręce.
+
+[[Siuksowie]] — siedem ogniw Rady, Oceti Sakowin — zajmują ogromne terytorium od Wielkich Jezior po Północne Równiny. Lakota, zachodnia część federacji, jest w trakcie ekspansji w głąb prerii, sukcesywnie spychając [[Arikarów]], [[Mandanów]] i [[Hidatsów]] z najlepszych terenów polowań. Z Waszyngtonem nie mają żadnych stosunków dyplomatycznych — spotkają Lewisa i Clarka w 1804 roku, i to spotkanie nie będzie przyjazne.
+
+Na górnym Missouri: [[Mandan]] i [[Hidatsa]] w stałych osadach ziemnych, zdewastowanych przez epidemię ospy z 1801 roku. Ich wioski były przez dziesięciolecia centralnym węzłem handlowym całych Równin; w 1802 roku są cieniem poprzedniej potęgi demograficznej, ale wciąż pełnią rolę pośredników między płaską preryą a górską północą.
 
 ---
 
 ## Historia — od Francuzów do Francuzów
 
-### La Salle i Francuska Luizjana (1682–1762)
+### Nowa Francja i La Salle (1682–1762)
 
-Francuski badacz [[René-Robert Cavelier de La Salle]] dotarł do ujścia Missisipi w 1682 roku i ogłosił cały dorzecze własnością Francji — nazwał je na cześć króla Ludwika XIV, Luizjaną. Kolonizacja była powolna: kilka fortów, kilkanaście misji, handel z [[Rdzenne narody|rdzennymi narodami]]. Populacja nigdy nie przekroczyła dziesięciu tysięcy białych osadników, wspomaganych przez dziesiątki tysięcy zniewolonych Afrykańczyków.
+[[René-Robert Cavelier de La Salle]] dotarł do ujścia Missisipi w 1682 roku i ogłosił całe dorzecze własnością Francji — Luizjaną, na cześć Ludwika XIV. Kolonizacja była powolna: kilka fortów, kilkanaście misji, kilkaset kupców futrzanych. Populacja europejska nigdy nie przekroczyła kilkunastu tysięcy.
 
-Między 1722 a 1762 rokiem [[Nowy Orlean]] był stolicą kolonii. Handel: futra, skóry, rośliny uprawne — tytoń, ryż, indygo, cukier.
+[[Nowy Orlean]] założony w 1718 roku przez [[Jean-Baptiste Le Moyne de Bienville|Bienvilla]] stał się stolicą kolonii i centrum handlu. Przez czterdzieści lat Francja utrzymywała kontrolę przez sojusze z rdzennymi nacjami — Czerokiawami, Illinoisami, Kaddo — bardziej niż przez siłę militarną.
 
-### Hiszpańskie panowanie (1762–1800)
+### Panowanie Hiszpanii (1762–1800)
 
-W 1762 roku Francja, przegrywając [[Siedmioletnia Wojna]], oddała Zachodnią Luizjanę, w tym Nowy Orlean, [[Hiszpanii]] w tajnym [[Traktat Fontainebleau]]. Hiszpanie rządzili przez prawie czterdzieści lat, ale ich administracja była słaba i skupiona na obronie przed brytyjską ekspansją z północy i [[Rdzenne narody|rdzennymi z zachodu]].
+[[Traktat Fontainebleau]] z 1762 roku, podpisany w tajemnicy, oddał Zachodnią Luizjanę Hiszpanii — rekompensata za straty podczas [[Siedmioletnia Wojna|Siedmioletniej Wojny]]. Ogłoszono to publicznie dopiero w 1764 roku, ku wściekłości kreolskich osadników w Nowym Orleanie, którzy początkowo zbrojnie opierali się zmianie administracji.
 
-Pod panowaniem Hiszpanii Nowy Orlean rozwinął się jako centrum handlowe, choć nadal był małą, egzotyczną osadą. Odbudowa po pożarach (1788, 1794) w stylu hiszpańskim nadała miastu nowy charakter.
+Hiszpanie rządzili efektywniej niż Francuzi w kwestii administracji, ale nie zmienili charakteru terytorium. Futra, skóry i nieliczne plantacje. Polityka wobec rdzennych narodów: utrzymanie sojuszy, rozdawanie medali i tytułów wodzom, zakaz handlu alkoholem (egzekwowany wybiórczo).
 
-### Powrót Francji i sprzedaż USA (1800–1802)
+### Powrót Francji (1800–1802)
 
-Na mocy [[Traktat San Ildefonso]] (1800), Hiszpania formalnie przywróciła Luizjanę Francji. Napoleon Bonaparte planował uczynić z niej rdzeń swojego Nowego Świata. Zanim zdążył wysłać ekspedycję kolonizacyjną, jego plany zniweczyła [[Rewolucja Haitańska]] i utrata [[Saint-Domingue]] na rzecz czarnych rebeliantów.
+[[Traktat San Ildefonso]] z 1 października 1800 roku oddał Luizjanę Napoleonowi za Królestwo Etrurii — włoskie ziemie dla zięcia Karola IV. Transakcja tajna przez rok.
 
-W 1802 roku Napoleon zrozumiał, że kontrola nad Luizjaną jest niemożliwa bez obecności floty i armii, które mogą konkurować z Wielką Brytanią na Atlantyku. Gdy [[Thomas Jefferson]] wysłał misję negocjacyjną, Napoleon zaproponował sprzedaż całej Luizjany.
-
----
-
-## Ludność i kultury
-
-### Rdzenne narody — Panowie ziemi
-
-Większość terytorium Luizjany pozostawała pod kontrolą [[Rdzenne narody Ameryki Północnej (1802)|rdzennych narodów]]. Ich populacja szacowana jest na kilkaset tysięcy, zróżnicowana etnicznie i językowo:
-
-*   **Osagowie (Ni-U-Ko'n-Ska):** Potężny naród z Missouri i Arkansas, mówiący językiem siu-kaukaskim. Znani ze swojej złożonej kosmologii i organizacji społecznej. Kontrolowali szlaki handlowe w centralnym dorzeczu Missisipi.
-*   **Paunisi (Pawnee):** Cztery połączone grupy mówiące jednym językiem, żyjące na prerii dzisiejszej Nebraski. Znani z rolnictwa, polowań na bizony i unikalnej ceremonii ofiarowania Gwiazdy Porannej.
-*   **Komancze (Nʉmʉnʉʉ):** Dominujący naród południowych równin, od Teksasu po Kansas. Mistrzowie jazdy konnej, kontrolowali handel końmi i byli główną siłą militarną regionu.
-*   **Siuksowie (Lakota, Dakota, Nakota):** Rozprzestrzenieni od Wielkich Jezior po Góry Skaliste. W 1802 roku plemiona Lakota (zachodnie) przemieszczały się na zachód, adaptując kulturę konną i polowania na bizony.
-*   **Inni:** [[Czerokiowie]], [[Czikasze]], [[Choctaw]] (choć większość ich terytoriów leżała na wschód od Missisipi, niektórzy przenieśli się na zachód), [[Kri]], [[Czejenowie]], [[Arikara]].
-
-Relacje między tymi narodami a europejskimi mocarstwami były złożone: handel, sojusze, konflikty, traktaty, ale przede wszystkim — ciągła walka o zachowanie niezależności i ziemi.
-
-### Francuzi i Hiszpanie — handlarze i osadnicy
-
-Niewielka populacja europejskich osadników:
-
-*   **Francuzi:** skoncentrowani w [[Nowy Orlean]], [[St. Louis]] (założone w 1764, strategiczny punkt handlu futrami na zachodzie) i kilkunastu mniejszych osadach wzdłuż Missisipi i jej dopływów. Głównie kupcy, traperzy, rolnicy. Utrzymywali dobre stosunki z [[Rdzenne narody|rdzennymi narodami]], często poślubiali kobiety z tych narodów.
-*   **Hiszpanie:** ich obecność w Luizjanie była głównie administracyjna i wojskowa. Kilka fortów i garnizonów na granicy z USA i z terytoriami rdzennymi. Ich wpływ kulturowy był mniejszy niż francuski, ale zachowali kontrolę nad Nowym Orleanem do czasu formalnego przekazania Francji.
-
-### Zniewoleni Afrykanie
-
-W Luizjanie zniewolenie miało inny charakter niż na plantacjach tytoniu Wirginii czy ryżu Karoliny Południowej. Mniejsze plantacje trzciny cukrowej i tytoniu, większa rola pracy zniewolonych w domach i w rzemiośle miejskim. Duże skupiska zniewolonych w Nowym Orleanie i na południowych plantacjach.
-
-Połączone z [[Maronami]] (uciekniętymi zniewolonymi), którzy tworzyli własne społeczności w bagiennych i górskich rejonach Luizjany, tworzyli ciągłe wyzwanie dla władzy europejskiej.
+Napoleon planował uczynić z Luizjany bazę zaopatrzeniową dla [[Haiti|Saint-Domingue]] — najcenniejszej kolonii cukrowej świata. Plan upadł razem z [[Haiti|ekspedycją Leclerca]]. Do jesieni 1802 roku Napoleon wie już, że atlantyckie imperium jest nieosiągalne bez panowania na morzu i bez Saint-Domingue.
 
 ---
 
-## Polityka i władza
+## Trzy mocarstwa, jedna ziemia
 
-### Imperia w konflikcie
+Francja posiada Luizjanę na papierze. Jej plan atlantyckiego imperium leży w gruzach pod wpływem [[Haiti|klęski na Haiti]]. Luizjana bez Saint-Domingue nie ma ekonomicznego celu dla Paryża — jest zbyt daleka, zbyt słabo zaludniona, zbyt kosztowna do obrony przed angielską marynarką.
 
-W 1802 roku [[Terytorium Luizjany]] znajduje się w centrum geopolitycznej gry.
+Hiszpania formalnie oddała terytorium, ale utrzymuje gubernatora i garnizon w Nowym Orleanie. Madrytowi zależy na buforze między Stanami Zjednoczonymi a Meksykiem. Oddanie rzeczywistej kontroli Francji oznaczałoby zastąpienie słabego sąsiada silnym — w tym rachunku Stany Zjednoczone są lepszym rozwiązaniem.
 
-*   **Francja:** Napoleon widzi Luizjanę jako potencjalne centrum swojego atlantyckiego imperium, bazę do obrony Karaibów i źródło dochodów. Jednak klęska na [[Haiti]] i brak zasobów do efektywnego skolonizowania terenu sprawiają, że plan jest nierealny.
-*   **Hiszpania:** Chociaż formalnie oddała terytorium Francji, wciąż utrzymuje swoje garnizony i gubernatorów w Nowym Orleanie i na zachodnich granicach. Ich celem jest utrzymanie strefy buforowej między Stanami Zjednoczonymi a własnymi koloniami w Meksyku.
-*   **Stany Zjednoczone:** Administracja [[Thomasa Jeffersona]] uważa kontrolę nad ujściem Missisipi za absolutnie kluczową dla ekspansji na zachód i przetrwania gospodarczego zachodnich stanów. Bez Nowego Orleanu, zachodnia gospodarka USA jest bezwartościowa.
+[[Stany Zjednoczone (1802)|Jefferson]] potrzebuje [[Nowy Orlean|Nowego Orleanu]] jako kontroli nad ujściem całej zachodniej produkcji rolniczej. Gdy Hiszpania odwołała prawo składu w październiku 1802 roku, zachodnie stany stanęły przed ekonomiczną katastrofą. Kongres zaczął mówić o wojnie. Jefferson wysłał [[James Monroe|Monroe]] do Paryża z instrukcją kupna Nowego Orleanu — co możliwe za dwa miliony dolarów. Napoleon zaproponuje całą Luizjanę za piętnaście.
 
-### Rdzenne narody jako gracze
-
-Największą siłą polityczną i militarną w Luizjanie w 1802 roku są [[Rdzenne narody]]. Osagowie i Paunisi kontrolują szlaki handlowe wzdłuż rzek. Komancze i Siuksowie dominują na prerii. Ich zgoda jest niezbędna do jakiejkolwiek formy kontroli nad terytorium.
-
-W 1802 roku Francja i Hiszpania nie posiadają żadnych traktatów z tymi narodami. Waszyngton tym bardziej.
+Żadne z tych trzech mocarstw nie konsultuje swoich planów z [[Osagami]], [[Paunisami]] ani [[Komanczami]].
 
 ---
 
 ## Gospodarka i handel
 
-### Futra i Missisipi
+### Futra i rzeki
 
-Podstawą europejskiej gospodarki w Luizjanie był handel futrami. Francuscy kupcy, a potem Hiszpanie i Amerykanie, tworzyli sieci faktorii handlowych wzdłuż rzek, wymieniając europejskie towary (broń, sukno, alkohol, metalowe narzędzia) na skóry bobra, wydry, jelenia, lisa.
+Podstawa europejskiej gospodarki w Luizjanie: handel futrzany. Kupcy z Saint Louis i Nowego Orleanu — głównie Francuzi kreolscy, część Hiszpanów — dostarczają rdzennym nacjom sukno, broń, metal i alkohol w zamian za bobra, wydrę, jelenia i łosia. System faktorii handlowych wzdłuż Missouri i Missisipi.
 
-Handel z [[Rdzenne narody|rdzennymi narodami]] był fundamentem potęgi [[Kompania Zatoki Hudsona]] i [[North West Company]] na północy. W Luizjanie był to bardziej zdecentralizowany proces, ale równie kluczowy.
+[[Saint Louis]], założony w 1764 roku przez Pierre'a Laclède'a i Auguste Chouteau, jest de facto stolicą górnej Luizjany — punkt wyjścia wszystkich wypraw handlowych na zachód i północ. W 1802 roku liczy może tysiąc mieszkańców, dominowanych przez kilka frankofońskich rodzin handlowych.
 
-### Rolnictwo i plantacje
+Chouteau — ród złożony z Auguste'a Chouteau i jego brata Pierre'a — kontroluje handel futrzany z [[Osagami]] od 1794 roku przez monopol przyznany przez Hiszpanię. Mają faktorie, magazyny, kredyt i wyłączność. Przyszłe relacje z rządem USA będą ich głównym zmartwieniem po 1803 roku.
 
-Wzdłuż rzek i w okolicach Nowego Orleanu istniały plantacje trzciny cukrowej, tytoniu, ryżu, kawy, bawełny — pracujące w dużej mierze dzięki pracy [[zniewolonych Afrykanów]]. Poziom zniewolenia w Luizjanie był wysoki, zwłaszcza w Nowym Orleanie i na południowych obszarach przybrzeżnych.
+### Plantacje południa
 
-### Nowy Orlean — centrum handlowe
+Wzdłuż dolnego Missisipi i rzeki Red River: plantacje trzciny cukrowej, tytoniu i indygo. Praca: zniewoleni Afrykanie, importowani przez Nowy Orlean z Kuby i bezpośrednio z Afryki przez przemytnicze kanały. System *Code Noir* — francuski kodeks prawny regulujący zniewolenie — obowiązuje formalnie, lecz egzekwowany nierówno.
 
-[[Nowy Orlean]] w 1802 roku był tyglem kultur i głównym węzłem handlowym. Port tętnił życiem: barki z górnego Missisipi, statki z Europy, transportery z Kuby i Karaibów. W mieście mieszkali Francuzi, Hiszpanie, Amerykanie, Afrykanie (zniewoleni i wolni), i niewielka społeczność rdzennych Amerykanów. Języki: francuski, hiszpański, angielski, kreolski, języki rdzenne.
+Uprawa cukru w Luizjanie jest na początku. [[Etienne de Boré]] po raz pierwszy z powodzeniem skrystalizował cukier w Luizjanie w 1795 roku — siedem lat wcześniej. Do 1802 roku kilkanaście plantacji przeszło na trzcinę. Za trzydzieści lat będzie ich kilkaset.
 
 ---
 
 ## Kluczowe postacie
 
-### Napoleon Bonaparte (1769–1821)
-
-W 1802 roku jest Konsulem Dożywotnim Francji. Planował uczynić z Luizjany potężne centrum swojego atlantyckiego imperium, ale fiasko ekspedycji na [[Haiti]] i brytyjska dominacja na morzach sprawiły, że porzucił ten plan. Decyzja o sprzedaży Luizjany zapadnie w jego głowie w 1803 roku.
-
-> [!mechanics]
-> **Napoleon Bonaparte (1802)**
-> ST 10, DX 12, IQ 18, HT 12
-> **Umiejętności:** Strategia 18, Taktyka 19, Dyplomacja 14, Administracja 17, Prawo 16, Historia 16
-> **Zalety:** Genius, Charisma 4, Eidetic Memory, Language Talent (Francuski, Włoski)
-
-### Thomas Jefferson (1743–1826)
-
-Prezydent Stanów Zjednoczonych. Marzy o republice farmerów sięgającej aż do oceanu. Uważa kontrolę nad ujściem Missisipi za absolutnie kluczową. W 1802 roku nie wie, że za rok kupi całe terytorium za $15 milionów.
-
-> [!mechanics]
-> **Thomas Jefferson (1802)**
-> ST 8, DX 10, IQ 17, HT 10
-> **Umiejętności:** Administracja 16, Dyplomacja 15, Prawo 16, Historia 17, Botanika 14, Architektura 13
-> **Zalety:** Genius, Contacts (rozległa sieć polityczna)
-
-### Carlos de Grand-Pré
-
-Gubernator Luizjany z nominacji Hiszpanii. Człowiek starszy, zmęczony, w 1802 roku nie wie, czy ma oddać władzę Francji, czy czekać na przybycie Amerykanów. Jego głównym zmartwieniem jest Ujście Missisipi i jego kontrola.
-
-> [!mechanics]
-> **Carlos de Grand-Pré (1802)**
-> ST 9, DX 10, IQ 14, HT 10
-> **Umiejętności:** Administracja 14, Dyplomacja 13, Prawo (hiszpańskie) 13, Prawo (kolonialne) 14
-> **Zalety:** Contacts (Hiszpańscy urzędnicy, Kupcy)
-
 ### Pawhuska / Biała Głowa (Osagowie, ~1760s–1809?)
 
-Wielki Wódz Wielkiej Grupy Osagów. Pragmatyczny i wyważony polityk, który doskonale rozumie, że nadchodzą nowe siły. W 1802 roku przygotowuje się na pierwszy kontakt z amerykańskimi negocjatorami. Jego lud kontroluje dostęp do górnego Missisipi i Missouri.
+Wielki wódz Wielkiej Grupy Osagów, bliżej opisany w [[Rdzenne narody Ameryki Północnej (1802)]]. W kontekście Luizjany: najważniejszy polityczny rozmówca dla każdego, kto chce prowadzić handel lub ekspedycję w centralnej części terytorium. Spotka delegację Jeffersona w Waszyngtonie w 1804 roku.
 
-> [!mechanics]
-> **Pawhuska (1802)**
-> ST 12, DX 12, IQ 15, HT 13
-> **Umiejętności:** Dyplomacja 16, Negocjacje 15, Survival (Preria/Rzeka) 14, Riding 14, Osage (native), Francuski (basic)
-> **Zalety:** Charisma 3, Natural Leader, Contacts (Osage, French traders, Spanish officials)
+### Manuel de Salcedo (~1752–1813)
+
+Gubernator Luizjany z nominacji Hiszpanii od 1801 roku. Człowiek postawiony w sytuacji bez wyjścia: formalnie powinien przekazać terytorium Francji, praktycznie nie otrzymał jasnych rozkazów w jakim terminie, faktycznie zarządza kolonią, której status prawny zmienia się co roku. Przez cały 1802 rok koresponduje z Madrytem w poszukiwaniu instrukcji.
+
+### Auguste Chouteau (1750–1829)
+
+Kreolski kupiec z Saint Louis, współzałożyciel miasta, de facto władca handlu futrzanego górnej Luizjany. Jego firma ma monopol na handel z Osagami, magazyny pełne skór i sieć kredytową sięgającą Nowego Orleanu i Montrealu. Gdy Luizjana stanie się amerykańska, Chouteau szybko nawiąże relacje z nowym rządem — pragmatyzm przed lojalnością dynastyczną.
+
+> [!rules]
+> **Terytorium Luizjany — parametry dla GURPS**
+> **Obszar:** ~2,1 mln km² (szacunkowo — nikt nie zmierzył)
+> **Populacja europejska:** ~50 000 (głównie Nowy Orlean i okolice, Saint Louis, rozrzucone faktorie)
+> **Populacja rdzenna:** kilkaset tysięcy (Osagowie, Paunisi, Komancze, Siuksowie i in.)
+> **Główne osady:** [[Nowy Orlean]] (~8–10 000), Saint Louis (~1 000), Natchitoches (~500)
+> **Dostęp do broni palnej:** powszechny w osadach europejskich; ograniczony u rdzennych, ale rośnie
+> **Drogi:** praktycznie brak; komunikacja przez rzeki
+> **Zagrożenia:** żółta febra na południu, malaria w bagnach, konflikty z rdzennymi, bandy zbójców na szlakach rzecznych
 
 ---
 
-*Terytorium Luizjany jest rdzeniem tego świata, gdzie wszystkie siły — Stany Zjednoczone, Francja, Hiszpania, Wielka Brytania i liczne narody rdzenne — zderzają się i tworzą nową, niepewną rzeczywistość. W roku 1802 ten kolos stoi na progu zmiany, która zdefiniuje przyszłość kontynentu.*
-
-*Powiązane artykuły: [[Missisipi]], [[Nowy Orlean]], [[Rdzenne narody Ameryki Północnej (1802)]], [[Stany Zjednoczone (1802)]], [[Francja Napoleońska]], [[Hiszpania]], [[Kompania Zatoki Hudsona]].*
+*Powiązane artykuły: [[Nowy Orlean]], [[Rdzenne narody Ameryki Północnej (1802)]], [[Stany Zjednoczone (1802)]], [[Francja Napoleońska (1802)]], [[Kanada Brytyjska]], [[Haiti (1802)]].*

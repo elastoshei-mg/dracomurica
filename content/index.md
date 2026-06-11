@@ -18,11 +18,11 @@ To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 - [[Chronologia]] – Oś czasu od roku 1200 do 1802. Zacznij tutaj.
 - [[Punkt rozbieżności]] – Gdzie historia przestaje być tą ze szkolnych podręczników *(w budowie)*
 - [[Mapa polityczna 1802]] – Granice imperiów, strefy wpływów, trasy handlowe *(w budowie)*
-- [[Słownik terminów]] – Pojęcia techniczne, prawne, wojskowe *(w budowie)*
+- [[Słownik terminów]] – Zwroty, przekleństwa, okrzyki i terminy techniczne epoki
 
 ### Europa
-- [[Francja Napoleońska]] – Republika z imienia, monarchia z treści *(w budowie)*
-- [[Wielka Brytania]] – Morskie imperium, Bank Anglii, rewolucja przemysłowa *(w budowie)*
+- [[Francja Napoleońska (1802)|Francja Napoleońska]] – Republika z imienia, monarchia z treści
+- [[Wielka Brytania]] – Morskie imperium, Bank Anglii, rewolucja przemysłowa
 - [[Święte Cesarstwo Rzymskie]] – Tysiącletni byt w terminalnym stadium *(w budowie)*
 - [[Rosja]] – Imperium cara Aleksandra I, cień Katarzyny Wielkiej *(w budowie)*
 - [[Imperium Osmańskie]] – Pięćset lat po apogeum *(w budowie)*
@@ -40,7 +40,7 @@ To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 - [[Ludy rdzenne Ameryki Północnej]] – Filozofia, organizacja, konfederacje, sytuacja polityczna
 
 ### Afryka i handel atlantycki
-- [[Handel Trójkątny]] – Ekonomika imperium na trzech kontynentach *(w budowie)*
+- [[Handel Trójkątny]] – Atlantycki handel, trzy kontynenty, fundament epoki
 - [[Korsarze Barbarii]] – Maghreb, piractwo, okup, dyplomacja *(w budowie)*
 - [[Afryka Subsaharyjska]] – Królestwa, szlaki, konsekwencje handlu *(w budowie)*
 
