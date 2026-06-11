@@ -18,7 +18,7 @@ To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 - [[Chronologia]] – Oś czasu od roku 1200 do 1802. Zacznij tutaj.
 - [[Punkt rozbieżności]] – Gdzie historia przestaje być tą ze szkolnych podręczników *(w budowie)*
 - [[Mapa polityczna 1802]] – Granice imperiów, strefy wpływów, trasy handlowe *(w budowie)*
-- [[Słownik terminów]] – Zwroty, przekleństwa, okrzyki i terminy techniczne epoki
+- [[slownik terminow|Słownik terminów]] – Zwroty, przekleństwa, okrzyki i terminy techniczne epoki
 
 ### Europa
 - [[Francja Napoleońska (1802)|Francja Napoleońska]] – Republika z imienia, monarchia z treści
