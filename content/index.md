@@ -24,10 +24,11 @@ To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 - [[Francja Napoleońska (1802)|Francja Napoleońska]] – Republika z imienia, monarchia z treści
 - [[Wielka Brytania]] – Morskie imperium, Bank Anglii, rewolucja przemysłowa
 - [[Święte Cesarstwo Rzymskie]] – Tysiącletni byt w terminalnym stadium *(w budowie)*
-- [[Rosja]] – Imperium cara Aleksandra I, cień Katarzyny Wielkiej *(w budowie)*
+- [[Rosja (1802)|Rosja]] – Imperium cara Aleksandra I, liberalizm na tronie despoty
 - [[Imperium Osmańskie]] – Pięćset lat po apogeum *(w budowie)*
-- [[Hiszpania]] – Metropolia bez centrum grawitacji *(w budowie)*
-- [[Portugalia]] – Atlantyckie połączenie, brazylijskie złoto *(w budowie)*
+- [[Hiszpania (1802)|Hiszpania]] – Imperium bez siły, dwor bez steru, Goya z pędzlem
+- [[Portugalia (1802)|Portugalia]] – Trzy miliony ludzi, pół kontynentu, jeden sojusz ratujący skórę
+- [[Państwo Kościelne (1802)|Państwo Kościelne]] – Pius VII, Concordat i sztuka przetrwania
 
 ### Ameryki
 - [[Stany Zjednoczone (1802)|Stany Zjednoczone]] – Republika w trzeciej dekadzie istnienia
@@ -41,11 +42,11 @@ To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 
 ### Afryka i handel atlantycki
 - [[Handel Trójkątny]] – Atlantycki handel, trzy kontynenty, fundament epoki
-- [[Korsarze Barbarii]] – Maghreb, piractwo, okup, dyplomacja *(w budowie)*
+- [[Korsarze Barbarii (1802)|Korsarze Barbarii]] – Algier, Tunis, Trypolis, okup i pierwsza amerykańska wojna morska
 - [[Afryka Subsaharyjska]] – Królestwa, szlaki, konsekwencje handlu *(w budowie)*
 
 ### Azja i Ocean Indyjski
-- [[Kompanie Wschodnioindyjskie]] – Prywatne imperia z własnymi armiami *(w budowie)*
+- [[Kompanie Wschodnioindyjskie]] – EIC, VOC i prywatne imperia z własnymi armiami
 - [[Indie Mogołów i Kompania]] – Subkontynent w przejściu *(w budowie)*
 - [[Chiny dynastii Qing]] – Cesarstwo za murem *(w budowie)*
 
