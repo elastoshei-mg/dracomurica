@@ -1,14 +1,32 @@
 ---
-title: Wielka Brytania (1802)
-tags: [wielka brytania, anglia, imperium, polityka, historia, gospodarka, postaci]
-aliases: [Wielka Brytania, UK, Zjednoczone Królestwo, England, Anglia, Britain]
+title: Wielka Brytania
+tags: [wielka brytania, anglia, imperium, polityka, historia, gospodarka, postaci, antymagia]
+aliases: [Wielka Brytania (1802), UK, Zjednoczone Królestwo, England, Anglia, Britain]
 ---
 
-# Wielka Brytania (1802)
+# Wielka Brytania
 
 Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ma dwadzieścia dwa miesiące. Akt Unii z 1800 roku połączył Wielką Brytanię z Irlandią 1 stycznia 1801 roku, tworząc największe państwo wyspiarskie w historii Europy i jeden z najpoważniejszych błędów politycznych stulecia — bo Unii nie towarzyszyła emancypacja katolicka, którą Irlandczycy uznali za warunek zgody.
 
 W marcu 1802 roku Wielka Brytania podpisała [[Pokój Amiens]] z Francją. Krytycy nazywają go kapitulacją; rząd nazywa go koniecznością. Obie strony wiedzą, że nie potrwa. Przez czternaście miesięcy, ile go będzie, Londyn skupia się na tym, co robi lepiej niż jakiekolwiek inne miasto na świecie: zarabia pieniądze i buduje maszyny.
+
+---
+
+## Wyspa, która odrzuciła magię
+
+Tę samą energię, którą kontynent wkłada w czary, Wielka Brytania od dwóch stuleci wkłada w pieniądze, statki i maszyny — i robi to z premedytacją.
+
+Angielscy lordowie nigdy nie nadawali tytułów [[Prekursorzy|prekursorom]] tylko za ich moc, jak czyniła reszta europejskiej szlachty. Z czystego snobizmu uznali magiczną krew za coś poniżej dobrego urodzenia, więc [[Sorcery]] nigdy nie rozlała się po Wyspach tak jak po Francji czy Niemczech. Kapitał i talent, które gdzie indziej szły w hodowlę magicznych linii, tutaj popłynęły w [[Rewolucja Przemysłowa|przemysł]], finanse i flotę. Stąd profil tej nacji: [[Bank Anglii]], Royal Navy i kominy Manchesteru robią to, co u innych próbuje robić magia — taniej, masowo i bez kaprysów wiary.
+
+Religia dopełnia obrazu. [[Kościół anglikański]], powołany przeciw politycznej władzy Rzymu, ma krótszą historię i mniejszy prestiż, więc [[Cudotwórcy|cudotwórców]] rodzi i szkoli słabiej niż katolicka machina. Nieprzypadkowo to z brytyjskiego gruntu wyrośli purytanie, dla których każda magia „nie-boska" jest wprost dziełem szatana. Establiszment jest z tej trzeźwości dumny i nie wstydzi się jej ani przed Paryżem, ani przed Rzymem.
+
+Dlatego jawny [[Legion magów|legion czarowników]], który [[Francja Napoleońska|Napoleon]] zbiera nad Sekwaną, jest dla Londynu prowokacją nie mniejszą niż francuska flota. Gazety piszą o nim z odrazą, kaznodzieje grzmią, a Admiralicja po cichu liczy, ile mgły potrafi wezwać jeden adept nad kanałem La Manche. Krążą pogłoski, że [[Pokój Amiens]] miał tajną klauzulę o adeptach po obu stronach wody; rząd zaprzecza, co nikogo nie przekonuje.
+
+> [!rules]
+> **Stosunek do magii:** wrogi i ideologiczny; magia „nie-boska" potępiona, adepci nieliczni i nieafiszujący się
+> **Cudotwórcy:** anglikańscy słabsi i rzadsi niż katoliccy (krótka tradycja, mały prestiż)
+> **Przewaga nacji:** technologia, finanse i flota zamiast czarów — tańsze i odtwarzalne
+> **Punkt zapalny z Francją:** legion magów Napoleona jako casus belli ideologiczny
 
 ---
 
@@ -53,6 +71,8 @@ Jerzy III ma sześćdziesiąt cztery lata i jest królem, który przeżył swoic
 
 Oficjalna diagnoza epoki: „szaleństwo" z gorączką. Teorie późniejsze: porfiria (zaburzenie metabolizmu porfiryn powodujące objawy neurologiczne), choroba afektywna dwubiegunowa, zatrucie arsenem z lekarstw — żadna nie uzyskała konsensusu naukowego. Objawy były rzeczywiste: przyspieszona mowa, halucynacje, agresja, potem powrót do normalności.
 
+Na dworze, który magią pogardza, nikt nie szuka w tej chorobie niczego nadprzyrodzonego — lekarze mówią o ciele i humorach, dworzanie o przemęczeniu, a wszelką podszeptywaną „klątwę" ucisza się jak zabobon niegodny korony. To również jest deklaracja: brytyjska monarchia leczy króla medycyną, nie egzorcyzmem.
+
 W 1802 roku: stabilny. Mieszka w Windsorze, poluje, gra na flecie, czyta rolnicze traktaty. Powiadają, że jego rozmowy z dworzan wymagają cierpliwości — mówi dużo i długo, pyta o szczegóły farm u poddanych, których spotyka, interesuje się pogodą autentycznie.
 
 [[Książę Walii]] — przyszły Jerzy IV — czeka. Ma czterdzieści lat, jest gruby, zadłużony na czterysta tysięcy funtów i żonaty z kobietą, której szczerze nienawidzi (Karolina Brunszwicka, rozdzieleni faktycznie od 1796 roku). Dwory ojca i syna nie rozmawiają ze sobą.
@@ -91,6 +111,8 @@ W roku 1800 Wielka Brytania produkowała:
 Sieć kanałów: ponad trzy tysiące mil do 1800 roku, łącząca węglowe zagłębia z portami i miastami. Kanał Bridgewater (1761) zmniejszył cenę węgla w Manchesterze o połowę dzień po otwarciu.
 
 Drogi zaporowe (turnpikes): sześćdziesiąt tysięcy mil dróg pod zarządem prywatnych spółek pobierających opłaty. Lepsze niż w 1750 roku. Gorsze niż za czterdzieści lat, gdy przyjdą koleje.
+
+Ten sam przemysł zbroi armie. Brytyjskie rusznikarstwo wyprzedza kontynent — gwintowany karabin Bakera, przyjęty około 1800 roku, trafia celniej niż cokolwiek w rękach piechoty Napoleona. Muszkiet produkuje się tysiącami, a adepta wyszkolić się nie da; Brytyjczycy postawili na ten rachunek wcześniej niż ktokolwiek inny. Skoro amerykańskie [[Smoki|smoki]] dawno dowiodły, że pojedynczy strzał ich nie powali, tutejsze warsztaty ścigają się o gęstość ognia szybciej niż w spokojniejszym świecie (zob. [[Rewolucja Przemysłowa]]).
 
 ### Cena industrializacji
 
@@ -143,6 +165,8 @@ Marynarze: część ochotnicza, część z [[press gangs]] — uzbrojonej bandy 
 [[Richard Wellesley]], starszy brat przyszłego Wellingtona, jest Governor-General od 1798 roku i prowadzi agresywną ekspansję: czwarta Anglo-Mysore War zakończyła się zdobyciem Seringapatam i śmiercią Tippu Sułtana w 1799 roku. W 1802–1803 roku na horyzoncie: Maratha Confederacy — ostatnia poważna siła oporu w Indiach. Jego brat Arthur Wellesley dowodzi polowymi oddziałami.
 
 Dochody z Bengalu finansują nie tylko Kompanię, lecz pośrednio całą angielską politykę wschodnią. Podatki bengalskie płacą za floty patrolujące Morze Arabskie.
+
+Kompania ma też towar, który truje subtelniej niż podatek. Do [[Chiny dynastii Qing|Chin]] płynie [[Czerwone opium]] — mak podlewany smoczą krwią, wielokrotnie silniejszy od zwykłego i wprost zabójczy dla charakteru chińskich mistyków. Pekin zakazuje, Kanton przemyca, a [[Kompanie Wschodnioindyjskie|Kompania]] liczy zyski. Dla Londynu to handel jak każdy inny; dla Państwa Środka — broń.
 
 ### Karaiby i handel atlantycki
 
@@ -208,6 +232,8 @@ Klasa robotnicza: dziesiątki tysięcy tkaczy ręcznych, których dochody spadaj
 
 Metodyzm rośnie najszybciej, szczególnie wśród ubogich. Emocjonalne nabożeństwa, pieśni, naciąć na osobiste doświadczenie wiary — wszystko, czego nie daje anglikańska liturgia. [[Ewangelikalizm]] anglikański (Clapham Sect Wilberforce'a i Thornton'a) reformuje Kościół od środka.
 
+W tym kotle wiary trafiają się prawdziwi [[Cudotwórcy|cudotwórcy]] — najczęściej wędrowni kaznodzieje, którzy doświadczyli wizji i ściągają tłumy. Tyle że młode ruchy, od metodystów po jeszcze świeższe sekty, nie mają nabudowanej doktryny, by wyszkolić następcę o tej samej mocy; gdy taki kaznodzieja umiera, jego dar zwykle umiera z nim. Stąd ich siła jest porywista i krótkotrwała, a sam metodyzm po śmierci Wesleya w 1791 roku rozpada się na rywalizujące odłamy.
+
 ### Oświecenie szkockie i romantyzm angielski
 
 [[Edinburgh]] jest miastem filozofów: [[David Hume]] umarł w 1776, ale jego uczniowie wciąż żyją. [[Adam Smith]] umarł w 1790. [[Dugald Stewart]] wykłada na Uniwersytecie Edynburskim; jego studenci: Lord Palmerston, Francis Jeffrey, Sydney Smith.
@@ -268,4 +294,4 @@ Za rok — Bitwa pod Assaye (1803), rozstrzygnięcie wwojen maratha. Za jedenaś
 
 ---
 
-*Powiązane artykuły: [[Francja Napoleońska (1802)]], [[Kanada Brytyjska]], [[Stany Zjednoczone (1802)]], [[Haiti (1802)]], [[Pokój Amiens]], [[Handel Trójkątny]], [[Rewolucja Przemysłowa]], [[Rdzenne narody Ameryki Północnej (1802)]].*
+*Powiązane artykuły: [[Francja Napoleońska]], [[Kanada Brytyjska]], [[Stany Zjednoczone]], [[Haiti]], [[Pokój Amiens]], [[Handel Trójkątny]], [[Rewolucja Przemysłowa]], [[Państwo Kościelne]], [[Kompanie Wschodnioindyjskie]], [[Punkty rozbieżności]], [[Rdzenne narody Ameryki Północnej]].*

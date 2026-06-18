@@ -18,7 +18,7 @@ To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 - [[Chronologia]] – Oś czasu od roku 1200 do 1802. Zacznij tutaj.
 - [[Pokój Amiens]] – 14 miesięcy między dwiema wojnami: marzec 1802 – maj 1803
 - [[slownik terminow|Słownik terminów]] – Zwroty, przekleństwa, okrzyki i terminy techniczne epoki
-- [[Punkt rozbieżności]] – Gdzie historia przestaje być tą ze szkolnych podręczników *(w budowie)*
+- [[Punkty rozbieżności]] – Gdzie historia przestaje być tą ze szkolnych podręczników
 - [[Mapa polityczna 1802]] – Granice imperiów, strefy wpływów, trasy handlowe *(w budowie)*
 
 ### Europa

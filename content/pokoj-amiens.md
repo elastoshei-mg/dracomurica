@@ -1,10 +1,10 @@
 ---
-title: Pokój Amiens (1802)
-tags: [dyplomacja, traktat, francja, wielka-brytania, historia, europa, 1802]
-aliases: [Pokój Amiens, Treaty of Amiens, Amiens, Traktat Amiens, Paix d'Amiens]
+title: Pokój Amiens
+tags: [dyplomacja, traktat, francja, wielka-brytania, historia, europa, magia]
+aliases: [Pokój Amiens (1802), Treaty of Amiens, Amiens, Traktat Amiens, Paix d'Amiens]
 ---
 
-# Pokój Amiens (1802)
+# Pokój Amiens
 
 Podpisano 27 marca 1802 roku w Amiens, w sali prefektury departamentu Somma. Pełnomocnik Francji: Joseph Bonaparte, brat Pierwszego Konsula. Pełnomocnik Wielkiej Brytanii: Cornwallis, ten sam który skapitulował pod Yorktown dwadzieścia jeden lat wcześniej. Pełnomocnicy Hiszpanii i Republiki Batawskiej: przy stoliku jako strony formalne, lecz bez realnego wpływu na tekst.
 
@@ -14,7 +14,7 @@ Traktat zakończył dziewięć lat prawie ciągłej wojny. Na cztery miesiące p
 
 ## Droga do Amiens
 
-Dziewięć lat przed traktatem — od 1793 roku — [[Francja Napoleońska (1802)|Francja]] i [[Wielka Brytania (1802)|Wielka Brytania]] prowadziły wojnę z przerwami i w różnych konfiguracjach koalicji. Pierwsza Koalicja (1793–1797), Druga Koalicja (1798–1801). W październiku 1801 roku wstępne preliminaria londyńskie otworzyły drogę do negocjacji w Amiens. Rozmowy trwały pięć miesięcy.
+Dziewięć lat przed traktatem — od 1793 roku — [[Francja Napoleońska|Francja]] i [[Wielka Brytania]] prowadziły wojnę z przerwami i w różnych konfiguracjach koalicji. Pierwsza Koalicja (1793–1797), Druga Koalicja (1798–1801). W październiku 1801 roku wstępne preliminaria londyńskie otworzyły drogę do negocjacji w Amiens. Rozmowy trwały pięć miesięcy.
 
 Po obu stronach działały siły zmęczenia. Wielka Brytania prowadziła wojnę głównie kredytem i marynarką — bez rozstrzygającej inwazji, bez strategicznego przełomu lądowego. Francja wygrywała bitwy kontynentalne i traciła kolonie morskie. Napoleon potrzebował czasu na reorganizację floty atlantyckiej i na ugruntowanie Konsulatu wewnętrznie. Addington, premier od marca 1801 roku, potrzebował sukcesu.
 
@@ -33,7 +33,7 @@ Wielka Brytania zachowała:
 - [[Trynidad]] (zdobyty na Hiszpanii w 1797)
 - [[Cejlon]] (zdobyty na Republice Batawskiej)
 
-Francja zobowiązała się wycofać wojska z [[Państwo Kościelne (1802)|Państwa Kościelnego]] i z [[Neapolu]].
+Francja zobowiązała się wycofać wojska z [[Państwo Kościelne|Państwa Kościelnego]] i z [[Neapolu]].
 
 Handel wrócił do warunków sprzed 1792 roku. Jeńcy wojenni — obustronne zwolnienie.
 
@@ -67,6 +67,19 @@ Pierwszy: [[Haiti|ekspedycja Leclerca]] na Saint-Domingue wymagała spokoju atla
 Drugi: reorganizacja Europy — [[Reichsdeputationshauptschluss]] reorganizujący Niemcy, umocnienie pozycji we Włoszech, Szwajcaria pod nowym aktem mediacyjnym — wymagała czasu bez angielskiej interwencji dyplomatycznej i finansowej.
 
 Trzeci, który mówił rzadziej: potrzebował czasu na zbudowanie floty zdolnej do inwazji na Anglię. Nie miał jej w 1801 roku. W 1805 roku też jej nie miał, lecz w 1802 roku jeszcze liczył, że będzie.
+
+### Czego nie zapisano: adepci
+
+Oficjalny tekst nie wspomina o magii ani słowem. Pod nim jednak leży spór, który ciąży na całym traktacie. [[Wielka Brytania]] jest sercem europejskiej antymagii, a jawny [[Legion magów|legion czarowników]], który [[Francja Napoleońska|Napoleon]] zbiera nad Sekwaną, londyńska prasa traktuje jak policzek wymierzony cywilizacji. Paryż odczytuje brytyjską pogardę jako hipokryzję mocarstwa, które po prostu nie ma własnych adeptów.
+
+Stąd uporczywe pogłoski o tajnej klauzuli. Jedni twierdzą, że Whitworth żądał w Amiens cichego zobowiązania, iż Francja nie pośle adeptów przez kanał La Manche. Inni — że to Talleyrand chciał, by Anglia przestała dawać schronienie czarownikom uciekającym z kontynentu przed stosem. Trzecia wersja głosi, że żadnej klauzuli nie było, a plotkę puścił [[Joseph Fouché|Fouché]], by wrogie dwory liczyły francuskich magów wyżej, niż wynosi ich garstka.
+
+Oba rządy zaprzeczają istnieniu takiego zapisu i żaden nie pokazał pełnego protokołu rozmów. W świecie, w którym jeden adept potrafi rozproszyć mgłą blokadę albo podpalić proch w ładowni, samo podejrzenie wystarcza, by sztaby po obu stronach Kanału planowały tak, jakby klauzula istniała.
+
+> [!rules]
+> **Status klauzuli:** niepotwierdzona; trzy sprzeczne wersje, oba rządy zaprzeczają
+> **Realny skutek:** sztaby planują z założeniem o użyciu (lub nieużyciu) adeptów przez drugą stronę — niezależnie od prawdy
+> **Oś sporu:** brytyjska antymagia kontra jawny [[Legion magów]] Napoleona
 
 ---
 
@@ -112,7 +125,7 @@ Ceny zbóż w Anglii: stabilniejsze przez rok pokoju dzięki przywróceniu impor
 
 ## Amiens a Luizjana
 
-Pokój Amiens stworzył warunki, w których [[Terytorium Luizjany|Sprzedaż Luizjany]] stała się możliwa. Napoleon mógł sprzedać w maju 1803 roku, bo wiedział — lub mógł racjonalnie zakładać — że Anglia i Francja wrócą do wojny w ciągu miesięcy. Lepiej było sprzedać Luizjanę [[Stany Zjednoczone (1802)|Stanom Zjednoczonym]] za piętnaście milionów dolarów niż ryzykować jej zajęcie przez Royal Navy bez odszkodowania.
+Pokój Amiens stworzył warunki, w których [[Terytorium Luizjany|Sprzedaż Luizjany]] stała się możliwa. Napoleon mógł sprzedać w maju 1803 roku, bo wiedział — lub mógł racjonalnie zakładać — że Anglia i Francja wrócą do wojny w ciągu miesięcy. Lepiej było sprzedać Luizjanę [[Stany Zjednoczone|Stanom Zjednoczonym]] za piętnaście milionów dolarów niż ryzykować jej zajęcie przez Royal Navy bez odszkodowania.
 
 Livingston i Monroe podpisali 30 kwietnia 1803 roku — trzy tygodnie przed angielskim wypowiedzeniem wojny. Gdyby Anglia czekała miesiąc dłużej, Napoleon mógł zdecydować inaczej.
 
@@ -120,4 +133,4 @@ Pokój Amiens był warunkiem brzegowym dla całej geopolityki roku 1803.
 
 ---
 
-*Powiązane artykuły: [[Francja Napoleońska (1802)]], [[Wielka Brytania (1802)]], [[Haiti (1802)]], [[Terytorium Luizjany]], [[Państwo Kościelne (1802)]], [[Stany Zjednoczone (1802)]], [[Chronologia]].*
+*Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Haiti]], [[Terytorium Luizjany]], [[Państwo Kościelne]], [[Stany Zjednoczone]], [[Legion magów]], [[Punkty rozbieżności]], [[Chronologia]].*

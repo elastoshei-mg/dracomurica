@@ -1,14 +1,16 @@
 ---
-title: Państwo Kościelne (1802)
-tags: [watykan, papiez, kosciol, wlochy, europa, historia, polityka]
-aliases: [Państwo Kościelne, Stolica Apostolska, Watykan, Papal States, Holy See, Pius VII]
+title: Państwo Kościelne
+tags: [watykan, papiez, kosciol, wlochy, europa, historia, polityka, cudotworcy]
+aliases: [Państwo Kościelne (1802), Stolica Apostolska, Watykan, Papal States, Holy See, Pius VII]
 ---
 
-# Państwo Kościelne (1802)
+# Państwo Kościelne
 
 Pius VII wrócił do Rzymu w lipcu 1800 roku po osiemnastu miesiącach tułaczki — z Wenecji przez Florencję, wyzwoloną od Francuzów po Marengo. Wjechał do miasta, które Francja zdewastowała finansowo, która wywiozła tysiące dzieł sztuki i która formalnie przestała istnieć jako republika przez czternaście miesięcy. Wjechał bez żadnego gwaranta swojej pozycji poza Napoleonem, który właśnie skończył niszczyć poprzednie Państwo Kościelne i teraz chciał od niego czegoś w zamian.
 
 W 1802 roku Concordat z Francją jest podpisany od roku. Papież odzyskał terytorium, lecz nie suwerenność. Napoleon dostał Kościół jako narzędzie — w stopniu, którego Rzym jeszcze nie zmierzył.
+
+A jednak Pius nie jest bezsilny, choć armię ma symboliczną, a kasę pustą. Jego prawdziwa siła leży w czymś, czego Napoleon nie potrafi wyprodukować dekretem: w sieci [[Cudotwórcy|cudotwórców]] rozsianej po całej katolickiej Europie, którą tylko Rzym potrafi szkolić, błogosławić i — gdy trzeba — odbierać.
 
 ---
 
@@ -21,7 +23,7 @@ Romagna i Bolonia — żyzna, handlowa północ — były pod Francją od 1797 r
 Rzym liczy sto pięć tysięcy mieszkańców. Z tego co najmniej osiem tysięcy to duchowni, zakonnicy lub pracownicy kurii. Proporcja jest na stałe wbudowana w strukturę miasta — Rzym bez Kościoła przestałby być tym czym jest: bez kurii, bez pielgrzymów, bez papieskich patronatów, bez zakonnych szpitali i szkół.
 
 > [!rules]
-> **Państwo Kościelne (1802)**
+> **Państwo Kościelne**
 > **Papież:** Pius VII (Barnaba Chiaramonti), lat 60, wybrany 14 marca 1800
 > **Sekretarz Stanu:** kardynał Ercole Consalvi, lat 42
 > **Terytorium efektywne:** Lacjum, Umbria, Marche (~40 000 km²)
@@ -36,7 +38,7 @@ Rzym liczy sto pięć tysięcy mieszkańców. Z tego co najmniej osiem tysięcy 
 
 ### Negocjacje
 
-Napoleon chciał Concordatu z trzech powodów. Politycznie: Kościół miał szerokie wpływy wśród prowincjonalnej Francji, którą rewolucja podzieliła religijnie — kapłani konstytucyjni kontra niekonstitucyjni, praktykujący kontra apostatyzowani. Ich pogodzenie wymagało papieskiego autorytetu. Militarnie: Wandea i katolicka opozycja kosztowała Francję sto tysięcy żyć; Concordat miał zamknąć tę ranę. Ideologicznie: Napoleon nie wierzył w Boga, lecz wierzył w religię jako spoiwo społeczne.
+Napoleon chciał Concordatu z trzech powodów. Politycznie: Kościół miał szerokie wpływy wśród prowincjonalnej Francji, którą rewolucja podzieliła religijnie — kapłani konstytucyjni kontra niekonstitucyjni, praktykujący kontra apostatyzowani. Ich pogodzenie wymagało papieskiego autorytetu. Militarnie: Wandea i katolicka opozycja kosztowała Francję sto tysięcy żyć; Concordat miał zamknąć tę ranę. Ideologicznie: Napoleon nie wierzył w Boga, lecz wierzył w religię jako spoiwo społeczne. I jeszcze jeden powód, którego żaden dokument nie nazywa wprost: rewolucja rozpędziła francuskich [[Cudotwórcy|cudotwórców]] razem z księżmi, a tylko pojednanie z Rzymem mogło na nowo otworzyć ich szkolenie i przywieść ich pod sztandar Republiki.
 
 Pius VII chciał przeżyć. I odzyskać cokolwiek.
 
@@ -51,6 +53,26 @@ Francja uznaje katolicyzm za religię „wielkiej większości obywateli" — ni
 Artykuły Organiczne — Napoleon dołączył je jednostronnie, bez konsultacji z Rzymem, natychmiast po ogłoszeniu Concordatu. Osiemdziesiąt siedem dodatkowych paragrafów regulujących Kościół gallikański: zakaz ogłaszania papieskich dokumentów bez rządowego zezwolenia, obowiązek modlitwy za Konsulat podczas mszy, seminaria pod rządowym nadzorem.
 
 Pius zaprotestował. Napoleon wydrukował tekst i wysłał kopię do każdej prefektury.
+
+---
+
+## Maszyna cudotwórców
+
+Władza Rzymu stoi na czymś trwalszym niż bagnety, których ma zaledwie kilka tysięcy: na tym, że żadna inna instytucja na świecie nie potrafi tak skutecznie wytwarzać [[Cudotwórcy|cudotwórców]].
+
+Cud rodzi się z wiary szczerej, niezachwianej i ujętej w karby dogmatu. Kościół katolicki ma za sobą tysiąc osiemset lat tego dogmatu — sobory, doktorów, regułę zakonną, liturgię wypracowaną w każdym szczególe. Klasztory benedyktynów, dominikanów i franciszkanów wyławiają kandydatów spośród nowicjuszy i prowadzą ich latami przez tę samą, sprawdzoną formację. Większość nigdy nie sprowadzi Cudu. Ale ułamek, który to potrafi, jest dzięki tej machinie odtwarzalny pokolenie po pokoleniu — i to czyni z katolicyzmu mocarstwo duchowe niezależnie od stanu kasy.
+
+Najmłodsze odłamy protestanckie są dowodem od przeciwnej strony. Niejeden z nich zaczyna od jednego [[Cudotwórcy|cudotwórcy]] — kaznodziei, który doświadczył wizji albo głosi własną interpretację Pisma — i wokół jego daru gromadzą się wierni. Brakuje im jednak nabudowanych wieków: zbyt wiele jest jeszcze nieustalone, zbyt wiele zależy od dnia i humoru lidera, więc kiedy założyciel umiera, jego ruch rzadko umie wyszkolić następcę o tej samej mocy. Za to każdy taki prorok ciągnie w swoją stronę, chętnie odcinając się od głównego nurtu — i dlatego sekt jest wiele, a żadna nie ma rzymskiej ciągłości.
+
+Z tej przewagi wyrasta najgroźniejsza broń papieża: ekskomunika. Bulla rzucona na władcę nie jest tylko gestem. Ma złamać ducha cudotwórców wśród jego poddanych — postawić ich przed wyborem między suwerenem a Kościołem, który ich ukształtował, a samo to rozdarcie potrafi zgasić ich dar. Monarcha, którego cudotwórcy nagle milkną, traci coś, czego armią nie odzyska.
+
+Dlatego nawet Napoleon, pan stutysięcznych korpusów, siada z Piusem do stołu. Concordat oddał mu częściowy dostęp do francuskiej sieci cudotwórców; otwarta wojna z Rzymem groziłaby jej utratą. To jest karta, którą papież bez ziemi i bez wojska wciąż trzyma w ręku — i ona tłumaczy, czemu z napoleońskiej ery wyjdzie z prestiżem większym, niż w nią wszedł.
+
+> [!rules]
+> **Cuda:** Divine Favor (GURPS Powers: Divine Favor); moc warunkowa, zależna od stanu wiary
+> **Przewaga katolicka:** dwa tysiąclecia dogmatu + sieć klasztorów = odtwarzalne, masowe szkolenie cudotwórców
+> **Słabość protestancka:** młode odłamy rzadko szkolą następców (brak ustalonej doktryny), za to są liczne i różnorodne
+> **Ekskomunika:** narzędzie łamania wiary cudotwórców wrogiego władcy; skuteczne proporcjonalnie do powagi, jaką kler darzy Rzym
 
 ---
 
@@ -99,7 +121,7 @@ Kuria to biurokratyczny aparat papiestwa: kongregacje, trybunały, sekretariaty.
 
 [[Kongregacja Propagandy Wiary]] — organ zarządzający misjami katolickimi na wszystkich kontynentach — jest jedną z niewielu, które nie straciły ciągłości operacyjnej. Misje w Chinach, Indiach, Afryce, Ameryce Łacińskiej raportują do Rzymu przez kurierów. Czas odpowiedzi: od kilku tygodni (Europa) do kilkunastu miesięcy (Azja).
 
-[[Święte Oficjum]] — dawna Inkwizycja, teraz pod tą nazwą — zajmuje się głównie cenzurą książek i przypadkami apostazji. Więzień Świętego Oficjum w 1802 roku: niewielu, ale procedury są żywe.
+[[Święte Oficjum]] — dawna Inkwizycja, teraz pod tą nazwą — zajmuje się głównie cenzurą książek i przypadkami apostazji. Więzień Świętego Oficjum w 1802 roku: niewielu, ale procedury są żywe. To również ono orzeka, czy zgłoszony Cud jest prawdziwy, czy też dziełem szarlatana albo [[Daemony|demonicznego]] podstępu — i ono trzyma oko na magii nieświętej, pamiątce po wiekach [[Polowania na czarownice|polowań na czarownice]] i wojnie z [[Gildie Śmierci|nekromantami]].
 
 ---
 
@@ -164,4 +186,4 @@ Pacca będzie Pro-Sekretarzem Stanu w 1808 roku gdy Napoleon każe aresztować P
 
 ---
 
-*Powiązane artykuły: [[Francja Napoleońska (1802)]], [[Święte Cesarstwo Rzymskie (1802)]], [[Wielka Brytania (1802)]], [[Hiszpania (1802)]], [[Chronologia]].*
+*Powiązane artykuły: [[Francja Napoleońska]], [[Święte Cesarstwo Rzymskie]], [[Wielka Brytania]], [[Hiszpania]], [[Cudotwórcy]], [[Punkty rozbieżności]], [[Chronologia]].*

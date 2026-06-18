@@ -1,14 +1,16 @@
 ---
-title: Francja Napoleońska (1802)
-tags: [francja, napoleon, polityka, historia, europa, postaci]
-aliases: [Francja, Francja Napoleońska, Konsulat, République Française, Napoleon]
+title: Francja Napoleońska
+tags: [francja, napoleon, polityka, historia, europa, postaci, magia]
+aliases: [Francja, Francja Napoleońska (1802), Konsulat, République Française, Napoleon]
 ---
 
-# Francja Napoleońska (1802)
+# Francja Napoleońska
 
 Republika istnieje z imienia. Konsul istnieje z faktu. Napoleon Bonaparte, trzydzieści dwa lata, syn drobnego adwokata z Ajaccio, rządzi krajem dwudziestu ośmiu milionów ludzi metodą, którą trudno pomylić z demokratyczną — i robi to z produktywnością, która zdumiewa nawet wrogów.
 
 W marcu 1802 roku podpisał pokój z Wielką Brytanią. W sierpniu został mianowany Konsulem Dożywotnim. Między tymi dwoma datami: reorganizacja administracji, ugoda z papieżem, reforma szkolnictwa, stworzenie Legionu Honorowego i wysłanie ekspedycji na [[Haiti]], która kosztuje Francję czterdzieści tysięcy żołnierzy i atlantyckie imperium. Rok 1802 to rok, w którym Napoleon buduje wszystko naraz.
+
+Jest jeszcze jedna rzecz, której żaden europejski przywódca nie odważył się zrobić od stuleci: Napoleon ogłosił publicznie, że sam jest adeptem. Włada powietrzem — to magia wyuczona, nie dziedziczna [[Sorcery]] starych rodów — i obiecał ochronę przed stosem każdemu czarownikowi, który wstąpi do jego armii. Buduje [[Legion magów]]. Reszta Europy patrzy z mieszaniną pogardy i strachu.
 
 ---
 
@@ -17,6 +19,8 @@ W marcu 1802 roku podpisał pokój z Wielką Brytanią. W sierpniu został miano
 ### Rewolucja i jej spadek
 
 [[Rewolucja Francuska]] z 1789 roku zniszczyła Ancien Régime — feudalne przywileje, absolutną monarchię, kościelną własność ziemi — ale nie zbudowała w zamian stabilnego rządu. Republika prowadziła wojnę z całą Europą jednocześnie, przechodząc przez Terror (szesnaście tysięcy egzekucji w czternaście miesięcy), Thermidor, Dyrektoriat. Dyrektoriat rządził od 1795 do 1799 roku jako oligarchia pięciu dyrektorów, którą jednoczyło tylko jedno: strach przed powrotem Jakobinów i przed powrotem Burbonów.
+
+Rewolucja miała wymiar, którego podręczniki nie zapisują wprost. [[Burbonowie]] słynęli jako dynastia władająca cudzymi nastrojami, a ich dwór w ostatnim pokoleniu ancien régime'u rzucił się na amerykańską [[smocza krew|smoczą krew]] — większość znaczącej szlachty Wersalu stała się [[Smoczy Magowie|Smoczymi Magami]] z burgundowym uśmiechem i licencją na bezkarne używanie mocy wobec plebsu. To rozpaliło nienawiść stanu trzeciego nie mniej niż głód i podatki. Zwycięska Rewolucja odpowiedziała zakazem: smoczą krew wyjęto spod prawa całkowicie, skoro sięgała po nią tylko znienawidzona arystokracja.
 
 [[Abbé Emmanuel Sieyès]], architekt Rewolucji, uznał że trzeba *bourgeois de l'épée* — szablę w służbie cywilnej konstytucji. Szukał generała. Próbował z Barthélemy Schérerem. Próbował z Joubertem — Joubert zginął pod Novi w sierpniu 1799 roku. Ostatecznie wybrał Bonapartego.
 
@@ -87,13 +91,15 @@ Co nim nie porusza: litość w negocjacjach. Cudowny w trakcie balu, niedostępn
 
 Rewolucja skonfliskowała Kościół, sprzedała jego ziemie, zabiła lub wygnała kilkadziesiąt tysięcy duchownych. Kler konstytucyjny (który złożył przysięgę wierności Republice) i kler nieskonstytucyjny (który odmówił) wzajemnie się ekskomunikowały. Francja religijna — a była nią w dużej mierze — żyła bez sakramentów lub z niedozwolonymi.
 
-Napoleon wiedział, że to werbuje ludzi do Wandei i do rojalistów. Negocjacje z papieżem [[Piusem VII]] trwały od 1800 roku. Konkludat podpisano 15 lipca 1801 roku, ogłoszono 18 kwietnia 1802 roku — w Wielkanoc, z rozmysłem.
+Napoleon wiedział, że to werbuje ludzi do Wandei i do rojalistów. Negocjacje z papieżem [[Pius VII|Piusem VII]] trwały od 1800 roku. Konkordat podpisano 15 lipca 1801 roku, ogłoszono 18 kwietnia 1802 roku — w Wielkanoc, z rozmysłem.
 
 Warunki: Francja uznaje katolicyzm za religię „wielkiej większości Francuzów" (nie państwową). Rząd płaci pensje duchownym. Rząd nominuje biskupów, papież mianuje. Kościół rezygnuje z pretensji do ziemi skonfiskowanej i sprzedanej. Papież uznaje Konsulat.
 
 Napoleon dodał jednostronnie [[Artykuły Organiczne]] — regulacje gallicańskie kontrolujące Kościół gallikański jak departament państwowy. Pius VII protestował. Napoleon nie słuchał.
 
 Pragmatyczny efekt: większość Francuzów uspokoiła się religijnie. Biskupi mianowani przez Napoleona odprawiali msze za Konsulat. Kaznodziejska sieć parafialna stała się kanałem komunikacji rządowej.
+
+Była i cichsza korzyść. Rewolucja rozpędziła francuskich [[Cudotwórcy|cudotwórców]] razem z księżmi; pojednanie z Rzymem otwiera ich szkolenie na nowo i oddaje Konsulowi częściowy dostęp do tej sieci. [[Państwo Kościelne]] dobrze wie, co oddało — i Pius zachowa ekskomunikę jako ostatnią kartę przeciw człowiekowi, który właśnie został jego najpotężniejszym świeckim partnerem.
 
 ### Legion Honorowy
 
@@ -141,6 +147,19 @@ W 1802 roku najważniejsi generałowie:
 
 [[Nicolas Davout]] — dyscyplina, chłód, niezawodność. Najlepszy dywizjonista armii. Nie lubi go nikt prócz podwładnych i Napoleona. Nie przegra ani jednej bitwy przez całą karierę.
 
+### Legion magów
+
+Najbardziej osobliwa formacja Konsulatu nie jest jeszcze pułkiem, lecz pomysłem w trakcie realizacji. Napoleon ogłosił, że żaden adept, który wstąpi do armii i przysięgnie wierność Francji, nie pójdzie na stos — i zaczął zbierać czarowników pod jeden sztandar.
+
+Trudność jest fundamentalna. Adepci nie są ustandaryzowani jak grenadierzy: każdy ma inny, wąski dar, więc dowodzenie nimi przypomina raczej zarządzanie zbiorem osobliwości niż kompanią. Jeden potrafi wzniecić mgłę, drugi leczyć tylko konie, trzeci podpalać proch z odległości stu kroków. Stworzenie z tego użytecznej jednostki bojowej zajmie lata, jeśli w ogóle się powiedzie.
+
+Liczebnie to wciąż garstka na tle czterystu tysięcy bagnetów. Ale to garstka, o której mówi cała Europa, a sam fakt, że adepci wychodzą z ukrycia, by służyć jawnie, jest dla [[Wielka Brytania|Londynu]] i dworów niemieckich sygnałem, że Francja złamała milczące tabu kontynentu. Sam Napoleon włada powietrzem — mgłą, podmuchem, gęstniejącym powietrzem nad polem — i traktuje to jak kolejne narzędzie, nie jak świętość.
+
+> [!mechanics]
+> **Legion magów:** korpus ochotniczych adeptów; brak standaryzacji czyni go trudnym w dowodzeniu i wciąż eksperymentalnym
+> **Napoleon-adept:** wyuczone czarostwo powietrza (nie dziedziczna Sorcery); efekty taktyczne, nie pojedynkowe
+> **Rekrutacja:** amnestia od stosu w zamian za przysięgę wierności — magnes na adeptów ściganych w reszcie Europy
+
 > [!rules]
 > **Armia Konsulatu (1802)**
 > **Liczebność:** ~350 000–400 000
@@ -169,6 +188,8 @@ Amnestia dla emigrantów ogłoszona w 1800 roku, rozszerzona w 1802 roku, pozwol
 
 Część emigrantów adaptuje się szybko — Napoleon chętnie przyjmuje do służby ludzi z doświadczeniem administracyjnym bez względu na ich herby sprzed 1789 roku. Część tkwi w żałobie za Ancien Régime. Salon Paryski roku 1802 to mieszanina: bonapartyści nowej generacji, stara noblesse wciąż wzgardliwa, przybysze z prowincji z nowymi fortunami, kobiety uczące się nowych reguł gry.
 
+Wśród wracającej noblesse są i tacy, których burgundowy uśmiech zdradza dawnych [[Smoczy Magowie|Smoczych Magów]] — dziś odcięci od smoczej krwi rewolucyjnym zakazem, a przerwana dawka nie wybacza: ciało buntuje się mimowolnymi wybuchami mocy, w końcu zabija. Niektórzy szukają przemytu, inni już gasną. Policja Fouchégo notuje jednych i drugich.
+
 [[Joséphine de Beauharnais]] — żona Napoleona, Kreolka z Martyniki, wdowa po gilotynowanym wikoncie de Beauharnais — jest centrum towarzyskim tego paryskiego świata. Jej Malmaison, piętnaście kilometrów od Paryża, jest miejscem gdzie Napoleon rozluźnia się: spaceruje po ogrodzie, igra z synkiem brata, przerywa pracę na godzinę.
 
 ### Teatr i kultura
@@ -189,11 +210,15 @@ Obie strony wiedzą od pierwszego dnia, że pokój jest tymczasowy. Anglia nigdy
 
 Pokój Amiens trwa czternaście miesięcy. Anglia wypowiada wojnę 18 maja 1803 roku, gdy Napoleon nie wycofuje się z Holandii i Szwajcarii. Ale te czternaście miesięcy miało wartość: przegrupowanie, reorganizacja, budowanie sił.
 
+Pod oficjalnym tekstem leży spór, którego dyplomaci nie zapisują. [[Wielka Brytania]] jest sercem europejskiego ruchu antymagicznego — to z jej gruntu wyrośli purytanie, dla których magia „nie-boska" jest wprost dziełem szatana — a jawny legion czarowników w Paryżu jest dla Londynu prowokacją nie mniejszą niż francuska flota. Krążą pogłoski, że Amiens miał tajną klauzulę dotyczącą adeptów po obu stronach Kanału; potwierdzić ich nie sposób, a obie strony zaprzeczają.
+
 ### Luizjana — decyzja
 
 Plan był prosty i kompletny do jesieni 1802 roku: Saint-Domingue jako centrum cukrowe, [[Terytorium Luizjany]] jako baza zaopatrzeniowa, [[Nowy Orlean]] jako kontrola nad dorzeczem Missisipi. Atlantyckie imperium zachodnie, które sfinansuje europejskie kampanie.
 
 [[Haiti]] zlikwidowało ten plan. Leclerc pisał z wyspy: tygodniowe straty pięćset żołnierzy, żółta febra nie do zatrzymania, koniec widoczny. Napoleon mógł wysłać kolejne dziesięć, dwadzieścia tysięcy żołnierzy — i utopić ich tak samo.
+
+Żółta febra nie była jedynym wrogiem. Haitańskie wiedźmy [[Voodoo]] sprowadziły na wyspę armię zombie i mściwe [[Fey|feye]], przed którymi żołnierze Leclerca uciekali w popłochu — i tego żaden posiłek nie mógł odwrócić. Luizjana bez cukrowej wyspy traciła sens, a rewolucyjny zakaz [[smocza krew|smoczej krwi]] odebrał jej jeszcze jedną wartość: Francja nie mogła nawet czerpać z amerykańskich smoków, bo własne prawo jej tego broniło. Sprzedaż ziemi [[Stany Zjednoczone|Stanom Zjednoczonym]] stała się logiczna.
 
 Przełom zaczął się w jego głowie między październikiem a grudniem 1802 roku. W grudniu powiedział [[Barbé-Marboisowi]], ministrowi finansów: „Myślę o oddaniu Luizjany Stanom Zjednoczonym." Talleyrand był przeciwny — sprzedaż imperium to słabość. Napoleon słuchał Talleyranda rzadko, kiedy chodziło o strategię.
 
@@ -258,8 +283,9 @@ Mieszka w Tuileries i Malmaison. Lubi szachy, kąpiele, polowania (kiepski strze
 > ST 10, DX 12, IQ 18, HT 12
 > **Umiejętności:** Taktyka 19, Strateg 18, Administracja 17, Dyplomacja 14, Retoryka 16, Artyleria 16, Historia 16, Matematyka 14, Jeździectwo 13, Szermierka 12
 > **Zalety:** Genius, Combat Reflexes, Charisma 4, Eidetic Memory, Language Talent (Włoski, Francuski, rudymentarny angielski), High Pain Threshold, Very Fit
+> **Magia:** wyuczone czarostwo powietrza — mgła, podmuch, zagęszczanie powietrza nad polem bitwy (efekty obszarowe, nie pojedynkowe)
 > **Wady:** Overconfidence, Workaholic, Callous (wobec strat wojennych), Sense of Duty (Francja — selektywny)
-> **Zasób:** dostęp do wszystkich sił zbrojnych Francji i satelitów
+> **Zasób:** dostęp do wszystkich sił zbrojnych Francji i satelitów; rodzący się [[Legion magów]]
 
 ### Charles-Maurice de Talleyrand (1754–1838)
 
@@ -298,4 +324,4 @@ Jeden z kilku ludzi, którzy powiedzieli Napoleonowi nie — i przeżyli.
 
 ---
 
-*Powiązane artykuły: [[Haiti (1802)]], [[Terytorium Luizjany]], [[Stany Zjednoczone (1802)]], [[Kanada Brytyjska]], [[Chronologia]], [[Pokój Amiens]], [[Wielka Brytania]].*
+*Powiązane artykuły: [[Haiti]], [[Terytorium Luizjany]], [[Stany Zjednoczone]], [[Kanada Brytyjska]], [[Państwo Kościelne]], [[Smocza krew]], [[Legion magów]], [[Punkty rozbieżności]], [[Chronologia]], [[Pokój Amiens]], [[Wielka Brytania]].*

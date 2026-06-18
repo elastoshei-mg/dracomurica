@@ -1,14 +1,31 @@
 ---
-title: Kanada Brytyjska (1802)
-tags: [kanada, wielka brytania, kolonie, historia, handel, spoleczenstwo]
-aliases: [Kanada, British North America, Brytyjska Ameryka Północna, Kanada Brytyjska]
+title: Kanada Brytyjska
+tags: [kanada, wielka brytania, kolonie, historia, handel, spoleczenstwo, smoki]
+aliases: [Kanada, British North America, Brytyjska Ameryka Północna, Kanada Brytyjska (1802)]
 ---
 
-# Kanada Brytyjska (1802)
+# Kanada Brytyjska
 
 W roku 1802 nie ma kraju zwanego Kanadą. Jest kilka oddzielnych kolonii brytyjskich rozrzuconych wzdłuż Świętego Wawrzyńca, nad Atlantykiem i w bezkresnej głębi kontynentu. Mają różne języki, różne systemy prawa, różne powody, dla których w ogóle tu są. Łączy je jeden fakt: żaden z tych ludzi nie chciał znaleźć się po południowej stronie granicy z [[Stanami Zjednoczonymi]].
 
 Razem — te kolonie, te rzeki, te szlaki handlowe — tworzą coś, co można by nazwać Brytyjską Ameryką Północną. Populacja: może czterysta do pięciuset tysięcy białych osadników, dwadzieścia do trzydziestu tysięcy rdzennych mieszkańców wschodnich prowincji i trudna do policzenia liczba Cree, Assiniboinów, Odżibwów i innych narodów na rozległych terytoriach futrzanych na zachodzie. Za nimi: kontynent, który żaden Europejczyk jeszcze nie zmierzył.
+
+---
+
+## Smoki i krucha granica
+
+Skąpego zaludnienia Brytyjskiej Ameryki Północnej nie tłumaczy sam klimat. Tłumaczą je [[Rdzenne narody Ameryki Północnej|rdzenne narody]] i ich sojusznicy — [[Smoki|smoki]]. Lasy i jeziora kontynentu należą do [[Smoki Leśne|Smoków Leśnych]] i [[Smoki Rzeczne|Smoków Rzecznych]], a [[Cree]], [[Odżibwe]] i Assiniboinowie żyją z nimi w przymierzu starszym niż pamięć.
+
+Brytyjczycy i Francuzi próbowali tu tego samego co wszędzie — polowania na smoki dla krwi i łuski. Próby były krótkie i krwawe. W rzadko zaludnionej tajdze smoków było mniej niż na żyznym południu, a każdy zabity ściągał odwet klanu, którego myśliwych potrzebowano do handlu. Rachunek się nie zgadzał: jedna fiolka destylatu nie była warta utraty całej sieci dostawców bobra. Polowania porzucono i wrócono do [[Handel futrami|futer]] oraz drewna.
+
+Skutek widać w każdej osadzie. Osadnik w Górnej Kanadzie czy nad Świętym Wawrzyńcem jest mniej pewny siebie i ostrożniejszy niż jego kuzyn za granicą w Ohio. Klany nie wahają się napaść na farmę, która weszła na nie swoje — złupić ją albo skarcić za złamanie umowy — a wezwana milicja wie, że za lasem może czekać coś gorszego niż wojownik z muszkietem. Granica osadnictwa pełznie tu wolniej niż w [[Stany Zjednoczone|Stanach]], i wszyscy po cichu wiedzą dlaczego.
+
+[[Dwudusze|Dwudusza]] jest na północy rzadkością nawet wśród Cree, lecz wystarcza, by żaden faktor nie traktował sojuszu z rdzennymi jak formalności. Cały handel futrami stoi na uprzejmości, nie na sile.
+
+> [!rules]
+> **Smoki w Kanadzie:** rzadsze niż na południu kontynentu; polowania na krew zarzucone jako nieopłacalne
+> **Relacja osadnik–klan:** przewaga po stronie rdzennych; napady karne i łupieskie to realne ryzyko pogranicza
+> **Gospodarka:** futra i drewno zamiast smoczej krwi (zob. [[Handel futrami]])
 
 ---
 
@@ -45,6 +62,8 @@ W niedzielę cała wioska idzie do kościoła. Msza jest jedyna okazja, by zobac
 [[Kościół katolicki]] w Kanadzie Dolnej nie jest instytucją zależną od angielskiej korony — jest autonomiczną strukturą z własnym seminarium w Quebec City (Séminaire de Québec, 1663), własnymi sądami kościelnymi, własnym systemem edukacji. Biskup Quebeku zarządza duszpasterstwem dla całej kolonii i nie uznaje prerogatyw anglikańskich.
 
 [[Joseph-Octave Plessis]], koadiutor biskupa od 1797 roku, jest politykiem równie sprawnym co teologiem. Wie, że przeżycie kultury frankofońskiej zależy od kościoła jako instytucji. Negocjuje z brytyjskim gubernatorem z ostrożną stanowczością — nie kwestionuje lojalności wobec Korony, ale nie ustępuje ani cala w kwestiach jurysdykcji kościelnej.
+
+Ta autonomia ma drugie dno. Seminarium w Quebecu po cichu kształci [[Cudotwórcy|cudotwórców]], a głęboka wiara habitantów sprawia, że Kanada Dolna jest jednym z niewielu zakątków Brytyjskiej Ameryki Północnej, gdzie katolicki Cud bywa czymś więcej niż opowieścią. Anglikański establiszment, chłodny wobec magii „nie-boskiej" i ubogi w cudotwórców, nie ma czym tego zrównoważyć — co Plessis rozumie i co wzmacnia jego rękę w każdej rozmowie z gubernatorem.
 
 Szkoły prowadzone przez kościół uczą w języku francuskim. Szkoły protestanckie prowadzone przez misjonarzy anglikańskich uczą w angielskim. Habitant zazwyczaj nie widzi dylematu: posyła dzieci do księdza.
 
@@ -227,13 +246,15 @@ Zarządca fortu (*factor*, *bourgeois*) jest kombinacją menedżera, dyplomaty, 
 
 Cree znają każdy fragment terenu od Zatoki Hudsona po Missisipi. Ich myśliwi dostarczają futer; ich kobiety przygotowują skóry i szyją moccasiny dla voyageurów; ich mężczyźni służą jako przewodnicy przez tereny nieznane Europejczykom. Bez Cree nie ma pemmicanu; bez pemmicanu nie ma voyageurów; bez voyageurów nie ma NWC.
 
+Do tego dochodzi to, czego żaden bourgeois nie zapisze w księdze: przymierze Cree i Odżibwe ze [[Smoki Rzeczne|smokami]] sprawia, że żaden fort nie stałby długo tam, gdzie stoi, gdyby klan tego nie zechciał. Faktoria istnieje na cudzą zgodę.
+
 ### Haudenosaunee na Grand River
 
 [[Joseph Brant]] (Thayendanegea) założył w 1784 roku osadę na [[Grand River]] w Górnej Kanadzie dla tych Haudenosaunee, którzy walczyli po stronie Brytyjczyków w Rewolucji i musieli opuścić terytoria po traktacie paryskim. Sześć milionów akrów ziemi jako odszkodowanie — tak obiecano. Dostali sześćset tysięcy, i to z trudnościami.
 
 W 1802 roku Brant mieszka w Brantfordzie i prowadzi styl życia angielskiego gentlemana: portret namalowany przez Romneya wisi w salonie, koresponduje po angielsku z parlamentarzystami, tłumaczy Ewangelię Marka na Mohawk. Jego politycznym celem jest przekształcenie Indian z Grand River w zorganizowaną siłę polityczną zdolną negocjować z Koroną — nie jako uchodźcy, lecz jako sojusznicy.
 
-Więcej o Haudenosaunee i pozostałych rdzennych nacjach: [[Rdzenne narody Ameryki Północnej (1802)]].
+Więcej o Haudenosaunee i pozostałych rdzennych nacjach: [[Rdzenne narody Ameryki Północnej]].
 
 > [!rules]
 > **Haudenosaunee — Grand River (Kanada)**
@@ -314,4 +335,4 @@ Jego raport do Londynu z 1800 roku: Francuzi Kanady są bardziej przywiązani do
 
 ---
 
-*Powiązane artykuły: [[Rdzenne narody Ameryki Północnej (1802)]], [[Stany Zjednoczone]], [[Wielka Brytania]], [[Handel futrami]], [[Traktat Paryski 1783]], [[Traktat Jaya 1794]], [[Lojaliści]], [[Voyageurzy]].*
+*Powiązane artykuły: [[Rdzenne narody Ameryki Północnej]], [[Stany Zjednoczone]], [[Wielka Brytania]], [[Handel futrami]], [[Smoki]], [[Punkty rozbieżności]], [[Lojaliści]], [[Voyageurzy]].*

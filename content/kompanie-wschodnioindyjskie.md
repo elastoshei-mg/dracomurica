@@ -1,10 +1,10 @@
 ---
-title: Kompanie Wschodnioindyjskie (1802)
-tags: [handel, azja, imperium, kolonie, korporacje, historia, indie, chiny]
-aliases: [Kompanie Wschodnioindyjskie, East India Companies, EIC, VOC, Kompania Wschodnioindyjska]
+title: Kompanie Wschodnioindyjskie
+tags: [handel, azja, imperium, kolonie, korporacje, historia, indie, chiny, magia]
+aliases: [Kompanie Wschodnioindyjskie (1802), East India Companies, EIC, VOC, Kompania Wschodnioindyjska]
 ---
 
-# Kompanie Wschodnioindyjskie (1802)
+# Kompanie Wschodnioindyjskie
 
 Kompania jest korporacją z własną armią, własnymi sądami, własną dyplomacją i własnym więzieniem. Podpisuje traktaty z suwerennymi państwami. Prowadzi wojny bez zgody metropolii i wysyła rachunki za nie rządowi, który musi zapłacić, bo alternatywą jest utrata kolonii. Bije monety. Pobiera podatki od pięćdziesięciu milionów ludzi.
 
@@ -103,6 +103,10 @@ Wszystkie europejskie Kompanie Wschodnioindyjskie mają jeden wspólny problem w
 
 EIC rozwiązała problem w 1790 roku przez system trójstronny. Bengalskie [[opium]] jedzie do Kantonu. Kantoński kupiec Cohong płaci za opium srebrem. EIC kupuje herbatę za to srebro. Srebro wraca do Bengalu. Opium płynie do Chin, gdzie jest nielegalne od 1796 roku i gdzie jest konsumowane przez miliony.
 
+Pod tym handlem płynie strumień węższy i znacznie czarniejszy. Część bengalskiego maku Kompania każe podlewać destylowaną [[Smocza krew|smoczą krwią]] — surowcem, który sprowadza zza Atlantyku przez tych samych przemytników, co polują na amerykańskie [[Smoki|smoki]] wbrew rdzennym. Powstaje z tego [[Czerwone opium]]: wielokrotnie silniejsze od zwykłego i celujące w to, co Chiny mają najcenniejszego — wypala *qi* mistrzów sztuk walki, geomantów i mnichów w kilka miesięcy.
+
+Smoczej krwi jest mało i jest droga, więc Czerwone opium to towar premium, nie masowy — kilka skrzyń tam, gdzie zwykłego idą tysiące. Kompania wierzy w jedno: w księgę rachunkową. Sprzedaje magiczną truciznę z tą samą obojętnością, z jaką sprzedaje herbatę, a dyrektorzy w Londynie wolą nie pytać, czemu ta odmiana osiąga takie ceny u chińskich pośredników, którzy doskonale wiedzą, co kupują.
+
 W 1802 roku przez Kanton przepływa może cztery do pięciu tysięcy skrzynek opium rocznie. Każda skrzynka waży osiemdziesiąt kilogramów. Cena za skrzynkę: tysiąc do tysiąca pięciuset rupii. Zysk EIC z całego obrotu: kilkanaście procent całkowitych dochodów Kompanii.
 
 *Superkargos* — handlowi oficerowie Kompanii w Kantonie — mieszkają przez sezon (wrzesień–styczeń) w faktorni przy rzece Pearl, negocjują z kupcem Cohong i wracają na Makao przez osiem miesięcy niehandlowych. Nie mają prawa wchodzić do Kantonu, nie mają prawa przywozić kobiet, nie mają prawa podróżować poza teren faktorni bez eskorty. Warunki akceptują, bo alternatywa to brak herbaty dla Anglii, która pije jej pięćdziesiąt milionów funtów rocznie.
@@ -198,4 +202,4 @@ W 1802 roku jest symbolem i ostrzeżeniem: można rządzić Indiami bez pardonu 
 
 ---
 
-*Powiązane artykuły: [[Wielka Brytania (1802)]], [[Chiny dynastii Qing (1802)]], [[Indie Mogołów i Kompania]], [[Handel Trójkątny]], [[Japonia (1802)]], [[Nawigacja i kartografia]], [[Chronologia]].*
+*Powiązane artykuły: [[Wielka Brytania]], [[Chiny dynastii Qing]], [[Indie Mogołów i Kompania]], [[Handel Trójkątny]], [[Czerwone opium]], [[Smocza krew]], [[Japonia]], [[Punkty rozbieżności]], [[Nawigacja i kartografia]], [[Chronologia]].*

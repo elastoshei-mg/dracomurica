@@ -1,14 +1,65 @@
 ---
-title: Rdzenne narody Ameryki Północnej (1802)
-tags: [indianie, rdzenne narody, kultura, filozofia, polityka, postacie]
-aliases: [Indianie, Native Americans, Ludy rdzenne, Pierwsze Narody, Ludy rdzenne Ameryki Północnej, Rdzenne narody]
+title: Rdzenne narody Ameryki Północnej
+tags: [indianie, rdzenne narody, kultura, filozofia, polityka, postacie, smoki]
+aliases: [Indianie, Native Americans, Ludy rdzenne, Pierwsze Narody, Ludy rdzenne Ameryki Północnej, Rdzenne narody, Rdzenne narody Ameryki Północnej (1802)]
 ---
 
-# Rdzenne narody Ameryki Północnej (1802)
+# Rdzenne narody Ameryki Północnej
 
 Przed pierwszym europejskim kontaktem ziemie na wschód od Gór Skalistych zamieszkiwało od pięciu do dziesięciu milionów ludzi, zorganizowanych w setki odrębnych narodów z własnymi językami, prawem, kosmologią i historią sięgającą tysięcy lat. W roku 1802 żyje z nich od sześciuset tysięcy do miliona — szacunki są nieprecyzyjne, bo nikt wtedy nie liczył, a choroby wyprzedzały osadników o dekady. Reszta to wynik epidemii ospy, odry, tyfusu i dżumy, które przemiatały kontynent od 1492 roku bez żadnego powiązania z wojną czy bezpośrednim kontaktem z Europejczykami.
 
 Rok 1802 to moment kluczowy. Na wschód od Appalachów większość narodów jest już zepchnięta w szczeliny między stanami lub skupiona na kurczących się terytoriach traktatowych. Na zachód od Missisipi — ogromne, wciąż w pełni suwerenne światy, o których Waszyngton wie niewiele. [[Terytorium Luizjany]] należy politycznie do Francji od dwóch lat; faktycznie należy do [[Osagów]], [[Paunisów]], [[Komanczów]] i dziesiątek innych narodów, które nie podpisały żadnego traktatu z Paryżem.
+
+Dwie rzeczy odróżniają tę Amerykę od tej z podręczników. Rdzenni mieszkańcy nie są zwykłymi ludźmi — są smukli, zwinni, mocniejsi od osiadłych Europejczyków, urodziwsi i żyją nieco dłużej, choć wciąż czerwonoskórzy i równie śmiertelni. Drugą jest to, z kim dzielą kontynent.
+
+---
+
+## Smoki, przodkowie i Dwudusze
+
+Drugim panującym gatunkiem kontynentu są [[Smoki|smoki]]. Bliżej im do drake'ów niż do bestii z europejskich legend — większość nie jest w pełni rozumna, nie włada ludzką mową, lata, gromadzi błyskotki i toczy zawiłe spory o terytorium i honor. Rdzenne narody nie traktują ich jak zwierząt ani jak bogów. Wierzą, że smoki to przodkowie, którzy wrócili w innej skórze, i przez tysiące lat oba gatunki trwały obok siebie bez wojny.
+
+Ta symbioza tłumaczy więcej niż jedną zagadkę. Kontynentu nie skolonizowano tak, jak skolonizowano go w podręcznikach, bo każda dolina za rzeką ma obrońcę, którego pojedynczy muszkiet nie powali. Animizm opisany niżej nie jest u rdzennych metaforą — to z niego wyrasta więź ze smokiem.
+
+### Cztery wielkie przymierza
+
+Smoki dzielą się na typy związane z krajobrazem, a rdzenne konfederacje ułożyły życie wokół tych, z którymi sąsiadują.
+
+**[[Smoki Leśne]]** żyją w puszczach wschodu i polują stadnie, plując chmurami kwasu. Z nimi związane są narody Wschodnich Lasów — [[Irokezi|Haudenosaunee]], [[Szaunisi]], [[Lenape]], [[Miami]]. To one ucierpiały najmocniej, bo to ich smoki wybito jako pierwsze.
+
+**[[Smoki Rzeczne]]** bronią dorzeczy Missisipi i Missouri oraz Wielkich Jezior, plując żrącym śluzem na barki i kilówki. Sąsiadują z nimi [[Osagowie]], wioskowi rolnicy znad górnego Missouri — [[Mandan]], [[Hidatsa]], [[Arikara]] — i ludy Wielkich Jezior.
+
+**[[Smoki Pustynne]]** to samotne drapieżniki suchego południowego zachodu, atakujące z powietrza i spod piasku. Z ich obecnością wiąże się dominacja [[Komancze|Komanczów]] nad Teksasem i pograniczem [[Nowa Hiszpania|Nowej Hiszpanii]].
+
+**[[Smoki Górskie]]** — największe i najbardziej terytorialne — strzegą Gór Skalistych i pasm wulkanicznych, zamykając zachód kontynentu przed prospektorami. Żyją przy nich najbardziej odizolowane narody, których Waszyngton nie zna nawet z nazwy.
+
+Do tego dochodzą **[[Cieniste Smoki]]** — małe jak kot, sprytne, jako jedyne władające ludzką mową. Bywają oszustami i złodziejami; pojawiają się tam, gdzie da się coś ukraść albo komuś podszepnąć, i równie chętnie kręcą się dziś wokół białych miast co rdzennych obozów.
+
+### Dwudusze i szamani
+
+Szamani są tu czymś powszechnym. Niemal każda społeczność ma kogoś, kto czyta sny, leczy i prowadzi obrzędy, a spora część z nich realnie wpływa na pogodę, zwierzęta i bieg choroby. To na ich barkach spoczywa codzienna więź z [[Fey|duchami]] i przodkami.
+
+[[Dwudusze|Dwudusza]] — człowiek, który odnalazł smoka zrodzonego z tej samej duszy — jest rzadszy, ale nie wyjątkowy. Na większy klan przypada ich kilku, a wojną i obroną kierują często właśnie oni: człowiek i bestia działający jak jeden umysł w dwóch ciałach. Bez rdzennej krwi ta więź jest w praktyce niemożliwa, co zamyka ją przed każdym europejskim adeptem.
+
+To dzięki nim opór wreszcie się opłaca. Sam smok jest groźny, ale dziki i samotny; dopiero szaman, który skłoni stado do zsynchronizowanego uderzenia, i Dwudusza, który poprowadzi je w bój, zmieniają rozproszone bestie w wojsko. Tam, gdzie tych ludzi jest dość — a na zachodzie i w głębi kontynentu jest — kolumna osadników albo ekspedycja po krew po prostu nie wraca. Konfederacje Wielkich Rzek, Równin i gór trzymają granicę dzięki tym, którzy potrafią poprowadzić smoki do boju.
+
+Nie czyni to magami wszystkich wodzów. Negocjatorzy traktatów, mówcy i prorocy z tego artykułu — Mały Żółw, Red Jacket, Handsome Lake — to klasa polityczna i duchowa innego rodzaju, rządząca słowem i prawem. Władza wojenna i władza nad smokami chodzą jednak w parze częściej, niż biali zdają sobie sprawę, i to ona przeważa szalę na pograniczu.
+
+> [!mechanics]
+> **Szaman:** Path/Book Ritual Magic (GURPS Thaumatology) — rytuały wpływające na pogodę, zwierzęta i chorobę; pospolity wśród rdzennych
+> **Dwudusza:** unikalny Ally (smok) o najwyższej lojalności, dzielący zmysły i odruchy z partnerem; rzadki, lecz realny wybór dla rdzennej postaci
+> **Wymóg:** więź Dwuduszy i pełnia mocy szamańskiej wymagają rdzennego pochodzenia; mieszańcy dziedziczą je rzadko i nietrwale
+
+### Wojna o krew
+
+Wszystko zmieniło odkrycie, że destylowana [[smocza krew]] jest najcenniejszym surowcem alchemicznym świata, a płaszcz ze smoczej łuski chroni przed ogniem i kwasem. Ruszył masowy odstrzał, a za nim wojny. Na wschodzie, w puszczach, [[Smoki Leśne]] wybito niemal do nogi — i właśnie dlatego narody Wschodnich Lasów straciły swoją tarczę i ziemię mniej więcej tam, gdzie tracą ją w podręcznikach. Tam, gdzie smoki przetrwały, granica osadnictwa stanęła.
+
+Rdzenni odpowiadają wojną cichą, lecz nieustanną. Zabijają napotkanych łowców krwi i wysyłają oddziały za znanymi [[Smoczy Magowie|Smoczymi Magami]], laboratoriami i karawanami z fiolkami. Dla osadnika smocza krew jest fortuną; dla rdzennego mieszkańca jej handlarz jest tym, kto morduje przodków na surowiec. Tych dwóch poglądów nie da się pogodzić i nikt nie udaje, że jest inaczej.
+
+Jednego wroga symbioza nie powstrzymała. Ospa, odra i tyfus zabiły miliony, zanim padł pierwszy strzał do smoka — bo żaden smok nie obroni przed zarazą, która przychodzi z oddechem kupca.
+
+### Mieszańcy
+
+Dzieci ze związków rdzennych i białych rodzą się zdrowe, lecz odrzucają obie kultury i rzadko znajdują w którejkolwiek miejsce. Więź Dwuduszy dziedziczą wyjątkowo i słabo. Na pograniczu bywają bezcennymi tłumaczami i przewodnikami, a zarazem nie należą nigdzie — co czyni z nich naturalnych bohaterów niejednej kampanii.
 
 ---
 
@@ -19,6 +70,8 @@ Rok 1802 to moment kluczowy. Na wschód od Appalachów większość narodów jes
 Żaden termin nie oddaje dobrze rdzennych kosmologii — „animizm" jest europejskim uproszczeniem. Bliżej jest do stwierdzenia, że większość narodów Ameryki Północnej rozumie świat jako gęstą sieć relacji między osobami — a osobami są nie tylko ludzie, ale zwierzęta, rośliny, rzeki, skały, wiatry, przodkowie. Każdy z nich ma własną wolę, własną historię i własne wymagania wobec relacji.
 
 Polowanie wymaga ceremonii, bo zabicie jelenia to koniec relacji z konkretną osobą. Myśliwy zwraca się do jelenia przed strzałem, dziękuje po zabiciu, oddaje kości w sposób honorujący — bo inaczej duch jelenia ostrzeże inne, i myśliwy wróci z pustymi rękami. To nie jest przesąd; to jest praktyczny system zarządzania zasobami przez pięć tysięcy lat. Działa.
+
+W tym świecie sieć tych relacji bywa namacalna. Dochowanie zobowiązań wobec [[Fey|duchów]] miejsca, zwierzęcia czy przodka daje drobne, podprogowe wsparcie, którego nikt nie musi brać na wiarę — a więź ze smokiem, opisana wyżej, jest tej zasady najdobitniejszym przykładem.
 
 [[Irokezi]] nazywają tę siłę *orenda* — duchową moc, którą mają wszystkie byty i która może wzrastać lub maleć w zależności od działań. Narody algonkińskie — [[Odżibwe]], [[Szaunisi]], [[Delaware]] — mówią o *manitou*: duchowych siłach neutralnych, które mogą być przywołane w dobrym lub złym celu. [[Siuksowie]] znają *Wakan Tanka* — Wielką Tajemnicę, z którą nie można wejść w relację bezpośrednią, tylko przez pośredników, wizje i rytuały. [[Osagowie]] dzielą świat na *Tzi-Sho* (Lud Nieba) i *Hunkah* (Lud Ziemi) — strukturę, która określa każdą relację społeczną od narodzin.
 
@@ -115,6 +168,8 @@ W 1802 roku Gai'wiio rozprzestrzenia się wśród Senekówie i innych narodów I
 
 ## Narody Wschodnich Lasów — pod największą presją
 
+To tutaj wybito [[Smoki Leśne]] jako pierwsze, dla krwi i łuski, i to dlatego te narody straciły grunt szybciej niż jakiekolwiek inne. Presji osadniczej, którą znamy z podręczników, towarzyszył tu odstrzał ich smoczych sojuszników — a bez nich obrona puszczy stała się tym, czym była w naszej historii. Gorycz po tej podwójnej stracie napędza dziś ruch [[Tecumseh|Tecumseha]].
+
 ### Szaunisi (Shawnee) — rozproszony naród
 
 Szaunisi byli historycznie bardziej mobilni niż większość narodów wschodnich — ich tradycja mówi o wędrówkach z Południa, przez Ohio Valley, na wschód aż do Karoliny i z powrotem. W 1802 roku są rozbici: część w Indianie nad White River (po Traktacie Greenville 1795), część uciekła do Missisipi i dalej do Terytorium Luizjany za pozwoleniem Hiszpanów, część trwa przy Fort Wayne.
@@ -128,6 +183,8 @@ Pięć grup klanowych Szaunisów: Chalaakaatha, Thawikila, Kispoko, Pekowi, Mequ
 [[Tecumseh]] (Meteor, Shooting Star) urodzony ~1768 w wiosce Chalaakaatha nad Old Piqua w Ohio. Ojciec zabity przez Anglosaskich osadników, gdy Tecumseh był dzieckiem. Uczestniczył w bitwach lat dziewięćdziesiątych po obu stronach Fallen Timbers. Nie podpisał Greenville.
 
 W 1802 roku Tecumseh ma trzydzieści cztery lata, przebywa między obozami nad White River i Wabash, i zaczyna coraz systematyczniej podróżować do innych narodów. Jego argument jest prosty: żaden pojedynczy naród nie ma ziemi do oddania, bo ziemia należy do wszystkich razem. Żaden wódz jednego narodu nie może legalnie sprzedać tego, co jest własnością zbiorową wszystkich rdzennych ludów. Każda umowa sprzedaży jest nieważna. Jedyną odpowiedzią jest zjednoczenie.
+
+Ten sam argument obejmuje smoki. Ziemia, przodkowie i smoki nie są na sprzedaż, bo nie należą do żadnego pojedynczego wodza. Wokół Tecumseha gromadzą się ci, którzy myślą podobnie — szamani i Dwudusze, których jego ruch ściąga coraz więcej. Sam jest mówcą i wodzem, nie szamanem, lecz to właśnie obietnica zebrania rozproszonych Dwuduszy w jedną siłę daje jego konfederacji militarny sens.
 
 Brat Tecumseha, [[Tenskwatawa]] (Lalawethika), urodzony 1775, w 1802 roku jest chudym mężczyzną ze złą reputacją — słabym wojownikiem, alkoholikiem, który stracił oko w wypadku podczas zabawy z łukiem. Jego wizja z 1805 roku jeszcze nie nastąpiła. Jego transformacja jest przed nim.
 
@@ -221,7 +278,7 @@ Osagowski system filozoficzny jest jednym z najbardziej rozwiniętych kosmologic
 
 [[Pawhuska]] (Biała Głowa) jest w 1802 roku *Ga-ni-tha* — Wielkim Wodzem Wielkiej Grupy Osagów. Jego nazwa pochodzi od kawałka peruki francuskiego oficera, który schwytał i nosił z dumą. Jest pragmatykiem: handlował futrami ze Španią przez dekady, teraz zaczyna myśleć o Amerykanach jako nowych partnerach. Spotka Jeffersona w Waszyngtonie w 1804 roku z wielką delegacją.
 
-Osagowie nie pozwolili nikomu przeciąć ich terytorium bez zgody. Wszystkie ekspedycje handlowe, misyjne i wojskowe w dolinie Missouri płaciły im — w jedwabiu, stali, koniach, broni — za prawo przejazdu. [[Terytorium Luizjany]] formalnie należy do Francji; w praktyce jest terytorium Osagów, Paunisów i Komanczów, z drobnymi europejskimi faktorami przy rzekach.
+Część ich przewagi płynie z sojuszu ze [[Smoki Rzeczne|Smokami Rzecznymi]], które bronią dorzecza Missouri przed obcymi łodziami. Osagowie nie pozwolili nikomu przeciąć ich terytorium bez zgody. Wszystkie ekspedycje handlowe, misyjne i wojskowe w dolinie Missouri płaciły im — w jedwabiu, stali, koniach, broni — za prawo przejazdu. [[Terytorium Luizjany]] formalnie należy do Francji; w praktyce jest terytorium Osagów, Paunisów i Komanczów, z drobnymi europejskimi faktorami przy rzekach.
 
 ### Paunisi (Pawnee) — cztery ognie
 
@@ -249,7 +306,7 @@ Koń i Komancz to jedno. Chłopiec z Komanczów uczył się jazdy konno zanim na
 
 Komancze kontrolowali handel końmi na całym południu. Konie kradzione w Meksyku szły przez Komanczów na północ — do innych równinnych narodów, aż do Montany. *Comanche Exchange* był faktycznie korporacją dystrybucyjną z wyłącznością terytorialną.
 
-Relacja z [[Nową Hiszpanią]]: permanentna oscylacja między wojną a handlem. Coroczne *treguasy* — zawieszenia broni — pozwalały na wymianę handlową w określone miejsca. Kiedy Nowa Hiszpania przestawała płacić lub atakowała, Komancze niszczyli wsie od San Antonio po Durango. W 1802 roku: relatywna stabilizacja, ale Teksas jest faktycznie terytorium komanczańskim na zachód od San Antonio.
+Relacja z [[Nowa Hiszpania|Nową Hiszpanią]]: permanentna oscylacja między wojną a handlem. To pogranicze [[Smoki Pustynne|Smoków Pustynnych]] — i to ich ataki z powietrza, obok komanczańskiej kawalerii, zatrzymały hiszpańskie presidia na linii, której od pokoleń nie udało się przesunąć. Coroczne *treguasy* — zawieszenia broni — pozwalały na wymianę handlową w określone miejsca. Kiedy Nowa Hiszpania przestawała płacić lub atakowała, Komancze niszczyli wsie od San Antonio po Durango. W 1802 roku: relatywna stabilizacja, ale Teksas jest faktycznie terytorium komanczańskim na zachód od San Antonio.
 
 ### Mandan i Hidatsa — miasta na Missouri
 
@@ -305,7 +362,7 @@ W 1802 roku Pawhuska i inni Osagowie zastanawiają się, kto tak naprawdę będz
 
 Najważniejszy polityczny i wojskowy lider rdzennych narodów pierwszego dwudziestolecia XIX wieku. Urodzony w Ohio, wykształcony przez wojnę od dzieciństwa. Uczestniczył w każdej ważnej kampanii między 1780 a 1794 rokiem. Nie podpisał Greenville.
 
-Jego filozofia polityczna jest spójna i konsekwentna: ziemia jest wspólną własnością wszystkich rdzennych ludzi, żaden jeden naród nie może jej alienować, jedyną odpowiedzią na ekspansję jest jedność. Podróżuje od [[Kanady]] po [[Florydę]], od [[Ossagy]] po [[Mohawks]] — wszędzie głosząc to samo. Mówi kilkoma językami (Szaunisi, Algonkin, Angielski), jest charyzmatycznym mówcą i potrafi być brutalnie konkretny w negocjacjach.
+Jego filozofia polityczna jest spójna i konsekwentna: ziemia jest wspólną własnością wszystkich rdzennych ludzi, żaden jeden naród nie może jej alienować, jedyną odpowiedzią na ekspansję jest jedność. Podróżuje od [[Kanada Brytyjska|Kanady]] po [[Floryda|Florydę]], od ziem [[Osagowie|Osagów]] po [[Mohawkowie|Mohawków]] — wszędzie głosząc to samo. Mówi kilkoma językami (Szaunisi, Algonkin, Angielski), jest charyzmatycznym mówcą i potrafi być brutalnie konkretny w negocjacjach.
 
 W 1802 roku jest w fazie organizacyjnej — szuka sprzymierzeńców, ocenia terytoria, mapuje sojusze. Jego confederacy jeszcze nie istnieje jako formalna struktura. Poczucie pilności wzrośnie po kolejnych traktatach Harrisona w latach 1803–1806.
 
@@ -390,6 +447,8 @@ Wampum — polerowane muszle zdobiące pasy lub sznury — był walutą dyplomat
 
 Fur trade po 1680 roku zrestrukturyzował ekonomię wszystkich wschodnich narodów. Bobier, wydra, jelonek — towary o wysokiej wartości europejskiej. W zamian: broń palna, metal, sukno, alkohol. Zależność od europejskich towarów zmieniła wewnętrzne stosunki między nacjami — kto kontrolował szlak handlowy do Europejczyków, zyskiwał polityczną hegemonię.
 
+Nad tym wszystkim wisi towar, którego rdzenni nie sprzedają nigdy: [[smocza krew]]. Dla europejskich alchemików jest bezcenna, a płaszcz ze smoczej łuski wart tyle, co małe gospodarstwo — dlatego łowcy krwi wchodzą w głąb terytoriów, a rdzenni zabijają ich za to bez wahania. To jedyna gałąź [[Handel futrami|wymiany]], w której nie ma negocjacji, tylko wojna.
+
 ### Medycyna i szamanizm
 
 [[Ada-wehi]] (Czerokesi), [[Midé-wiwin]] (Odżibwe), [[Wičháša wakȟáŋ]] (Lakota) — tytułowe oznaczenia osób posiadających wiedzę uzdrowicielską. Nie ma jednego modelu; w zależności od narodu healer może być:
@@ -416,7 +475,7 @@ W 1802 roku kontakt między rdzennymi a europejskimi/amerykańskimi społeczeńs
 
 **Zależność traktatowa** (Wschód): Narody żyją na ziemiach wyznaczonych przez traktat, z roczną annuity wypłacaną przez rząd USA. Zależność finansowa od rządu, który jednocześnie jest naciskiem na kolejne cesje. Wewnętrzna polityka zdominowana przez pytanie: kiedy i ile oddać, żeby zachować resztę.
 
-**Handel furtami** (Wewnątrz, Kanada): Narody funkcjonują jako partnerzy handlowi — ich umiejętności łowieckie i znajomość terenu są niezbędne dla europejskich firm handlowych. Anglia, Kanada, faktorzy Zatoki Hudsona. Relacja oparta na wzajemnej zależności, nie jednostronnym dyktacie. Wciąż relatywnie partnerska.
+**Handel furtami** (Wewnątrz, Kanada): Narody funkcjonują jako partnerzy handlowi — ich umiejętności łowieckie i znajomość terenu są niezbędne dla europejskich firm handlowych. Anglia, Kanada, faktorzy Zatoki Hudsona. Relacja oparta na wzajemnej zależności, nie jednostronnym dyktacie. Wciąż relatywnie partnerska. W [[Kanada Brytyjska|Kanadzie]] po krótkich, krwawych próbach zaniechano polowań na smoki i wrócono do bobra — krew nie była warta wojny, której nie dało się wygrać.
 
 **Symbioza dyplomatyczna** (Luizjana, południe): Narody jako aktywni gracze w polityce wielomocarstewrowej — grają Hiszpanię przeciw Francji, obie przeciw Anglii, wszystkich troje przeciw USA. Osagowie, Czikazowie, Krikowie. Suwerenność de facto zachowana przez balance-of-power.
 
@@ -432,4 +491,4 @@ Skutki: destrukcja społeczna w wielu wspólnotach, szczególnie bliżej granicy
 
 *Artykuł opisuje stan historyczny na podstawie kronik agentów USA, relacji wojskowych, pamiętników misjonarzy (Heckewelder, Zeisberger), transkryptów traktatów, późniejszych etnografii i rdzennych tradycji ustnych zebranych w XIX i XX wieku. Źródła europejskie i rdzennie-niezależne różnią się; gdzie rozbieżność jest znacząca, odnotowuje się obie wersje.*
 
-*Powiązane artykuły: [[Stany Zjednoczone]], [[Terytorium Luizjany]], [[Tecumseh i Konfederacja]], [[Traktat Greenville]], [[Traktat z Paryża 1783]], [[William Henry Harrison]], [[Handel futrami]].*
+*Powiązane artykuły: [[Stany Zjednoczone]], [[Terytorium Luizjany]], [[Traktat Greenville]], [[William Henry Harrison]], [[Handel futrami]], [[Kanada Brytyjska]], [[Smoki]], [[Dwudusze]], [[Punkty rozbieżności]].*

@@ -1,10 +1,10 @@
 ---
-title: Chiny dynastii Qing (1802)
-tags: [chiny, qing, azja, historia, polityka, gospodarka, spoleczenstwo]
-aliases: [Chiny, Qing, Państwo Środka, China, Cesarstwo Chińskie]
+title: Chiny dynastii Qing
+tags: [chiny, qing, azja, historia, polityka, gospodarka, spoleczenstwo, magia]
+aliases: [Chiny dynastii Qing (1802), Chiny, Qing, Państwo Środka, China, Cesarstwo Chińskie]
 ---
 
-# Chiny dynastii Qing (1802)
+# Chiny dynastii Qing
 
 Cesarstwo Qing rządzi terytorium trzynastu milionów kilometrów kwadratowych i trzystu do trzystu pięćdziesięciu milionów ludzi — jedną czwartą całej ludzkości. Żadne inne państwo roku 1802 nie zbliża się do tej skali. Sieć kanałów, dróg cesarskich i systemu pocztowego jest sprawniejsza niż cokolwiek w Europie. Egzaminy urzędnicze, przez które przechodzą tysiące kandydatów rocznie, utrzymują biurokratyczny aparat bez odpowiednika na świecie.
 
@@ -63,6 +63,30 @@ Teoria mówi, że decyzje płyną z tronu. Praktyka: Pekin jest za daleko, a gub
 
 ---
 
+## Qi, feng shui i sztuki tajemne
+
+Magia Państwa Środka opiera się na *qi* (氣) — życiowej energii, którą hartuje się dyscypliną, oddechem i latami ćwiczeń, daleko od europejskich cudów czy dziedzicznej [[Sorcery]]. Kto ją opanuje, przekracza granice tego, co ciało i krajobraz powinny móc.
+
+[[Feng shui]] (風水) jest najpowszechniejszą z tych sztuk i jedyną w pełni szanowaną przez dwór. Mistrz geomancji czyta przepływ qi przez teren i ustawia mu na drodze budynki, groby i bramy. Pekin, [[Zakazane Miasto]] i cesarskie mauzolea rozplanowano co do piędzi według tych reguł — źle ustawiony pałac osłabia dynastię równie realnie jak przegrana bitwa. Każdy zamożny ród zatrudnia geomantę przy budowie domu i pochówku przodków.
+
+Sztuki walki to druga gałąź. W klasztorach i tajnych szkołach mistrzowie hartują qi tak długo, że ich ciosy kruszą kamień, a najlepsi tną powietrze na odległość — technikę tę nazywa się [[Cięcie Powietrza]]. Takich ludzi jest w trzystumilionowym kraju tysiące, nie miliony, ale rozsiani są wszędzie: wśród mnichów, strażników karawan, wiejskich nauczycieli. [[Buddyzm|Mnisi buddyjscy]] i taoistyczni alchemicy dorzucają własne ścieżki — uzdrawianie, długowieczność, panowanie nad oddechem i strachem.
+
+Nad tym wszystkim ciągnie się [[Wielki Mur]], a jego rola sięga znacznie dalej niż kamień. Mur jest barierą działającą w obie strony. Broni przed najazdem z północy, lecz przede wszystkim ściąga nieszczęście na każdego, kto przekroczy go z bronią: armie najeźdźców więdną od chorób, klątw i złych zrządzeń losu, które kronikarze przypisują samej budowli. Mongołowie pamiętają, że ich przodkowie złamali Mur tylko wtedy, gdy ktoś otworzył im bramę od środka.
+
+W głębszym sensie Mur to feng shui zaklęte w skali kontynentu. Domyka qi Państwa Środka i zatrzymuje jego pomyślność wewnątrz jak wodę w naczyniu. Skutek bywa dwojaki: gdy czasy są dobre i władca mądry, energia krąży, a Cesarstwo kwitnie jak żaden inny kraj świata; gdy tron słabnie, ta sama zamknięta siła kiśnie bez ujścia, a zaraza, bunt i głód mnożą się za murem, który nie chce ich wypuścić. [[Białe Lotosy|Bunt Białego Lotosu]] ma w sobie i ten posmak — moc Cesarstwa, która nie znajduje wyjścia.
+
+To dziedzictwo czyni Chiny twierdzą duchową, której żadna europejska armia nie złamałaby od ręki. Słabość leży gdzie indziej: qi można zatruć.
+
+> [!rules]
+> **Magia chińska:** oparta na *qi* — kultywacja przez dyscyplinę, nie zaklęcia ani Divine Favor
+> **Feng shui:** geomancja realnie wpływająca na pomyślność miejsca; obowiązkowa przy pałacach i grobach
+> **Wielki Mur:** dwukierunkowa bariera — broni i zarazem ściąga klątwy na najeźdźców; jako feng shui domyka qi i pomyślność Chin (rozkwit albo gnicie zależnie od czasów)
+> **Sztuki walki:** qi-adepci (rzadcy, lecz wszędzie); szczyt to [[Cięcie Powietrza]] — cięcie na dystans
+> **Buddyzm i taoizm:** uzdrawianie, długowieczność, panowanie nad ciałem i strachem
+> **Słaby punkt:** kultywowane qi jest wrażliwe na [[Czerwone opium]]
+
+---
+
 ## Bunt Białego Lotosu — imperium w ogniu
 
 ### Geneza
@@ -76,6 +100,8 @@ Bunt wybuchł w 1796 roku w Hubei. Wkrótce ogarnął sąsiednie Syczuan, Henan,
 [[Bannermanowie]] — Mandżurowie, Mongołowie i Chińczycy Han zorganizowani w Osiem Chorągwi (*bāqí*) — byli wojskowym kręgosłupem dynastii Qing. Ich przodkowie podbili Chiny w 1644 roku. Ich potomkowie w 1802 roku nie walczyli od pokoleń, żyją z dziedzicznych subwencji, i nie potrafią prowadzić kampanii w środkowej Chinach.
 
 [[Armia Zielonego Standardu]] — Han Chinese regularne siły — okazała się nie lepiej. Oficerowie kradli żołd; żołnierze dezerterowali; kampanie ciągnęły się latami bez rozstrzygnięcia.
+
+Była i przyczyna, o której reskrypty milczą. Część band Białego Lotosu prowadzą mistrzowie qi i nauczyciele sztuk walki, a najtwardszych wojowników chronią amulety i rytuały, po których ostrza ślizgają się jak po kamieniu. Adeptów jest garstka pośród dziesiątków tysięcy chłopów, lecz garstka, która wierze tłumu dodaje realnego ostrza — i której znudzeni, dziedziczni [[Bannermanowie|bannermani]] nie mają czym odpowiedzieć.
 
 Jiaqing w 1799 roku zaczął polegać na *xiang yong* — lokalnych milicjach finansowanych i dowodzonych przez lokalne elity gentry. Ten model — szlachta lokalna organizuje własną obronę — okaże się skuteczny. Okaże się też precedensem dla późniejszych decentralizacji, które w XIX wieku zdestabilizują Cesarstwo.
 
@@ -116,6 +142,10 @@ Problem protokolarny: Macartney odmówił *kowtow* — trzykrotnego pokłonu z c
 Odpowiedź na pytanie o to, co sprzedać Chinom, pojawia się powoli i nielegalnie. [[Opium]] — przetworzony sok z maku, importowany z Bengalu — jest w Chinach zakazane cesarskim edyktem z 1796 roku. Edykt poprzedni pochodzi z 1729 roku.
 
 W 1802 roku przez Canton przepływa może cztery do pięciu tysięcy skrzynek opium rocznie — towaru przemycanego przez EIC pod przykrywką, z korumpowanymi celnikami po chińskiej stronie. Za kilkanaście lat będzie czterdzieści tysięcy skrzynek. Za czterdzieści lat — Pierwsza Wojna Opiumowa.
+
+Najgorsza odmiana nie figuruje w żadnym rejestrze celnym. [[Czerwone opium]] to mak podlewany destylowaną [[Smocza krew|smoczą krwią]] — surowcem, który [[Kompanie Wschodnioindyjskie|Kompania]] sprowadza zza Atlantyku, z amerykańskich smoków. Jest wielokrotnie silniejsze od zwykłego, a jego prawdziwa trucizna celuje w to, co Chiny mają najcenniejszego: wypala *qi*. Mistrz sztuk walki czy geomanta, który raz po nie sięgnie, w kilka miesięcy traci dyscyplinę budowaną przez całe życie. Gorzka jest sama nazwa — barbarzyńcy ochrzcili swój narkotyk krwią smoka, znaku cesarza i nieba.
+
+Ilu kupców rozumie, że handluje bronią pod postacią używki, trudno orzec; kilku w Kantonie wie doskonale. Pekin widzi, że opium rujnuje ludzi i wysysa srebro — że rujnuje także adeptów Cesarstwa, domyśla się na razie garstka uczonych.
 
 Srebro zaczyna powoli płynąć w odwrotnym kierunku — z Chin do Bengalu. Jiaqing zdaje sobie z tego sprawę i nie wie jak powstrzymać.
 
@@ -215,4 +245,4 @@ Stany Zjednoczone robią interesy z Chinami od 1784 roku — *Empress of China* 
 
 ---
 
-*Powiązane artykuły: [[Kompanie Wschodnioindyjskie]], [[Wielka Brytania (1802)]], [[Handel Trójkątny]], [[Nawigacja i kartografia]], [[Indie Mogołów i Kompania]].*
+*Powiązane artykuły: [[Kompanie Wschodnioindyjskie]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Czerwone opium]], [[Feng shui]], [[Sztuki walki]], [[Wielki Mur]], [[Smocza krew]], [[Punkty rozbieżności]], [[Nawigacja i kartografia]], [[Indie Mogołów i Kompania]].*
