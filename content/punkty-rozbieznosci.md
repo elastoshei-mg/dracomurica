@@ -36,27 +36,27 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Hiszpania]] | NIE |
 | [[Portugalia]] | NIE |
 | [[Państwo Kościelne]] | TAK |
-| [[Stany Zjednoczone]] | NIE |
-| [[Codzienne życie w Stanach Zjednoczonych]] | NIE |
+| [[Stany Zjednoczone]] | TAK |
+| [[Codzienne życie w Stanach Zjednoczonych]] | TAK |
 | [[Terytorium Luizjany]] | NIE |
 | [[Nowy Orlean]] | NIE |
-| [[Haiti]] | NIE |
-| [[Toussaint Louverture]] | NIE |
+| [[Haiti]] | TAK |
+| [[Toussaint Louverture]] | TAK |
 | [[Kanada Brytyjska]] | TAK |
-| [[Rdzenne narody Ameryki Północnej]] | NIE |
+| [[Rdzenne narody Ameryki Północnej]] | TAK |
 | [[Traktat Greenville]] | NIE |
 | [[Handel Trójkątny]] | TAK |
 | [[Handel futrami]] | TAK |
 | [[Korsarze Barbarii]] | NIE |
 | [[Afryka Subsaharyjska]] | NIE |
 | [[Liga Hanzeatycka – Dziedzictwo]] | NIE |
-| [[Kompanie Wschodnioindyjskie]] | NIE |
+| [[Kompanie Wschodnioindyjskie]] | TAK |
 | [[Indie Mogołów i Kompania]] | NIE |
-| [[Chiny dynastii Qing]] | NIE |
+| [[Chiny dynastii Qing]] | TAK |
 | [[Japonia]] | NIE |
-| [[Rewolucja Przemysłowa]] | NIE |
-| [[Oświecenie]] | NIE |
-| [[Wolnomurarstwo]] | NIE |
+| [[Rewolucja Przemysłowa]] | TAK |
+| [[Oświecenie]] | TAK |
+| [[Wolnomurarstwo]] | TAK |
 | [[Cudotwórcy]] | BRAK |
 | [[Cudotwórcy wojskowi]] | BRAK |
 | [[Papież]] | BRAK |
@@ -365,7 +365,7 @@ Skutek jest brutalny. Kolonizatorzy długo nie wiedzieli nawet, że czarnoskórz
 
 W naszej historii rewolucja niewolników na Saint-Domingue była genialnym zrywem militarnym. Tutaj zwycięstwo miało charakter nadnaturalnego horroru. Wszystko zaczęło się od ceremonii w Bois Caïman w sierpniu 1791 roku, którą poprowadzili houngan **Dutty Boukman** i mambo **Cécile Fatiman** — tej nocy, według tradycji, „otwarto bramę". Afrykańskie wiedźmy odprawiły później rytuały, które sprowadziły na wyspę armię zombie i hordy mściwych feyów, przed którymi francuskie wojska uciekały w popłochu.
 
-To zmienia rolę dowódców, ale ich nie zastępuje. [[Toussaint Louverture]] i Jean-Jacques Dessalines pozostają tym, czym byli — genialnymi wodzami, nie czarownikami. Magia jest bronią mambo i houngan; generałowie nią dowodzą, tak jak dowodzi się artylerią. Dlatego uwięzienie Toussainta w forcie de Joux w Alpach w 1802 roku nie kończy rewolucji: armia zombie nie potrzebuje swojego generała, a Dessalines wciąż stoi na wyspie.
+To zmienia rolę dowódców, lecz większości z nich nie zastępuje. Jean-Jacques Dessalines i pozostali generałowie pozostają wodzami, a magia jest bronią mambo i wiedźm, którą dowódcy kierują jak artylerią. Wyjątkiem jest [[Toussaint Louverture]] — sam adept, demonolog paktujący z bytami ognia, idący osobną od kobiecego Voodoo ścieżką [[Europejskie czarostwo|europejskiego czarostwa]]. Dlatego uwięzienie go w forcie de Joux w 1802 roku zabiera wyspie jego ogień, lecz nie kończy rewolucji: armia zombie nie potrzebuje generała, a Dessalines wciąż stoi na wyspie.
 
 Francuzi opuszczają wyspę, ale tego nie da się łatwo odczynić. Wolne [[Haiti]] będzie zdewastowane plagą złośliwych gremlinów, które niszczą plony, psują narzędzia i sieją chaos w młodej republice — cena za otwarcie bramy, której nikt nie umie domknąć. Ekspedycja generała Leclerca i tak topnieje od żółtej febry; w połączeniu z grozą rytuałów Francja traci tu wojsko szybciej, niż jest w stanie je dosyłać.
 

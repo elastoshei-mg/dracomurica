@@ -6,27 +6,21 @@ aliases: [Chiny dynastii Qing (1802), Chiny, Qing, Państwo Środka, China, Cesa
 
 # Chiny dynastii Qing
 
-Cesarstwo Qing rządzi terytorium trzynastu milionów kilometrów kwadratowych i trzystu do trzystu pięćdziesięciu milionów ludzi — jedną czwartą całej ludzkości. Żadne inne państwo roku 1802 nie zbliża się do tej skali. Sieć kanałów, dróg cesarskich i systemu pocztowego jest sprawniejsza niż cokolwiek w Europie. Egzaminy urzędnicze, przez które przechodzą tysiące kandydatów rocznie, utrzymują biurokratyczny aparat bez odpowiednika na świecie.
+Cesarstwo Qing rządzi terytorium trzynastu milionów kilometrów kwadratowych i trzystu do trzystu pięćdziesięciu milionów ludzi — jedną czwartą całej ludzkości. Żadne inne państwo roku 1802 nie zbliża się do tej skali. Sieć kanałów, dróg cesarskich i poczty działa sprawniej niż cokolwiek w Europie, a egzaminy urzędnicze utrzymują biurokrację bez odpowiednika na świecie.
 
-Jednocześnie od 1796 roku płonie środkowe Cesarstwo. Bunt Białego Lotosu obejmuje Hubei, Syczuan, Henan i Shaanxi. Bannermen — Mandżurskie siły zbrojne, które trzy pokolenia temu podbiły całą Azję Wschodnią — okazują się niezdolni do tłumienia chłopskich powstań. W kantonie Guangzhou europejscy kupcy czekają w wyznaczonych faktorjach na przyzwolenie do handlu, uzbrojeni w towary, których Chińczycy nie chcą, i coraz bardziej zainteresowani substancją, której nie powinni sprzedawać.
+Od 1796 roku płonie jednak środkowe Cesarstwo. Bunt Białego Lotosu obejmuje Hubei, Syczuan, Henan i Shaanxi, a mandżurskie chorągwie, które trzy pokolenia temu podbiły Azję Wschodnią, nie radzą sobie z chłopskim powstaniem. W Kantonie europejscy kupcy czekają w wyznaczonych faktoriach na przyzwolenie do handlu, uzbrojeni w towary, których Chińczycy nie chcą, i coraz bardziej zainteresowani substancją, której sprzedawać nie wolno.
 
 ---
 
-## Cesarz Jiaqing i cień Heshen
+## Cesarz Jiaqing i cień Heshena
 
-### Abdykacja Qianlonga i koniec regencji
+Cesarz Qianlong abdykował 9 lutego 1796 roku po sześćdziesięciu latach panowania, bo nie chciał rządzić dłużej niż jego dziadek Kangxi. Tron przekazał synowi Yongyan, który przyjął dewizę Jiaqing — lecz przez kolejne trzy lata sam dalej podejmował decyzje, przyjmował petycje i dyktował reskrypty. Umarł dziewięćdziesięcioletni 7 lutego 1799 roku, największy ekspansjonista w dziejach Chin: podwoił terytorium, pobił Dzungarów, zajął wschodni Turkiestan, umocnił zwierzchność nad Tybetem i Birmą. Zostawił też po sobie Heshena.
 
-Cesarz Qianlong abdykował formalnie 9 lutego 1796 roku — po sześćdziesięciu latach panowania, bo nie chciał rządzić dłużej niż jego dziadek Kangxi. Przekazał tron synowi Yongyan, który przyjął dewizę panowania Jiaqing. Qianlong jednak nie przestał rządzić — przez trzy lata dalej podejmował decyzje, przyjmował petycje, dyktował reskrypty.
+Heshen (和珅) był faworytem Qianlonga przez dwadzieścia trzy lata — pięknym młodym strażnikiem, który stał się Wielkim Sekretarzem i wszechwładnym pośrednikiem dostępu do cesarza. Każdy gubernator, każdy kandydat na urząd, każdy kupiec szukający łaski płacił jemu. Majątek skonfiskowany po jego aresztowaniu szacowano na osiemset milionów do miliarda taelów srebra — osiem do dziesięciu razy więcej niż roczny dochód skarbu.
 
-Umarł 7 lutego 1799 roku, dziewięćdziesięcioletni. Był największym ekspansjonistą w historii Chin: podwoił terytorium Cesarstwa, pobił Dzungarów, podbił wschodni Turkiestan, umocnił zwierzchność nad Tybetem i Birmą. Zostawił też po sobie coś mniej chwały: Heshen.
+Jiaqing aresztował go piętnaście dni po śmierci ojca. Sąd orzekł w tydzień; Heshen dostał jedwabny sznur, zaszczyt pozwalający na samobójstwo zamiast publicznej egzekucji. Gest był politycznie czytelny — Jiaqing pokazał, że rządzi, i zarazem zabrał skarbowi środki, którymi tamten mógłby finansować swoich stronników. Korupcja, którą Heshen uosabiał, była wbudowana w system, gdzie urzędnik zarabiał mało, a na reprezentację wydawał dużo.
 
-### Heshen i jego koniec
-
-[[Heshen]] (和珅) był faworytem Qianlonga przez dwadzieścia trzy lata — piękny młody strażnik, który stał się Wielkim Sekretarzem, wszechpotężnym pośrednikiem dostępu do cesarza. Każdy gubernator, każdy kandydat na wyższe stanowisko, każdy kupiec szukający imperialnej łaski płacił Heshenowi. Szacunki majątku skonfiskowanego po jego areszcie: osiemset milionów do miliarda taelów srebrnych — od osiem do dziesięciu razy więcej niż roczny dochód skarbu Cesarstwa.
-
-Jiaqing aresztował Heshen piętnaście dni po śmierci ojca. Sąd wydał wyrok w ciągu tygodnia. Heshen otrzymał jedwabny sznur — zaszczyt pozwalający popełnić samobójstwo zamiast publicznej egzekucji. Majątek skonfiskowany. Rodzina ocalała.
-
-Gest był politycznie czytelny: Jiaqing wykazał, że rządzi, i jednocześnie zabrał skarbowi środki na dalsze prowadzenie buntu Białego Lotosu.
+Sam Jiaqing nie przypomina ojca. Brak mu ekspansjonistycznych ambicji i artystycznych pasji Qianlonga, który napisał czterdzieści tysięcy wierszy; jest pracowitym, rozsądnym i osobiście skromnym administratorem, a jego rządy nazwą później epoką naprawy po Heshenie. Bunt Białego Lotosu pochłonie energię pierwszej połowy panowania.
 
 > [!rules]
 > **Cesarstwo Qing (1802)**
@@ -34,32 +28,18 @@ Gest był politycznie czytelny: Jiaqing wykazał, że rządzi, i jednocześnie z
 > **Terytorium:** ~13 mln km² (Chiny właściwe + Mandżuria + Mongolia + Xinjiang + Tybet + Tajwan)
 > **Populacja:** ~300–350 mln (szacunki — brak nowoczesnego spisu)
 > **Stolica:** Pekin (~1 mln mieszkańców)
-> **Waluta:** taele srebrne (duże transakcje), miedziane pule/wen (codzienność)
-> **Roczny dochód skarbu:** ok. 40–80 mln taelów (zmienny, bunt obciąża)
+> **Waluta:** taele srebra (duże transakcje), miedziane wen (codzienność)
+> **Roczny dochód skarbu:** ok. 40–80 mln taelów
 
 ---
 
 ## System konfucjański — biurokracja jako cywilizacja
 
-### Egzaminy
+Chiński system egzaminów urzędniczych (科舉, *kējǔ*) działał nieprzerwanie od dynastii Sui, od 605 roku. Każdy mężczyzna z dostatecznymi środkami na naukę mógł do nich przystąpić i przez umiejętności wejść do administracji. Były trzy szczeble: egzaminy powiatowe wyłaniały klasę szenyuanów (biała szata, prestiż, brak stanowiska), prowincjonalne co trzy lata dawały stopień *juren* uprawniający do niższych urzędów, a stołeczne w Pekinie, zwieńczone audiencją cesarską, przyznawały tytuł *jinshi* — może dwustu, trzystu ludziom na rok. Przez cały cykl przewijały się setki tysięcy kandydatów; przechodził mniej więcej jeden na stu.
 
-Chiński system egzaminów urzędniczych (科舉, *kējǔ*) działał nieprzerwanie od dynastii Sui (605 rok n.e.). Każdy mężczyzna — bez względu na urodzenie, lecz z wymaganymi środkami na naukę — mógł przystąpić do egzaminów i przez umiejętności wejść do administracji państwowej.
+Kandydat musiał znać na pamięć Cztery Księgi i Pięć Klasyków konfucjańskich, a esej pisać w ściśle uregulowanej formie *baguwen*, bez miejsca na własne odchylenie; kaligrafia liczyła się równie mocno co treść, a komentarz poza kanonem groził dyskwalifikacją za herezję. System nagradzał doskonałą pamięć i opanowanie formy; nowatorstwo leżało poza jego celem.
 
-W praktyce: trzy szczeble. Egzaminy powiatowe i prefekturalne tworzą klasę szenyuanów (*生員*, dosłownie: studenci), popularnie zwanych *xiucai* — biała szata, pewien prestiż, brak konkretnego stanowiska. Egzaminy prowincjonalne co trzy lata wyłaniają *juren* (*舉人*) — stopień uprawniający do niższych urzędów i do udziału w egzaminach stołecznych. Egzaminy stołeczne w Pekinie, zwieńczone audiencją cesarską: *jinshi* (*進士*), może dwieście do trzystu osób na cały rok.
-
-Przez trzyletni cykl przez system przechodzą setki tysięcy kandydatów. Przechodzi może jeden na stu na każdym szczeblu. Reszta wraca do nauki, do rolnictwa, do handlu — z tytułem lub bez.
-
-### Co egzaminują
-
-Kandydat musi opanować [[Cztery Księgi]] i [[Pięć Klasyków]] konfucjańskich na pamięć. Esej musi być napisany w formacie *baguwen* — ośmionożny esej, ściśle regulowana struktura argumentacji bez miejsca na indywidualne odchylenie. Kaligrafja równie ważna co treść.
-
-Komentarz poza kanonicznym układem znaczeń grozi dyskwalifikacją za herezję. System nagradza doskonałą pamięć i opanowanie formy. Nie jest zaprojektowany do wytwarzania innowatorów.
-
-### Struktura administracyjna
-
-Rada Wojenna (*jūnjī chù*, Junjichu) jest rzeczywistym centrum władzy — dziesięciu do piętnastu najwyższych urzędników, którzy codziennie spotykają się z cesarzem o świcie. Sześc Ministerstw obsługuje sprawy cywilne, skarbowe, rytualne, wojskowe, karne i robót publicznych. Osiemnaście prowincji ma każda Gubernatora (*xunfu*) i Generalnego Gubernatora (*zongdu*) — często jeden zarządza dwiema prowincjami.
-
-Teoria mówi, że decyzje płyną z tronu. Praktyka: Pekin jest za daleko, a gubernator ma za dużo swobody. Korupcja jest wbudowana w system — urzędnik zarabia mało, wydaje dużo na reprezentację, różnicę pokrywa *luo gui*, szara strefa płatności. Heshen był ekstremalnym przykładem, nie wyjątkiem.
+Rzeczywistym centrum władzy była Rada Wojenna (*Junjichu*) — kilkunastu najwyższych urzędników spotykających się z cesarzem o świcie. Sześć Ministerstw obsługiwało sprawy cywilne, skarbowe, rytualne, wojskowe, karne i roboty publiczne, a osiemnaście prowincji miało gubernatorów i generalnych gubernatorów, często zarządzających dwiema prowincjami naraz. Teoria mówiła, że decyzje płyną z tronu; w praktyce Pekin był za daleko, a gubernator miał za dużo swobody, więc różnicę między nędzną pensją a kosztami urzędu pokrywała szara strefa płatności.
 
 ---
 
@@ -67,182 +47,78 @@ Teoria mówi, że decyzje płyną z tronu. Praktyka: Pekin jest za daleko, a gub
 
 Magia Państwa Środka opiera się na *qi* (氣) — życiowej energii, którą hartuje się dyscypliną, oddechem i latami ćwiczeń, daleko od europejskich cudów czy dziedzicznej [[Sorcery]]. Kto ją opanuje, przekracza granice tego, co ciało i krajobraz powinny móc.
 
-[[Feng shui]] (風水) jest najpowszechniejszą z tych sztuk i jedyną w pełni szanowaną przez dwór. Mistrz geomancji czyta przepływ qi przez teren i ustawia mu na drodze budynki, groby i bramy. Pekin, [[Zakazane Miasto]] i cesarskie mauzolea rozplanowano co do piędzi według tych reguł — źle ustawiony pałac osłabia dynastię równie realnie jak przegrana bitwa. Każdy zamożny ród zatrudnia geomantę przy budowie domu i pochówku przodków.
+[[Feng shui]] (風水) jest najpowszechniejszą z tych sztuk i jedyną w pełni szanowaną przez dwór. Mistrz geomancji czyta przepływ qi przez teren i ustawia mu na drodze budynki, groby i bramy. Pekin, Zakazane Miasto i cesarskie mauzolea rozplanowano co do piędzi według tych reguł — źle ustawiony pałac osłabia dynastię równie realnie jak przegrana bitwa. Każdy zamożny ród zatrudnia geomantę przy budowie domu i pochówku przodków.
 
-Sztuki walki to druga gałąź. W klasztorach i tajnych szkołach mistrzowie hartują qi tak długo, że ich ciosy kruszą kamień, a najlepsi tną powietrze na odległość — technikę tę nazywa się [[Cięcie Powietrza]]. Takich ludzi jest w trzystumilionowym kraju tysiące, nie miliony, ale rozsiani są wszędzie: wśród mnichów, strażników karawan, wiejskich nauczycieli. [[Buddyzm|Mnisi buddyjscy]] i taoistyczni alchemicy dorzucają własne ścieżki — uzdrawianie, długowieczność, panowanie nad oddechem i strachem.
+Sztuki walki to druga gałąź. W klasztorach i tajnych szkołach mistrzowie hartują qi tak długo, że ich ciosy kruszą kamień, a najlepsi tną powietrze na odległość — technikę tę nazywa się [[Cięcie Powietrza]]. W trzystumilionowym kraju jest ich ledwie tysiące, rozsianych wszędzie: wśród mnichów, strażników karawan, wiejskich nauczycieli. [[Buddyzm|Mnisi buddyjscy]] i taoistyczni alchemicy dorzucają własne ścieżki — uzdrawianie, długowieczność, panowanie nad oddechem i strachem.
 
 Nad tym wszystkim ciągnie się [[Wielki Mur]], a jego rola sięga znacznie dalej niż kamień. Mur jest barierą działającą w obie strony. Broni przed najazdem z północy, lecz przede wszystkim ściąga nieszczęście na każdego, kto przekroczy go z bronią: armie najeźdźców więdną od chorób, klątw i złych zrządzeń losu, które kronikarze przypisują samej budowli. Mongołowie pamiętają, że ich przodkowie złamali Mur tylko wtedy, gdy ktoś otworzył im bramę od środka.
 
-W głębszym sensie Mur to feng shui zaklęte w skali kontynentu. Domyka qi Państwa Środka i zatrzymuje jego pomyślność wewnątrz jak wodę w naczyniu. Skutek bywa dwojaki: gdy czasy są dobre i władca mądry, energia krąży, a Cesarstwo kwitnie jak żaden inny kraj świata; gdy tron słabnie, ta sama zamknięta siła kiśnie bez ujścia, a zaraza, bunt i głód mnożą się za murem, który nie chce ich wypuścić. [[Białe Lotosy|Bunt Białego Lotosu]] ma w sobie i ten posmak — moc Cesarstwa, która nie znajduje wyjścia.
+W głębszym sensie Mur to feng shui zaklęte w skali kontynentu. Domyka qi Państwa Środka i zatrzymuje jego pomyślność wewnątrz jak wodę w naczyniu. Skutek bywa dwojaki: gdy czasy są dobre i władca mądry, energia krąży, a Cesarstwo kwitnie jak żaden inny kraj świata; gdy tron słabnie, ta sama zamknięta siła kiśnie bez ujścia, a zaraza, bunt i głód mnożą się za murem, który nie chce ich wypuścić. Bunt Białego Lotosu ma w sobie i ten posmak — moc Cesarstwa, która nie znajduje wyjścia.
 
 To dziedzictwo czyni Chiny twierdzą duchową, której żadna europejska armia nie złamałaby od ręki. Słabość leży gdzie indziej: qi można zatruć.
-
-> [!rules]
-> **Magia chińska:** oparta na *qi* — kultywacja przez dyscyplinę, nie zaklęcia ani Divine Favor
-> **Feng shui:** geomancja realnie wpływająca na pomyślność miejsca; obowiązkowa przy pałacach i grobach
-> **Wielki Mur:** dwukierunkowa bariera — broni i zarazem ściąga klątwy na najeźdźców; jako feng shui domyka qi i pomyślność Chin (rozkwit albo gnicie zależnie od czasów)
-> **Sztuki walki:** qi-adepci (rzadcy, lecz wszędzie); szczyt to [[Cięcie Powietrza]] — cięcie na dystans
-> **Buddyzm i taoizm:** uzdrawianie, długowieczność, panowanie nad ciałem i strachem
-> **Słaby punkt:** kultywowane qi jest wrażliwe na [[Czerwone opium]]
 
 ---
 
 ## Bunt Białego Lotosu — imperium w ogniu
 
-### Geneza
+Białe Lotosy (*Báilián jiào*) to millenarystyczna sekta buddyjska z tradycją sięgającą XIII wieku. Jej odmiana z końca XVIII wieku głosiła nadejście nowej ery i Maitrei, Buddy przyszłości, i rekrutowała wśród chłopów środkowych Chin zrujnowanych przez powodzie, suszę i korupcję urzędników. Bunt wybuchł w 1796 roku w Hubei i wkrótce ogarnął Syczuan, Henan i Shaanxi; lokalni przywódcy mieli własne armie po dziesiątki tysięcy ludzi, a cesarska odpowiedź była powolna i kosztowna.
 
-[[Białe Lotosy]] (*Báilián jiào*) to millenialistyczna sekta buddyjska z tradycją sięgającą XIII wieku. Jej odmiana, aktywna od lat dziewięćdziesiątych XVIII wieku, głosiła nadejście nowej ery i Maitreyi — Buddy przyszłości. Rekrutowała wśród chłopów środkowych Chin zrujnowanych przez powodzie, suszę i korupcję lokalnych urzędników.
+Mandżurskie Osiem Chorągwi (*bāqí*), wojskowy kręgosłup dynastii, zawiodło. Potomkowie zdobywców z 1644 roku nie walczyli od pokoleń, żyli z dziedzicznych subwencji i nie umieli prowadzić kampanii w środkowych Chinach. Armia Zielonego Standardu, regularne siły chińskie, sprawdzała się nie lepiej: oficerowie kradli żołd, żołnierze dezerterowali, a kampanie ciągnęły się latami bez rozstrzygnięcia.
 
-Bunt wybuchł w 1796 roku w Hubei. Wkrótce ogarnął sąsiednie Syczuan, Henan, Shaanxi. Przywódcy lokalni mieli własne armie liczące dziesiątki tysięcy; cesarska odpowiedź była powolna i kosztowna.
+Była i przyczyna, o której reskrypty milczą. Część band Białego Lotosu prowadzą mistrzowie qi i nauczyciele sztuk walki, a najtwardszych wojowników chronią amulety i rytuały, po których ostrza ślizgają się jak po kamieniu. Adeptów jest garstka pośród dziesiątków tysięcy chłopów, lecz garstka, która dodaje wierze tłumu realnego ostrza — i której znudzeni, dziedziczni chorążowie nie mają czym odpowiedzieć.
 
-### Klęska bannermanów
-
-[[Bannermanowie]] — Mandżurowie, Mongołowie i Chińczycy Han zorganizowani w Osiem Chorągwi (*bāqí*) — byli wojskowym kręgosłupem dynastii Qing. Ich przodkowie podbili Chiny w 1644 roku. Ich potomkowie w 1802 roku nie walczyli od pokoleń, żyją z dziedzicznych subwencji, i nie potrafią prowadzić kampanii w środkowej Chinach.
-
-[[Armia Zielonego Standardu]] — Han Chinese regularne siły — okazała się nie lepiej. Oficerowie kradli żołd; żołnierze dezerterowali; kampanie ciągnęły się latami bez rozstrzygnięcia.
-
-Była i przyczyna, o której reskrypty milczą. Część band Białego Lotosu prowadzą mistrzowie qi i nauczyciele sztuk walki, a najtwardszych wojowników chronią amulety i rytuały, po których ostrza ślizgają się jak po kamieniu. Adeptów jest garstka pośród dziesiątków tysięcy chłopów, lecz garstka, która wierze tłumu dodaje realnego ostrza — i której znudzeni, dziedziczni [[Bannermanowie|bannermani]] nie mają czym odpowiedzieć.
-
-Jiaqing w 1799 roku zaczął polegać na *xiang yong* — lokalnych milicjach finansowanych i dowodzonych przez lokalne elity gentry. Ten model — szlachta lokalna organizuje własną obronę — okaże się skuteczny. Okaże się też precedensem dla późniejszych decentralizacji, które w XIX wieku zdestabilizują Cesarstwo.
-
-### Stan w 1802 roku
-
-Bunt trwa szósty rok. Koszty: może dwieście milionów taelów — dwa do trzech rocznych dochodów skarbu. Cesarscy generałowie zmieniają się; żaden nie przynosi decydującego zwycięstwa. Kilku zostaje straconych za porażki lub korupcję.
-
-Bunt zostanie ostatecznie stłumiony w 1804 roku przez lokalne milicje, nie przez cesarskie armie. Lekcja nie zostanie wyciągnięta na czas.
+Od 1799 roku Jiaqing zaczął polegać na *xiang yong* — lokalnych milicjach finansowanych i dowodzonych przez miejscową gentry. Model ten okaże się skuteczny i zarazem stanie się precedensem dla decentralizacji, która w XIX wieku rozsadzi Cesarstwo. Bunt trwa szósty rok i pochłonął już może dwieście milionów taelów, dwa do trzech rocznych dochodów skarbu; cesarscy generałowie zmieniają się, kilku stracono za porażki lub korupcję, a ostateczne stłumienie przyniosą dopiero w 1804 roku lokalne milicje. Pomniejsi prorocy mnożą się przy tym na prowincji — jeden z nich, Lin Qing z sekty Niebiańskiej Bramy, jedenaście lat później poprowadzi zuchwały szturm na samo Zakazane Miasto.
 
 ---
 
 ## System Kantonu — handel na cesarskich warunkach
 
-### Jedna brama do Chin
+Wszystkie kontakty handlowe z zagranicą przechodzą przez jeden punkt: Guangzhou, które Europejczycy zwą Kantonem. Edykt z 1757 roku zamknął całą wymianę zamorską do tego portu i do systemu licencjonowanych kupców znanych jako Cohong. Europejski kupiec przypływa na sezon handlowy — od jesieni do wiosny, gdy monsun sprzyja żegludze — nie wolno mu wejść do samego miasta, mieszka i handluje w wąskim pasie faktorii przy rzece Perłowej, a po sezonie opuszcza Chiny. Każdą transakcję prowadzi kupiec Cohong, który bierze marżę i odpowiada przed władzami za zachowanie cudzoziemców.
 
-Wszystkie kontakty handlowe z zagranicznymi mocarstwami przechodzą przez jeden punkt: Guangzhou, który Europejczycy nazywają Kantonem. Edykt z 1757 roku ograniczył całą zamorską wymianę do tego jednego portu — i do systemu licencjonowanych chińskich kupców, znanych jako [[Cohong]] (*gōngháng*, 公行).
+Chiny sprzedają herbatę, jedwab i porcelanę. Herbata jest największą pozycją: [[Kompanie Wschodnioindyjskie|brytyjska Kompania Wschodnioindyjska]] wozi do Anglii miliony funtów rocznie, płacąc srebrem. Bilans od stulecia wychodzi Chinom na korzyść — srebro z Ameryki przez Manilę i z Europy przez Lizbonę płynie do Państwa Środka. Europejski kłopot brzmi: co sprzedać Chinom, żeby nie płacić samym srebrem. Zegary i mechaniczne cudeńka idą jako prezenty dla cesarza, nie towar masowy; sukna i szkła Chiny mają własne.
 
-Europejski kupiec przybywa do Kantonu na sezon handlowy — od jesieni do wiosny, gdy monsun pozwala na żeglugę. Nie może wchodzić do miasta Guangzhou. Musi mieszkać i handlować w wyznaczonym pasie faktorii przy brzegu rzeki Pearl — kilkanaście budynków, każdy pod flagą handlową innej nacji lub Kompanii. Po sezonie: opuść Chiny.
+Człowiekiem, z którym Europejczycy faktycznie rozmawiają, jest młody kupiec Cohong nazywany przez nich Houqua (Wu Bingjian). W 1802 roku dopiero wchodzi w okres największej potęgi, lecz już udziela kredytów zagranicznym handlarzom i mówi po angielsku na poziomie roboczym; w ciągu kilku dekad stanie się jednym z najbogatszych ludzi świata. Gdy Kompania traci monopol, a prywatni kupcy potrzebują pieniędzy na herbatę, pożycza im Houqua — i wygrywają obie strony.
 
-Każda transakcja przechodzi przez kupca Cohong — licencjonowanego monopolistę. On bierze marżę; on też odpowiada przed władzami za zachowanie obcokrajowców.
+W 1793 roku Jerzy III wysłał lorda Macartneya do Qianlonga z prośbą o stałe przedstawicielstwo, zniesienie ograniczeń i otwarcie nowych portów. Macartney przywiózł zbiór europejskich wynalazków jako dowód, że ma co oferować, lecz Qianlong odmówił, a jego odpowiedź dla Jerzego III przeszła do historii: Cesarstwo posiada w obfitości wszystko, czego potrzebuje, i nie musi nabywać wyrobów barbarzyńców. Spór protokolarny — Macartney ukłonił się na jedno kolano zamiast wykonać trzykrotny *kowtow* trybutariusza — Qianlong przełknął, lecz odpowiedzi nie zmienił.
 
-### Co Chiny sprzedają
+Odpowiedź na pytanie o towar przyszła powoli i nielegalnie. Opium, przetworzony sok makowy z Bengalu, jest w Chinach zakazane edyktem od 1729 roku, a ponownie od 1796; mimo to przez Kanton przepływa rocznie cztery do pięciu tysięcy skrzyń przemycanych pod przykrywką, przy przekupionych celnikach. Za kilkanaście lat będzie ich czterdzieści tysięcy, a za czterdzieści — wybuchnie pierwsza wojna opiumowa.
 
-Herbata, jedwab i porcelana. Herbata jest w 1802 roku największą pozycją: [[Angielska Kompania Wschodnioindyjska]] (EIC) wozi do Anglii miliony funtów herbaty rocznie, opłacając za nią srebrem. Bilans jest dla Chin korzystny od stulecia — srebro z Ameryki Łacińskiej przez Manilę, srebro z Europy przez Lizbonę — wszystko płynie do Chin.
-
-Europejski problem: co sprzedać Chinom, żeby nie płacić samym srebrem. Zegarki i urządzenia mechaniczne są prezentami dla cesarza, nie towarem masowym. Sukno angielskie — Chiny mają swoje. Szkło — Chiny mają swoje. [[Kompania Wschodnioindyjska]] szuka odpowiedzi od dekad.
-
-### Misja Macartneya i jej wynik
-
-W 1793 roku Jerzy III wysłał Lorda [[George Macartney|Macartneya]] do Qianlonga z propozycją stałego dyplomatycznego przedstawicielstwa, zniesienia ograniczeń handlowych i otwarcia dodatkowych portów. Macartney przywiózł kolekcję europejskich wynalazków i produktów jako dowód na to, że ma coś do zaoferowania.
-
-Qianlong odmówił. Cesarska odpowiedź, wysłana do Jerzego III, jest jednym z najbardziej słynnych dokumentów dyplomacji XVIII wieku: *„Nasze Imperium posiada w obfitości wszystko, czego może potrzebować, i nie potrzebuje nabywać u obcych barbarzyńców produktów własnych lub obcych. Nie wykazujemy zatem żadnej potrzeby ich wynalazków."*
-
-Problem protokolarny: Macartney odmówił *kowtow* — trzykrotnego pokłonu z czołem dotykającym ziemi, wymaganego od trybutariuszy. Ukłonił się na jedno kolano. Qianlong zaakceptował tę modyfikację — ale nie zmienił swojej odpowiedzi.
-
-### Opium — wchodzące zagrożenie
-
-Odpowiedź na pytanie o to, co sprzedać Chinom, pojawia się powoli i nielegalnie. [[Opium]] — przetworzony sok z maku, importowany z Bengalu — jest w Chinach zakazane cesarskim edyktem z 1796 roku. Edykt poprzedni pochodzi z 1729 roku.
-
-W 1802 roku przez Canton przepływa może cztery do pięciu tysięcy skrzynek opium rocznie — towaru przemycanego przez EIC pod przykrywką, z korumpowanymi celnikami po chińskiej stronie. Za kilkanaście lat będzie czterdzieści tysięcy skrzynek. Za czterdzieści lat — Pierwsza Wojna Opiumowa.
-
-Najgorsza odmiana nie figuruje w żadnym rejestrze celnym. [[Czerwone opium]] to mak podlewany destylowaną [[Smocza krew|smoczą krwią]] — surowcem, który [[Kompanie Wschodnioindyjskie|Kompania]] sprowadza zza Atlantyku, z amerykańskich smoków. Jest wielokrotnie silniejsze od zwykłego, a jego prawdziwa trucizna celuje w to, co Chiny mają najcenniejszego: wypala *qi*. Mistrz sztuk walki czy geomanta, który raz po nie sięgnie, w kilka miesięcy traci dyscyplinę budowaną przez całe życie. Gorzka jest sama nazwa — barbarzyńcy ochrzcili swój narkotyk krwią smoka, znaku cesarza i nieba.
-
-Ilu kupców rozumie, że handluje bronią pod postacią używki, trudno orzec; kilku w Kantonie wie doskonale. Pekin widzi, że opium rujnuje ludzi i wysysa srebro — że rujnuje także adeptów Cesarstwa, domyśla się na razie garstka uczonych.
-
-Srebro zaczyna powoli płynąć w odwrotnym kierunku — z Chin do Bengalu. Jiaqing zdaje sobie z tego sprawę i nie wie jak powstrzymać.
+Najgorsza odmiana nie figuruje w żadnym rejestrze. [[Czerwone opium]] to mak podlewany destylowaną [[Smocza krew|smoczą krwią]], surowcem, który [[Kompanie Wschodnioindyjskie|Kompania]] sprowadza zza Atlantyku, z amerykańskich smoków. Jest wielokrotnie silniejsze od zwykłego, a jego prawdziwa trucizna celuje w to, co Chiny mają najcenniejszego — wypala *qi*. Mistrz sztuk walki albo geomanta, który raz po nie sięgnie, w kilka miesięcy traci dyscyplinę budowaną przez całe życie. Gorzka jest sama nazwa: barbarzyńcy ochrzcili swój narkotyk krwią smoka, znaku cesarza i nieba. Ilu kupców rozumie, że handluje bronią pod postacią używki, trudno orzec — kilku w Kantonie wie doskonale. Pekin widzi, że opium rujnuje ludzi i wysysa srebro; że rujnuje także adeptów Cesarstwa, domyśla się na razie garstka uczonych. Srebro zaczyna płynąć w odwrotną stronę, z Chin do Bengalu, a Jiaqing nie wie, jak to powstrzymać.
 
 ---
 
 ## Społeczeństwo — trzysta milionów ludzi
 
-### Struktura
+Na szczycie stoją Mandżurowie, dynastyczna elita — może dwa miliony wśród trzystu trzydziestu — zwolnieni z części wymogów egzaminacyjnych, wyłączeni z zawodów handlowych i utrzymywani z państwowych subwencji; chorąży bez subwencji jest bezradny, bo to zależność wyuczona przez pokolenia. Przytłaczającą większością są Hanowie, ułożeni w konfucjańską hierarchię rang: uczeni, rolnicy, rzemieślnicy, kupcy. Kupiec stoi na dole tej drabiny ideologicznej, choćby był bogatszy od urzędnika — lecz bogaty kupiec opłaci synowi naukę, syn zda egzaminy, a wnuk zostanie urzędnikiem, więc mobilność przez edukację jest realna. Rolnicy to jakieś osiemdziesiąt procent ludności; podatek pogłówny zniósł Kangxi w 1713 roku, co zmniejszyło presję na ukrywanie urodzin.
 
-Na szczycie hierarchii: *Mandżurowie* — dynastyczna elita, może dwa miliony wśród trzystu trzydziestu milionów. Nie muszą zdawać egzaminów na preferencyjnych warunkach. Nie mogą wykonywać zawodów handlowych. Mają subwencje od państwa. Bannerman bez subwencji jest bezradny — to wyuczona zależność przez pokolenia.
+Kukurydza, bataty i orzeszki ziemne przybyły z Ameryk przez Filipiny w XVI i XVII wieku. Rosną na gruntach zbyt jałowych i górzystych dla ryżu czy pszenicy, więc pozwoliły zasiedlić nowe ziemie, a chińska ludność podwoiła się przez XVIII wiek ze stu pięćdziesięciu do trzystu milionów. Wzrost ludności wyprzedził jednak wzrost produkcji żywności: ziarno i dzierżawa drożeją, a chłopi migrują na nowe ziemie Syczuanu, Yunnanu i górzystego środka kraju — gdzie trafiają na Białe Lotosy.
 
-*Han Chinese* to przytłaczająca większość. Konfucjańska hierarchia rang: uczeni (shì), rolnicy (nóng), rzemieślnicy (gōng), kupcy (shāng). Kupiec jest na dole hierarchii ideologicznej mimo że może być bogatszy od urzędnika. W praktyce bogaty kupiec kupi synowi wykształcenie, syn zda egzaminy, wnuk będzie urzędnikiem. Mobilność społeczna przez edukację istnieje i jest realna.
-
-*Rolnicy* stanowią może osiemdziesiąt procent populacji. Własność ziemi: kombinacja własności prywatnej, dzierżawy od ziemiaństwa i komunalnych pól rodzinnych. Opodatkowanie w ziarnie lub w srebrze. Podatek od głowy zniesiony przez Kangxi w 1713 roku (podatek ziemski go zastąpił) — co zmniejszyło presję na ukrywanie urodzin.
-
-### Nowe uprawy i przeludnienie
-
-Kukurydza, bataty i orzeszki ziemne przybyły z Ameryk przez Filipiny w XVI–XVII wieku. Nie wymagają żyznej gleby — rosną na górzystych terenach. Umożliwiły zasiedlenie obszarów dotąd nieuprawianych. Chińska populacja między 1700 a 1800 rokiem wzrosła mniej więcej ze stu pięćdziesięciu milionów do trzystu milionów.
-
-Wzrost populacji wyprzedza wzrost produkcji żywności. Ziarno jest coraz droższe. Ziemi dzierżawnej jest coraz mniej i coraz droższa. Chłopi migrują na nowe ziemie — do Syczuanu, do Yunnan, do górzystych środkowych Chin. Tam trafiają na Białe Lotosy.
-
-### Kobiety
-
-*Krępowanie stóp* (*chánjú*, 纏足) — owijanie stóp dziewcząt od czwartego do siódmego roku życia aż kości się zgną — jest praktyką Han Chinese, nie Mandżurską (Qianlong wydał kilka edyktów potępiających ją wśród Mandżurek). Ideał: stopa złoty lotos, dziesięć do jedenastu centymetrów. W praktyce: zniekształcenie kości i chód wymagający wsparcia.
-
-Skalę trudno oszacować: powszechna wśród klasy średniej i zamożnych Han; rzadsza wśród ubogich rolniczek, których praca polowa byłaby niemożliwa. Nie stosowana przez Hakka, niektóre grupy etniczne południa, Mandżurki i ludy etniczne Cesarstwa.
-
-Prawna zdolność kobiet: znikoma. Żona podlega mężowi; wdowa — teściowi lub najstarszemu synowi. Pisarki, poetki, malarki istniały w historii Chin — zawsze jako wyjątek, nigdy jako norma.
+Krępowanie stóp (*chánjú*, 纏足) — owijanie stóp dziewczynek od czwartego roku życia, aż kości się wygną — jest praktyką Hanów, nie Mandżurów (Qianlong potępiał je wśród Mandżurek). Ideał „złotego lotosu" to stopa długości dziesięciu centymetrów, w praktyce zniekształcenie wymuszające chód o lasce. Zwyczaj jest powszechny wśród zamożnych Hanek i rzadszy u ubogich rolniczek, których praca w polu by go nie zniosła; nie stosują go Hakka, Mandżurki ani wiele ludów południa. Prawna pozycja kobiety jest znikoma: żona podlega mężowi, wdowa teściowi lub najstarszemu synowi.
 
 ---
 
-## System trybutarny — Cesarstwo i jego otoczenie
+## System trybutarny i sąsiedzi
 
-Qing nie uznaje równości między państwami. W chińskim porządku świata istnieje jeden Syn Nieba (*Tianzi*) i istnieją kraje ościenne, które albo składają hołd — trybutariusze — albo są barbarzyńcami za granicą cywilizacji.
+Qing nie uznaje równości państw. W chińskim porządku świata jest jeden Syn Nieba (*Tianzi*), a wokół kraje, które albo składają hołd jako trybutariusze, albo pozostają barbarzyńcami za granicą cywilizacji. Korea wysyła cztery misje rocznie i jest najlojalniejszym trybutariuszem; Wietnam, Nepal, Birma i Riukiu składają hołd po przegranych wojnach lub pod wspólnym zwierzchnictwem. [[Japonia]] do systemu nie należy — wybrała w XVII wieku izolację, a kontakt ogranicza się do prywatnego handlu przez Nagasaki.
 
-*Korea* (dynastia Joseon) przesyła cztery misje trybutarne rocznie — najlojalniejsi trybutariusze, konfucjańska kultura głęboko zakorzeniona. *Wietnam* (dynastia Nguyen właśnie jednoczy kraj) — trybutariusz po wojnach. *Nepal* (Gurkha) — pokonany w 1792 roku, teraz składa hołd co pięć lat. *Birma* — trybutariusz po kampaniach lat 1765–1769. *Riukiu* (Okinawa) — pod wspólnym japońskim i chińskim zwierzchnictwem.
-
-*Japonia* nie jest trybutariuszem — wybrała izolację w XVII wieku i nie uczestniczy w chińskim systemie. Stosunki Qing–Japonia: brak oficjalnych kontaktów, prywatny handel przez Nagasaki za japońską zgodą.
-
-Rosja negocjowała z Qing bezpośrednio przez traktaty — Kiakhta (1727) i wcześniejszy Nerczynsk (1689) — jako jedyne europejskie mocarstwo traktowane nawet w przybliżeniu jak równy partner. Granica rosyjsko-chińska biegnie przez Syberię; handel graniczny jest obopólnie korzystny.
+[[Rosja]] jest jedynym europejskim mocarstwem traktowanym niemal jak równy partner: negocjowała z Qing wprost, traktatami z Nerczyńska (1689) i Kiakty (1727), a handel graniczny przez Syberię opłaca się obu stronom. To stamtąd, a nie z Kantonu, dochodzą do Pekinu pierwsze poważne wieści o europejskich wojnach.
 
 ---
 
 ## Religia i filozofia
 
-Konfucjanizm jako etyka państwowa i program edukacyjny. Buddyzm mahajański — powszechny, szczególnie w miastach; klasztory jako centra opieki, edukacji i pożyczek. Taoizm — religia ludowa, kult lokalnych bóstw i przodków, medycyna ziołowa, alchemia longevity.
+Konfucjanizm jest etyką państwa i programem edukacji. Buddyzm mahajany jest powszechny, zwłaszcza w miastach, gdzie klasztory pełnią rolę szpitali, szkół i lichwiarzy; taoizm to religia ludowa kultu lokalnych bóstw i przodków, zielarstwa i alchemii długowieczności. [[Buddyzm|Lamaizm]] tybetański jest religią dynastii, ważną dla Mandżurów i Mongołów, a dalajlama sprawuje teokratyczne zwierzchnictwo nad Tybetem pod militarną supremacją Qing.
 
-[[Lamaizm]] tybetański (buddyzm wadżrajany) — religia dynastii, szczególnie ważna dla Mandżurów i Mongołów. Dalajlama ma teokratyczne zwierzchnictwo nad Tybetem pod qingowską supremacją militarną.
-
-Chrześcijaństwo: jezuici pracowali na dworze od XVI wieku jako matematycy, astronomowie, kartografowie. Ricci i jego następcy. Kwestia rytuałów chińskich — czy chrześcijanie mogą uczestniczyć w obrzędach konfucjańskich i kulcie przodków — rozbiła misję: papież zakazał w 1715 roku, Kangxi wydał chrześcijan w 1724. Kilkadziesiąt tysięcy chrześcijan w Chinach przetrwało jako podziemna wspólnota.
-
----
-
-## Kluczowe postacie
-
-### Cesarz Jiaqing (1760–1820)
-
-Piętnasty syn Qianlonga, wybrany na następcę przez tajny ceremoniał. Czterdzieści dwa lata w 1802 roku, siedem lat faktycznego panowania za sobą — pierwsze trzy skrępowane obecnością ojca. Nie jest Qianlong'iem: nie ma jego ekspansjonistycznych ambicji, jego artystycznych pasji (Qianlong napisał czterdzieści tysięcy wierszy), jego woli projektowania wielkich kampanii.
-
-Jiaqing jest administratorem: pracowity, rozsądny, osobiście skromny. Jego panowanie nazywa się epoką „naprawy" po korupcji Heshen. Bunt Białego Lotosu pochłania jego energię przez pierwszą połowę panowania; zakończy go zwycięstwem, choć kosztownym. Potem — spokój. W 1813 roku nawet na Zakazane Miasto zaatakują chwilowo milicjanci innej sekty.
-
-> [!mechanics]
-> **Cesarz Jiaqing (jako NPC — dostęp ekstremalnie trudny)**
-> IQ 15, HT 12
-> **Umiejętności:** Administracja 16, Historia (chińska) 17, Kaligrafja 15, Literatura klasyczna 16, Dyplomacja 13
-> **Status:** 10 (absolutny władca 300+ milionów ludzi)
-> **Uwaga dla GM:** Audiencja u cesarza jest niemożliwa dla cudzoziemców bez formalnej misji trybutarnej; nawet wtedy przebiega przez wielomiesięczne przygotowania protokolarne
-
-### Houqua (伍秉鑑, Wu Bingjian, ok. 1769–1843)
-
-Nie cesarz, lecz człowiek, z którym europejscy kupcy faktycznie rozmawiają. Houqua (*Hào Guān*) jest w 1802 roku młodym, szybko rosnącym kupcem Cohong w Kantonie — czterdziestokilkulatkiem wchodzącym w okres największej potęgi. W ciągu następnych dekad stanie się jednym z najbogatszych ludzi na świecie: jego majątek w 1834 roku szacowany jest na dwadzieścia sześć milionów dolarów meksykańskich.
-
-Houqua jest pośrednikiem między imperialnym systemem a globalnymi handlarzami. Mówi po angielsku na poziomie roboczym. Udziela kredytów zagranicznym kupcom. Kiedy EIC traci monopol i prywatni kupcy potrzebują finansowania na herbatę — Houqua im pożycza. Wygrywają obaj.
-
-> [!mechanics]
-> **Houqua (~1802, młodszy kupiec)**
-> IQ 16, HT 12
-> **Umiejętności:** Handel 18, Dyplomacja 15, Angielski (roboczy) 10, Rachunkowość 17, Prawo (handlowe) 14
-> **Zalety:** Wealth (Millionaire, rosnące), Contacts (EIC, prywatni kupcy angielscy i amerykańscy)
-> **Uwaga:** W 1802 roku dopiero buduje pozycję; jego ojciec Wu Guorong jest głową rodziny
-
-### Lin Qing (林清, ?–1813)
-
-W 1802 roku jest mało znaczącym przywódcą sekty Niebiańskiej Bramy (*Tianli jiao*) w prowincji Zhili. Jedenaście lat później zorganizuje atak na Zakazane Miasto podczas nieobecności Jiaqinga i prawie uda mu się wziąć pałac. Zostanie schwytany i stracony.
-
-W 1802 roku zbiera wyznawców, głosi nadejście nowej ery, jest jednym z dziesiątek lokalnych liderów millenarystycznych rozproszonych po centralnych Chinach. Jeden z nich stanie się Taipingiem — za pięćdziesiąt lat.
+Chrześcijaństwo trzyma się resztkami. Jezuici pracowali na dworze od XVI wieku jako matematycy, astronomowie i kartografowie, lecz spór o to, czy chrześcijanie mogą czcić przodków i uczestniczyć w obrzędach konfucjańskich, rozbił misję: papież zakazał tego w 1715 roku, a Kangxi w 1724 wygnał chrześcijan. Kilkadziesiąt tysięcy z nich przetrwało jako podziemna wspólnota.
 
 ---
 
 ## Chiny a świat w 1802 roku
 
-W oczach Jiaqinga Europa jest odległym problemem: kilka kompanii handlowych próbujących skomplikować system Kantonu, jeden ambasador który nie umiał się pokłonić, i wiadomości z Rosji o jakimś generale, który podbił kawał Europy. To ostatnie jest bardziej interesujące — Rosja graniczy z Cesarstwem.
+W oczach Jiaqinga Europa to odległy problem: kilka kompanii próbujących skomplikować system Kantonu, jeden ambasador, który nie umiał się pokłonić, i wieści z Rosji o generale, który podbił kawał Europy — to ostatnie ciekawsze, bo Rosja graniczy z Cesarstwem. W oczach Europejczyków Chiny są największym rynkiem niemożliwym do otwarcia: Kompania traci srebro i szuka towaru, a prywatni kupcy z Filadelfii i Bostonu już wpływają do Kantonu z żeń-szeniem, futrami wydr morskich i meksykańskim srebrem, bo do handlu kantońskiego nie trzeba monopolu, wystarczy statek i ładunek.
 
-W oczach Europejczyków Chiny są największym rynkiem niemożliwym do otwarcia. EIC traci srebro; szuka towaru. Prywatni kupcy z Filadelfii i Bostonu już wpłynęli do Kantonu z ginsengiem, futrami wydrów morskich z Pacyfiku i meksykańskim srebrem — bo do Canton trade nie potrzeba monopolu, wystarczy statek i towar.
-
-Stany Zjednoczone robią interesy z Chinami od 1784 roku — *Empress of China* była pierwszym statkiem. W 1802 roku kilkanaście amerykańskich domów handlowych operuje w sezonie przez faktorie kantońskie. Dla nich Chiny są rynkiem do handlowania, nie ziemią do kolonizowania — i przez następne czterdzieści lat ta różnica będzie widoczna.
+Stany Zjednoczone handlują z Chinami od 1784 roku, odkąd przypłynął tu statek *Empress of China*; w 1802 roku kilkanaście amerykańskich domów handlowych pracuje w sezonie przez faktorie. Dla nich Chiny są przede wszystkim rynkiem zbytu, i przez następne czterdzieści lat odróżni ich to od europejskich mocarstw szukających kolonii.
 
 ---
 
-*Powiązane artykuły: [[Kompanie Wschodnioindyjskie]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Czerwone opium]], [[Feng shui]], [[Sztuki walki]], [[Wielki Mur]], [[Smocza krew]], [[Punkty rozbieżności]], [[Nawigacja i kartografia]], [[Indie Mogołów i Kompania]].*
+*Powiązane artykuły: [[Kompanie Wschodnioindyjskie]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Indie Mogołów i Kompania]], [[Czerwone opium]], [[Feng shui]], [[Sztuki walki]], [[Cięcie Powietrza]], [[Wielki Mur]], [[Smocza krew]], [[Japonia]], [[Rosja]], [[Punkty rozbieżności]].*
