@@ -31,7 +31,7 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Francja Napoleońska]] | TAK |
 | [[Wielka Brytania]] | TAK |
 | [[Święte Cesarstwo Rzymskie]] | NIE |
-| [[Rosja]] | NIE |
+| [[Rosja]] | TAK |
 | [[Imperium Osmańskie]] | NIE |
 | [[Hiszpania]] | NIE |
 | [[Portugalia]] | NIE |
@@ -51,9 +51,9 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Afryka Subsaharyjska]] | NIE |
 | [[Liga Hanzeatycka – Dziedzictwo]] | NIE |
 | [[Kompanie Wschodnioindyjskie]] | TAK |
-| [[Indie Mogołów i Kompania]] | NIE |
+| [[Indie Mogołów i Kompania]] | TAK |
 | [[Chiny dynastii Qing]] | TAK |
-| [[Japonia]] | NIE |
+| [[Japonia]] | TAK |
 | [[Rewolucja Przemysłowa]] | TAK |
 | [[Oświecenie]] | TAK |
 | [[Wolnomurarstwo]] | TAK |

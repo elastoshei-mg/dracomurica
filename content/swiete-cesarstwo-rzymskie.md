@@ -1,232 +1,85 @@
 ---
-title: Święte Cesarstwo Rzymskie (1802)
-tags: [cesarstwo, niemcy, europa, habsburgowie, historia, polityka]
-aliases: [Święte Cesarstwo Rzymskie, HRE, Rzesza, Cesarstwo Rzymskie, Niemcy, Reich]
+title: Święte Cesarstwo Rzymskie
+tags: [cesarstwo, niemcy, europa, habsburgowie, historia, polityka, magia]
+aliases: [Święte Cesarstwo Rzymskie (1802), HRE, Rzesza, Cesarstwo Rzymskie, Niemcy, Reich]
 ---
 
-# Święte Cesarstwo Rzymskie (1802)
+# Święte Cesarstwo Rzymskie
 
-Wolter napisał, że Święte Cesarstwo Rzymskie nie jest ani święte, ani rzymskie, ani cesarstwem. W roku 1802 można dodać: nie jest też tworem, który przetrwa dekadę.
+Wolter napisał, że Święte Cesarstwo Rzymskie nie jest ani święte, ani rzymskie, ani cesarstwem. W 1802 roku można dodać czwarte przeczenie: nie przetrwa dekady.
 
-Tysiącletni byt — datowany od koronacji Karola Wielkiego w roku 800, lub Ottona I w 962, zależnie od historiograficznej szkoły — obejmuje w 1802 roku jakieś trzysta terytoriów politycznych w Europie Środkowej, zamieszkałych łącznie przez może trzydzieści milionów ludzi. Jest największą pod względem liczby podmiotów politycznych strukturą na kontynencie i jedną z najbardziej dysfunkcjonalnych. Nie ma wspólnej armii, nie ma wspólnego skarbu, nie ma wspólnego prawa cywilnego, nie ma stolicy. Zamiast tego: cesarz elekcyjny, sejm permanentnie obradujący w Ratyzbonie, dwa sądy najwyższe konkurujące o jurysdykcję i kilka setek panów udowadniających sobie nawzajem suwerenność przez arbitralnie pobierane cła.
+Ten tysiącletni twór — liczony od koronacji Karola Wielkiego w 800 roku albo Ottona I w 962, zależnie od szkoły — obejmuje jakieś trzysta terytoriów Europy Środkowej z trzydziestoma milionami mieszkańców. Jest najbardziej rozdrobnioną i jedną z najbardziej dysfunkcjonalnych struktur kontynentu: bez wspólnej armii, bez wspólnego skarbu, bez wspólnego prawa, bez stolicy. Zamiast tego cesarz elekcyjny, sejm obradujący bez końca w Ratyzbonie, dwa najwyższe sądy kłócące się o jurysdykcję i kilkaset panów dowodzących sobie nawzajem suwerenności arbitralnie pobieranym cłem.
 
-[[Napoleon Bonaparte|Napoleon]] właśnie kończy jego przebudowę od zewnątrz. Za cztery lata rozwiąże je od środka.
+To również najstarszy rezerwuar magii w Europie — najwięcej klasztorów rodzących cudotwórców, najwięcej starej krwi, najgłębsze blizny po stosach. [[Francja Napoleońska|Napoleon]] przebudowuje Rzeszę z zewnątrz, a za cztery lata rozwiąże ją od środka — i to, co znika, jest starsze i dziwniejsze, niż widać z Paryża.
 
 ---
 
 ## Czym jest Rzesza
 
-### Nie państwo — federacja pretensji
+Cesarstwo nie rządzi jak [[Francja Napoleońska|Francja]] czy [[Wielka Brytania|Wielka Brytania]]. Nie pobiera podatków od obywateli, nie utrzymuje armii — kontyngenty dostarczają stany wedle przyznanej kwoty, rzadko terminowo i rzadko w pełnej liczbie — i nie ma ministerstwa spraw zagranicznych, bo każdy stan może zawierać własne sojusze z obcymi mocarstwami. Trzyma ją razem prawo i precedens. Reichskammergericht w Wetzlarze i Reichshofrat w Wiedniu rozstrzygają spory między stanami i toną w nich: pierwszy z tych sądów ma w toku może sześćdziesiąt tysięcy spraw, z których część ciągnie się od XVI wieku. Goethe odbył w Wetzlarze praktykę sądową w 1772 roku i wyniósł stamtąd tyle udręki z biurokratycznego bezładu i nieszczęśliwej miłości, że napisał „Cierpienia młodego Wertera".
 
-Cesarstwo nie jest państwem w sensie, w jakim jest nim [[Francja Napoleońska (1802)|Francja]] czy [[Wielka Brytania (1802)|Wielka Brytania]]. Nie pobiera podatków bezpośrednio od obywateli. Nie utrzymuje armii — kontyngenty dostarczają poszczególne stany wedle przyznanej kwoty, rzadko terminowo i rzadko w pełnej liczbie. Nie ma ministerstwa spraw zagranicznych — cesarz negocjuje traktaty we własnym imieniu, stany mogą zawierać własne sojusze z obcymi mocarstwami.
+Sejm Rzeszy obraduje nieprzerwanie w Ratyzbonie od 1663 roku jako stały kongres delegatów, podzielony na trzy kolegia. Kolegium Elektorów liczy dziewięciu do jedenastu książąt z prawem wyboru cesarza: trzej arcybiskupi z Moguncji, Kolonii i Trewiru oraz świeccy panowie Czech, Brandenburgii-Prus, Saksonii, Hanoweru, Bawarii i Wirtembergii. Trzej elektorzy duchowni stracili właśnie zachodnie siedziby na rzecz Francji, więc elektor moguncki rezyduje teraz w Aschaffenburgu. Kolegium Książąt skupia kilkuset panów duchownych i świeckich, od królów po opatów z trzema wsiami. Kolegium Miast to pięćdziesiąt jeden Wolnych Miast Rzeszy — Hamburg, Lubeka, Frankfurt, Norymberga, Augsburg i dziesiątki mniejszych — od wieków broniących swoich przywilejów przed okoliczną szlachtą.
 
-To, co trzyma Rzeszę razem, to prawo i precedens. Reichskammergericht w Wetzlarze i Reichshofrat w Wiedniu rozstrzygają spory między stanami — i są zasypane sprawami. W 1802 roku Reichskammergericht ma w toku może sześćdziesiąt tysięcy nierozwiązanych spraw, z czego część to procesy wciąż trwające od XVI wieku.
+---
 
-Goethe pracował jako stażysta sądowy w Wetzlarze w 1772 roku i doznał tam tyle traumy z połączenia biurokratycznego bezładu i nieszczęśliwej miłości, że napisał *Cierpienia młodego Wertera*.
+## Najstarsza magia Europy
 
-### Trzy kolegia
+Żadne miejsce na kontynencie nie jest tak nasycone magią jak ta plątanina księstewek, i żadne nie ma jej stracić tak szybko. Rzesza jest najstarszym rezerwuarem dawnego porządku nadprzyrodzonego w Europie, a rok 1803 zaczyna go demontować.
 
-Sejm Rzeszy (*Reichstag*) obraduje nieprzerwanie w Ratyzbonie od 1663 roku — nie jako jednorazowe zgromadzenie, lecz jako stały kongres dyplomatyczny ze stałymi delegatami. Podzielony na trzy kolegia:
+Najgęstsza jest tu infrastruktura cudu. Niemieckie ziemie kościelne — księstwa biskupie, opactwa, dziesiątki klasztorów z metryką sięgającą wczesnego średniowiecza — są warsztatem, w którym katolicka wiara odtwarza [[Cudotwórcy|cudotwórców]] z pokolenia na pokolenie, bo ma na to dwa tysiące lat dogmatu i mury, w których się tego uczy. Nigdzie tych murów nie stoi tyle co w Rzeszy. I właśnie je rozbiera Recess Deputacyjny: sekularyzacja 1803 roku przenosi ziemię z rąk biskupa do rąk księcia, a przy okazji kasuje klasztory, które uczyły cudu, i rozprasza ludzi, którzy go nieśli. To największe wyburzenie katolickiej machiny nadprzyrodzonej od Reformacji.
 
-Kolegium Elektorów — dziewięciu do jedenastu książąt z prawem wyboru cesarza: trzej arcybiskupi (Moguncja, Kolonia, Trewir) i kilku świeckich (Czechy, Brandenburgia-Prusy, Saksonia, Hanower, Bawaria, Wirtembergia). Elektorzy Moguncji, Kolonii i Trewiru stracili zachodnie posiadłości na rzecz Francji; ich tytuły i siedziby ceremonialnej przeniesiono na wschód. Elektor Moguncji rezyduje teraz w Aschaffenburgu.
+Druga warstwa to krew. Rzesza mieści najwięcej starych rodów w Europie — elektorów, książąt i kilka tysięcy [[Prekursorzy|rycerskich]] linii podległych wprost cesarzowi — a wraz z nimi najwięcej dziedzicznej [[Sorcery]]. Rozdrobnienie sprawia, że zamiast jednej sygnatury, burbońskiej kontroli umysłu czy rosyjskiej zimy, Rzesza ma muzeum drobnych, wsobnych darów: jeden na starożytny ród, każdy gasnący po swojemu. Mediatyzacja, która właśnie pochłania Rycerzy Rzeszy, połyka razem z nimi te dogasające linie.
 
-Kolegium Książąt — kilkuset delegatów reprezentujących duchownych i świeckich panów Rzeszy, od królów i wielkich książąt po opaty z trzema wsiami.
+Trzecią warstwę wypaliły stosy. To niemieckie księstwa biskupie prowadziły najstraszliwsze [[Polowania na czarownice|polowania na czarownice]] w dziejach — Würzburg, Bamberg i Trewir spaliły w latach dwudziestych XVII wieku tysiące ludzi, więcej niż jakikolwiek inny kraj. Łowy dawno przygasły, lecz ich ślad został: tu jawne [[Europejskie czarostwo|czarostwo]] stłumiono najkrwawiej, a magia, która przetrwała, siedzi najgłębiej pod ziemią. Jest w tym gorzka ironia — te same biskupstwa, które paliły cudze czary, hodowały u siebie cud własny, kościelny. Kościół wytępił rywala i zachował monopol na to, co nadprzyrodzone.
 
-Kolegium Miast — pięćdziesiąt jeden Wolnych Miast Rzeszy: Hamburg, Lubeka, Frankfurt, Norymberga, Augsburg i dziesiątki mniejszych, z dawna broniących przywilejów rzemieślniczych i handlowych przed okoliczną szlachtą.
+Pod tym wszystkim szumi las. Niemieckie bory są bliskie [[Fey|feyom]] jak mało gdzie — istotom z Planu Snów, którym kształt nadały stulecia opowieści; baśń, którą bracia Grimm spiszą za dekadę, jest tu jeszcze żywą wiedzą o tym, czego w lesie lepiej nie spotkać po zmroku. Po miastach krąży inna tajemnica: loże [[Wolnomurarstwo|wolnomularskie]] są jedną z nielicznych sieci łączących wykształconych ludzi ponad granicami trzystu państewek, a to w bawarskim Ingolstadt narodził się w 1776 roku zakon iluminatów.
 
 ---
 
 ## Recess Deputacyjny — rozbiórka w toku
 
-### Co się dzieje w Ratyzbonie
+Traktat z Lunéville z 1801 roku potwierdził to, co zaczął Campo Formio: lewy brzeg Renu należy do Francji. Setki panów świeckich i kościelnych straciły posiadłości, a kilka milionów poddanych przeszło pod nową flagę bez pytania i bez procesu. Ustawa zasadnicza wymagała kompensaty, a jedynym dostępnym zasobem były dobra kościelne po prawej stronie Renu. Recess Deputacyjny Rzeszy (*Reichsdeputationshauptschluss*), przygotowywany w Ratyzbonie przez cały 1802 rok i ukończony w lutym 1803, przeprowadził największą redystrybucję ziemi w Rzeszy od Reformacji.
 
-Traktat Lunéville z 1801 roku potwierdził to, co zaczął Campo Formio: lewa brzeg Renu należy do Francji. Setki panów świeckich i kościelnych straciły swoje posiadłości. Kilka milionów poddanych przeniosło się pod nową flagę — bez pytania, bez procesu.
+Sto dwanaście bytów politycznych przestało istnieć. Świeckie biskupstwa, niemal wszystkie klasztory i większość Wolnych Miast wchłonęli sąsiedzi. Wygrali ci, którzy negocjowali z Paryżem: Bawaria dostała Augsburg, Würzburg i kilkanaście opactw, Wirtembergia potroiła ludność, Badenia stała się poważnym podmiotem. Przegrali książęta-biskupi, którzy stracili władzę świecką, oraz małe Wolne Miasta. Prusy wzięły Erfurt, Hildesheim i Paderborn, negocjując z Paryżem na własną rękę, bez angażowania prestiżu cesarza. Austria sprzeciwiała się sekularyzacji jako ciosowi w katolicki filar Rzeszy i dostała za to skromną kompensatę; Wiedeń przegrał politycznie, bo reorganizacja Rzeszy była dziełem Napoleona, nie Habsburgów.
 
-Ustawa zasadnicza wymagała kompensaty dla poszkodowanych. Jedynym dostępnym zasobem pozostały dobra kościelne — biskupstwa, opactwa, szpitalne fundacje — po prawej stronie Renu. [[Recess Deputacyjny Rzeszy]] (*Reichsdeputationshauptschluss*), przygotowywany przez komisję w Ratyzbonie przez cały 1802 rok i ukończony w lutym 1803, dokonał największej redystrybucji ziemi w Rzeszy od Reformacji.
-
-### Wyniki
-
-Sto dwanaście bytów politycznych przestało istnieć. Wszystkie świeckie biskupstwa, prawie wszystkie klasztory, prawie wszystkie Wolne Miasta Rzeszy wchłonięte przez sąsiednich władców.
-
-Wygrali ci, którzy negocjowali z Paryżem: Bawaria, Wirtembergia, Badenia, Hesja-Darmstadt. Bawaria dostała Augsburg, Würzburg, kilkanaście opactw. Wirtembergia potroiła populację. Badenia stała się poważnym podmiotem.
-
-Przegrali: książęta-biskupi (koniec świeckiej władzy arcybiskupów i biskupów Rzeszy w praktyce), Rycerze Rzeszy (*Reichsritter* — kilka tysięcy rodzin szlacheckich bezpośrednio podległych cesarzowi, z minimalnymi posiadłościami i maksymalną dumą dynastyczną), małe Wolne Miasta.
-
-Prusy wzięły Erfurt, Hildesheim, Paderborn i kilka innych — choć główna ich rola była dyskretna: Berlin negocjował z Paryżem na własną rękę, żeby zapewnić sobie część łupu bez angażowania prestiżu cesarza.
-
-Austria wyraziła protestancki sprzeciw wobec sekularyzacji — i dostała za to skromną kompensatę terytorialną. Wiedeń przegrał politycznie: reorganizacja Rzeszy była de facto dziełem Napoleona, nie Habsburgów.
-
-> [!rules]
-> **Święte Cesarstwo Rzymskie (stan na 1802)**
-> **Cesarz:** Franciszek II Habsburg, lat 34
-> **Populacja łączna:** ~30–32 mln (bez Węgier i Włoch habsburskich)
-> **Liczba podmiotów politycznych:** ~300 (malejąca — Recess eliminuje kolejne)
-> **Główne języki:** niemiecki (dominujący), czeski, słoweński, flamandzki (w zachodniej Flandrii), włoski (Trydent, Triest)
-> **Religie:** katolicyzm (południe, zachód, Austria, Bawaria), luteranizm (Prusy, Saksonia, Hanower), kalwinizm (Palatynat, część Brandenburgii, Szwajcaria — formalnie poza Rzeszą)
-> **Sejm:** permanentnie w Ratyzbonie od 1663; w 1802 obraduje nad Recessem
+Trzej arcybiskupi-elektorzy stracili zachodnioreńskie miasta, a wraz z nimi rację bytu jako książęta świeccy. Karl Theodor von Dalberg, arcybiskup Moguncji i ostatni arcykanclerz Rzeszy, rezyduje w Aschaffenburgu jako oświecony pragmatyk, który rozumie, że kościelna władza świecka należy do przeszłości; po Recessie zostanie z łaski Paryża prymasem Niemiec. Kościół jako instytucja przeżyje, lecz świeckie biskupstwa jako podmiot polityczny znikną. Po cichu domyka się też los Rycerzy Rzeszy — kilku tysięcy rodzin podległych wprost cesarzowi, z kilkoma wsiami i ogromną dumą dynastyczną. Recess ich pominął, lecz mediatyzacja przyszła bocznymi drzwiami: większe stany po prostu przejęły ich ziemie, ignorując prawa, i do 1806 roku stan rycerski przestanie istnieć.
 
 ---
 
-## Austria — rdzeń i problem
+## Austria — rdzeń i jego cesarz
 
-### Wiedeń i Habsburgowie
+Wiedeń liczy ćwierć miliona mieszkańców — największe miasto Rzeszy i jeden z wielkich ośrodków kultury kontynentu, z Burgtheater, operą, salonami arystokracji i kawiarniami. Rządzi nim jednak nieufność. Cesarz Franciszek II ma trzydzieści cztery lata i reputację pedantycznego, pobożnego urzędnika bez wyobraźni strategicznej; jego ojciec i stryj byli reformatorami, on wyciągnął z rewolucji jeden wniosek — każda zmiana jest niebezpieczna. Zarządza przez biurokrację i policję, sprawdzając jednego szpiega drugim, a jego szef policji buduje aparat inwigilacji, który na pół wieku uczyni z Austrii jedno z najściślej kontrolowanych państw Europy. Wiedeń roku 1802 jest zarazem muzyczną stolicą kontynentu i policyjnym laboratorium; Metternich zrozumie tę cesarską podejrzliwość doskonale i przez trzydzieści lat będzie się nią posługiwał.
 
-[[Wiedeń]] liczy dwieście pięćdziesiąt tysięcy mieszkańców — największe miasto Rzeszy i jeden z wielkich europejskich ośrodków kultury. Burgtheater, opera, salony arystokracji, kawiarnie filozofów. Kobiety wyższych sfer są wykształcone i wpływowe — Karoline Pichler, córka sekretarza rządu, prowadzi salon literacki odwiedzany przez każdego, kto w Wiedniu znaczy cokolwiek.
-
-Cesarz [[Franciszek II]] ma trzydzieści cztery lata i reputację urzędnika pedantycznego, pobożnego i pozbawionego wyobraźni strategicznej. Jego ojciec Leopold II i stryj Józef II byli reformatorami; Franciszek jest konserwatystą, który wyciągnął wnioski z rewolucji — każda zmiana jest niebezpieczna. Zarządza przez biurokrację i nieufność, sprawdza każdego szpiega przez drugiego szpiega.
-
-Policja i cenzura: [[Franz von Saurau]] jako szef policji stworzył aparat inwigilacji, który przez następne pół wieku uczyni z Austrii jedno z najbardziej kontrolowanych państw Europy. Listy otwierane, donosy systematyzowane, cudzoziemcy śledzeni. Wiedeń w 1802 roku jest muzyczną stolicą kontynentu i policyjnym laboratorium jednocześnie.
-
-### Militarna klęska i reforma
-
-Traktat Lunéville w lutym 1801 roku zamknął wojnę z Francją po klęskach pod Marengo i Hohenlinden. Austria oddała Belgię (definitywnie), uznała Reję jako granicę, straciła bezpośrednią kontrolę nad Włochami.
-
-Arcyksiążę [[Karol]], brat cesarza, jedyny austriacki dowódca, który pokonał Napoleona (pod Aspern w 1809 roku, co w 1802 roku jest jeszcze przyszłością), pracuje nad reorganizacją armii. Stara szkoła — liniowa taktyka XVIII wieku, oficerowie kupieni przez urodzenie — musi zostać zastąpiona przez coś, co może stawić czoła francuskim korpusowym strategiom. Karol ma rację w diagnozie. Reformy są zbyt powolne.
+Militarnie Austria dopiero co przegrała. Traktat z Lunéville z lutego 1801 roku zamknął wojnę po klęskach pod Marengo i Hohenlinden: Wiedeń oddał Belgię, uznał Ren za granicę i stracił bezpośrednią kontrolę nad Włochami. Arcyksiążę Karol, brat cesarza i jedyny austriacki dowódca, który w przyszłości pobije Napoleona, pracuje nad reorganizacją armii — liniowa taktyka XVIII wieku i oficerowie z urodzenia muszą ustąpić czemuś, co stawi czoła francuskim korpusom. Diagnozę ma trafną, lecz reformy idą zbyt wolno.
 
 ---
 
 ## Prusy — rywal z północy
 
-### Berlińska neutralność
+Fryderyk Wilhelm III, dwudziestosześcioletni król Prus od 1797 roku, prowadzi politykę neutralności, która przez całą dekadę oszczędziła mu kosztów wojen koalicyjnych — Prusy nie walczyły z Francją od pokoju bazylejskiego z 1795 roku. Berlin, sto siedemdziesiąt tysięcy mieszkańców, jest solidnym i schludnym miastem wojskowym z szerokim Unter den Linden; jego znakiem jest dyscyplina, bo Prusy zatrudniają własnych obywateli głównie przez armię. Ta armia liczy sto osiemdziesiąt tysięcy żołnierzy o doskonałej musztrze i taktyce skostniałej na strategiach Fryderyka Wielkiego sprzed czterdziestu lat; Napoleon rozprawi się z tym dziedzictwem pod Jeną i Auerstedt w jeden październikowy dzień 1806 roku. Król nie słucha reformatorów, a popularniejsza od niego żona, znana z urody i rozumu, poprowadzi po klęsce negocjacje z Napoleonem, gdy mąż będzie zbyt sparaliżowany.
 
-[[Fryderyk Wilhelm III]], dwudziestosześcioletni, jest królem Prus od 1797 roku i prowadzi politykę neutralności, która przez całą dekadę pozwoliła mu ominąć koszt wojen koalicyjnych. Prusy nie walczyły z Francją od traktatu bazylejskiego w 1795 roku.
-
-[[Berlin]] liczy sto siedemdziesiąt tysięcy mieszkańców — solidne, schludne, dość nudne militarne miasto z szerokim bulwarem Unter den Linden. Nie ma weneckich kanałów ani paryskiej gęstości kawiarni i salonów. Jest za to dyscyplina: Prusy są największym pracodawcą własnych obywateli przez armię.
-
-Armia pruska: stu osiemdziesięciu tysięcy żołnierzy, wciąż organizowanych na podstawie strategii Fryderyka Wielkiego sprzed czterdziestu lat. Musztra doskonała; taktyka skostniała. Oficerowie starsi pod względem wieku i metod. Napoleon rozprawi się z tym dziedzictwem pod Jeną i Auerstedt w październiku 1806 roku w ciągu jednego dnia.
-
-Fryderyk Wilhelm nie słucha reformatorów. Jego żona [[Luiza Pruska]], dwudziestoparoletnia, znana z urody i intelektu, jest popularniejsza od męża — to ona w przyszłości poprowadzi negocjacje z Napoleonem po klęsce, bo jej mąż będzie zbyt sparaliżowany.
-
-### Kulturalne ambicje
-
-Przy całej militarnej dominacji Prusy przeżywają własne oświecenie. [[Akademia Berlińska]] — powołana przez Fryderyka Wielkiego — ściągnęła uczonych z całej Europy. [[Alexander von Humboldt]], trzydziestotrzeiletni, właśnie wrócił z pięcioletniej wyprawy do Ameryki Łacińskiej z dziesiątkami tysięcy próbek botanicznych i geologicznych i zaczyna je opisywać. [[Wilhelm von Humboldt]], jego brat, zajmuje się filozofią języka.
+Mimo militarnej dominacji Prusy przeżywają własne oświecenie, z Akademią Berlińską ściągającą uczonych z całej Europy; pełniejszy obraz niemieckiej myśli i nauki mieści [[Oświecenie|osobny artykuł]].
 
 ---
 
 ## Średnie mocarstwa
 
-### Bawaria — beneficjent reorganizacji
+Bawaria wie, po której stronie leży przyszłość. Jej władca z linii Palatynatu-Zweibrücken trzymał z Francją przez całą Rewolucję i Konsulat, a każdy kolejny pokój powiększał Bawarię kosztem sąsiadów; Recess da jej Augsburg, Würzburg i Passau, za trzy lata, po Austerlitz, uczyni z niej Królestwo, a za pięć wyprowadzi ją z Rzeszy do Związku Reńskiego pod napoleońskim protektoratem.
 
-[[Maksymilian I Józef]], książę Bawarii z linii Palatynatu-Zweibrücken od 1799 roku, doskonale rozumie, po której stronie leży przyszłość. Bawaria była sojusznikiem Francji przez całą Rewolucję i Konsulat — i każdy kolejny traktat pokojowy kończył się powiększeniem Bawarii kosztem sąsiadów.
+Saksonia jest bogata srebrem i miśnieńską porcelaną, wyrafinowana kulturalnie wokół drezdeńskiej galerii i politycznie zagubiona; jej elektor jest zarazem tytularnym królem Polski, którą trzeci rozbiór z 1795 roku wymazał z map. Będzie oscylował między Prusami a Napoleonem, stanie ostatecznie po stronie Francji, dostanie koronę i Wielkie Księstwo Warszawskie, i straci wszystko pod Lipskiem w 1813 roku.
 
-Recess Deputacyjny da Bawarii Augsburg, Würzburg, Passau i kilkanaście mniejszych terytoriów. Za trzy lata, po Austerlitz, zostanie Królestwem. Za pięć lat wycofa się z Rzeszy razem z innymi stanami renu, wchodzącymi w skład Związku Reńskiego pod napoleońskim protektoratem.
-
-### Saksonia — elektor bez kierunku
-
-[[Fryderyk August III]] Saksoński jest równocześnie elektorem saskim i — przez unię dynastyczną — królem Polski, o ile można mówić o Królestwie Polski po trzecim rozbiorze w 1795 roku, który to kraj wymazał z map. Saksonia jest bogata (srebro i porcelana z Miśni od 1710 roku), kulturalnie wyrafinowana ([[Drezno]] z galerią obrazów) i politycznie zagubiona.
-
-Elektor będzie oscylował między Prusami a Napoleonem, ostatecznie stanie po stronie Francji po Jenie, zostanie Królem Saksonii, doda do korony Wielkie Księstwo Warszawskie i straci wszystko po Lipsku w 1813 roku.
-
-### Hanower — angielska enklawa
-
-[[Hanower]] jest w unii personalnej z [[Wielka Brytania (1802)|Wielką Brytanią]]: Jerzy III jest elektorem Hanoweru tak samo jak królem Anglii. Łączy ich dynastia, nie żadna instytucja. Hanower ma własny sejm i własną administrację. Anglia nie dotuje go finansowo; Hanower nie wysyła żołnierzy do armii angielskiej.
-
-Praktyczny problem: Francja i Anglia są w stanie niemal permanentnej wrogości. Hanower leży na kontynencie, bez obrony. Napoleon zajmie go w 1803 roku natychmiast po wznowieniu wojny — jako zakładnika wobec Londynu.
+Hanower trwa w unii personalnej z [[Wielka Brytania|Wielką Brytanią]] — Jerzy III jest jego elektorem tak samo jak królem Anglii — lecz łączy ich tylko dynastia, bez wspólnej instytucji, armii czy skarbu. Hanower leży na kontynencie bez obrony, więc Napoleon zajmie go w 1803 roku natychmiast po wznowieniu wojny, jako zakładnika wobec Londynu.
 
 ---
 
-## Kościół w Rzeszy
+## Kultura bez państwa, Żydzi i codzienność
 
-### Trzy arcybiskupia na wygnaniu
+Niemcy mają jedność kulturalną bez jedności politycznej, a jej stolicą jest siedmiotysięczne miasteczko. Dwór w Weimarze ściągnął w 1775 roku Goethego i nigdy go nie puścił; w 1802 roku pięćdziesięciotrzyletni Goethe jest najsławniejszym pisarzem niemczyzny, pracuje nad „Faustem", prowadzi teatr dworski, zarządza kopalniami księstwa i bada optykę — człowiek renesansowy w epoce, która renesansu już się nie spodziewa. W pobliskiej Jenie tworzy dramaty o narodach i wolności Schiller, karmiąc nimi poczucie niemieckiej wspólnoty, której brak państwa. W Wiedniu trzydziestodwuletni Beethoven pisze w październiku 1802 roku nigdy niewysłany list do braci, w którym wyznaje narastającą głuchotę i myśli samobójcze pokonane przez sztukę; miasto nie wie jeszcze, co ma.
 
-Arcybiskupi-elektorzy Moguncji, Kolonii i Trewiru stracili swoje zachodnioreńskie miasta na rzecz Francji. [[Karl Theodor von Dalberg]], arcybiskup Moguncji i Koadiutor Wormacji — ostatni Archchancellor Rzeszy — rezyduje w Aschaffenburgu. Kolonia i Trewir już bez swoich historycznych siedzib.
+Codzienny obraz Rzeszy najlepiej widać na drodze. Kupiec jadący z Hamburga do Frankfurtu przekracza kilkanaście granic celnych, płaci kilkanaście razy i wypełnia formularze w kilku językach urzędowych, bo część stanów prowadzi akta po łacinie; podróż trwa dwa tygodnie dobrą drogą, koszt jest nie do przewidzenia. Niemcy są przy tym bardziej zurbanizowane od Polski i mniej od Anglii — po Wiedniu, Hamburgu i Berlinie idą już tylko mniejsze miasta i setki targowych miasteczek — a wzorzec osadniczy gęstnieje na zachód od Łaby i rzednie na wschodzie, gdzie rządzi rolnicza szlachta junkrów, właściciel wsi i sędzia w jednej osobie.
 
-Dalberg jest oświeconym pragmatykiem: rozumie, że kościelna władza świecka należy do przeszłości. Negocjuje z Napoleonem — po Recessie zostanie Prymasem Niemiec z łaski Paryża i później jedynym kościelnym księciem w Związku Reńskim. Kościół jako instytucja przeżyje; świeckie biskupstwa jako podmiot polityczny — nie.
-
-### Rycerze Rzeszy i ich koniec
-
-*Reichsritter* — kilka tysięcy rodzin szlacheckich bezpośrednio podległych cesarzowi, bez pośrednictwa żadnego landgrafa czy biskupa. Ich posiadłości: kilka wsi, może kilkadziesiąt. Ich status: szlachta imperialna z prawem do własnego sądownictwa i reprezentacji na dworze.
-
-Recess Deputacyjny ich nie dotknął bezpośrednio — zostali pominięci. Mediatyzacja przyszła przez drzwi boczne: większe stany po prostu przejęły ich ziemie administracyjnie, ignorując ich prawa. Do 1806 roku Rycerze Rzeszy przestaną istnieć jako instytucja. Kilka tysięcy rodzin z honorowymi tytułami i bez politycznej podstawy.
+Żydzi niemieccy, może dwieście tysięcy, żyją w skupiskach pod lokalnym prawem. We Frankfurcie zamyka ich getto przy Judengasse z bramami ryglowanymi na chrześcijańskie święta i z umową ograniczającą liczbę rodzin oraz ślubów rocznie. Tu mieszka sześćdziesięcioletni Mayer Amschel Rothschild, zarządca finansów landgrafa Hesji-Kassel, prowadzący ceniony, lecz wciąż niewielki dom bankowy; jego synowie ruszają właśnie po Europie, Nathan już do Londynu, i z depozytu uciekającego przed Napoleonem landgrafa oraz z siatki braci wyrośnie w ciągu dekady największa prywatna firma finansowa stulecia. Obok, w środowiskach berlińskich i hamburskich, żyje Haskala — żydowskie oświecenie głoszące udział w kulturze europejskiej przy zachowaniu własnej tradycji.
 
 ---
 
-## Kultura i myśl
-
-### Weimar — małe miasto, ogromny cień
-
-Weimar liczy może siedem tysięcy mieszkańców — miasteczko, nie miasto. Dwór Karola Augusta jest od lat 70. XVIII wieku centrum kulturalnym, który przyciągnął [[Goethe|Johanna Wolfganga von Goethe]] w 1775 roku i nigdy go nie puścił.
-
-[[Goethe]] ma w 1802 roku pięćdziesiąt trzy lata i jest najsławniejszym pisarzem języka niemieckiego. Pracuje nad *Faustem* — pierwsza część wyjdzie w 1808 roku. Jednocześnie prowadzi teatr dworski, zarządza kopalniami i drogami Weimaru, pisze poezję i eseje filozoficzne, bada optykę (jego teoria barw, opublikowana 1810, będzie kontrowersyjnym atakiem na Newtonowski model), kolekcjonuje minerały. Człowiek renesansowy w epoce, która już się renesansu nie spodziewa.
-
-[[Friedrich Schiller]], czterdzieści trzy lata, mieszka w pobliskim Jenie i Weimarze, pracuje nad trylogią Wallensteina (ukończoną 1799), *Maria Stuart* (1800), *Panną Orleańską* (1801). Jego dramaty historyczne tworzą narrację o narodach i wolności, która karmi się poczuciem kulturowej jedności Niemiec bez politycznej jedności.
-
-### Filozofia i muzyka
-
-[[Immanuel Kant]] ma siedemdziesiąt osiem lat w Królewcu i trzy lata życia przed sobą. Jego *Krytyka czystego rozumu* (1781) przeorała europejską filozofię. Nie wyjeżdżał nigdy poza okolice Królewca; Europa przyjeżdżała do niego lub czytała go w przekładach.
-
-[[Johann Gottlieb Fichte]] w Berlinie buduje filozofię narodowości — jego *Mowy do narodu niemieckiego* (1807–1808) przyjdą jako odpowiedź na napoleońskie upokorzenie i stworzą jeden z fundamentów nowoczesnego nacjonalizmu.
-
-[[Ludwig van Beethoven]] ma trzydzieści dwa lata i mieszka w Wiedniu. W październiku 1802 roku napisał [[Heiligenstadt Testament]] — prywatny list do braci, nigdy nie wysłany, przechowany do śmierci w szufladzie. Opisuje w nim narastającą głuchotę i myśli samobójcze, które pokonał przez sztukę: *„Tylko ona, sztuka, powstrzymała mnie"*. Drugą symfonię skończył właśnie, trzecią zaczął. Wiedeń nie wie jeszcze, co ma.
-
----
-
-## Życie codzienne w Niemczech
-
-### Trzysta systemów celnych
-
-Kupiec jadący z Hamburga do Frankfurtu przekracza kilkanaście granic celnych, płaci kilkanaście razy, wypełnia kilkanaście różnych formularzy — w kilku różnych językach urzędowych, bo część stanów używa łaciny, część starofrancuskiego dla aktów prawnych. Czas podróży: dwa tygodnie dobrą drogą, trzy złą. Koszt: nieprzewidywalny.
-
-Napoleon w artykule *O handlu wewnętrznym* (1805) użyje tego jako argumentu za demolowaniem starego ładu. Miał rację, z nie najpiękniejszych powodów.
-
-### Miasta i wsie
-
-Niemcy są bardziej zurbanizowane niż Polska, mniej niż Anglia. [[Wiedeń]] 250 000, [[Hamburg]] 130 000, [[Berlin]] 170 000, [[Praga]] 80 000, [[Frankfurt]] 40 000, [[Drezno]] 60 000, [[Monachium]] 40 000 — a potem już małe miasta i setki miasteczek targowych.
-
-Wzorzec osadniczy: gęsty na zachód od Łaby (historycznie: dawna strefa germańska), rzadszy na wschód (kolonizacja średniowieczna). Prusy wschodnie to w znacznej mierze kraj rolniczy z rozproszonymi wsiami i małomiasteczkową szlachtą junkrów.
-
-*Junkier* (*Junker*) — ziemska szlachta pruska — jest właścicielem wsi i sędzią zarazem. Jego chłopi nie są formalnie pańszczyźnianymi (Prusy zniosły pańszczyznę pod Fryderykiem Wielkim), ale są przywiązani do ziemi przez długi i zależność. Reforma agrarna przyjdzie po jenie, z Steina i Hardenberga.
-
-### Żydzi w Rzeszy
-
-Żydzi niemieccy — może dwieście tysięcy — mieszkają w skupiskach regulowanych przez lokalne prawo. [[Frankfurt]]: getto w Judengasse, osobna ulica z zamkniętymi bramami, zakaz wychodzenia w niedzielę i święta chrześcijańskie. Liczba rodzin żydowskich w Frankfurcie regulowana umową z miastem: nie więcej niż pięćset rodzin, nie więcej niż dwanaście ślubów rocznie.
-
-[[Mayer Amschel Rothschild]], sześćdziesiąt lat, mieszka w Judengasse i zarządza finansami landgrafa Hesji-Kassel. Jego pięciu synów jest rozsyłanych po Europie — Nathan już w Londynie, Salomon i Kalman czekają na swoje placówki. Nie ma jeszcze bankowego imperium; jest podstawa, na której imperium wyrośnie w ciągu dekady.
-
-Edykt o emancypacji Żydów pruskich przyjdzie w 1812 roku. We Frankfurcie — po likwidacji granic przez Napoleona i powołaniu Wolnego Miasta. [[Moses Mendelssohn]] umarł w 1786 roku, ale jego projekt Haskali — żydowskiego oświecenia — żyje w środowiskach berlińskich i hamburskich: Żydzi mogą i powinni uczestniczyć w kulturze europejskiej, zachowując własną tradycję.
-
----
-
-## Kluczowe postacie
-
-### Franciszek II Habsburg (1768–1835)
-
-Ostatni cesarz Rzeszy i pierwszy cesarz Austrii. W 1802 roku: trzydzieści cztery lata, trzy lata po klęsce w Campformio, rok po Lunéville. Zna smak kapitulacji i uczy się go smakować metodycznie — każda kapitulacja jest przeżycia; każde przeżycie jest możliwością reorganizacji.
-
-Jego główną cechą polityczną jest podejrzliwość — wobec ministrów, wobec liberałów, wobec wszystkiego, co pachnie reformą. Metternich zrozumie tę podejrzliwość doskonale i użyje jej jako narzędzia własnej polityki przez trzydzieści lat.
-
-> [!mechanics]
-> **Franciszek II (1802)**
-> ST 9, DX 10, IQ 13, HT 11
-> **Umiejętności:** Administracja 14, Historia (habsburska) 15, Dyplomacja 11, Prawo (cesarskie) 13, Jeździectwo 12
-> **Zalety:** Status 10 (Cesarz), Wealth (Multimillionaire), Stubbornness
-> **Wady:** Odporność na zmianę (Obstinacy), nieufność wobec wszystkich doradców
-
-### Karl Theodor von Dalberg (1744–1817)
-
-Arcybiskup Moguncji, Archchancellor Rzeszy — ostatni, który ten urząd piastuje. Ma pięćdziesiąt osiem lat, oświeceniowe wykształcenie, pragmatyczny stosunek do religii i niemały talent dyplomatyczny. Jego strategia: przetrwać przez współpracę z kimkolwiek, kto aktualnie wygrywa.
-
-Dalberg bliżej opisany: Goethe go znał, lubił i podziwiał jego elastyczność. Schiller go potrzebował — Dalberg był intendantem teatru dworskiego w Mannheim, gdzie wystawił *Zbójców*. Napoleon go użyje jako kościelnego legitymizatora swojego porządku w Niemczech.
-
-### Mayer Amschel Rothschild (1744–1812)
-
-Frankfurt, Judengasse. W 1802 roku: sześćdziesiąt lat, zarządca finansów landgrafa Wilhelma IX Hessyjskiego. Firma *M. A. Rothschild und Söhne* jest małym, ale cenionym domem finansowym — pożyczki, przekazy, obligacje państwowe.
-
-Kiedy Napoleon zajmie Hesję-Kassel w 1806 roku, Wilhelm ucieknie z majątkiem złożonym w rękach Rothschilda jako depozytem. Mayer Amschel i jego synowie będą zarządzać tym majątkiem z rozmachem i dyskrecją, inwestując w angielskie obligacje przez Nathana w Londynie. Z tego depozytu i z siatki braci wyrośnie największa prywatna firma finansowa XIX wieku.
-
-> [!mechanics]
-> **Mayer Amschel Rothschild (1802)**
-> ST 8, DX 10, IQ 17, HT 10
-> **Umiejętności:** Handel 18, Rachunkowość 18, Dyplomacja 14, Prawo (handlowe) 15, Jidysz i Hebrajski (native), Niemiecki 15, Francuski 11
-> **Zalety:** Wealth (Very Wealthy, rosnące), Contacts (landgraf Hesji, sieci kupieckie od Amsterdamu po Frankfurt), Mathematical Ability
-> **Wady:** Social Stigma (Jude w 1802 roku — prawnie ograniczony, strzeżony bramami getta)
-
-### Johann Wolfgang von Goethe (1749–1832)
-
-Weimar. Pięćdziesiąt trzy lata. Nie polityk — ale żaden artykuł o Niemczech roku 1802 nie powinien go pominąć. Goethe jest przez współczesnych postrzegany jako coś w rodzaju kulturowego barometru nacji, która nie ma politycznego centrum. W Niemczech zamiast parlamentu jest Weimar.
-
-W 1802 roku pracuje nad *Faustem*, pisze eseje optyczne, kieruje teatrem. Jego obserwacja Napoleona (spotkają się w 1808 roku w Erfurcie) będzie jedna z ważniejszych dokumentów epoki: cesarz powiedział do Goethego *„Voilà un homme"* — oto człowiek.
-
----
-
-*Powiązane artykuły: [[Francja Napoleońska (1802)]], [[Wielka Brytania (1802)]], [[Chronologia]], [[Rosja]], [[Pokój Amiens]].*
+*Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Rosja]], [[Pokój Amiens]], [[Państwo Kościelne]], [[Oświecenie]], [[Wolnomurarstwo]], [[Cudotwórcy]], [[Sorcery]], [[Prekursorzy]], [[Polowania na czarownice]], [[Fey]], [[Punkty rozbieżności]], [[Chronologia]].*
