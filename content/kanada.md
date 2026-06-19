@@ -6,333 +6,97 @@ aliases: [Kanada, British North America, Brytyjska Ameryka Północna, Kanada Br
 
 # Kanada Brytyjska
 
-W roku 1802 nie ma kraju zwanego Kanadą. Jest kilka oddzielnych kolonii brytyjskich rozrzuconych wzdłuż Świętego Wawrzyńca, nad Atlantykiem i w bezkresnej głębi kontynentu. Mają różne języki, różne systemy prawa, różne powody, dla których w ogóle tu są. Łączy je jeden fakt: żaden z tych ludzi nie chciał znaleźć się po południowej stronie granicy z [[Stanami Zjednoczonymi]].
+W roku 1802 nie ma kraju zwanego Kanadą. Jest kilka osobnych kolonii brytyjskich rozrzuconych wzdłuż Świętego Wawrzyńca, nad Atlantykiem i w bezkresnej głębi kontynentu — o różnych językach, różnym prawie i różnych powodach, dla których w ogóle tu są. Łączy je jedno: nikt z tych ludzi nie chciał znaleźć się po południowej stronie granicy ze [[Stany Zjednoczone|Stanami Zjednoczonymi]].
 
-Razem — te kolonie, te rzeki, te szlaki handlowe — tworzą coś, co można by nazwać Brytyjską Ameryką Północną. Populacja: może czterysta do pięciuset tysięcy białych osadników, dwadzieścia do trzydziestu tysięcy rdzennych mieszkańców wschodnich prowincji i trudna do policzenia liczba Cree, Assiniboinów, Odżibwów i innych narodów na rozległych terytoriach futrzanych na zachodzie. Za nimi: kontynent, który żaden Europejczyk jeszcze nie zmierzył.
+Razem dają jakieś czterysta do pięciuset tysięcy białych osadników, dwadzieścia do trzydziestu tysięcy rdzennych mieszkańców wschodnich prowincji i niepoliczalną rzeszę Cree, Assiniboinów, Odżibwów i innych narodów na rozległych terytoriach futrzanych zachodu. Za nimi leży kontynent, którego żaden Europejczyk jeszcze nie zmierzył.
 
 ---
 
 ## Smoki i krucha granica
 
-Skąpego zaludnienia Brytyjskiej Ameryki Północnej nie tłumaczy sam klimat. Tłumaczą je [[Rdzenne narody Ameryki Północnej|rdzenne narody]] i ich sojusznicy — [[Smoki|smoki]]. Lasy i jeziora kontynentu należą do [[Smoki Leśne|Smoków Leśnych]] i [[Smoki Rzeczne|Smoków Rzecznych]], a [[Cree]], [[Odżibwe]] i Assiniboinowie żyją z nimi w przymierzu starszym niż pamięć.
+Brytyjską Amerykę Północną zaludnia tak niewielu osadników głównie za sprawą [[Rdzenne narody Ameryki Północnej|rdzennych narodów]] i ich sojuszników — [[Smoki|smoków]]. Klimat to tylko część przyczyny. Lasy i jeziora kontynentu należą do [[Smoki Leśne|Smoków Leśnych]] i [[Smoki Rzeczne|Smoków Rzecznych]], a Cree, Odżibwe i Assiniboinowie żyją z nimi w przymierzu starszym niż pamięć.
 
-Brytyjczycy i Francuzi próbowali tu tego samego co wszędzie — polowania na smoki dla krwi i łuski. Próby były krótkie i krwawe. W rzadko zaludnionej tajdze smoków było mniej niż na żyznym południu, a każdy zabity ściągał odwet klanu, którego myśliwych potrzebowano do handlu. Rachunek się nie zgadzał: jedna fiolka destylatu nie była warta utraty całej sieci dostawców bobra. Polowania porzucono i wrócono do [[Handel futrami|futer]] oraz drewna.
+Brytyjczycy i Francuzi próbowali tu tego samego co wszędzie — polowania na smoki dla krwi i łuski. Próby były krótkie i krwawe. W rzadkiej tajdze smoków było mniej niż na żyznym południu, a każdy zabity ściągał odwet klanu, którego myśliwych potrzebowano do handlu. Rachunek się nie zgadzał: jedna fiolka destylatu nie była warta utraty całej sieci dostawców bobra. Polowania porzucono i wrócono do [[Handel futrami|futer]] i drewna.
 
-Skutek widać w każdej osadzie. Osadnik w Górnej Kanadzie czy nad Świętym Wawrzyńcem jest mniej pewny siebie i ostrożniejszy niż jego kuzyn za granicą w Ohio. Klany nie wahają się napaść na farmę, która weszła na nie swoje — złupić ją albo skarcić za złamanie umowy — a wezwana milicja wie, że za lasem może czekać coś gorszego niż wojownik z muszkietem. Granica osadnictwa pełznie tu wolniej niż w [[Stany Zjednoczone|Stanach]], i wszyscy po cichu wiedzą dlaczego.
+Skutek widać w każdej osadzie. Osadnik nad Świętym Wawrzyńcem jest ostrożniejszy niż jego kuzyn za granicą w Ohio. Klany nie wahają się złupić farmy, która weszła na nieswoje, albo skarcić ją za złamanie umowy, a wezwana milicja wie, że za lasem może czekać coś gorszego niż wojownik z muszkietem. Granica osadnictwa pełznie tu wolniej niż w [[Stany Zjednoczone|Stanach]], i wszyscy po cichu wiedzą dlaczego.
 
-[[Dwudusze|Dwudusza]] jest na północy rzadkością nawet wśród Cree, lecz wystarcza, by żaden faktor nie traktował sojuszu z rdzennymi jak formalności. Cały handel futrami stoi na uprzejmości, nie na sile.
+[[Dwudusze|Dwudusza]] — szaman zrośnięty duszą ze smokiem — jest na północy rzadkością nawet wśród Cree, lecz wystarcza, by żaden faktor nie traktował sojuszu z rdzennymi jak formalności. Cały handel futrami trzyma się tu wzajemnej uprzejmości.
 
 > [!rules]
-> **Smoki w Kanadzie:** rzadsze niż na południu kontynentu; polowania na krew zarzucone jako nieopłacalne
-> **Relacja osadnik–klan:** przewaga po stronie rdzennych; napady karne i łupieskie to realne ryzyko pogranicza
-> **Gospodarka:** futra i drewno zamiast smoczej krwi (zob. [[Handel futrami]])
+> **Kolonie Brytyjskiej Ameryki Północnej (1802)**
+> **Kanada Dolna:** ~250 000 (ponad 80% frankofońskich katolików); stolica Quebec; prawo cywilne francuskie, karne angielskie
+> **Kanada Górna:** ~60 000–80 000 (lojaliści i przybysze z USA); stolica York; common law
+> **Nowa Szkocja:** ~65 000–70 000; Halifax — główna baza Royal Navy
+> **Nowy Brunszwik:** ~25 000–35 000; drewno i maszty
+> **Wyspa Księcia Edwarda:** ~5 000–7 000
+> **Nowa Fundlandia:** ~20 000–25 000; dorsz, bez pełnego statusu kolonii
+> **Ziemie Kompanii (Rupert's Land):** kilkanaście fortów, kilkuset pracowników HBC; ponad 3,5 mln km²
+> **Armia:** ~4 000 żołnierzy na cały obszar
 
 ---
 
 ## Kanada Dolna — la nation canadienne
 
-### Francuzi pod brytyjską koroną
+Kanada Dolna — dawne Lower Canada, dzisiejszy Quebec — istnieje jako osobna kolonia od aktu konstytucyjnego z 1791 roku, który podzielił dawną prowincję Quebec na dwie. Mieszka w niej jakieś dwieście pięćdziesiąt tysięcy ludzi, z czego ponad osiemdziesiąt procent to *habitants* — potomkowie francuskich osadników, mówiący po francusku, katoliccy, żyjący z roli wzdłuż Świętego Wawrzyńca. Brytyjski podbój sprzed czterdziestu dwóch lat zmienił w praktyce tylko garnizon i kupców; kościół, sądy, seigniorialne prawo ziemi, język i zwyczaje trwają jak za Ludwika XV.
 
-[[Kanada Dolna]] (Lower Canada, dzisiejszy Quebec) istnieje jako odrębna kolonia od [[Aktu Konstytucyjnego]] z 1791 roku, który podzielił dawną Prowincję Quebec na dwie części. Zamieszkuje ją jakieś dwieście pięćdziesiąt tysięcy ludzi, z czego ponad osiemdziesiąt procent to *habitants* — potomkowie francuskich osadników z XVII i XVIII wieku, mówiący po francusku, katoliccy, żyjący z rolnictwa wzdłuż Świętego Wawrzyńca.
+Ziemia leży tu w charakterystycznych długich, wąskich pasach prostopadłych do rzeki, każdy z własnym dostępem do wody i każdy należący do *seigneura*, który niegdyś dostał go od korony francuskiej. Habitanci dzierżawią, płacą roczny czynsz i drobne pańszczyzny, mielą zboże w seigniorialnym młynie. System jest w teorii feudalny, w praktyce łagodniejszy od europejskiego — pan zwykle mieszka na miejscu i bywa na tych samych mszach. Ale rodziny mają po siedmioro, ośmioro dzieci, każdy syn dostaje wycinek ojcowskiego pasa, a pas jest już za wąski; za dwa pokolenia problem ziemi wybuchnie.
 
-Podbój brytyjski nastąpił czterdzieści dwa lata temu, w 1760 roku, po upadku Nowej Francji. W praktyce: zmienił się tylko garnizon i kupcy. Kościół, sądy, seigniorialne prawo ziemi, język, zwyczaje — wszystko to trwa dokładnie tak samo jak za Ludwika XV.
+Rok habitanta idzie rytmem rzeki skutej lodem od listopada do marca, grochowej zupy w poście i niedzielnej mszy, na której ksiądz wie o ciążach i długach wcześniej niż mężowie. Montreal liczy w 1802 roku jakieś dziewięć tysięcy mieszkańców — miasto kupców i handlarzy futer, w którym ulica mówi po francusku, lecz język interesu jest coraz bardziej angielski. Quebec, też dziewięciotysięczny, broni się murami na stromym wzgórzu nad rzeką: dolne miasto to doki i magazyny, górne to katedra, seminarium, gubernator i sądy.
 
-### System seigniorialny
+Kościół katolicki jest tu strukturą autonomiczną, niezależną od angielskiej korony, z własnym seminarium w Quebecu, własnymi sądami i własną oświatą; biskup Quebeku nie uznaje prerogatyw anglikańskich. Koadiutor Plessis jest politykiem równie sprawnym co teologiem — wie, że przetrwanie kultury frankofońskiej zależy od kościoła, więc negocjuje z gubernatorem ostrożnie, nie kwestionując lojalności wobec Korony, lecz nie ustępując ani cala w jurysdykcji.
 
-Ziemia wzdłuż Świętego Wawrzyńca jest podzielona w charakterystyczny sposób: długie, wąskie pasy biegnące prostopadle do rzeki, każdy z własnym dostępem do wody. Każdy pas należy do *seigneura* — dziedzicznego właściciela, który otrzymał go niegdyś od korony francuskiej. Habitants dzierżawią ziemię, płacą roczny czynsz (*cens et rentes*), wykonują pewne pańszczyzny, korzystają z seigniorialnego młyna i pieca — płacąc za to *banalité*.
+Ta autonomia ma drugie dno. Seminarium po cichu kształci [[Cudotwórcy|cudotwórców]], a głęboka wiara habitantów sprawia, że Kanada Dolna jest jednym z niewielu zakątków Brytyjskiej Ameryki Północnej, gdzie katolicki Cud bywa czymś więcej niż opowieścią. Anglikański establishment, chłodny wobec magii i ubogi w cudotwórców, nie ma czym tego zrównoważyć — co umacnia rękę biskupa w każdej rozmowie z gubernatorem.
 
-System w teorii feudalny; w praktyce łagodniejszy niż europejski odpowiednik. Seigneur zazwyczaj mieszka na swojej ziemi, zna swoich dzierżawców, bywa na tych samych mszach. Ale ziemia się kurczy: rodziny mają po siedmioro, ośmioro dzieci, każdy syn dostaje kawałek ojcowskiego pasa, który jest już zbyt wąski. Za dwa pokolenia problem ziemi wybuchnie.
-
-[[Montreal]] liczy w 1802 roku jakieś dziewięć tysięcy mieszkańców — miasto handlarzy, kupców, fur traderów. Język ulicy: po francusku, ale langue des affaires jest coraz bardziej angielski. Anglojęzyczni kupcy z [[North West Company]] i niezależni handlarze kontrolują handel futrzany. Na Place d'Armes stoi kościół Notre-Dame; kilkaset metrów dalej rezydencja gubernatora i biura eksportowo-importowych domów handlowych.
-
-[[Quebec City]] — dziewięć tysięcy osób, mury obronne, strome wzgórze nad rzeką. Dolne miasto to magazyny, doki, robotnicy i marynarze. Górne miasto to katedra, seminarium, gubernator, sądy. Podróżnik brytyjski John Lambert opisał je w 1806 roku: miasto mające aurę dawności, która odróżnia je od wszystkich miast Nowego Świata.
-
-### Habitants — rok na farmie
-
-Habitant budzi się przed wschodem słońca. Zima jest długa — od listopada do marca Święty Wawrzyniec jest skuty lodem — więc zimowe miesiące to czas naprawy narzędzi, rąbania drewna, tkania i wieczorów przy piecu. Wiosna: sianie żyta i pszenicy, sadzenie ziemniaków i kapusty. Lato: pielenie, sianokosy. Jesień: żniwa, kiszenie kapusty, solenie wieprzowiny.
-
-Dieta: chleb pszenny lub żytni, grochowa zupa (*soupe aux pois*), słonina, kapusta kwaszona, ziemniaki od późnego XVIII wieku, dorsz solony w piątek i w dni postne — których jest w katolickim kalendarzu niemało. Cydr jabłkowy i domowa brandy.
-
-Dom habitanta: kamienny lub z bali, długi i niski, z dużym kominem centralnym, niskimi sufitami. Werandy otwarte latem. Podwórze z oborą, kurnikiem, małym sadem jabłkowym.
-
-W niedzielę cała wioska idzie do kościoła. Msza jest jedyna okazja, by zobaczyć wszystkich naraz. Ksiądz czyta z ambony ogłoszenia parafialne, pośredniczy w sporach, wie o ciążach i długach zanim wie mąż. Parafia jest jednostką administracyjną, sądową i społeczną jednocześnie.
-
-### Kościół katolicki jako władza równoległa
-
-[[Kościół katolicki]] w Kanadzie Dolnej nie jest instytucją zależną od angielskiej korony — jest autonomiczną strukturą z własnym seminarium w Quebec City (Séminaire de Québec, 1663), własnymi sądami kościelnymi, własnym systemem edukacji. Biskup Quebeku zarządza duszpasterstwem dla całej kolonii i nie uznaje prerogatyw anglikańskich.
-
-[[Joseph-Octave Plessis]], koadiutor biskupa od 1797 roku, jest politykiem równie sprawnym co teologiem. Wie, że przeżycie kultury frankofońskiej zależy od kościoła jako instytucji. Negocjuje z brytyjskim gubernatorem z ostrożną stanowczością — nie kwestionuje lojalności wobec Korony, ale nie ustępuje ani cala w kwestiach jurysdykcji kościelnej.
-
-Ta autonomia ma drugie dno. Seminarium w Quebecu po cichu kształci [[Cudotwórcy|cudotwórców]], a głęboka wiara habitantów sprawia, że Kanada Dolna jest jednym z niewielu zakątków Brytyjskiej Ameryki Północnej, gdzie katolicki Cud bywa czymś więcej niż opowieścią. Anglikański establiszment, chłodny wobec magii „nie-boskiej" i ubogi w cudotwórców, nie ma czym tego zrównoważyć — co Plessis rozumie i co wzmacnia jego rękę w każdej rozmowie z gubernatorem.
-
-Szkoły prowadzone przez kościół uczą w języku francuskim. Szkoły protestanckie prowadzone przez misjonarzy anglikańskich uczą w angielskim. Habitant zazwyczaj nie widzi dylematu: posyła dzieci do księdza.
-
-### Polityka — Zgromadzenie vs Gubernator
-
-[[Akt Konstytucyjny z 1791]] dał Kanadzie Dolnej wybieralną Izbę Zgromadzenia — pierwsze demokratyczne ciało ustawodawcze w historii frankofońskiej Ameryki. Ale prawdziwa władza pozostała przy mianowanym Gubernatorze, mianowanej Radzie Wykonawczej i mianowanej Radzie Legislatywnej.
-
-[[Robert Shore Milnes]], Lieutenant-Governor od 1797, jest człowiekiem wyrozumiałym i ostrożnym. Rozumie, że kolonia ma dwie nogi i że obu nie można amputować jednocześnie. Praktykuje balancing act: angielskie prawa handlowe dla merchantów, francuskie prawo cywilne dla habitants, katolicyzm tolerowany, anglikanie nie uprzywilejowani nadmiernie.
-
-W Zgromadzeniu: frankofońscy posłowie z coraz wyraźniejszym poczuciem, że reprezentują naród — *la nation canadienne* — a nie tylko elektorat geograficzny. To poczucie będzie rosło przez następne czterdzieści lat.
-
-> [!rules]
-> **Kanada Dolna (Lower Canada)**
-> **Populacja 1802:** ~250 000 (>80% frankofońscy katolicy)
-> **Główne miasta:** Montreal (~9 000), Quebec City (~9 000)
-> **System prawa:** Prawo cywilne (droit civil) dla własności i rodziny; prawo angielskie kryminalne
-> **Język administracji:** angielski i francuski (oba obowiązkowe w Zgromadzeniu od 1791)
-> **Kościół:** Diecezja Quebec, biskup mianowany przez Rzym (nie przez Koronę)
-> **Główne uprawy:** pszenica, żyto, owies, ziemniaki, kapusta
+Akt konstytucyjny dał kolonii wybieralną Izbę Zgromadzenia — pierwsze takie ciało we frankofońskiej Ameryce — lecz realna władza została przy mianowanym gubernatorze i jego radach. Wśród frankofońskich posłów rośnie poczucie, że reprezentują naród, *la nation canadienne*, a nie tylko okręg wyborczy. To poczucie będzie rosło przez następne czterdzieści lat.
 
 ---
 
 ## Kanada Górna — kolonia lojalistów
 
-### Uciekinierzy z Republiki
+Kanada Górna — dzisiejsze Ontario — jest młoda i amerykańska w korzeniach. Stworzył ją ten sam akt z 1791 roku dla lojalistów: czterdziestu do pięćdziesięciu tysięcy Amerykanów, którzy po rewolucji opuścili Stany, bo nie chcieli żyć w republice. Przyszli z Connecticut, Nowego Jorku, Pensylwanii i Georgii, przynosząc angielskie prawo, anglikańskie kościoły i pamięć upokorzenia. W 1802 roku jest ich już sześćdziesiąt do osiemdziesięciu tysięcy i przybywa szybko — po lojalistach przyszła druga fala zwykłych Amerykanów za tańszą ziemią, bo gdy w Ohio akr kosztuje dwa dolary, kanadyjski rząd daje go za darmo z obowiązkiem uprawy.
 
-[[Kanada Górna]] (Upper Canada, dzisiejszy Ontario) jest młoda i americana w korzeniach. Stworzył ją Akt Konstytucyjny z 1791 roku dla [[Lojalistów]] — czterdziestu do pięćdziesięciu tysięcy Amerykanów, którzy opuścili nowe Stany Zjednoczone po Rewolucji, bo nie chcieli żyć w republice. Przyszli z Connecticut, Nowego Jorku, Pensylwanii, Georgii. Przynieśli ze sobą angielskie prawo, anglikańskie kościoły, wspomnienie upokorzenia.
+York, przyszłe Toronto, jest stolicą od 1796 roku i liczy może siedemset osób — dobry port nad jeziorem Ontario, zły klimat malarycznych bagien, parlament w jednej wiejskiej chacie przerobionej na dwie izby; tawerny wyglądają solidniej. Typowy grant to dwieście akrów w wytyczonym township, lecz akt z 1791 roku zarezerwował jedną siódmą ziemi dla protestanckiego duchowieństwa i jedną siódmą dla Korony, więc w każdym township dwie działki na siedem leżą puste i zarastają, otaczając czynne farmy pierścieniem nieużytków. Osadnicy przeklinają to przy każdej kłodzie, którą muszą ściąć trzy razy dalej, niż powinni.
 
-Populacja w 1802: sześćdziesiąt do osiemdziesięciu tysięcy i rośnie szybko — bo drugi strumień imigracji trwa: nie lojalistów tym razem, lecz zwykłych Amerykanów szukających tańszej ziemi. Ziemia w Ohio kosztuje dwa dolary za akr; w Górnej Kanadzie rząd daje ją za darmo (grant z obowiązkiem uprawy). Governor Hunter niepokoi się tym i będzie próbował ograniczyć imigrację zza granicy.
-
-### York — stolica z pretensjami
-
-[[York]] (przyszłe Toronto) liczy w 1802 roku może siedemset osób i jest stolicą od 1796 roku, kiedy [[John Graves Simcoe]] przeniósł ją z Niagara-on-the-Lake, bo Niagara była zbyt blisko granicy z USA. York stoi nad zatoką Jeziora Ontario — dobry port, zły klimat (malaryczne bagna), brak bruku i brak kanalizacji.
-
-Administracja kolonii mieści się w drewnianych budynkach przy King Street. Parlament — jedna wiejska chata przebudowana na dwie izby. Tawerny wyglądają solidniej.
-
-### Grunt i system osadniczy
-
-Typowy grant lojalisty: dwieście akrów w wyznaczonym township. System prosty i powtarzalny — każde township ma dziesięć mil kwadratu, podzielony na dwieście działek.
-
-[[Rezerwy kleru]] i [[Rezerwy Korony]] to dwa problemy, które będą truły kolonię przez dekady. Akt z 1791 roku zarezerwował jedną siódmą całej ziemi dla protestanckiego duchowieństwa i jedną siódmą dla Korony. Oznacza to, że w praktycznie każdym township dwie działki na siedem są puste — nikt ich nie uprawia, nie płaci podatków, zarasta drzewem i chwastem, otaczając aktywne farmy pierścieniem bezużytecznych łąk. Osadnicy przeklinają to rozwiązanie przy każdym kłodzie drewna, który muszą ściąć trzy razy dalej niż powinni.
-
-### Lojaliści — tożsamość zbudowana na wyborze
-
-Lojaliści są Amerykanami, którzy przestali być Amerykanami przez akt woli. To odróżnia ich od Kanadyjczyków frankofońskich (którzy nigdy nie byli Anglikami) i od świeżych imigrantów z Wysp (którzy nigdy nie byli Amerykanami).
-
-Lojalistyczna mitologia jest prosta: kiedy kolonie się buntowały, oni pozostali wierni Koronie. Zapłacili cenę — konfiskatę majątku, wygnanie, czasem więzienie, czasem śmierć. Teraz są tu. Ich dzieci i wnuki będą się określać jako *United Empire Loyalists* — ze skrótem UEL po nazwisku, jako tytuł honoru. Republika jest niestabilna. Monarchia i porządek to jedyne rozsądne fundamenty społeczeństwa.
-
-W praktyce: ci sami ludzie, w większości tych samych zawodów, uprawiający tę samą ziemię metodami przeniesionymi z Pensylwanii czy Connecticut. Różnica tkwi w narracji o sobie samych.
-
-### Dzień roboczy w Górnej Kanadzie
-
-Pierwsza dekada na nowej działce: karczowanie. Buk, klon, wiąz, sosna — drzewa, które muszą spaść, żeby pole zaistniało. Topór jest ważniejszym narzędziem niż pług przez pierwsze pięć lat. Spalone drzewo daje popiół — potaż, sprzedawany do Montrealu jako surowiec do produkcji mydła i szkła.
-
-Pierwsza chatka: z bali, z ziemią między nimi, dach ze słomy lub gontów. Po kilku latach — dom z oheblowanych belek, z oknami ze szybą, z piwnicą. Dziesięć lat po przybyciu: solidna farma, kilkanaście akrów pod uprawę, kilka krów, trzoda chlewna.
-
-Zimy dłuższe niż na południu, ale osadnicy wiedzieli o tym. Zapasy na siedem miesięcy: solona wieprzowina, suszone ryby, ziarna, warzywa korzeniowe w piwnicy. Whiskey domowa lub z pobliskiej destylarni przy młynie.
-
-Kościoły anglikańskie przy każdej wiosce; metodystyczni *circuit riders* przyjeżdżają raz na kilka tygodni. [[Drugie Wielkie Przebudzenie]] dociera i tu — metodyzm rośnie wśród uboższych osadników szybciej niż anglikanizm.
-
-> [!rules]
-> **Kanada Górna (Upper Canada)**
-> **Populacja 1802:** ~60 000–80 000
-> **Stolica:** York (~700 osób)
-> **System prawa:** Angielskie prawo zwyczajowe (common law)
-> **Główne grupy:** Lojaliści (60%), świeżo przybyli z USA i Wysp Brytyjskich (40%)
-> **Ziemia:** granty od 100 do 200 akrów, wolne od opłat przez 7 lat
-> **Główne problemy:** Clergy Reserves, brak dróg, niska jakość infrastruktury
+Pierwsza dekada na działce to karczowanie — topór jest ważniejszy od pługa przez pięć lat, a spalone drzewo daje potaż na sprzedaż do Montrealu. Lojalista jest Amerykaninem, który przestał nim być z wyboru, i tę narrację — wierność Koronie okupioną konfiskatą i wygnaniem — przekaże dzieciom jako tytuł honoru. W praktyce uprawia tę samą ziemię tymi samymi metodami co kuzyni za granicą; różnica tkwi w opowieści o sobie. Anglikański kościół stoi przy każdej wiosce, lecz metodystyczni kaznodzieje objazdowi docierają do ubogich osadników szybciej, a przebudzenie religijne płynące z południa sprzyja im bardziej niż chłodnej liturgii.
 
 ---
 
-## Kolonie Atlantyckie
+## Kolonie atlantyckie
 
-### Nowa Szkocja — forteca i flota
+Na wschodzie leży pas kolonii atlantyckich. Nowa Szkocja jest najstarsza i najważniejsza militarnie — sześćdziesiąt pięć do siedemdziesięciu tysięcy mieszkańców, a jej stolica Halifax z ośmioma–dziesięcioma tysiącami jest główną bazą Royal Navy na zachodnim Atlantyku: cytadela nad portem, królewska stocznia, koszary na dwa tysiące żołnierzy. W pokoju stocznia konserwuje okręty, w wojnie przez Halifax przepłyną wszystkie konwoje. Ludność jest mieszana — osadnicy z Nowej Anglii, lojaliści, wracający po deportacji Akadyjczycy i trzy i pół tysiąca Czarnych Lojalistów, którym dano ziemię gorszą niż białym, przez co większość wyemigrowała do Sierra Leone w 1792 roku. Rdzennych Mi'kmaq zepchnięto na obrzeża pokolenie wcześniej.
 
-[[Nowa Szkocja]] jest najstarszą i najważniejszą militarnie kolonią atlantycką. Sześćdziesiąt pięć do siedemdziesięciu tysięcy mieszkańców; [[Halifax]] z ośmioma do dziesięcioma tysiącami jest największym miastem kolonii i jednocześnie główną bazą [[Royal Navy]] na zachodnim Atlantyku.
-
-Citadel Hill górujący nad portem, stocznia królewska, magazyny amunicji, koszary na dwa tysiące żołnierzy — Halifax jest twierdzą, nie miastem handlowym. W czasie pokoju (jak teraz, po podpisaniu [[Pokoju Amiens]]) stocznia konserwuje okręty, garnizon przygotowuje raporty, oficerowie grają w karty. Gdy przyjdzie wojna, Halifax będzie węzłem, przez który przepłyną wszystkie konwoje atlantyckie.
-
-Ludność jest mieszana: anglojęzyczni osadnicy z Nowej Anglii (*New England Planters*, przybyli w 1760), Lojaliści z Rewolucji, Akadyjczycy powracający po deportacji, [[Czarni Lojaliści]] — trzy tysiące pięćset Czarnych Amerykanów, którzy wybrali Koronę w Rewolucji i dostali ziemię w Birchtown i innych osadach. Czarni Lojaliści dostali ziemię gorszą niż biali — odleglejszą, mniej żyzną, z mniejszymi grantami. Większość wyemigrowała do Sierra Leone w 1792 roku.
-
-[[Mi'kmaq]] — rdzenni mieszkańcy półwyspu — zostali zepchnięci na obrzeża przed półwieczem. Kilka tysięcy w leśnych obozowiskach, zależnych od handlu z osadnikami.
-
-### Nowy Brunszwik i Wyspa Księcia Edwarda
-
-[[Nowy Brunszwik]] powstał w 1784 roku jako osobna kolonia wydzielona z Nowej Szkocji — specjalnie dla Lojalistów, których napływ po Rewolucji był zbyt duży, żeby Halifax mógł go wchłonąć. Dwadzieścia pięć do trzydziestu pięciu tysięcy mieszkańców; [[Saint John]] jako główny port.
-
-Handel drewnem jest zaczątkiem czegoś większego. Laski sosnowe i świerkowe idą na okręty Royal Navy jako maszty. W 1802 roku to jeszcze przeczucie; za dziesięć lat drewno z Nowego Brunszwiku będzie fundamentem atlantyckiej floty handlowej.
-
-[[Wyspa Księcia Edwarda]] (przemianowana z Wyspy Świętego Jana w 1799 roku) — pięć do siedmiu tysięcy osób, głównie szkoccy i irlandzcy emigranci, żyjący z rolnictwa na czerwonych glebach gliniastych.
-
-### Nowa Funlandia — kolonia rybaków
-
-[[Nowa Funlandia]] jest anomalią: dwadzieścia do dwudziestu pięciu tysięcy mieszkańców, ale przez sto pięćdziesiąt lat Londyn odmawiał jej statusu pełnej kolonii z własnym rządem, bo kupcy z zachodnioanglielskich portów lobbowali przeciwko stałemu osadnictwu. Stała populacja zagrażałaby ich sezonowemu monopolowi na połowy.
-
-W 1832 roku Nowa Funlandia dostanie własne ciało ustawodawcze. Póki co: łowią dorsza, solą go, sprzedają do Europy i Karaibów. [[St. John's]] ma trzy do czterech tysięcy stałych mieszkańców i kilka tysięcy sezonowych.
+Nowy Brunszwik wydzielono z Nowej Szkocji w 1784 roku dla nadmiaru lojalistów; jego sosnowe i świerkowe maszty zaczynają płynąć na okręty Royal Navy, co za dekadę uczyni z tutejszego drewna fundament floty handlowej. Wyspa Księcia Edwarda to kilka tysięcy szkockich i irlandzkich rolników na czerwonej glinie. Nowa Fundlandia jest anomalią — przez półtora wieku Londyn odmawiał jej pełnego statusu kolonii, bo kupcy z portów zachodniej Anglii bali się, że stała ludność zagrozi ich sezonowemu monopolowi na połów dorsza; mieszka tam dwadzieścia do dwudziestu pięciu tysięcy ludzi, którzy łowią, solą i sprzedają dorsza do Europy i na Karaiby.
 
 ---
 
-## Ziemie Kompanii Zatoki Hudsona
+## Ziemie Kompanii i handel futrami
 
-### Rupert's Land — kontynent firmy
+Za osadami zaczyna się kontynent Kompanii. Hudson's Bay Company dostała od Karola II w 1670 roku wyłączne prawa do wszystkich ziem spływających do Zatoki Hudsona — jak się okaże, do trzydziestu dziewięciu procent dzisiejszej Kanady. W 1802 roku to kilkanaście fortów przy rzekach, kilkuset stałych pracowników i kilkanaście tysięcy rdzennych myśliwych, którzy przynoszą futra w zamian za sukno, metal, broń i tolerowany alkohol. Strategia HBC przez sto lat była prosta: siedzieć w fortach nad zatoką i czekać, aż Indianie przyniosą towar.
 
-[[Kompania Zatoki Hudsona]] (Hudson's Bay Company, HBC) otrzymała od Karola II w 1670 roku wyłączne prawa handlowe do wszystkich ziem spływających do Zatoki Hudsona. Nikt wtedy nie wiedział, ile to ziemi. Odpowiedź: trzydzieści dziewięć procent dzisiejszej Kanady i znaczna część północnych Stanów Zjednoczonych — ponad trzy i pół miliona kilometrów kwadratowych.
+Potem przyszli Kanadyjczycy z Montrealu. North West Company, zawiązana w 1779 roku przez niezależnych kupców i zbudowana przez Szkota Simona McTavisha, „Marquisa" kupieckiego Montrealu, jedzie po futra, zamiast na nie czekać. Jej zimujący partnerzy spędzają zimy w głębi lądu, stawiając forty i negocjując sojusze z rdzennymi nacjami, a jej ludzie pchnęli granicę poznania dalej niż ktokolwiek — Alexander Mackenzie w 1793 roku przeszedł Skały do Oceanu Spokojnego jako pierwszy Europejczyk lądem przez kontynent, a David Thompson właśnie mierzy zachód z dokładnością, której nikt nie doceni za jego życia. W 1802 roku obie firmy tkwią w ostrej rywalizacji o szlaki i o rdzennych dostawców; połączą się dopiero w 1821 roku, pod groźbą obopólnego bankructwa.
 
-[[Rupert's Land]] w 1802 roku to kilkanaście fortów przy rzekach, kilkuset stałych pracowników HBC i kilkanaście tysięcy rdzennych myśliwych, którzy dostarczają futra w zamian za sukno, metal, broń i — co HBC oficjalnie ogranicza, a faktycznie toleruje — alkohol. Strategia HBC: budować forty na wybrzeżu Zatoki Hudsona i czekać, aż Indianie przyniosą futra. Sto lat to wystarczało. Potem przyszli Kanadyjczycy z Montrealu.
+Spoiwem NWC są voyageurzy — frankofońscy Kanadyjczycy, w większości synowie habitantów, którzy podpisują w Montrealu kontrakt na sezon. Wielka kanoa wyrusza z okolic Montrealu w maju i po siedmiu tygodniach i trzech tysiącach wioseł dobija do Grand Portage; w ciągu dnia wiosłuje się od czterech do osiemnastu godzin, a na portażach każdy dźwiga po osiemdziesiąt–sto kilogramów przez las, stąd medyczne księgi firmy pełne wpisów o przepuklinach. Voyageur to *canadien* — tym słowem frankofońscy mieszkańcy kolonii nazwali własną, odrębną nację, a jego pieśni niesie rytm wiosła na rzekach, których nikt urodzony w Europie nie zna. Człowiek, który przezimował na zachodzie, ma prawo do pióra w kapeluszu.
 
-### North West Company — kontrnaglis
-
-[[North West Company]] (NWC), założona w Montrealu w 1779 roku jako partnerstwo niezależnych kupców, jedzie do futer zamiast czekać na futra. Voyageurzy wyjeżdżają w maju, docierają do Grand Portage nad Jeziorem Górnym, wymieniają towary z partnerami z dalekiego zachodu i wracają przed lodem w październiku.
-
-NWC jest instytucją bardziej dynamiczną i agresywną. Jej [[wintering partners]] spędzają zimy w głębi kontynentu, budując forty, negocjując sojusze z rdzennymi nacjami, mapując ziemie. [[Alexander Mackenzie]] w 1793 roku dotarł do Oceanu Spokojnego przez Skały — pierwszy Europejczyk lądową drogą przez kontynent. [[David Thompson]] w 1802 roku jest gdzieś na zachodzie, mierząc długości i szerokości geograficzne z podziwu godną dokładnością.
-
-W 1802 roku HBC i NWC są w stanie ostrej rywalizacji. NWC sięga już do Oregonu. HBC jest zmuszona wychodzić z Zatoki w głąb lądu. Ceny futer rosną; populacje bobrów maleją; obie firmy wiedzą, że zasoby są skończone.
-
-> [!rules]
-> **North West Company vs HBC (jako frakcje)**
-> **HBC:** konserwatywna, kontroluje Zatokę Hudsona, silna na wybrzeżu arktycznym; londyński zarząd
-> **NWC:** agresywna, frankofońska kultura, Montreal; silna na zachodzie do Pacyfiku
-> **Spór:** konkurencja o szlaki, o rdzennych partnerów handlowych, o terytorium
-> **Rozwiązanie historyczne:** fuzja pod groźbą bankructwa obu — 1821 rok
-
----
-
-## Voyageurzy — ludzie kajaka
-
-### Kim są
-
-[[Voyageurzy]] to frankofońscy Kanadyjczycy — w większości synowie habitantów z doliny Świętego Wawrzyńca — zatrudniani przez NWC do transportu towarów szlakami wodnymi kontynentu.
-
-Kontrakt *engagé* podpisuje się w Montrealu na sezon lub dwa. Stawki: czterysta do sześciuset livrów rocznie dla nowicjusza (*mangeur de lard* — zjadacz słoniny); osiemset do tysiąca dwustu dla *homme du nord* — człowieka, który zimował na zachodzie. Różnica w prestiżu jest ogromna.
-
-### Szlak i praca
-
-Canot du maître — wielka kanadyjska kanoa — ma dwanaście metrów długości, mieści czternaście do szesnastu wioślarzy i dwie i pół tony ładunku. Wyrusza z Lachine w maju, dociera do Grand Portage po siedmiu tygodniach i trzech tysiącach wioseł.
-
-W ciągu dnia voyageur wiosłuje od czterech do osiemnastu godzin, w tempie czterdziestu pięciu uderzeń na minutę — z krótkimi przerwami co dwie godziny na wypalenie fajki. Stąd miary odległości w *pipes* — fajkach. Na portażach każdy niesie osiemdziesiąt do stu kilogramów ładunku przez las. Sto pięćdziesiąt portaży na trasie Montreal – Grand Portage.
-
-Jedzenie: grochowa zupa i suchary na wschodzie, pemmican (suszone mięso bawole zmieszane z łojem i jagodami, pięćset kalorii na sto gramów) na zachodzie. Rachunki medyczne NWC pełne są wpisów o przepuklinach — od noszenia.
-
-### Kultura i tożsamość
-
-Voyageur nie jest ani Francuzem, ani Indianinem, ani Anglikiem. Jest *canadien* — tym słowem frankofońscy mieszkańcy kolonii zaczęli się określać jako odrębna nacja. Jego piosenki (*À la claire fontaine*, *En roulant ma boule*) są śpiewane w rytm wiosłowania na rzekach, których żaden człowiek urodzony w Europie nie zna.
-
-Wytatuowanie dłoni jest wśród voyageurów powszechne — inicjacja przy przekroczeniu geograficznych progów. *Homme du nord* ma prawo nosić pióro w kapeluszu kiedy wraca z zimowania.
-
-> [!mechanics]
-> **Voyageur (archetype)**
-> ST 13, DX 12, IQ 10, HT 13
-> **Umiejętności:** Rowing 15, Boating 13, Survival (Woods/Water) 13, Knife 13, First Aid 11, Singing 13
-> **Zalety:** High Pain Threshold, Fit, Language (Francuski native), Ojibwe/Cree basic
-> **Wady:** Duty (NWC kontrakt), Code of Honor (honour among brigades)
-> **Wyposażenie:** nóż, fajka, koc wełniany, trójkątny kapelusz z piórami (homme du nord), tomahawk
-
----
-
-## Handel futrzany — mechanika imperium
-
-### Łańcuch wartości
-
-Bóbr europejski zniknął z nadmiernego polowania w XVI wieku. Bóbr kanadyjski ma gęstsze futro niż jakikolwiek europejski odpowiednik. Z bobrowego futra robi się filcowy kapelusz — i przez sto pięćdziesiąt lat europejska moda wymagała właśnie takiego kapelusza. Jeden kapelusz = jeden bóbr = jeden rok pracy myśliwego + trzy tysiące kilometrów transportu.
-
-Cena bobra na londyńskim rynku w 1802 roku: dwa do trzech szylingów za funt skóry. Wartość całego eksportu futrzanego Kanady: kilkaset tysięcy funtów rocznie.
-
-Rdzenni myśliwi (Cree, Odżibwe, Assiniboin) są niezbędnym ogniwem łańcucha: znają teren, umieją łapać bobry w zimie, przerabiają skóry. Kompanie handlowe wiedzą, że bez rdzennych partnerów nie mają nic. Dlatego system faktorii jest układem partnerskim — przynajmniej w teorii. Alkohol, dług i uzależnienie od europejskiego towaru stopniowo zmieniają równowagę.
-
-### Fort jako mikrospołeczność
-
-Faktoria handlowa — Fort Chipewyan, Fort Alexandria, Cumberland House — jest zestawem drewnianych budynków za palisadą, ze stałą załogą od pięciu do dwudziestu osób. Zimą: izolacja, ciemność, temperatura -40°C, zapasy żywności na granicy. Lato: intensywny handel, ruch, naprawy.
-
-Zarządca fortu (*factor*, *bourgeois*) jest kombinacją menedżera, dyplomaty, sędziego i lekarza. Zna kilka rdzennych języków. Ma żonę *à la façon du pays* — związek z kobietą rdzenną, funkcjonalnie małżeński, prawnie nieregulowany. Dzieci takich związków — *Métis* lub *country born* — tworzą nowy naród pośredni, nieanglosaski i nieindiański, który do 1870 roku wywalczy własne państwo i straci je w ciągu roku.
+Sama ekonomia futra — bóbr, filc, kapelusz, ceny — ma własny [[Handel futrami|artykuł]]. Tutaj liczy się to, że fort jest mikrospołecznością: pięciu do dwudziestu ludzi za palisadą, zarządca będący naraz kupcem, dyplomatą, sędzią i lekarzem, znający kilka rdzennych języków i związany z rdzenną kobietą *à la façon du pays*. Dzieci tych związków — *Métis* — tworzą nowy naród pośredni, który do 1870 roku wywalczy własne państwo i straci je w ciągu roku.
 
 ---
 
 ## Rdzenne narody w Kanadzie
 
-### Odżibwe i Cree — szlaki handlowe
+Cała ta gospodarka stoi na rdzennych narodach. Odżibwe i Cree są największe — razem może dwadzieścia do trzydziestu tysięcy osób od jeziora Huron po Góry Skaliste — i handlują z obiema kompaniami od pokoleń. Cree znają teren od Zatoki Hudsona po Missisipi, ich myśliwi dostarczają futer, ich kobiety oprawiają skóry i szyją mokasyny, ich mężczyźni prowadzą Europejczyków przez ziemie, których ci nie znają. Bez nich nie ma pemmikanu, bez pemmikanu nie ma voyageurów, bez voyageurów nie ma NWC. O ich sojuszu ze smokami — i o tym, co znaczy dla każdego, kto zechce ich rozzłościć — była już mowa wyżej.
 
-[[Odżibwe]] (Anishinaabe) i [[Cree]] są największymi nacjami w Kanadzie w 1802 roku — razem może dwadzieścia do trzydziestu tysięcy osób na terenie od Jeziora Huron po Góry Skalne. Oba narody prowadzą handel z HBC i NWC od pokolenia i więcej.
-
-Cree znają każdy fragment terenu od Zatoki Hudsona po Missisipi. Ich myśliwi dostarczają futer; ich kobiety przygotowują skóry i szyją moccasiny dla voyageurów; ich mężczyźni służą jako przewodnicy przez tereny nieznane Europejczykom. Bez Cree nie ma pemmicanu; bez pemmicanu nie ma voyageurów; bez voyageurów nie ma NWC.
-
-Do tego dochodzi to, czego żaden bourgeois nie zapisze w księdze: przymierze Cree i Odżibwe ze [[Smoki Rzeczne|smokami]] sprawia, że żaden fort nie stałby długo tam, gdzie stoi, gdyby klan tego nie zechciał. Faktoria istnieje na cudzą zgodę.
-
-### Haudenosaunee na Grand River
-
-[[Joseph Brant]] (Thayendanegea) założył w 1784 roku osadę na [[Grand River]] w Górnej Kanadzie dla tych Haudenosaunee, którzy walczyli po stronie Brytyjczyków w Rewolucji i musieli opuścić terytoria po traktacie paryskim. Sześć milionów akrów ziemi jako odszkodowanie — tak obiecano. Dostali sześćset tysięcy, i to z trudnościami.
-
-W 1802 roku Brant mieszka w Brantfordzie i prowadzi styl życia angielskiego gentlemana: portret namalowany przez Romneya wisi w salonie, koresponduje po angielsku z parlamentarzystami, tłumaczy Ewangelię Marka na Mohawk. Jego politycznym celem jest przekształcenie Indian z Grand River w zorganizowaną siłę polityczną zdolną negocjować z Koroną — nie jako uchodźcy, lecz jako sojusznicy.
-
-Więcej o Haudenosaunee i pozostałych rdzennych nacjach: [[Rdzenne narody Ameryki Północnej]].
-
-> [!rules]
-> **Haudenosaunee — Grand River (Kanada)**
-> **Populacja 1802:** ~2 000–3 000
-> **Status:** Sojusznik Korony; własne przywództwo klanowe
-> **Lider:** Joseph Brant (umrze 1807)
-> **Napięcia:** Niedotrzymane obietnice ziemi, presja osadnicza na granicach rezerwy
+Osobny przypadek to Haudenosaunee znad Grand River. Ich wódz, Mohawk Joseph Brant, osadził tam w 1784 roku tych ze Sześciu Narodów, którzy walczyli po stronie Brytyjczyków w rewolucji i musieli porzucić swoje ziemie; obiecano im sześć milionów akrów, dostali sześćset tysięcy, i to z oporami. W 1802 roku Brant, sześćdziesięcioletni i schorowany, prowadzi życie angielskiego gentlemana — koresponduje z parlamentarzystami, tłumaczy Ewangelię na mohawk — i walczy o to, by jego lud uznano za sojusznika Korony, zdolnego negocjować jak równy z równym. Szerzej o rdzennych narodach mówi [[Rdzenne narody Ameryki Północnej|osobny artykuł]].
 
 ---
 
 ## Strategiczna pozycja
 
-### Granica niejasna
+Granica ze [[Stany Zjednoczone|Stanami]] ustalona traktatem paryskim z 1783 roku jest niejasna — linia przez Wielkie Jeziora ma luki, a obiecane Anglikom prawo do Missisipi okazało się nierealne; traktat Jaya z 1794 roku rozwiązał część sporów, w tym wymusił opuszczenie przez Brytyjczyków fortów po amerykańskiej stronie, lecz nie wszystkie.
 
-[[Traktat Paryski z 1783]] ustalił granicę między USA a Wielką Brytanią, ale ustalił ją z błędami geograficznymi. Linia przez Wielkie Jeziora była niejasna w kilku miejscach; prawo dostępu do rzeki Missisipi (które Anglicy mieli zachować) okazało się niemożliwe do realizacji. [[Traktat Jaya z 1794]] rozwiązał część sporów — m.in. wymógł opuszczenie przez Brytyjczyków fortów na terytorium USA — ale zostawił inne.
+[[Pokój Amiens]] z marca 1802 roku zawiesił wojnę z Francją: dla Kanady Dolnej to odetchnięcie po dziewięciu latach odciętego handlu, dla administracji — szansa zmniejszyć garnizon Halifaxu i puścić konwoje bez eskorty. Pokój jest jednak tymczasowy i przygotowania nie ustają.
 
-### Pokój Amiens i chwila oddechu
-
-[[Pokój Amiens]] (marzec 1802) zawiesił wojnę angielsko-francuską. Dla Kanady Dolnej — odetchnięcie. Przez ostatnie dziewięć lat handel z Francją był niemożliwy. Dla administracji brytyjskiej: Halifax może zmniejszyć garnizon, konwoje atlantyckie nie muszą pływać pod eskortą.
-
-Ale pokój jest tymczasowy — wszyscy o tym wiedzą. Przygotowania nigdy całkowicie nie ustają.
-
-### Linia obrony
-
-Kanada jest broniona przez geografię i klimat bardziej niż przez wojsko. Rzeka Świętego Wawrzyńca tworzy naturalny korytarz, który można zablokować w Quebec. Wielkie Jeziora tworzą wodną granicę kontrolowaną przez flotę jeziorną.
-
-W 1802 roku armia brytyjska w Kanadzie: może cztery tysiące żołnierzy, rozproszonych od Halifax po Niagara. Za mało na obronę tysiąca kilometrów granicy. Militia — lojalistyczni farmerzy zobowiązani do służby wojskowej — istnieje na papierze i w teorii.
-
-Za dziesięć lat, w 1812 roku, przestanie być teorią.
+Kanady broni geografia bardziej niż wojsko. Święty Wawrzyniec tworzy korytarz, który da się zamknąć pod Quebekiem, a Wielkie Jeziora — wodną granicę pod kontrolą flotylli jeziornej. Armia brytyjska w całej Kanadzie liczy może cztery tysiące żołnierzy rozrzuconych od Halifaxu po Niagarę — za mało na tysiąc kilometrów granicy — a milicja lojalistycznych farmerów istnieje głównie na papierze. Za dziesięć lat, w 1812 roku, przestanie być teorią.
 
 ---
 
-## Kluczowe postacie
-
-### Joseph Brant / Thayendanegea (Mohawk, 1743–1807)
-
-Mohawk urodzony w Ohio, wychowany przez angielskiego kupca sir Williama Johnsona. Walczył po stronie Brytyjczyków w Rewolucji. Założył Grand River.
-
-W 1802 roku ma sześćdziesiąt lat i wie, że zostało mu mało czasu. Pisze petycje do Londynu o dotrzymanie obietnic ziemnych, prowadzi korespondencję z filozofami europejskimi, spiera się z gubernatorami. Mówi po angielsku jak ktoś, kto czytał Locke'a — bo czytał.
-
-> [!mechanics]
-> **Joseph Brant (1802)**
-> ST 10, DX 11, IQ 16, HT 10
-> **Umiejętności:** Dyplomacja 16, Retoryka 15, Prawo (angielskie) 13, Prawo (Haudenosaunee) 15, Historia 14, Angielski 15, Mohawk (native)
-> **Zalety:** Charisma 3, Contacts (British military), Status 4 (wśród Haudenosaunee), Wealth (Comfortable)
-> **Stan:** Stary i schorowany; umrze za pięć lat
-
-### Simon McTavish (North West Company, 1750–1804)
-
-Szkot z Inverness, który zbudował North West Company od zera. *The Marquis* — jak go nazywają partnerzy NWC — jest Montrealem w ludzkiej postaci: przebiegły, ambitny, drogi w utrzymaniu, lubiący dobre wino i trudne negocjacje. Jego rezydencja Château Saint-Antoine na wzgórzu Mont Royal jest najbardziej wystawnym prywatnym domem w Kanadzie.
-
-W 1802 roku ma pięćdziesiąt dwa lata i dwóch rywali: HBC na północy i własnego siostrzeńca Williama McGillivraya, który już wyraźnie myśli o tym, co będzie *po*. McTavish umrze za dwa lata.
-
-### David Thompson (North West Company, 1770–1857)
-
-Walijski kartograf i trader, w 1802 roku gdzieś w terenie — prawdopodobnie w okolicach dzisiejszego Saskatchewan. W ciągu życia zmapuje trzy i pół miliona kilometrów kwadratowych Ameryki Północnej, tworząc mapy dokładniejsze niż jakiekolwiek dotąd.
-
-Nie jest sławny za życia. Jego *Narrative* pozostaje w rękopisie do 1916 roku.
-
-> [!mechanics]
-> **David Thompson**
-> ST 10, DX 12, IQ 17, HT 12
-> **Umiejętności:** Kartografia 18, Astronomia 17, Nawigacja 17, Survival (Woods) 14, Riding 13, Cree basic, Blackfoot basic
-> **Zalety:** Eidetic Memory, Mathematical Ability, Fit
-> **Wady:** Duty (NWC), Fanaticism (dokładność naukowa)
-
-### Alexander Mackenzie (1764–1820)
-
-Już nie w Kanadzie w 1802 roku — wrócił do Londynu, opublikował *Voyages from Montreal* (1801), dostał tytuł szlachecki. Jest przy tym w permanentnym sporze z McTavish o przyszłość NWC. Mackenzie chce reformy handlu futrami — mniejszy monopol, więcej inwestycji portowych na Pacyfiku. McTavish woli status quo.
-
-Spór o to, czy dotrzeć do Oceanu Spokojnego i uczynić NWC firmą transkontynentalną, jest w istocie sporem o to, czym będzie Kanada.
-
-### Robert Shore Milnes (Lt.-Gov. Dolnej Kanady, ~1746–1837)
-
-Gubernator nudny i pragmatyczny — co w kolonii na krawędzi politycznego przebudzenia jest zaletą. Milnes rozumie, że habitanci nie są wrogami, lecz potencjalnymi lojalistami, jeśli ich nie upokorzyć.
-
-Jego raport do Londynu z 1800 roku: Francuzi Kanady są bardziej przywiązani do swoich zwyczajów i języka niż do jakiegokolwiek rządu; dać im swoje zwyczaje i odbiorą każdy rząd.
-
----
-
-*Powiązane artykuły: [[Rdzenne narody Ameryki Północnej]], [[Stany Zjednoczone]], [[Wielka Brytania]], [[Handel futrami]], [[Smoki]], [[Punkty rozbieżności]], [[Lojaliści]], [[Voyageurzy]].*
+*Powiązane artykuły: [[Rdzenne narody Ameryki Północnej]], [[Stany Zjednoczone]], [[Wielka Brytania]], [[Handel futrami]], [[Pokój Amiens]], [[Smoki]], [[Punkty rozbieżności]], [[Chronologia]].*

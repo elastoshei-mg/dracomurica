@@ -14,13 +14,15 @@ Ten dokument zbiera te skręty w jednym miejscu i pilnuje, żeby reszta wiki by�
 
 ## Status dokumentu
 
-Dokument roboczy. Tabela wylicza wszystkie inne pliki `.md` z folderu i znacznik, czy zostały już dostosowane do zmian lore. Na ten moment wszystko stoi na NIE — żaden artykuł korpusu nie był jeszcze przerabiany. Listę „do utworzenia" tworzą pojęcia settingowe bez własnych plików; linki do nich są na razie puste.
+Dokument roboczy. Tabela jest inwentarzem artykułów wiki ze znacznikiem stanu: **TAK** — przerobiony pod nowe lore i sensowną strukturę, **NIE** — plik istnieje, lecz czeka na przeróbkę, **BRAK** — pojęcie linkowane w treści, które nie ma jeszcze własnego pliku.
 
-Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją. Same pliki korpusu wciąż noszą go w tytułach i nazwach — czyszczę to przy refaktoryzacji każdego z nich. Wpis w `index.md` poprawiony na liczbę mnogą.
+Wcześniejsze masowe oznaczanie na TAK okazało się przedwczesne: te same wady struktury (powtórzenia, kalki, doklejane wstawki zamiast spójnego tekstu) wracały w kolejnych plikach, więc każdy artykuł przechodzi pełną przeróbkę od nowa. Stan każdego pliku pokazuje kolumna w tabeli niżej.
 
-### Pliki istniejące w korpusie (33)
+Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki korpusu czyszczę z niego przy każdej przeróbce. Lista BRAK jest zarazem listą do przeglądu — część linków warto z czasem usunąć, zamiast tworzyć osobny artykuł. Nie każdy element świata zasługuje na własny plik.
 
-| Artykuł | Dostosowany |
+### Inwentarz artykułów
+
+| Artykuł | Stan |
 |---|---|
 | [[Wiki Settingu – Rok 1802]] | NIE |
 | [[Chronologia]] | NIE |
@@ -41,28 +43,66 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją. Same pl
 | [[Haiti]] | NIE |
 | [[Toussaint Louverture]] | NIE |
 | [[Kanada Brytyjska]] | TAK |
-| [[Rdzenne narody Ameryki Północnej]] | TAK |
+| [[Rdzenne narody Ameryki Północnej]] | NIE |
 | [[Traktat Greenville]] | NIE |
-| [[Handel Trójkątny]] | NIE |
+| [[Handel Trójkątny]] | TAK |
 | [[Handel futrami]] | TAK |
 | [[Korsarze Barbarii]] | NIE |
 | [[Afryka Subsaharyjska]] | NIE |
 | [[Liga Hanzeatycka – Dziedzictwo]] | NIE |
-| [[Kompanie Wschodnioindyjskie]] | TAK |
+| [[Kompanie Wschodnioindyjskie]] | NIE |
 | [[Indie Mogołów i Kompania]] | NIE |
-| [[Chiny dynastii Qing]] | TAK |
+| [[Chiny dynastii Qing]] | NIE |
 | [[Japonia]] | NIE |
 | [[Rewolucja Przemysłowa]] | NIE |
 | [[Oświecenie]] | NIE |
 | [[Wolnomurarstwo]] | NIE |
-
-### Artykuły do utworzenia
-
-Magia, religia, czary: [[Cudotwórcy]], [[Cudotwórcy wojskowi]], [[Papież]], [[Sorcery]], [[Prekursorzy]], [[Boskie prawo królów]], [[Europejskie czarostwo]], [[Gildie Śmierci]], [[Polowania na czarownice]], [[Magiczne przedmioty]], [[Alchemia]], [[Smocza krew]], [[Smoczy Magowie]], [[Czerwone opium]], [[Feng shui]], [[Sztuki walki]], [[Cięcie Powietrza]], [[Legion magów]], [[Buddyzm]].
-
-Istoty: [[Daemony]], [[Żywiołaki]], [[Fey]], [[Nieumarli]], [[Smoki]], [[Smoki Rzeczne]], [[Smoki Leśne]], [[Smoki Pustynne]], [[Smoki Górskie]], [[Cieniste Smoki]], [[Dwudusze]], [[Charau-Ka]].
-
-Wydarzenia, ludzie, miejsca: [[Czarna Śmierć]], [[Krucjaty]], [[Bois Caïman]], [[Wielki Pożar Londynu]], [[Wodospad Niagara]], [[Wielki Mur]], [[Napoleon Bonaparte]], [[Burbonowie]], [[Rewolucja francuska]], [[Kościół anglikański]], [[Nowa Hiszpania]], [[Skandynawia]], [[Szwajcaria]], [[Ameryka Południowa]], [[Pierwsza Poprawka]].
+| [[Cudotwórcy]] | BRAK |
+| [[Cudotwórcy wojskowi]] | BRAK |
+| [[Papież]] | BRAK |
+| [[Sorcery]] | BRAK |
+| [[Prekursorzy]] | BRAK |
+| [[Boskie prawo królów]] | BRAK |
+| [[Europejskie czarostwo]] | BRAK |
+| [[Gildie Śmierci]] | BRAK |
+| [[Polowania na czarownice]] | BRAK |
+| [[Magiczne przedmioty]] | BRAK |
+| [[Alchemia]] | BRAK |
+| [[Smocza krew]] | BRAK |
+| [[Smoczy Magowie]] | BRAK |
+| [[Czerwone opium]] | BRAK |
+| [[Feng shui]] | BRAK |
+| [[Sztuki walki]] | BRAK |
+| [[Cięcie Powietrza]] | BRAK |
+| [[Legion magów]] | BRAK |
+| [[Buddyzm]] | BRAK |
+| [[Daemony]] | BRAK |
+| [[Żywiołaki]] | BRAK |
+| [[Fey]] | BRAK |
+| [[Nieumarli]] | BRAK |
+| [[Smoki]] | BRAK |
+| [[Smoki Rzeczne]] | BRAK |
+| [[Smoki Leśne]] | BRAK |
+| [[Smoki Pustynne]] | BRAK |
+| [[Smoki Górskie]] | BRAK |
+| [[Cieniste Smoki]] | BRAK |
+| [[Dwudusze]] | BRAK |
+| [[Charau-Ka]] | BRAK |
+| [[Czarna Śmierć]] | BRAK |
+| [[Krucjaty]] | BRAK |
+| [[Bois Caïman]] | BRAK |
+| [[Wielki Pożar Londynu]] | BRAK |
+| [[Wodospad Niagara]] | BRAK |
+| [[Wielki Mur]] | BRAK |
+| [[Napoleon Bonaparte]] | BRAK |
+| [[Burbonowie]] | BRAK |
+| [[Rewolucja francuska]] | BRAK |
+| [[Kościół anglikański]] | BRAK |
+| [[Nowa Hiszpania]] | BRAK |
+| [[Skandynawia]] | BRAK |
+| [[Szwajcaria]] | BRAK |
+| [[Ameryka Południowa]] | BRAK |
+| [[Pierwsza Poprawka]] | BRAK |
 
 ## Zasada skali
 

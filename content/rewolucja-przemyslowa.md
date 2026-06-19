@@ -1,16 +1,18 @@
 ---
-title: Rewolucja Przemysłowa (1802)
-tags: [technologia, gospodarka, anglia, spoleczenstwo, historia, nauka]
-aliases: [Rewolucja Przemysłowa, Industrial Revolution, Industrializacja, Uprzemysłowienie]
+title: Rewolucja Przemysłowa
+tags: [technologia, gospodarka, anglia, spoleczenstwo, historia, nauka, magia]
+aliases: [Rewolucja Przemysłowa (1802), Industrial Revolution, Industrializacja, Uprzemysłowienie]
 ---
 
-# Rewolucja Przemysłowa (1802)
+# Rewolucja Przemysłowa
 
-W roku 1802 Rewolucja Przemysłowa trwa od mniej więcej pięćdziesięciu lat i przez większość tego czasu nikt jej tak nie nazywa. Termin *industrial revolution* pojawi się w powszechnym użyciu dopiero w latach osiemdziesiątych XIX wieku — wsteczna etykieta dla procesu, który dokonał się zanim ktokolwiek zdążył go opisać.
+W roku 1802 Rewolucja Przemysłowa trwa od mniej więcej pięćdziesięciu lat i przez większość tego czasu nikt jej tak nie nazywa. Termin *industrial revolution* wejdzie do powszechnego użytku dopiero w latach osiemdziesiątych XIX wieku — wsteczna etykieta dla procesu, który dokonał się, zanim ktokolwiek zdążył go opisać.
 
-To, co się dzieje, jest widzialne: [[Manchester]] ma w 1802 roku sto tysięcy mieszkańców i sto dwadzieścia wielkich przędzalni. Trzydzieści lat temu był targowym miasteczkiem z dziesięcioma tysiącami. Silniki parowe pracują w tysiącu kopalni, odlewni i tkalniach. Kanał łączący Manchaster z Liverpoolem skrócił czas transportu bawełny z tygodni do dni i zmniejszył jej cenę o połowę.
+To, co się dzieje, widać gołym okiem. [[Manchester]] ma w 1802 roku sto tysięcy mieszkańców i sto dwadzieścia wielkich przędzalni; trzydzieści lat wcześniej był targowym miasteczkiem z dziesięcioma tysiącami dusz. Maszyny parowe pracują w tysiącu kopalń, odlewni i tkalni. Kanał między Manchesterem a Liverpoolem skrócił transport bawełny z tygodni do dni i zbił jej cenę o połowę.
 
-Żaden rząd tego nie zaplanował. Żadna teoria tego nie przewidziała. Stało się przez kombinację węgla pod ziemią, protekcjonistycznych ceł na tkaniny, prawa własności bez feudalnych zobowiązań i kilkudziesięciu inżynierów, którzy chcieli zobaczyć czy da się lepiej.
+Żaden rząd tego nie zaplanował, żadna teoria nie przewidziała. Złożyło się na to kilka rzeczy naraz: węgiel pod ziemią, protekcyjne cła na tkaniny, prawo własności bez feudalnych ciężarów i kilkudziesięciu inżynierów, którzy chcieli sprawdzić, czy da się lepiej.
+
+Jest w tym coś, czego nie widać na pierwszy rzut oka. W świecie, gdzie magia istnieje naprawdę, ale rzadko daje się rozmnożyć — jeden czarownik to jeden czarownik, a cud zależy od czyjejś wiary — maszyna robi rzecz przeciwną. Działa za każdym razem, dla każdego, kto ją zbuduje, i można jej postawić tysiąc identycznych. Na tej powtarzalności wyrasta cicha potęga Anglii.
 
 ---
 
@@ -18,19 +20,21 @@ To, co się dzieje, jest widzialne: [[Manchester]] ma w 1802 roku sto tysięcy m
 
 ### Węgiel i żelazo w jednym miejscu
 
-Większość rewolucji przemysłowych w historii rozbijała się o logistykę. Żelazo jest ciężkie. Węgiel jest ciężki. Przewożenie ich na duże odległości pochłaniało zysk zanim fabrykant zdążył go policzyć.
+Większość prób uprzemysłowienia w historii rozbijała się o logistykę. Żelazo jest ciężkie. Węgiel jest ciężki. Wożenie ich na duże odległości pożerało zysk, zanim fabrykant zdążył go policzyć.
 
-Anglia miała złoża węgla i żelaza blisko siebie i blisko wybrzeża. [[Coalbrookdale]] w Shropshire: kopalnie węgla, rudy żelaza i rzeka Severn spływająca do Kanału Bristolskiego — wszystko w promieniu pięciu mil. [[Black Country]] na zachód od Birmingham: węgiel, żelazo, wapień do topienia i sieć dróg wodnych łączących z Liverpoolem i Londynem. [[South Wales]] — kopalnie Merthyr Tydfil dostarczające rude i węgiel do hut pracujących trzy kilometry niżej.
+Anglia miała złoża węgla i żelaza blisko siebie i blisko wybrzeża. [[Coalbrookdale]] w Shropshire: kopalnie węgla, ruda żelaza i rzeka Severn spływająca do Kanału Bristolskiego — wszystko w promieniu pięciu mil. [[Black Country]] na zachód od Birmingham: węgiel, żelazo, wapień do wytopu i sieć dróg wodnych łączących z Liverpoolem i Londynem. [[South Wales]] — kopalnie Merthyr Tydfil dostarczające rudę i węgiel do hut pracujących trzy kilometry niżej.
 
-Francja miała więcej węgla. Zalegał w Alzacji i na północy, daleko od wysp surowców i daleko od portów. Niemcy miały Zagłębie Ruhry — lecz w 1802 roku brak spójnej infrastruktury transportowej i brak jednolitego systemu prawnego blokował jego eksploatację.
+Francja miała więcej węgla. Zalegał w Alzacji i na północy, daleko od złóż żelaza i daleko od portów. Niemcy miały Zagłębie Ruhry, lecz w 1802 roku brak spójnej infrastruktury transportowej i jednolitego prawa blokował jego eksploatację.
 
-### Prawo i kapital
+### Prawo i kapitał
 
-Angielskie prawo własności — szczególnie po Chwalebnej Rewolucji 1688 roku — chroniło własność przed arbitralnym wywłaszczeniem przez Koronę lepiej niż jakikolwiek inny system kontynentalny. Wynalazca mógł opatentować swój wynalazek i być pewny, że patent jest egzekwowalny. Inwestor mógł pożyczyć pieniądze pod przyszłe zyski i być pewny, że zobowiązanie zostanie dotrzymane lub rozstrzygnięte w sądzie.
+Angielskie prawo własności — zwłaszcza po Chwalebnej Rewolucji 1688 roku — chroniło majątek przed arbitralnym wywłaszczeniem przez Koronę lepiej niż jakikolwiek system kontynentalny. Wynalazca mógł opatentować swój pomysł i mieć pewność, że patent jest egzekwowalny. Inwestor mógł pożyczyć pieniądze pod przyszłe zyski i mieć pewność, że dług zostanie spłacony albo rozstrzygnięty w sądzie.
 
-[[Bank Anglii]] od 1694 roku stabilizował kredyt. Londyński rynek obligacji finansował zarówno wojnę jak i kanały. Prywatne spółki akcyjne — legal entities zdolne pożyczać i inwestować bez angażowania osobistego majątku każdego wspólnika — były możliwe i egzekwowalne w sposób, który we Francji czy Prusach wymagałby królewskiej zgody.
+[[Bank Anglii]] od 1694 roku stabilizował kredyt. Londyński rynek obligacji finansował i wojnę, i kanały. Prywatne spółki akcyjne — osoby prawne zdolne pożyczać i inwestować bez angażowania majątku osobistego każdego wspólnika — były tu możliwe i egzekwowalne tam, gdzie we Francji czy Prusach wymagałyby królewskiej zgody.
 
-Ogrodzenia (Enclosure Acts) likwidowały wspólną ziemię i tworzyły bezrobotnych chłopów. To był efekt zamierzony przez Parlament — bezrolny chłop szedł do miasta i pracował za stawkę, którą producent mógł dyktować.
+Jest jeszcze jeden powód, mniej oczywisty od węgla. Angielska szlachta, w odróżnieniu od kontynentalnej, nigdy nie nobilitowała [[Prekursorzy|prekursorów]] za samą magiczną krew, więc [[Sorcery]] nie zapuściła na Wyspach korzeni i nie wessała kapitału, który gdzie indziej szedł w hodowlę czarodziejskich rodów. Te same pieniądze popłynęły tutaj w kanały, kopalnie i przędzalnie. Anglia postawiła na maszynę, bo świadomie odwróciła się od czaru — rzecz szerzej opisana przy [[Wielka Brytania|Wielkiej Brytanii]].
+
+Ogrodzenia (*Enclosure Acts*) likwidowały wspólną ziemię i tworzyły bezrolnych chłopów. Był to skutek zamierzony przez Parlament — chłop bez ziemi szedł do miasta i pracował za stawkę, którą fabrykant mógł dyktować.
 
 ---
 
@@ -38,93 +42,105 @@ Ogrodzenia (Enclosure Acts) likwidowały wspólną ziemię i tworzyły bezrobotn
 
 ### Tkactwo: od ręki do wrzeciona
 
-Przemysł włókienniczy był pierwszym, bo popyt na tkaniny bawełniane był nieograniczony i stary sposób produkcji — praca chałupnicza, jedna przędzarka, jedno krosno — nie nadążał za nim.
+Włókiennictwo poszło pierwsze, bo popyt na bawełniane tkaniny był nieograniczony, a stary sposób produkcji — praca chałupnicza, jedna przędzarka, jedno krosno — nie nadążał.
 
-[[John Kay]] w 1733 roku wynalazł latające czółenko — mechanizm pozwalający tkać szersze tkaniny szybciej, bez potrzeby drugiego tkacza. Efekt niechciany: tkacze mieli teraz więcej nici niż przędzarki zdolne zapewnić. Wąskim gardłem stało się przędzenie.
+[[John Kay]] w 1733 roku wynalazł latające czółenko — mechanizm pozwalający tkać szersze tkaniny szybciej, bez drugiego tkacza przy warsztacie. Skutek niechciany: tkacze mieli teraz więcej nici, niż przędzarki potrafiły dostarczyć. Wąskim gardłem stało się przędzenie.
 
-[[James Hargreaves]] — tkacz z Lancashire — w 1764 roku wynalazł przędzarkę wielowrzecionową, *spinning jenny*. Osiem wrzecion zamiast jednego. Wkrótce sześćdziesiąt cztery. Była ręczna, mogła stać w domu, nie potrzebowała napędu. Chałupnicy kupowali jenny i pracowali szybciej.
+[[James Hargreaves]] — tkacz z Lancashire — w 1764 roku zbudował przędzarkę wielowrzecionową, *spinning jenny*. Osiem wrzecion zamiast jednego, wkrótce sześćdziesiąt cztery. Była ręczna, mieściła się w domu i nie potrzebowała napędu. Chałupnicy kupowali jenny i pracowali prędzej.
 
-[[Richard Arkwright]] w 1769 roku opatentował *water frame* — ramę wodną napędzaną kołem młyńskim. Produkowane nici były mocniejsze niż z jenny, nadające się na osnowę, nie tylko wątek. Ale water frame wymagała fabryki przy rzece. Arkwright zbudował [[Cromford Mill]] w Derbyshire w 1771 roku — pierwszy nowoczesny zakład pracy z wieloma maszynami w jednym budynku, ze zmianami roboczymi, z zegarami kontrolującymi czas.
+[[Richard Arkwright]] w 1769 roku opatentował *water frame* — ramę przędzalniczą napędzaną kołem młyńskim. Nić wychodziła mocniejsza niż z jenny, nadawała się na osnowę, nie tylko na wątek. Rama wymagała jednak fabryki przy rzece. Arkwright postawił [[Cromford Mill]] w Derbyshire w 1771 roku — pierwszy nowoczesny zakład z wieloma maszynami pod jednym dachem, ze zmianami roboczymi i zegarami pilnującymi czasu.
 
-[[Samuel Crompton]] w 1779 roku połączył jenny z water frame w *spinning mule*. Nić cieńsza, mocniejsza i bardziej równomierna niż z obu poprzednich wynalazków. Crompton nie opatentował, bo nie miał pieniędzy na procedurę. Inni producenci skopiowali maszynę. Crompton dostał od Parlamentu w 1812 roku pięć tysięcy funtów w ramach spóźnionego uznania — za trzydzieści trzy lata po wynalazku.
+[[Samuel Crompton]] w 1779 roku połączył jenny z water frame w *spinning mule*. Nić cieńsza, mocniejsza i równiejsza niż z obu poprzednich maszyn. Crompton nie opatentował, bo nie miał pieniędzy na procedurę; inni fabrykanci skopiowali wynalazek. Parlament przyznał mu pięć tysięcy funtów dopiero w 1812 roku — trzydzieści trzy lata po fakcie.
 
-[[Edmund Cartwright]] w 1785 roku opatentował mechaniczne krosno (*power loom*). Wersja z 1785 roku działała słabo. Poprawiana przez innych przez dwie dekady, do 1802 roku zaczyna wypierać ręcznych tkaczy w zakładach z napędem parowym. Każde mechaniczne krosno obsługiwane przez jeden robotnik zastępuje trzech do sześciu tkaczy ręcznych.
+[[Edmund Cartwright]] w 1785 roku opatentował krosno mechaniczne (*power loom*). Pierwsza wersja działała słabo. Poprawiana przez innych przez dwie dekady, w 1802 roku zaczyna wypierać ręcznych tkaczy w zakładach z napędem parowym. Jedno krosno mechaniczne obsługiwane przez jednego robotnika zastępuje od trzech do sześciu tkaczy ręcznych.
 
 ### Maszyna parowa — historia komplikacji
 
-Pierwsze silniki parowe — [[Thomas Newcomen]], 1712 — robiły jedno: wypompowywały wodę z kopalni. Tłok w górę, woda zasysana, tłok w dół przez ciśnienie atmosferyczne po skraplaniu pary. Sprawność: jeden do dwóch procent. Kopalniane, bo tam węgiel był za darmo i nikt nie liczył kosztów paliwa.
+Pierwsze maszyny parowe — [[Thomas Newcomen]], 1712 — robiły jedno: wypompowywały wodę z kopalń. Tłok w górę, woda zassana, tłok w dół ciśnieniem atmosferycznym po skropleniu pary. Sprawność: jeden, dwa procent. Sprawdzały się w kopalni, bo tam węgiel był za darmo i nikt nie liczył paliwa.
 
-[[James Watt]] w 1764 roku dostał do naprawy model silnika Newcomena należący do Uniwersytetu w Glasgowie. Przez cztery lata szukał co jest złego. Odpowiedź: silnik Newcomena chłodził i grzał tę samą komorę na przemian — połowa ciepła szła na podgrzanie komory przed każdym cyklem. Watt dodał osobną komorę kondensacyjną (patent 1769). Sprawność wzrosła trzykrotnie.
+[[James Watt]] w 1764 roku dostał do naprawy model silnika Newcomena należący do uniwersytetu w Glasgow. Przez cztery lata szukał, co jest nie tak. Odpowiedź: silnik Newcomena chłodził i grzał tę samą komorę na przemian — połowa ciepła szła na ponowne nagrzanie komory przed każdym cyklem. Watt dodał osobną komorę kondensacyjną (patent 1769). Sprawność wzrosła trzykrotnie.
 
-To był jednak tylko silnik tłokowy do pomp. Przekształcenie go w silnik obrotowy zdolny napędzać wrzeciona i koła wymagało osobnego wynalazku. Watt opatentował ruch obrotowy przez mechanizm słońce-planeta w 1781 roku — bo korbowód zastrzegł już ktoś inny. Regulatora odśrodkowego (1788) — automatycznego utrzymywania stałych obrotów — użył Watt, lecz idea była starsza.
+Był to wciąż tylko silnik tłokowy do pomp. Zamiana go w silnik obrotowy, zdolny napędzać wrzeciona i koła, wymagała osobnego wynalazku. Ruch obrotowy Watt uzyskał mechanizmem słońce–planeta (patent 1781), bo korbowód zastrzegł już ktoś inny. Regulator odśrodkowy (1788), pilnujący stałych obrotów, też trafił do jego maszyn, choć sama idea była starsza.
 
-Firma [[Boulton & Watt]] w Birmingham produkowała silniki na zamówienie od 1775 roku. Do śmierci Watta w 1819 roku sprzedała ich może tysiąc pięćset. Każdy budowany na wymiar, każdy drogą precyzją, każdy z inżynierami Boulton & Watt przyjeżdżającymi na instalację i pobierającymi część zysku z oszczędności paliwa jako opłatę licencyjną.
+Firma [[Boulton & Watt]] w Birmingham produkowała silniki na zamówienie od 1775 roku. Do śmierci Watta w 1819 roku sprzedała ich może tysiąc pięćset. Każdy budowany na wymiar, każdy drogą precyzją, każdy z inżynierami Boulton & Watt zjeżdżającymi na montaż i pobierającymi część oszczędności paliwa jako opłatę licencyjną.
 
-W 1802 roku patent Watta wygasa. Silniki parowe zaczną budować inni, taniej.
+W 1802 roku patent Watta wygasa. Silniki parowe zaczną składać inni, taniej.
 
 ### Żelazo i koks
 
-[[Abraham Darby]] z Coalbrookdale w 1709 roku po raz pierwszy wytopił żelazo przy użyciu koksu zamiast drzewnego węgla. Koks to węgiel kamienny pozbawiony siarki przez wygrzewanie. Żelazo z koksu jest czystsze i tańsze niż z węgla drzewnego — a lasy Anglii kończyły się szybciej niż huta mogła rosnąć.
+[[Abraham Darby]] z Coalbrookdale w 1709 roku po raz pierwszy wytopił żelazo na koksie zamiast na węglu drzewnym. Koks to węgiel kamienny pozbawiony siarki przez wygrzewanie. Żelazo z koksu jest czystsze i tańsze niż z węgla drzewnego, a lasy Anglii kurczyły się szybciej, niż huta zdążyła rosnąć.
 
-Syn Darby'ego i wnuk rozwinęli technologię. [[Żelazny Most]] (Iron Bridge) przez Severn w Coalbrookdale — 1779 rok, trzydzieści metrów rozpiętości — pokazał, że żelazo może zastąpić kamień i drewno w konstrukcjach, których rozmiar poprzednio był niemożliwy.
+Syn i wnuk Darby'ego rozwinęli tę technologię. [[Żelazny Most]] (*Iron Bridge*) przez Severn w Coalbrookdale — rok 1779, trzydzieści metrów rozpiętości — pokazał, że żelazo zastąpi kamień i drewno w konstrukcjach o rozmiarze dotąd niemożliwym.
 
-[[Henry Cort]] w 1784 roku opatentował *puddling* — metodę oczyszczania żelaza lanego (*pig iron*) w piecu ze świeżym powietrzem, dającą żelazo kute (*wrought iron*) bez kontaktu z koksem. Wrought iron jest plastyczne, da się z niego kuć, walcować, ciągnąć na drut. Angielska produkcja żelaza wzrosła pięciokrotnie między 1788 a 1806 rokiem.
+[[Henry Cort]] w 1784 roku opatentował pudlingowanie (*puddling*) — oczyszczanie surówki (*pig iron*) w piecu z dopływem powietrza, dające żelazo kute (*wrought iron*) bez kontaktu z koksem. Żelazo kute jest plastyczne: da się je kuć, walcować, ciągnąć na drut. Angielska produkcja żelaza wzrosła pięciokrotnie między 1788 a 1806 rokiem.
+
+O przewadze żelaza decyduje cena i nieprzebrana ilość. [[Smoki|Smocza]] łuska znosi ogień i kwas lepiej niż jakikolwiek metal — płatnerz, który ją zdobędzie, szyje z niej pancerz chroniący tam, gdzie stal puszcza — ale jednej łuski starcza ledwie na rękawicę, a płaci się za nią jak za dobrego konia. Huty Merthyr i Coalbrookdale leją tysiące ton żelaza rocznie; smoczej łuski w całej Europie nie ma i na jeden porządny kocioł. Kuźnie przyszłości wstają z rudy.
+
+### Broń palna — gwint, masa i smoki
+
+Z żelaza i precyzji rodzi się towar, który zmienia więcej niż przędza: broń palna wytwarzana masowo. Birmingham i [[Black Country]] kują lufy i zamki dziesiątkami tysięcy, a manufaktura rozkłada robotę na pojedyncze czynności, tak że jeden muszkiet składa kilkunastu ludzi, z których żaden nie umiałby zrobić całego sam.
+
+Około 1800 roku armia brytyjska przyjmuje karabin Bakera — broń gwintowaną, celną na trzysta kroków, daleko poza zasięg gładkolufowej Brown Bess. Gwint ładuje się wolniej, więc nie wyprze muszkietu z liniowej piechoty; staje się natomiast narzędziem strzelca wyborowego, który trafia celnie tam, gdzie linia sypie ołowiem na oślep.
+
+Tu leży cicha odpowiedź na magię. Adepta szkoli się latami i jest jeden; muszkiet wychodzi z manufaktury tysiącami i strzela z niego każdy, komu wciśnie się go w ręce. Pole, na którym stają trzy bataliony z bagnetami, nie pyta, czy naprzeciw jest czarownik.
+
+Smoki narzucają temu wyścigowi własne tempo. Amerykańskie [[Smoki|smoki]] dawno dowiodły, że pojedyncza kula ich nie kładzie, więc tam, gdzie biali ścierają się ze smoczo sprzymierzonymi [[Rdzenne narody Ameryki Północnej|rdzennymi]], liczy się salwa, gęstość ognia i szybkostrzelność. Brytyjskie i amerykańskie warsztaty cyzelują zamki, naboje i musztrę prędzej, niż robiłyby to w świecie bez smoków.
 
 ---
 
 ## Gdzie to wszystko działa w 1802 roku
 
-### Lancashire — centrum tekstylne
+### Lancashire — centrum włókiennicze
 
-[[Manchester]] jest węzłem, nie odosobnioną fabryką. Wokół niego: [[Oldham]], [[Bury]], [[Bolton]], [[Rochdale]], [[Preston]] — każde z kilkuset przędzalniami i tkalniami. Surowa bawełna przybywa z portów Liverpoolu (z Georgii, Karoliny Południowej, Indii Wschodnich). Przetworzona wraca do Liverpoolu i stąd jedzie na całe Imperium i do Europy.
+[[Manchester]] jest węzłem, nie pojedynczą fabryką. Wokół niego: [[Oldham]], [[Bury]], [[Bolton]], [[Rochdale]], [[Preston]] — każde z kilkuset przędzalniami i tkalniami. Surowa bawełna przychodzi przez Liverpool (z Georgii, Karoliny Południowej, Indii Wschodnich). Przetworzona wraca do Liverpoolu i stąd jedzie na całe Imperium i do Europy.
 
-Kanał Bridgewater — oddany 1761 roku przez Duke of Bridgewater, łączący jego kopalnie w Worsley z Manchesterem — zmniejszył cenę węgla w mieście o połowę w dniu otwarcia. Kanał Manchester-Liverpool Mersey Irwell Navigation rozszerza sieć. W 1802 roku sieć kanałów w Lancashire i Yorkshire obejmuje kilkaset mil — wewnętrzna autostrada dla ciężkich towarów.
+Kanał Bridgewater — otwarty w 1761 roku przez księcia Bridgewater, łączący jego kopalnie w Worsley z Manchesterem — w dniu otwarcia zbił cenę węgla w mieście o połowę. Mersey and Irwell Navigation rozszerza sieć. W 1802 roku kanały Lancashire i Yorkshire liczą kilkaset mil — wewnętrzna autostrada dla ciężkich towarów.
 
-Przędzalnia w 1802 roku: wielokondygnacyjny budynek ceglany, wąskie okna, silnik parowy w piwnicy podający napęd przez pasy transmisyjne do wrzecion na każdej kondygnacji. Temperatura wewnątrz: czterdzieści do pięćdziesięciu stopni zimą (para grzeje), więcej latem. Wilgotność utrzymywana wysoko, bo sucha nić bawełniana łamie się. Hałas: niemożliwa rozmowa.
+Przędzalnia w 1802 roku: wielokondygnacyjny budynek z cegły, wąskie okna, maszyna parowa w piwnicy podająca napęd pasami transmisyjnymi do wrzecion na każdym piętrze. Temperatura w środku: czterdzieści, pięćdziesiąt stopni zimą (para grzeje), latem więcej. Wilgotność trzymana wysoko, bo sucha nić bawełniana łamie się. Hałas: rozmowa niemożliwa.
 
-Robotnik przędzalnianej obsługuje kilkanaście wrzecion jednocześnie, chodzi między maszynami, łączy zerwane nici, usuwa kłęby. Kobiety i dzieci zdominowały tę pracę — palce mniejsze, szybsze, tańsze. Chłopiec od ośmiu lat zarabia dwa do trzech szylingów tygodniowo, dorosła kobieta sześć do ośmiu.
+Robotnik w przędzalni obsługuje kilkanaście wrzecion naraz, chodzi między maszynami, wiąże zerwane nici, wybiera kłęby. Pracę tę zdominowały kobiety i dzieci — palce mniejsze, szybsze, tańsze. Chłopiec od ósmego roku życia zarabia dwa, trzy szylingi tygodniowo, dorosła kobieta sześć do ośmiu.
 
-### Yorkshire — sukno i Luddyści przed Luddytami
+### Yorkshire — sukno i niszczyciele maszyn przed Luddytami
 
-[[Yorkshire]] Zachodnie (West Riding) tkało sukno z wełny przez stulecia. Chałupniczy system putting-out: kupiec dostarczał wełnę, tkaczy ją przerabiał we własnym domu, oddawał gotowe sukno, dostawał zapłatę za sztukę.
+Zachodnie [[Yorkshire]] (West Riding) tkało sukno z wełny przez stulecia. System chałupniczy (*putting-out*): kupiec dostarczał wełnę, tkacz przerabiał ją u siebie w domu, oddawał gotowe sukno i dostawał zapłatę od sztuki.
 
-Mechaniczne krosna Cartwrighta zagrażają temu systemowi bezpośrednio. Każde mechaniczne krosno zainstalowane w fabryce wypiera kilku tkaczy chałupniczych. W 1802 roku protest jest lokalny i nieskoordynowany — niszczenie maszyn przez grupy robotników zdarzało się w Nottinghamshire już w 1778 roku przy koronkarkach. Rząd odpowiadał milicją i deportacjami.
+Krosna mechaniczne Cartwrighta zagrażają temu wprost. Każde krosno postawione w fabryce wypiera kilku tkaczy chałupniczych. W 1802 roku protest jest lokalny i nieskoordynowany — niszczenie maszyn przez grupy robotników zdarzało się w Nottinghamshire już w 1778 roku przy maszynach pończoszniczych. Rząd odpowiadał milicją i deportacjami.
 
-[[Luddyści]] jako organizacja powstaną w 1811 roku — z nazwą, hierarchią i manifestami. Ale mechanika zniszczenia maszyn jako odpowiedzi na utratę pracy jest żywa w 1802 roku pod różnymi lokalnymi nazwami i bez centralnego dowodzenia.
+[[Luddyści]] jako ruch z nazwą, hierarchią i manifestami powstaną w 1811 roku. Ale rozbijanie maszyn jako odpowiedź na utratę pracy jest żywe w 1802 roku, pod różnymi lokalnymi nazwami i bez wspólnego dowództwa.
 
 ### Black Country — żelazo
 
-Obszar między Wolverhampton a Birmingham i na zachód — [[Black Country]] od koloru nieba zasnutego dymem hut. Kopalnie, huty, odlewnie, kuźnie. Łańcuchy, kotwice, gwoździe, igły — wszystko produkowane tu i stąd wychodzące na cały świat. Nails, dosłownie: Wielka Brytania produkowała w 1800 roku miliony funtów gwoździ rocznie, z czego znaczna część przez ręczne kucie w domowych kuźniach *nailers*, którzy za każdy tysiąc gwoździ dostawali parę szylingów.
+Obszar między Wolverhampton, Birmingham i dalej na zachód — [[Black Country]], od koloru nieba zaciągniętego dymem hut. Kopalnie, huty, odlewnie, kuźnie. Łańcuchy, kotwice, gwoździe, igły — wszystko produkowane tu i stąd rozchodzące się po świecie. Sama Wielka Brytania kuła w 1800 roku miliony funtów gwoździ rocznie, w sporej części ręcznie, w domowych kuźniach gwoździarzy (*nailers*), którzy za każdy tysiąc dostawali parę szylingów.
 
-Birmingham — osiemdziesiąt tysięcy mieszkańców — jest miastem rzemiosła metalowego i innowacji. [[Matthew Boulton]], partner Watta, prowadzi tu [[Manufakturę Soho]] od 1761 roku — budynki, które same są atrakcją dla zwiedzających: produkcja przez specjalizację, każdy robotnik jedną operację zamiast całego przedmiotu. Model fabryczny przed parą.
+Birmingham — osiemdziesiąt tysięcy mieszkańców — jest miastem metalowego rzemiosła i wynalazków. [[Matthew Boulton]], wspólnik Watta, prowadzi tu [[Manufakturę Soho]] od 1761 roku — zakład, który sam w sobie jest atrakcją dla zwiedzających: produkcja przez specjalizację, każdy robotnik przy jednej czynności zamiast przy całym przedmiocie. Model fabryczny jeszcze przed parą.
 
-### Walijska stal i Staffordshire
+### Stal walijska i Staffordshire
 
-[[Merthyr Tydfil]] w południowej Walii w 1802 roku jest największym centrum hutniczym Imperium. Cztery wielkie huty: Dowlais, Cyfarthfa, Plymouth, Penydarren. Łącznie produkcja żelaza przekracza trzydzieści tysięcy ton rocznie — więcej niż całe Prusy.
+[[Merthyr Tydfil]] w południowej Walii jest w 1802 roku największym ośrodkiem hutniczym Imperium. Cztery wielkie huty: Dowlais, Cyfarthfa, Plymouth, Penydarren. Łącznie ponad trzydzieści tysięcy ton żelaza rocznie — więcej niż całe Prusy.
 
-W lutym 1804 roku Richard Trevithick przeprowadzi po drodze tramwajowej Penydarren pierwszą w historii lokomotywę parową wożącą towar — dziesięć ton żelaza, pięćdziesiąt pasażerów, dziesięć mil, dwie godziny. Przez awarię jedynego toru tramwajowego, który nie wytrzymał ciężaru, lokomotywa zostanie zamieniona w stacjonarny silnik.
+W lutym 1804 roku Richard Trevithick przeprowadzi po torze tramwajowym Penydarren pierwszą w historii lokomotywę parową wożącą ładunek — dziesięć ton żelaza, pięćdziesięciu pasażerów, dziesięć mil w dwie godziny. Jedyny tor nie wytrzyma ciężaru i lokomotywę przerobią na silnik stacjonarny.
 
-W 1802 roku Trevithick pracuje nad tym silnikiem. Zbudował już w grudniu 1801 roku parowy powóz drogowy w Camborne w Kornwalii — *Puffing Devil* — który przez kilka dni woził pasażerów po drogach publicznych, zanim stanął po tym jak robotnicy zostawili go bez dozoru i spaliło się smarowanie. Idea jest żywa.
+W 1802 roku Trevithick pracuje nad tym silnikiem. W grudniu 1801 roku zbudował już w Camborne w Kornwalii parowy powóz drogowy — *Puffing Devil* — który przez kilka dni woził pasażerów po publicznych drogach, zanim stanął, gdy robotnicy zostawili go bez dozoru i spaliło się smarowanie. Pomysł żyje.
 
 ### Kopalnie węgla
 
-Węgiel napędza wszystko — dosłownie. Każdy silnik parowy spala go od kilku do kilkudziesięciu ton tygodniowo. Manufaktury go potrzebują do ogrzewania. Huty żelaza potrzebują koksu. Miasto potrzebuje go do kominków.
+Węgiel napędza wszystko, dosłownie. Każda maszyna parowa spala go od kilku do kilkudziesięciu ton tygodniowo. Manufaktury potrzebują go do ogrzewania, huty do koksu, miasto do kominków.
 
-Angielska produkcja węgla w 1800 roku: może sześćdziesiąt milionów ton. [[Northumberland]] i [[Durham]] — kopalnie Newcastle i Durham przy wybrzeżu wschodnim, z colliers (statkami węglowymi) dostarczającymi surowiec do Londynu od XVII wieku. [[Yorkshire]], [[Lancashire]], [[Stafford]], [[Wales]] — kopalnie wewnątrz lądu, transport przez kanały.
+Angielskie wydobycie węgla w 1800 roku: może sześćdziesiąt milionów ton. [[Northumberland]] i [[Durham]] — kopalnie Newcastle i Durham przy wschodnim wybrzeżu, z węglowcami (*colliers*) wożącymi surowiec do Londynu od XVII wieku. [[Yorkshire]], [[Lancashire]], [[Stafford]], [[Wales]] — kopalnie w głębi lądu, transport kanałami.
 
-Górnik wchodzi do szybu przez klatkę opuszczaną liną krokwiastą lub przez chodnik poziomy w zboczu góry (*drift mine*). Praca: łupanie węgla kilofem i łopatą, ładowanie na wagoniki, pchanie przez chodniki. Chodniki mają może metr dwadzieścia wysokości — robotnik pracuje zgięty. Dzieci od lat sześciu jako *trappers* — otwierały i zamykały wentylacyjne drzwi. Ich pensja: pół szylinga dziennie.
+Górnik zjeżdża szybem w klatce na linie albo wchodzi chodnikiem poziomym w zboczu (*drift mine*). Praca: łupanie węgla kilofem i łopatą, ładowanie na wagoniki, pchanie ich przez chodniki. Chodniki mają nieraz metr dwadzieścia wysokości — robotnik pracuje zgięty. Dzieci od szóstego roku życia jako otwieracze drzwi wentylacyjnych (*trappers*), za pół szylinga dziennie.
 
-Główne zagrożenia: gaz (firedamp, czyli metan — eksplodował od przypadkowej iskry; blackdamp, czyli brak tlenu po wybuchu), zalanie wodą (silniki pompowe Newcomena i Watta zasadniczo umożliwiły głębsze wydobycie), zawały.
+Główne zagrożenia: gaz (*firedamp*, metan — wybuchał od przypadkowej iskry; *blackdamp*, brak tlenu po wybuchu), zalanie wodą (silniki pompowe Newcomena i Watta dopiero umożliwiły głębsze wydobycie), zawały.
 
 ---
 
 ## Jak to wygląda od środka — dzień w fabryce
 
-Robotnik wchodzi do przędzalni o szóstej rano lub gdy zatrąbi syrena. Praca trwa do szóstej wieczór lub dłużej — czternaście godzin z dwiema półgodzinnymi przerwami na posiłek. W zimie przychodził i wychodził w ciemności; dzień widział tylko przez okno przy maszynie.
+Robotnik wchodzi do przędzalni o szóstej rano albo gdy zatrąbi syrena. Praca trwa do szóstej wieczorem lub dłużej — czternaście godzin z dwiema półgodzinnymi przerwami na posiłek. Zimą przychodził i wychodził po ciemku; dzień widywał tylko przez okno przy maszynie.
 
-Płaca tygodniowa zależy od czego. Wykwalifikowany *mule spinner* — człowiek obsługujący spinning mule — zarabia dwanaście do czternastu szylingów tygodniowo i ma status w zakładzie. Jego pomocnicy — *piecers*, łączacze zerwanej przędzy — zarabiają trzy do czterech szylingów. Są zwykle dziećmi lub kobietami.
+Płaca tygodniowa zależy od stanowiska. Wykwalifikowany przędzarz (*mule spinner*) zarabia dwanaście do czternastu szylingów i ma w zakładzie pozycję. Jego pomocnicy (*piecers*), wiążący zerwaną przędzę, dostają trzy do czterech szylingów — zwykle dzieci albo kobiety.
 
-Kara za spóźnienie: odliczenie z płacy. Kara za rozmowę przy maszynie: kolejne odliczenie. Kara za otwarcie okna (zagrażało wilgotności): odliczenie. System kar jest podstawową metodą zarządzania pracą — zegarek właściciela kontra zegarek robotnika był stałym źródłem sporów, bo zegarki właściciela regularnie pokazywały inne godziny.
+Kara za spóźnienie: potrącenie z płacy. Kara za rozmowę przy maszynie: kolejne potrącenie. Kara za otwarcie okna (groziło spadkiem wilgotności): potrącenie. System kar jest podstawową metodą zarządzania pracą, a zegar właściciela kontra zegar robotnika to stały zarzewie sporu, bo zegary właściciela regularnie pokazywały inne godziny.
 
 ---
 
@@ -132,31 +148,33 @@ Kara za spóźnienie: odliczenie z płacy. Kara za rozmowę przy maszynie: kolej
 
 ### Urbanizacja
 
-Manchester miał dziesięć tysięcy mieszkańców w 1750 roku. W 1802 roku — sto tysięcy. Liverpool: dwadzieścia dwa tysiące w 1750, siedemdziesiąt siedem tysięcy w 1801. [[Birmingham]]: dwadzieścia cztery tysiące w 1750, siedemdziesiąt jeden tysięcy w 1801.
+Manchester miał dziesięć tysięcy mieszkańców w 1750 roku, w 1802 — sto tysięcy. Liverpool: dwadzieścia dwa tysiące w 1750, siedemdziesiąt siedem tysięcy w 1801. [[Birmingham]]: dwadzieścia cztery tysiące w 1750, siedemdziesiąt jeden tysięcy w 1801.
 
-Ludzie nie płynęli do miast z entuzjazmu. Płynęli, bo ziemia ich nie utrzymywała po Enclosure Acts i bo kopalnie, odlewnie i przędzalnie potrzebowały rąk.
+Ludzie nie płynęli do miast z zapału. Płynęli, bo ziemia przestała ich żywić po Enclosure Acts, a kopalnie, odlewnie i przędzalnie potrzebowały rąk.
 
-Mieszkania robotnicze w 1802 roku: *back-to-back houses* — rzędy domów zbudowanych tylnymi ścianami do siebie, bez żadnej wentylacji, jednej izby lub dwóch na rodzinę, z oknem tylko od frontu. Latryna na podwórku, jedna na dwanaście do dwudziestu rodzin. Woda ze studni lub z wozu wodnego, jedna beczka na kilka rodzin. Gotowanie na piecu węglowym; dym wypełnia izbę, bo komin jest mały lub niedrożny.
+Mieszkania robotnicze w 1802 roku: domy plecami do siebie (*back-to-back*) — rzędy budynków stykających się tylnymi ścianami, bez wentylacji, jedna izba lub dwie na rodzinę, okno tylko od frontu. Latryna na podwórku, jedna na dwanaście do dwudziestu rodzin. Woda ze studni albo z wozu, jedna beczka na kilka rodzin. Gotowanie na piecu węglowym; dym wypełnia izbę, bo komin jest mały lub niedrożny.
 
-Oczekiwana długość życia robotnika w Manchesterze: trzydzieści pięć do czterdziestu lat. Śmiertelność niemowląt: może sto osiemdziesiąt na tysiąc urodzeń żywych. Choroby: gruźlica (wilgoć i stłoczenie), cholera (zanieczyszczona woda), tyfus (insanacja), krzywica (brak słońca i witaminy D w dymnym mieście).
+Oczekiwana długość życia robotnika w Manchesterze: trzydzieści pięć do czterdziestu lat. Śmiertelność niemowląt: może sto osiemdziesiąt na tysiąc urodzeń żywych. Choroby: gruźlica (wilgoć i ścisk), cholera (zatruta woda), tyfus (brak kanalizacji), krzywica (brak słońca w dymnym mieście).
 
 ### Klasa robotnicza — nowy podmiot
 
-Przez całą historię Anglii bieda była wiejska albo miejska, lecz niejednorodna. Chałupnik miał ogród, świnię, dostęp do wspólnej łąki. Kowal był rzemieślnikiem z umiejętnościami, które cenił sam i które cenili inni. Robotnik fabryczny jest kimś innym: jego umiejętności są minimalne i zamienne, jego czas jest mierzony i kupowany za tygodniową stawkę, jego praca nie należy do niego.
+Przez całe dzieje Anglii bieda bywała wiejska albo miejska, lecz niejednorodna. Chałupnik miał ogród, świnię i dostęp do wspólnej łąki. Kowal był rzemieślnikiem z umiejętnościami, które cenił sam i cenili inni. Robotnik fabryczny jest kimś innym: jego umiejętności są minimalne i wymienne, jego czas jest mierzony i kupowany na tygodniową stawkę, jego praca do niego nie należy.
 
-[[Combination Acts 1799–1800]] zdelegalizowały związki zawodowe dokładnie wtedy, gdy klasa robotnicza przestała być bezpośrednio zależna od konkretnego pracodawcy jak pańszczyźniany chłop, a zaczęła zależeć od całego systemu cen pracy. Organizacja jest konieczna i nielegalna jednocześnie.
+[[Combination Acts 1799–1800]] zdelegalizowały związki zawodowe dokładnie wtedy, gdy klasa robotnicza przestała zależeć od jednego pracodawcy jak chłop pańszczyźniany, a zaczęła zależeć od całego systemu cen pracy. Organizowanie się jest konieczne i nielegalne zarazem.
 
-W 1802 roku działalność organizacyjna robotników odbywa się w piwiarnach, przez tajne stowarzyszenia i przez *friendly societies* — towarzystwa wzajemnej pomocy, formalnie zajmujące się ubezpieczeniem od choroby i śmierci, faktycznie też będące strukturą informacji i solidarności.
+W 1802 roku robotnicza działalność organizacyjna toczy się w piwiarniach, w tajnych stowarzyszeniach i w towarzystwach wzajemnej pomocy (*friendly societies*) — formalnie ubezpieczających od choroby i śmierci, faktycznie też będących siecią informacji i solidarności.
 
 ---
 
 ## Reszta Europy — dlaczego nie może dogonić
 
-W 1802 roku [[Francja Napoleońska (1802)|Francja]] jest największą europejską potęgą militarną i znacznie słabszą potęgą przemysłową. Produkcja żelaza: może jedną piątą angielskiej. Silniki parowe: kilkadziesiąt, głównie w kopalniach flandryjskich. Przędzalnie zmechanizowane: zaczęły powstawać w Alzacji i Normandii w latach dziewięćdziesiątych, co Anglia nie miała nic przeciw — do czasu. W 1800 roku William Cockerill — angielski inżynier — zaczął produkować maszyny tekstylne w [[Liège]] dla rynku kontynentalnego. Anglia zdelegalizowała emigrację wykwalifikowanych rzemieślników i eksport maszyn.
+W 1802 roku [[Francja Napoleońska|Francja]] jest największą potęgą militarną Europy i znacznie słabszą potęgą przemysłową. Produkcja żelaza: może jedna piąta angielskiej. Maszyny parowe: kilkadziesiąt, głównie w kopalniach flandryjskich. Mechaniczne przędzalnie zaczęły powstawać w Alzacji i Normandii w latach dziewięćdziesiątych — czemu Anglia nie przeszkadzała, do czasu. W 1800 roku angielski inżynier William Cockerill zaczął wytwarzać maszyny włókiennicze w [[Liège]] na rynek kontynentalny. Anglia zdelegalizowała emigrację wykwalifikowanych rzemieślników i eksport maszyn.
 
-Niemcy: dziesiątki małych państw bez wspólnego rynku, bez spójnej sieci kanałów, bez prawa handlowego stosowanego jednakowo przez cały obszar kulturowy. Zagłębie Ruhry ma węgiel, lecz bez kanałów nie może go taniej transportować niż konie i wozy pozwalają. Industrializacja Niemiec — prawdziwa — zacznie się po 1835 roku.
+Jest w tej rywalizacji głębszy rys. Francja stawia na to, co widowiskowe — [[Legion magów|legion magów]] [[Francja Napoleońska|Napoleona]], pamięć po czarodziejskich rodach, blask munduru. Anglia w tym czasie po cichu wytłacza żelazo i muszkiety w ilościach, jakich żaden adept nie dogoni. Pierwsza armia, która pod naporem masy ognia przekona się, ile naprawdę warci są nieliczni czarownicy, zapamięta tę lekcję na pokolenia.
 
-[[Rosja (1802)|Rosja]]: pańszczyzna jako instytucja blokuje mobilność siły roboczej. Pańszczyźniany chłop nie może iść do fabryki — bo jest związany z ziemią. Manufaktury rosyjskie istnieją i używają pańszczyźnianych jako robotników przez dekretowane przesunięcia. System działa słabo i kosztownie.
+Niemcy: dziesiątki małych państw bez wspólnego rynku, bez spójnej sieci kanałów, bez prawa handlowego stosowanego jednakowo na całym obszarze. Zagłębie Ruhry ma węgiel, lecz bez kanałów nie przewiezie go taniej, niż pozwalają konie i wozy. Prawdziwe uprzemysłowienie Niemiec ruszy po 1835 roku.
+
+[[Rosja|Rosja]]: pańszczyzna blokuje ruch siły roboczej. Chłop pańszczyźniany nie pójdzie do fabryki, bo jest przypisany do ziemi. Manufaktury rosyjskie istnieją i używają pańszczyźnianych przez dekretowane przesunięcia. System działa słabo i drogo.
 
 ---
 
@@ -164,15 +182,17 @@ Niemcy: dziesiątki małych państw bez wspólnego rynku, bez spójnej sieci kan
 
 ### Koleje
 
-Trevithick i jego parowy powóz z 1801 roku są punktem, od którego zmiana staje się nieuchronna. Silnik parowy na kołach, poruszający się po szynach, jest logicznym następnym krokiem po silniku stacjonarnym pompującym wodę.
+Trevithick i jego parowy powóz z 1801 roku są punktem, od którego zmiana staje się nieuchronna. Silnik parowy na kołach, jadący po szynach, jest logicznym następnym krokiem po silniku stacjonarnym pompującym wodę.
 
-Pierwsze komercyjne linie kolejowe — Middleton Railway w Leeds, Surreyjska Kolej Konna, Swansea i Mumbles — działają w różnych wariantach już od końca XVIII wieku, ciągnięte przez konie. Lokomotywa parowa zastąpi konie w kolejnej dekadzie.
+Pierwsze linie — Middleton Railway w Leeds, kolej w Surrey, Swansea i Mumbles — działają w różnych odmianach już od końca XVIII wieku, ciągnięte przez konie. Lokomotywa parowa zastąpi konie w następnej dekadzie.
 
-[[George Stephenson]], w 1802 roku dwudziestoletni mechanik kopalni w Northumberland, nie napisał jeszcze nic ważnego. Jego *Rocket* i linia Liverpool-Manchester przyjdą w 1829 roku.
+[[George Stephenson]], w 1802 roku dwudziestoletni mechanik kopalniany z Northumberland, nie napisał jeszcze nic ważnego. Jego *Rocket* i linia Liverpool–Manchester przyjdą w 1829 roku.
 
-### Chemie
+### Chemia
 
-[[Humphry Davy]] w Royal Institution w Londynie pokazuje w serii wykładów z 1801–1802 roku jak elektroliza prądu Volty rozdziela związki chemiczne. Za pięć lat wyizoluje potas, sód, wapń, magnez, bar, stront — pierwiastki, które zmieniają chemię tak jak węgiel zmienił energię.
+[[Humphry Davy]] w Royal Institution w Londynie pokazuje w wykładach z lat 1801–1802, jak prąd ogniwa Volty rozkłada związki chemiczne na części. W ciągu pięciu lat wyodrębni potas, sód, wapń, magnez, bar i stront — pierwiastki, które zmienią chemię tak, jak węgiel zmienił energię.
+
+To jest alchemia, która wyrzekła się smoczej krwi. [[Alchemia|Alchemicy]] od wieków rozszczepiają i łączą materię, lecz ich sztuka stoi na rzadkim, drogim odczynniku — destylowanej [[Smocza krew|smoczej krwi]] — i na latach wtajemniczenia. Chemik Davy'ego dochodzi do tego samego prądem, wagą i powtarzalnym doświadczeniem, które odtworzy każdy, kto czyta i liczy. Znów ta sama prawidłowość: sztuka rzadka ustępuje metodzie, którą da się powielić.
 
 ---
 
@@ -180,54 +200,55 @@ Pierwsze komercyjne linie kolejowe — Middleton Railway w Leeds, Surreyjska Kol
 
 ### James Watt (1736–1819)
 
-Sześćdziesiąt sześć lat, emeryt od 1800 roku — Boulton i Watt sprzedali firmę. Mieszka w Heathfield w Birmingham, wyposażył sobie strych jako prywatne laboratorium i majsterkuje przy rzeczach, które go interesują: kopiarka pantograficzna, rzeźbiarki mechaniczne, substancje chemiczne do bielenia tkanin.
+Sześćdziesiąt sześć lat, na emeryturze od 1800 roku — Boulton i Watt sprzedali firmę. Mieszka w Heathfield pod Birmingham, urządził sobie na strychu prywatne laboratorium i majsterkuje przy tym, co go ciekawi: kopiarka pantograficzna, maszyny do rzeźbienia, substancje do bielenia tkanin.
 
-Nie jest bogaty proporcjonalnie do wartości swoich wynalazków — nie był dobrym biznesmenem. Był dobrym Boultonem. Boulton finansował, sprzedawał, lobbował w Parlamencie o przedłużenie patentu. Watt konstruował i narzekał.
+Nie jest bogaty na miarę wartości swoich wynalazków — kiepski był z niego kupiec. Od tego był Boulton: finansował, sprzedawał, lobbował w Parlamencie o przedłużenie patentu. Watt konstruował i narzekał.
 
 > [!mechanics]
 > **James Watt (1802, emeryt)**
 > ST 8, DX 12, IQ 17, HT 9
 > **Umiejętności:** Inżynieria (mechaniczna) 19, Fizyka (para i termodynamika) 17, Matematyka 16, Chemia 14, Rysunek techniczny 16
-> **Zalety:** Genius, Eidetic Memory (do rysunków technicznych), Patron (sieć Lunar Society)
-> **Wady:** Chronic Pain (nerwobóle), Stubbornness (w kwestiach technicznych), Odporność na pochwały
+> **Zalety:** Genius, Eidetic Memory (rysunki techniczne), Patron (krąg Lunar Society)
+> **Wady:** Chronic Pain (nerwobóle), Stubbornness (w sprawach technicznych), nawyk umniejszania własnych zasług
 
 ### Matthew Boulton (1728–1809)
 
-Siedemdziesiąt cztery lata, senior partner Boulton & Watt, właściciel Manufaktury Soho, jeden z założycieli [[Lunar Society]] — miesięcznych spotkań uczonych, inżynierów, filozofów i przedsiębiorców w Birmingham przy pełni księżyca (żeby mieć oświetlenie w drodze powrotnej).
+Siedemdziesiąt cztery lata, starszy wspólnik Boulton & Watt, właściciel Manufaktury Soho, jeden z założycieli [[Lunar Society]] — comiesięcznych spotkań uczonych, inżynierów, filozofów i przedsiębiorców w Birmingham, zwoływanych przy pełni księżyca (żeby mieć światło w drodze powrotnej).
 
-Lunar Society skupiało [[Joshue Wedgwood|Joshuę Wedgwooda]], [[Joseph Priestley|Josepha Priestleya]], [[Erasmusa Darwina]] (dziadka Charlesa), [[Richard Lovell Edgeworth|Richarda Edgewortha]], Watta, Boulton. Nieformalny klub, który generował więcej patentów i wynalazków niż większość ówczesnych akademii naukowych.
+Lunar Society skupiało [[Josiah Wedgwood|Josiaha Wedgwooda]], [[Joseph Priestley|Josepha Priestleya]], [[Erasmus Darwin|Erasmusa Darwina]] (dziadka Charlesa), [[Richard Lovell Edgeworth|Richarda Edgewortha]], Watta i Boultona. Nieformalny klub, który dawał więcej patentów i wynalazków niż większość ówczesnych akademii nauk.
 
 ### Richard Arkwright (1732–1792)
 
-Umarł dziesięć lat temu. Syn ogrodnika, z zawodu fryzjer, wynalazca *water frame* i założyciel Cromford Mill — człowiek, który zbudował model zakładu pracy, który daje się skalować. Jego potomkowie kontrolują sieć przędzalni w Derbyshire i są teraz ziemiaństwem.
+Umarł dziesięć lat temu. Syn ogrodnika, z zawodu fryzjer, wynalazca *water frame* i twórca Cromford Mill — człowiek, który zbudował model zakładu dający się powielać. Jego potomkowie kontrolują sieć przędzalni w Derbyshire i są dziś ziemiaństwem.
 
-Arkwright kupił tytuł rycerski w 1786 roku i zamek. Syn działa w Parlamencie. Za dwa pokolenia ich historia będzie historią rodziny ziemiańskiej — wzruszająca trajektoria dla człowieka, który nie umiał poprawnie napisać po angielsku.
+Arkwright kupił tytuł rycerski w 1786 roku i zamek. Syn zasiada w Parlamencie. Za dwa pokolenia ich dzieje będą dziejami rodziny ziemiańskiej — niezła trajektoria dla człowieka, który nie umiał poprawnie napisać po angielsku.
 
 ### Richard Trevithick (1771–1833)
 
-Trzydzieści jeden lat, inżynier z Kornwalii, syn górnika. W grudniu 1801 roku zbudował parowy powóz drogowy (*Puffing Devil*) — działa przez kilka dni, potem spali się przez nieuwagę robotników. Trevithick nic sobie z tego nie robi i zaczyna budować następny.
+Trzydzieści jeden lat, inżynier z Kornwalii, syn górnika. W grudniu 1801 roku zbudował parowy powóz drogowy (*Puffing Devil*) — jeździł przez kilka dni, potem spłonął przez nieuwagę robotników. Trevithick nic sobie z tego nie robi i zabiera się za następny.
 
-Jego projekt lokomotywy Penydarren, 1804 rok, jest przed nim. Jego historia jest historią geniusza bez Boultonowoego instynktu biznesowego: przez całe życie będzie budował rzeczy, które działają, i nigdy nie zarobi na nich tyle, ile powinien.
+Jego lokomotywa Penydarren z 1804 roku jest przed nim. To dzieje geniusza bez instynktu Boultona: przez całe życie będzie budował rzeczy, które działają, i nigdy nie zarobi na nich tyle, ile powinien.
 
 > [!mechanics]
 > **Richard Trevithick (1802)**
 > ST 13, DX 13, IQ 15, HT 13
 > **Umiejętności:** Inżynieria (mechaniczna) 18, Inżynieria (maszyna parowa) 18, Mechanika 16, Rysunek techniczny 14, Górnictwo 13
 > **Zalety:** Genius (wąski — maszyny parowe), High Pain Threshold, Strong
-> **Wady:** Impulsiveness, Brak instynktu finansowego (Odporność na liczyć pieniądze), Overconfidence (w niezawodność własnych projektów)
+> **Wady:** Impulsiveness, Overconfidence (w niezawodność własnych konstrukcji), zupełny brak zmysłu do interesów
 
 ---
 
 > [!rules]
 > **Technologia przemysłowa — dostępność 1802**
-> **TL:** 5 (standardowy); pierwsze urządzenia TL6 w Anglii (silnik parowy, mechaniczne krosno)
-> **Silnik parowy:** dostępny przez zamówienie u Boulton & Watt lub u kopistów po 1802 (wygasający patent); koszt od kilkuset do kilku tysięcy funtów zależnie od mocy
-> **Mechaniczne krosno:** dostępne w Anglii, nielegalne do eksportu; na kontynencie — przez przemyt lub własną konstrukcję
-> **Czas budowy fabryki przędzalniczej:** 12–24 miesiące; koszt: 3 000–20 000 funtów
+> **TL:** 5 (standardowy); pierwsze urządzenia TL6 w Anglii (silnik parowy, krosno mechaniczne)
+> **Silnik parowy:** na zamówienie u Boulton & Watt lub u kopistów po 1802 (wygasający patent); od kilkuset do kilku tysięcy funtów zależnie od mocy
+> **Krosno mechaniczne:** dostępne w Anglii, zakazane do eksportu; na kontynencie przez przemyt lub własną konstrukcję
+> **Budowa przędzalni:** 12–24 miesiące; koszt 3 000–20 000 funtów
 > **Kopalnia węgla z silnikiem parowym:** 5 000–30 000 funtów inwestycji
 > **Płaca tygodniowa robotnika przędzalni (Manchester, 1802):** 8–12 szylingów (mężczyzna), 5–8 (kobieta), 2–4 (dziecko)
-> **Cena węgla w Manchesterze:** 5–8 szylingów/tona (po kanale Bridgewater); 12–15 szylingów przed 1761 rokiem
+> **Cena węgla w Manchesterze:** 5–8 szylingów za tonę (po kanale Bridgewater); 12–15 przed 1761 rokiem
+> **Wobec magii:** broń palna i maszyny skalują się tam, gdzie czar zostaje jednostkowy — masa ognia neutralizuje pojedynczego adepta
 
 ---
 
-*Powiązane artykuły: [[Wielka Brytania (1802)]], [[Oświecenie (1802)]], [[Nawigacja i kartografia]], [[Stany Zjednoczone (1802)]], [[Francja Napoleońska (1802)]], [[Chronologia]].*
+*Powiązane artykuły: [[Wielka Brytania]], [[Oświecenie]], [[Smoki]], [[Smocza krew]], [[Stany Zjednoczone]], [[Francja Napoleońska]], [[Punkty rozbieżności]], [[Nawigacja i kartografia]], [[Chronologia]].*

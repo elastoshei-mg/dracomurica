@@ -6,489 +6,122 @@ aliases: [Indianie, Native Americans, Ludy rdzenne, Pierwsze Narody, Ludy rdzenn
 
 # Rdzenne narody Ameryki Północnej
 
-Przed pierwszym europejskim kontaktem ziemie na wschód od Gór Skalistych zamieszkiwało od pięciu do dziesięciu milionów ludzi, zorganizowanych w setki odrębnych narodów z własnymi językami, prawem, kosmologią i historią sięgającą tysięcy lat. W roku 1802 żyje z nich od sześciuset tysięcy do miliona — szacunki są nieprecyzyjne, bo nikt wtedy nie liczył, a choroby wyprzedzały osadników o dekady. Reszta to wynik epidemii ospy, odry, tyfusu i dżumy, które przemiatały kontynent od 1492 roku bez żadnego powiązania z wojną czy bezpośrednim kontaktem z Europejczykami.
+Przed europejskim kontaktem ziemie na wschód od Gór Skalistych zamieszkiwało od pięciu do dziesięciu milionów ludzi w setkach odrębnych narodów, z własnymi językami, prawem i kosmologią sięgającą tysięcy lat. W 1802 roku żyje z nich od sześciuset tysięcy do miliona. Resztę zabrały ospa, odra, tyfus i dżuma, które przemiatały kontynent od 1492 roku, wyprzedzając osadników o całe dekady i nie pytając o wojnę ani bezpośredni kontakt.
 
-Rok 1802 to moment kluczowy. Na wschód od Appalachów większość narodów jest już zepchnięta w szczeliny między stanami lub skupiona na kurczących się terytoriach traktatowych. Na zachód od Missisipi — ogromne, wciąż w pełni suwerenne światy, o których Waszyngton wie niewiele. [[Terytorium Luizjany]] należy politycznie do Francji od dwóch lat; faktycznie należy do [[Osagów]], [[Paunisów]], [[Komanczów]] i dziesiątek innych narodów, które nie podpisały żadnego traktatu z Paryżem.
+Rok 1802 dzieli ten świat na dwoje. Na wschód od Appalachów większość narodów jest już zepchnięta w szczeliny między stanami albo na kurczące się terytoria traktatowe. Na zachód od Missisipi leżą wciąż w pełni suwerenne światy, o których Waszyngton wie niewiele — [[Terytorium Luizjany]] należy na papierze do Francji od dwóch lat, a w rzeczywistości do Osagów, Paunisów, Komanczów i dziesiątek narodów, które z Paryżem nie podpisały niczego.
 
-Dwie rzeczy odróżniają tę Amerykę od tej z podręczników. Rdzenni mieszkańcy nie są zwykłymi ludźmi — są smukli, zwinni, mocniejsi od osiadłych Europejczyków, urodziwsi i żyją nieco dłużej, choć wciąż czerwonoskórzy i równie śmiertelni. Drugą jest to, z kim dzielą kontynent.
+Dwie rzeczy odróżniają tę Amerykę od tej z podręczników. Rdzenni mieszkańcy są smuklejsi, zwinniejsi i silniejsi od osiadłych Europejczyków, urodziwsi i żyją nieco dłużej, choć wciąż śmiertelni. Druga to ten, z kim dzielą kontynent.
 
 ---
 
 ## Smoki, przodkowie i Dwudusze
 
-Drugim panującym gatunkiem kontynentu są [[Smoki|smoki]]. Bliżej im do drake'ów niż do bestii z europejskich legend — większość nie jest w pełni rozumna, nie włada ludzką mową, lata, gromadzi błyskotki i toczy zawiłe spory o terytorium i honor. Rdzenne narody nie traktują ich jak zwierząt ani jak bogów. Wierzą, że smoki to przodkowie, którzy wrócili w innej skórze, i przez tysiące lat oba gatunki trwały obok siebie bez wojny.
+Drugim panującym gatunkiem kontynentu są [[Smoki|smoki]]. Bliżej im do drake'ów niż do bestii europejskich legend — większość nie jest w pełni rozumna, nie włada mową, lata, gromadzi błyskotki i toczy zawiłe spory o terytorium i honor. Rdzenne narody widzą w nich przodków, którzy wrócili w innej skórze, i przez tysiące lat oba gatunki trwały obok siebie bez wojny.
 
-Ta symbioza tłumaczy więcej niż jedną zagadkę. Kontynentu nie skolonizowano tak, jak skolonizowano go w podręcznikach, bo każda dolina za rzeką ma obrońcę, którego pojedynczy muszkiet nie powali. Animizm opisany niżej nie jest u rdzennych metaforą — to z niego wyrasta więź ze smokiem.
+Ta symbioza tłumaczy, czemu kontynentu nie podbito tak, jak głoszą podręczniki: każda dolina za rzeką ma obrońcę, którego pojedynczy muszkiet nie powali.
 
-### Cztery wielkie przymierza
+### Cztery przymierza
 
-Smoki dzielą się na typy związane z krajobrazem, a rdzenne konfederacje ułożyły życie wokół tych, z którymi sąsiadują.
+Smoki dzielą się na typy związane z krajobrazem, a rdzenne konfederacje ułożyły życie wokół tych, z którymi sąsiadują. [[Smoki Leśne]] polują stadnie w puszczach wschodu, plując chmurami kwasu; przy nich żyją narody Wschodnich Lasów — Haudenosaunee, Szaunisi, Lenape, Miami. [[Smoki Rzeczne]] bronią dorzeczy Missisipi i Missouri oraz Wielkich Jezior, a sąsiadują z nimi Osagowie i wioskowi rolnicy znad górnego Missouri. [[Smoki Pustynne]], samotne drapieżniki suchego południowego zachodu, stoją za dominacją Komanczów nad Teksasem i pograniczem [[Nowa Hiszpania|Nowej Hiszpanii]]. [[Smoki Górskie]], największe i najbardziej terytorialne, zamykają Góry Skaliste przed prospektorami, osłaniając narody, których Waszyngton nie zna nawet z nazwy.
 
-**[[Smoki Leśne]]** żyją w puszczach wschodu i polują stadnie, plując chmurami kwasu. Z nimi związane są narody Wschodnich Lasów — [[Irokezi|Haudenosaunee]], [[Szaunisi]], [[Lenape]], [[Miami]]. To one ucierpiały najmocniej, bo to ich smoki wybito jako pierwsze.
+Osobno trzymają się [[Cieniste Smoki]] — małe jak kot, sprytne, jako jedyne władające ludzką mową. Bywają oszustami i złodziejami, kręcą się tam, gdzie da się coś ukraść albo podszepnąć, i równie chętnie wokół białych miast co rdzennych obozów.
 
-**[[Smoki Rzeczne]]** bronią dorzeczy Missisipi i Missouri oraz Wielkich Jezior, plując żrącym śluzem na barki i kilówki. Sąsiadują z nimi [[Osagowie]], wioskowi rolnicy znad górnego Missouri — [[Mandan]], [[Hidatsa]], [[Arikara]] — i ludy Wielkich Jezior.
+### Szamani i Dwudusze
 
-**[[Smoki Pustynne]]** to samotne drapieżniki suchego południowego zachodu, atakujące z powietrza i spod piasku. Z ich obecnością wiąże się dominacja [[Komancze|Komanczów]] nad Teksasem i pograniczem [[Nowa Hiszpania|Nowej Hiszpanii]].
+Szamani są tu czymś powszechnym — niemal każda społeczność ma kogoś, kto czyta sny, leczy i prowadzi obrzędy, a spora ich część realnie wpływa na pogodę, zwierzęta i bieg choroby. [[Dwudusze|Dwudusza]] — człowiek, który odnalazł smoka zrodzonego z tej samej duszy — jest rzadszy, lecz nie wyjątkowy: na większy klan przypada ich kilku. Bez rdzennej krwi ta więź jest w praktyce niemożliwa, co zamyka ją przed każdym europejskim adeptem.
 
-**[[Smoki Górskie]]** — największe i najbardziej terytorialne — strzegą Gór Skalistych i pasm wulkanicznych, zamykając zachód kontynentu przed prospektorami. Żyją przy nich najbardziej odizolowane narody, których Waszyngton nie zna nawet z nazwy.
+To dzięki nim opór wreszcie się opłaca. Sam smok jest groźny, lecz dziki i samotny; dopiero szaman, który skłoni stado do zsynchronizowanego uderzenia, i Dwudusza, który poprowadzi je w bój — człowiek i bestia jak jeden umysł w dwóch ciałach — zmieniają rozproszone drapieżniki w wojsko. Tam, gdzie tych ludzi jest dość, a na zachodzie i w głębi lądu jest, kolumna osadników albo wyprawa po krew po prostu nie wraca.
 
-Do tego dochodzą **[[Cieniste Smoki]]** — małe jak kot, sprytne, jako jedyne władające ludzką mową. Bywają oszustami i złodziejami; pojawiają się tam, gdzie da się coś ukraść albo komuś podszepnąć, i równie chętnie kręcą się dziś wokół białych miast co rdzennych obozów.
-
-### Dwudusze i szamani
-
-Szamani są tu czymś powszechnym. Niemal każda społeczność ma kogoś, kto czyta sny, leczy i prowadzi obrzędy, a spora część z nich realnie wpływa na pogodę, zwierzęta i bieg choroby. To na ich barkach spoczywa codzienna więź z [[Fey|duchami]] i przodkami.
-
-[[Dwudusze|Dwudusza]] — człowiek, który odnalazł smoka zrodzonego z tej samej duszy — jest rzadszy, ale nie wyjątkowy. Na większy klan przypada ich kilku, a wojną i obroną kierują często właśnie oni: człowiek i bestia działający jak jeden umysł w dwóch ciałach. Bez rdzennej krwi ta więź jest w praktyce niemożliwa, co zamyka ją przed każdym europejskim adeptem.
-
-To dzięki nim opór wreszcie się opłaca. Sam smok jest groźny, ale dziki i samotny; dopiero szaman, który skłoni stado do zsynchronizowanego uderzenia, i Dwudusza, który poprowadzi je w bój, zmieniają rozproszone bestie w wojsko. Tam, gdzie tych ludzi jest dość — a na zachodzie i w głębi kontynentu jest — kolumna osadników albo ekspedycja po krew po prostu nie wraca. Konfederacje Wielkich Rzek, Równin i gór trzymają granicę dzięki tym, którzy potrafią poprowadzić smoki do boju.
-
-Nie czyni to magami wszystkich wodzów. Negocjatorzy traktatów, mówcy i prorocy z tego artykułu — Mały Żółw, Red Jacket, Handsome Lake — to klasa polityczna i duchowa innego rodzaju, rządząca słowem i prawem. Władza wojenna i władza nad smokami chodzą jednak w parze częściej, niż biali zdają sobie sprawę, i to ona przeważa szalę na pograniczu.
-
-> [!mechanics]
-> **Szaman:** Path/Book Ritual Magic (GURPS Thaumatology) — rytuały wpływające na pogodę, zwierzęta i chorobę; pospolity wśród rdzennych
-> **Dwudusza:** unikalny Ally (smok) o najwyższej lojalności, dzielący zmysły i odruchy z partnerem; rzadki, lecz realny wybór dla rdzennej postaci
-> **Wymóg:** więź Dwuduszy i pełnia mocy szamańskiej wymagają rdzennego pochodzenia; mieszańcy dziedziczą je rzadko i nietrwale
+Nie czyni to magami wszystkich wodzów. Negocjatorzy i mówcy bywają klasą polityczną osobną od szamanów, lecz władza wojenna i władza nad smokami chodzą w parze częściej, niż biali zdają sobie sprawę.
 
 ### Wojna o krew
 
-Wszystko zmieniło odkrycie, że destylowana [[smocza krew]] jest najcenniejszym surowcem alchemicznym świata, a płaszcz ze smoczej łuski chroni przed ogniem i kwasem. Ruszył masowy odstrzał, a za nim wojny. Na wschodzie, w puszczach, [[Smoki Leśne]] wybito niemal do nogi — i właśnie dlatego narody Wschodnich Lasów straciły swoją tarczę i ziemię mniej więcej tam, gdzie tracą ją w podręcznikach. Tam, gdzie smoki przetrwały, granica osadnictwa stanęła.
+Wszystko zmieniło odkrycie, że destylowana [[smocza krew]] jest najcenniejszym surowcem alchemicznym świata, a płaszcz ze smoczej łuski chroni przed ogniem i kwasem. Ruszył masowy odstrzał, a za nim wojny. W puszczach wschodu [[Smoki Leśne]] wybito niemal do nogi — i tam właśnie narody Wschodnich Lasów straciły swoją tarczę, mniej więcej tam, gdzie tracą ją w podręcznikach. Gdzie smoki przetrwały, granica osadnictwa stanęła.
 
-Rdzenni odpowiadają wojną cichą, lecz nieustanną. Zabijają napotkanych łowców krwi i wysyłają oddziały za znanymi [[Smoczy Magowie|Smoczymi Magami]], laboratoriami i karawanami z fiolkami. Dla osadnika smocza krew jest fortuną; dla rdzennego mieszkańca jej handlarz jest tym, kto morduje przodków na surowiec. Tych dwóch poglądów nie da się pogodzić i nikt nie udaje, że jest inaczej.
+Rdzenni odpowiadają wojną cichą i nieustanną: zabijają napotkanych łowców krwi i ślą oddziały za znanymi [[Smoczy Magowie|Smoczymi Magami]], laboratoriami i karawanami z fiolkami. Dla osadnika smocza krew jest fortuną; dla rdzennego mieszkańca jej handlarz morduje przodków na surowiec. Tych dwóch poglądów nikt nie próbuje godzić. Jest to jedyna gałąź [[Handel futrami|wymiany]] rozstrzygana wyłącznie wojną.
 
-Jednego wroga symbioza nie powstrzymała. Ospa, odra i tyfus zabiły miliony, zanim padł pierwszy strzał do smoka — bo żaden smok nie obroni przed zarazą, która przychodzi z oddechem kupca.
-
-### Mieszańcy
-
-Dzieci ze związków rdzennych i białych rodzą się zdrowe, lecz odrzucają obie kultury i rzadko znajdują w którejkolwiek miejsce. Więź Dwuduszy dziedziczą wyjątkowo i słabo. Na pograniczu bywają bezcennymi tłumaczami i przewodnikami, a zarazem nie należą nigdzie — co czyni z nich naturalnych bohaterów niejednej kampanii.
+Jednego wroga symbioza nie powstrzymała. Ospa, odra i tyfus zabiły miliony, zanim padł pierwszy strzał do smoka — bo żaden smok nie obroni przed zarazą, która przychodzi z oddechem kupca. Dzieci ze związków rdzennych i białych rodzą się zdrowe, lecz więź Dwuduszy dziedziczą wyjątkowo i słabo; na pograniczu bywają bezcennymi tłumaczami, którzy nie należą nigdzie.
 
 ---
 
-## Filozofia, kosmologia, wartości
+## Ziemia, duchy i prawo
 
-### Zasada animizmu i wzajemności
+Żaden europejski termin nie oddaje rdzennych kosmologii dobrze. Najbliżej prawdy jest obraz świata jako gęstej sieci relacji między osobami — a osobami są nie tylko ludzie, lecz zwierzęta, rośliny, rzeki, skały, wiatry i przodkowie, każde z własną wolą i własnymi wymaganiami. Polowanie wymaga ceremonii, bo zabicie jelenia kończy relację z konkretną osobą: myśliwy zwraca się do niego przed strzałem i dziękuje po zabiciu, a kości oddaje tak, by uczcić ducha, inaczej duch ostrzeże inne i myśliwy wróci z pustymi rękami. Działa to jako praktyczny system gospodarowania zasobami od pięciu tysięcy lat — a w tym świecie sieć owych relacji bywa namacalna, czego więź ze smokiem jest najdobitniejszym przykładem.
 
-Żaden termin nie oddaje dobrze rdzennych kosmologii — „animizm" jest europejskim uproszczeniem. Bliżej jest do stwierdzenia, że większość narodów Ameryki Północnej rozumie świat jako gęstą sieć relacji między osobami — a osobami są nie tylko ludzie, ale zwierzęta, rośliny, rzeki, skały, wiatry, przodkowie. Każdy z nich ma własną wolę, własną historię i własne wymagania wobec relacji.
+Każdy naród ma na tę moc własne słowo: Haudenosaunee mówią o *orenda*, narody algonkińskie o *manitou*, Siuksowie o *Wakan Tanka* — Wielkiej Tajemnicy dostępnej tylko przez wizje i pośredników.
 
-Polowanie wymaga ceremonii, bo zabicie jelenia to koniec relacji z konkretną osobą. Myśliwy zwraca się do jelenia przed strzałem, dziękuje po zabiciu, oddaje kości w sposób honorujący — bo inaczej duch jelenia ostrzeże inne, i myśliwy wróci z pustymi rękami. To nie jest przesąd; to jest praktyczny system zarządzania zasobami przez pięć tysięcy lat. Działa.
+Z tej kosmologii wyrasta stosunek do ziemi, nieprzekładalny na europejskie prawo własności. Ziemia jest relacją: można jej używać — polować, uprawiać, obozować — lecz nie można jej posiadać, bo więź z nią jest zbiorowa i dziedziczona przez pokolenia. Gdy Lenape „sprzedawali" Manhattan w 1626 roku, oddawali prawo do wspólnego użytkowania, a nie wyłączną własność; to samo nieporozumienie wracało potem w każdym traktacie. „Ziemia jest naszą matką", mówił Tecumseh, i miał na myśli dosłowny stosunek prawny — matki nie wolno sprzedać, a żaden wódz nie ma prawa zrobić tego bez zgody całej rodziny.
 
-W tym świecie sieć tych relacji bywa namacalna. Dochowanie zobowiązań wobec [[Fey|duchów]] miejsca, zwierzęcia czy przodka daje drobne, podprogowe wsparcie, którego nikt nie musi brać na wiarę — a więź ze smokiem, opisana wyżej, jest tej zasady najdobitniejszym przykładem.
+Władza wymaga tu zgody. Wódz — sachem, ogimaa, *miko* — jest negocjatorem i gospodarzem rady, a jego autorytet płynie z reputacji i umiejętności budowania konsensusu; nikogo nie może do niczego zmusić. Wielka Rada Haudenosaunee w Onondaga zapadała decyzję tylko przy pełnej zgodzie sześciu narodów, a matrony klanowe wybierały i odwoływały wodzów w dowolnej chwili. Prawo opiera się na klanie: za czyn jednostki odpowiada cały klan, on płaci rekompensatę i on decyduje o losie jeńca, a człowiek bez klanu nie istnieje prawnie. Zabójstwo zaburza równowagę, którą przywraca się rekompensatą, ceremonią, adopcją albo odwetem — to, co Europejczycy biorą za tortury, bywa dla Haudenosaunee procedurą prawną.
 
-[[Irokezi]] nazywają tę siłę *orenda* — duchową moc, którą mają wszystkie byty i która może wzrastać lub maleć w zależności od działań. Narody algonkińskie — [[Odżibwe]], [[Szaunisi]], [[Delaware]] — mówią o *manitou*: duchowych siłach neutralnych, które mogą być przywołane w dobrym lub złym celu. [[Siuksowie]] znają *Wakan Tanka* — Wielką Tajemnicę, z którą nie można wejść w relację bezpośrednią, tylko przez pośredników, wizje i rytuały. [[Osagowie]] dzielą świat na *Tzi-Sho* (Lud Nieba) i *Hunkah* (Lud Ziemi) — strukturę, która określa każdą relację społeczną od narodzin.
-
-### Ziemia jako relacja
-
-Europejskie prawo własności zakłada, że ziemia jest towarem: można ją kupić, sprzedać, podzielić, zabudować, wyeksploatować i opuścić. Dla wszystkich rdzennych narodów Ameryki Północnej, bez wyjątku, to rozumowanie jest kategorycznie nieprzekładalne na ich systemy prawne.
-
-Ziemia jest relacją. Można ją użytkować — polować, uprawiać, obozować — ale nie można jej posiadać, bo relacja z ziemią jest zbiorowa i dziedziczona przez pokolenia, nie przez indywidualny tytuł własności. Kiedy [[Lenape]] sprzedawali Peterowi Minuitowi Manhattan za sześćdziesiąt gilderów w 1626 roku, sprzedawali prawdopodobnie prawo do wspólnego użytkowania — nie wyłączną własność. Obydwie strony przez wieki interpretowały tę transakcję różnie. Skutki tego nieporozumienia powtarzały się w każdym traktacie na każdym skrawku kontynentu.
-
-„Ziemia jest naszą matką," mówił [[Tecumseh]] — nie jako metafora, lecz jako dosłowny opis stosunku prawnego. Sprzedaż matki jest niemoralna. Żaden wódz nie ma prawa sprzedać matki bez zgody całej rodziny. Ten argument był jednocześnie filozofią polityczną, teologią i prawem.
-
-### Czas, historia, tradycja ustna
-
-Czas dla większości rdzennych kultur jest cykliczny: pory roku, cykle księżyca, powrót zwierząt, powtarzające się rocznice ceremonii. Historia nie jest linią biegnącą od przeszłości do przyszłości, lecz spiralą: przodkowie nie są przeszłością, są obecnością. Ich błędy i ich osiągnięcia są żywe, bo żywe są ich konsekwencje.
-
-Tradycja ustna nie jest gorsza od pisanej — jest inaczej zorganizowana. Wampumowe pasy [[Irokezów]] zapisują traktaty, genealogie, decyzje Rady Ogólnej z precyzją prawną; każdy symbol na pasku ma ustalone znaczenie, a strażnicy pasów znają ich treść na pamięć. [[Bibliotekarze]] Haudenosaunee pamiętają słowo po słowie umowy sprzed stu lat. [[Herolodzy]] Czerokesów cytują decyzje Rady Generalnej z poprzedniego pokolenia.
-
-Wiedza jest własnością — jednostki, klanu, towarzystwa ceremonialnego. Przekazywana jest selektywnie, ze zobowiązaniem i ceremonią. Ktoś, kto otrzymuje pieśń uzdrowicielską, staje się jej depozytariuszem, nie właścicielem.
-
-### Sprawiedliwość i prawo
-
-Większość rdzennych systemów prawa nie rozróżnia ostro między przestępstwem a naruszeniem kosmicznego porządku. Zabójstwo zaburza równowagę. Przywracana jest przez wyrównanie — przez compensację rodzinie ofiary, przez ceremonię, przez adopcję, przez odwet.
-
-[[Prawo Haudenosaunee]] (Gayanashagowa, Wielkie Prawo Pokoju) reguluje procedurę żałoby wojennej: naród, który stracił kogoś, może zażądać od drugiego wypełnienia „jelit wampumem" — materialną kompensatą — lub zabrać jeńców, którzy wypełnią miejsce po umarłym. Jeńcy mogą być adoptowani i stają się pełnoprawnymi członkami narodu; lub mogą zginąć rytualnie, co też przywraca równowagę. To co Europejczycy widzą jako tortury, jest dla Haudenosaunee procedurą prawną.
-
-System klanu jako fundamentu prawa: za działania jednostki odpowiada klan. To klan płaci kompensatę, to klan oddaje jenków, to klan decyduje o adopcji. Jednostka bez klanu nie istnieje prawnie — jest nikim.
-
-### Przywództwo i konsensualna władza
-
-Wódz w rozumieniu Europejczyka — autorytarny władca wydający rozkazy — nie istnieje w żadnym rdzennym systemie politycznym Ameryki Północnej. Wódz (sachem, ogimaa, *miko*, *uke*) jest negocjatorem, meditatorem, gospodarzem Rady. Jego autorytet pochodzi z reputacji i zdolności do budowania konsensusu. Nie może nikogo zmusić do niczego.
-
-[[Wielka Rada Haudenosaunee]] w Onondaga działała na zasadzie pełnego konsensusu: każdy z sześciu narodów Konfederacji musiał zgodzić się z decyzją, albo decyzja nie zapadała. Matrony klanowe wybierały i odwoływały wodzów w każdej chwili. Wódz, który działał wbrew woli klanu, tracił tytuł. Podczas [[Rewolucji Amerykańskiej]] Konfederacja podzieliła się, bo nie było konsensusu — każdy naród działał niezależnie. To była nie klęska systemu, lecz jego działanie zgodne z zasadami.
+Tradycja ustna jest inaczej zorganizowana niż pisana, lecz po swojemu precyzyjna: wampumowe pasy zapisują traktaty i genealogie symbol po symbolu, a ich strażnicy znają treść sprzed stu lat na pamięć. Wiedza jest własnością — jednostki, klanu, towarzystwa ceremonialnego — przekazywaną selektywnie i z zobowiązaniem; kto dostaje pieśń uzdrowicielską, staje się jej strażnikiem zobowiązanym do wiernego jej przekazania.
 
 ---
 
-## Organizacja społeczna — wzorce
+## Haudenosaunee
 
-### Klan jako jednostka podstawowa
+Konfederacja Haudenosaunee — Ludzi Długiego Domu — łączy sześć narodów: Mohawków, Oneidów, Onondagów, Kajugów, Seneków i, od 1722 roku, Tuskarorów. Powstała przed europejskim kontaktem, gdy Deganawida i Hiawatha przekonali pięć wojujących narodów do przyjęcia Wielkiego Prawa Pokoju: rady ogólnej w Onondaga, zakazu wojen wewnętrznych i konstytucji regulującej stosunki między klanami. W 1802 roku liczy dwanaście do piętnastu tysięcy ludzi po obu stronach granicy.
 
-Organizacja klanowa — system pokrewieństwa oparty na wspólnym totemicznym przodku — jest powszechna od Atlantyku po Missouri. Wilk, Żółw, Niedźwiedź, Bobier, Jeleń, Bóbr, Heron — nazwy klanów różnią się, zasada jest ta sama: jesteś Wilkiem przed swoim imieniem. Twoje obowiązki wobec innych Wilków są silniejsze niż wobec obcych. Zakaz kazirodztwa między członkami klanu to zasada społeczna, nie tylko biologiczna.
+Rewolucja amerykańska rozdarła Konfederację głębiej niż cokolwiek od jej założenia. Oneidowie i Tuskarorowie stanęli po stronie Ameryki, pozostałe cztery narody po stronie Brytyjczyków; Joseph Brant prowadził rajdy na pogranicze, aż armia Sullivana spaliła w 1779 roku czterdzieści irokeskich miast. Traktat paryski z 1783 roku oddał ich ziemie Ameryce bez konsultacji, a Brytyjczycy nie walczyli o sojuszników. Dziś Haudenosaunee to dwa światy: osada rolnicza Branta nad Grand River w Kanadzie i garść rezerwatów Seneków nad Allegheny i Buffalo Creek, wciśniętych między farmerów a spekulantów ziemią.
 
-Matrylinearność: dziecko należy do klanu matki. Irokezi, Czerokesi, Muskogowie (Krikowie), Lenape. Ojciec należy do innego klanu — jest dla dzieci ekonomicznym opiekunem, nie spokrewnionym krewnym w rozumieniu prawnym. Wujek macierzysty — brat matki — jest prawnym ojcem dziecka, tym który je wychowuje i przekazuje mu dziedzictwo. Dla Europejczyków ta struktura była niezrozumiała przez pokolenia.
-
-Patrylinearność: na równinach i wśród Irokezów w kwestii wodzostwa — prawa do polowania przechodzą przez ojca. Siuksowie, Paunisi, Osagowie. Nie jest to opozycja binarna: wiele narodów ma systemy złożone, gdzie klan jest matrylinearny, a wodzostwo patrilinearne.
-
-### Długi dom, tipi, chatka i wigwam
-
-Architektura jest funkcją klimatu, mobilności i organizacji społecznej.
-
-Długi dom Haudenosaunee: budynek pięćdziesiąt do stu metrów długości, z kory wiązowej na drewnianym szkielecie, zamieszkały przez matrylinearną rodzinę rozszerzoną — matka, córki, ich mężowie, dzieci. Wspólne paleniska co kilka metrów. Matka domu kontroluje jedzenie, przydzielane mężczyźnie przez jego żonę — kobieta może dosłownie zagłodzić mężczyznę nieposłusznego klanowej hierarchii.
-
-Tipi Plains: stożkowa konstrukcja ze skóry bawolich, dwanaście do piętnastu belek. Rozkładana i składana w kilkanaście minut. Optymalne dla nomadycznego trybu życia na prerii, gdzie wiatr i deszcz przychodzą ze wszystkich stron. Kobiety Lakota potrafiły postawić tipi w dwadzieścia minut; rozłożyć — w dziesięć.
-
-Wigwam Algonkinów: kopuła lub stożek z kory brzozowej lub mata trzcinowych na zgiętych żerdziach. Mniejszy, lepiej izolowany niż tipi, lepszy na leśne zimy. Przenośny, ale nie tak jak tipi.
-
-Ziemne domy Plains sedentarzy ([[Mandan]], [[Hidatsa]], [[Arikara]]): kopulaste konstrukcje z bali i ziemi, dwanaście do piętnastu metrów średnicy, mieszczące trzy do czterech rodzin, konie i zapasy. Ciepłe przez okrągły rok. Stałe osady nad rzekami.
+W 1799 roku konający z pijaństwa Seneka Handsome Lake przeżył wizję trzech duchów i zaczął głosić Gai'wiio — Dobre Słowo. Zakazał alkoholu, czarów i rozbijania rodziny, kazał trzymać się ceremonii długiego domu i języka, a zarazem — pod wpływem kwakrów — przeszczepiał rodzinę nuklearną i osiadłe rolnictwo w miejsce matrylinearnego długiego domu. W 1802 roku jego nauka rozchodzi się wśród Seneków i dzieli naród: matrony klanowe patrzą nieufnie na porządek, który wzmacnia ojca ich kosztem, lecz alkohol naprawdę niszczy, a pług naprawdę daje jeść.
 
 ---
 
-## Haudenosaunee — Konfederacja Irokezów
+## Narody Wschodnich Lasów i Tecumseh
 
-### Sześć ogniw Łańcucha
+To tutaj smoki wybito jako pierwsze, więc te narody straciły grunt szybciej niż jakiekolwiek inne — do presji osadniczej z podręczników doszedł odstrzał smoczych sojuszników, a gorycz po tej podwójnej stracie napędza dziś ruch Tecumseha.
 
-Sześć narodów: [[Mohawkowie]], [[Oneidowie]], [[Onondagowie]], [[Kajugowie]], [[Senekowie]] i (od 1722) [[Tuskarorowie]]. Razem zwą siebie Haudenosaunee — Ludzie Długiego Domu. Ich terytorium tradycyjne: od dzisiejszego Albany po jezioro Erie, od Adirondacks po rzekę Susquehanna. Populacja w 1802: szacunkowo dwanaście do piętnastu tysięcy.
+Szaunisi byli zawsze ruchliwsi od sąsiadów, a w 1802 roku są rozbici: część nad White River w Indianie po [[Traktat Greenville|traktacie Greenville]] z 1795 roku, część za Missisipi pod opieką Hiszpanów, część przy Fort Wayne. Greenville był ceną klęski pod Fallen Timbers, gdzie generał Wayne rozbił konfederację Miami, Szaunisów i Delaware; Mały Żółw z Miami i wódz Szaunisów Blue Jacket oddali wtedy Ohio za marną roczną annuitę.
 
-Konfederacja powstała przed europejskim kontaktem — tradycja wskazuje na XI–XV wiek, choć data niepewna. Stworzyli ją [[Deganawida]] (Wielki Prawodawca) i [[Hiawatha]], którzy przekonali pięć wzajemnie wojujących narodów do przyjęcia Wielkiego Prawa Pokoju. Fundamenty: konferencja ogólna w Onondaga (centrum geograficzne), zakaz wewnętrznych wojen, procedura żałoby wojennej, konstytucja regulująca stosunki między klanami i narodami.
+Tecumseh, trzydziestoczteroletni w 1802 roku, nie podpisał Greenville i zaczyna objeżdżać kolejne narody z jednym argumentem: ziemia należy do wszystkich rdzennych ludów razem, więc żaden pojedynczy wódz nie może legalnie sprzedać tego, co jest własnością zbiorową, a każda taka umowa jest nieważna. Ten sam argument obejmuje przodków i smoki. Wokół niego gromadzą się ci, którzy myślą podobnie — a militarny sens daje jego konfederacji obietnica zebrania rozproszonych szamanów i Dwuduszy w jedną siłę. Sam jest mówcą i wodzem, nie szamanem.
 
-### Rewolucja Amerykańska i jej konsekwencje
-
-Rewolucja podzieliła Konfederację głębiej niż cokolwiek od jej założenia. [[Oneidowie]] i [[Tuskarorowie]] stanęli po stronie Ameryki pod wpływem misjonarza Samuela Kirklanda. Pozostałe cztery narody — [[Mohawkowie]] i [[Senekowie]] jako aktywne siły bojowe — wybrały Brytyjczyków jako mniejsze zło. [[Joseph Brant]] (Thayendanegea, Mohawk) prowadził rajdy na pogranicze Pensylwanii i Nowego Jorku, zanim armia Sullivana i Clintona w 1779 roku spaliła czterdzieści Irokeskich miast.
-
-Traktat Paryski w 1783 roku oddał ziemie Irokezów Ameryce bez konsultacji z Konfederacją. Wielka Brytania nie walczyła o swoich sojuszników. Senekowie, Kajugowie, część Mohawków przeniosła się do Kanady — Grand River Reserve fundowana przez Branta. Reszta: szczątkowe rezerwaty w Nowym Jorku.
-
-W 1802 roku Haudenosaunee to dwa światy. Kanada: Brant na Grand River prowadzi osadę rolniczą, negocjuje z Koroną, tłumaczy Ewangelie na Mohawk. Nowy Jork: Senekowie na kilku rezerwatach nad Allegheny, Buffalo Creek, Cattaraugus, Tonawanda — łącznie może sześć do ośmiu tysięcy osób, między farmerami z Buffalo a spekulantami ziemnymi z Bostonu.
-
-### Handsome Lake i Longhouse Religion
-
-Czerwiec 1799: [[Handsome Lake]] (Skaniadario, Senkea), brat przyrodni Corplantera, leżał umierając na jego farmie nad Allegheny. Przez lata pił. Trzy duchy w postaci Indian przyszły do niego i pokazały niebo i piekło — wizje bardzo podobne do metonodystycznych kazań, które słyszał od Quakerów.
-
-Handsome Lake wyzdowiał i zaczął głosić Gai'wiio — Dobre Słowo. Cztery grzechy: alkohol (absolutny zakaz), czary, magiczne środki antykoncepcyjne, działania rozbijające rodzinę. Zachować ceremonię długiego domu, zachować język, zachować klanowe struktury. Quakerski wpływ: rodzina nuklearna zamiast matrylinearnej rozszerzonej, mężczyzna w polu zamiast kobiety, rolnictwo osiadłe.
-
-W 1802 roku Gai'wiio rozprzestrzenia się wśród Senekówie i innych narodów Irokezów. Wewnętrzne napięcia: tradycjonaliści wobec modernizatorów, matrony klanowe wobec nowego porządku rodzinnego, pijacy wobec reformatorów.
-
-> [!rules]
-> **Haudenosaunee (Konfederacja Irokezów)**
-> **Populacja 1802:** ~12 000–15 000 (obydwie strony granicy)
-> **Terytorium:** Rezerwaty w Nowym Jorku, Grand River w Kanadzie, resztki terytorium przy Jeziórach
-> **Ustrój:** Wielka Rada w Onondaga (osłabiona, ale formalnie działa)
-> **Dominujące zajęcia:** rolnictwo (kobiety), handel, rzemiosło, coraz częściej praca najemna
-> **Języki:** Mohawk, Onondaga, Seneka, Kajuga, Oneida (wzajemnie niezrozumiałe)
-> **Zagrożenia 1802:** spekulacja ziemią, alkohol, presja misjonarska, migracja na zachód
+Jego brat Tenskwatawa jest w 1802 roku chudym pijakiem o złej sławie, który stracił oko w wypadku z łukiem; wizja, która uczyni zeń Proroka, przyjdzie dopiero w 1805 roku. Lenape, niegdyś zwani „Dziadkiem" przez algonkińskie narody, od stu pięćdziesięciu lat cofają się na zachód i w 1802 roku siedzą głównie nad White River i za Missisipi. Miami pod Małym Żółwiem skonsolidowali się w Indianie — sam Mały Żółw, pogromca dwóch amerykańskich armii spod rzeki Wabash, po Greenville osiadł na farmie i przemawia przeciw wojnie, czym dla jednych zasłużył na szacunek, a dla Tecumseha na pogardę.
 
 ---
 
-## Narody Wschodnich Lasów — pod największą presją
+## Pięć narodów Południowego Wschodu
 
-To tutaj wybito [[Smoki Leśne]] jako pierwsze, dla krwi i łuski, i to dlatego te narody straciły grunt szybciej niż jakiekolwiek inne. Presji osadniczej, którą znamy z podręczników, towarzyszył tu odstrzał ich smoczych sojuszników — a bez nich obrona puszczy stała się tym, czym była w naszej historii. Gorycz po tej podwójnej stracie napędza dziś ruch [[Tecumseh|Tecumseha]].
+Na południu pięć wielkich narodów — Czerokesi, Krikowie, Czoktawowie (Choctaw), Czikazowie i młodzi Seminole — przeżywa rok 1802 między adaptacją a oporem.
 
-### Szaunisi (Shawnee) — rozproszony naród
+Czerokesi z Appalachów (szesnaście do dwudziestu tysięcy ludzi) są najgłębiej podzieleni. Elita znad granicy przejmuje pług, tartaki, szkoły i angielski język interesu, część posiada nawet zniewolonych Afrykanów; tradycjonaliści z gór odrzucają to jako zdradę, dowodząc, że żadna adaptacja nie uratuje ziemi. Kolejne traktaty oddawały ogromne terytoria, negocjowane z wodzami, których reszta narodu nie uznawała — najgłośniejszym z nich był Doublehead, sprzedający ziemię za osobiste łapówki, którego własny naród skaże na śmierć w 1807 roku, po raz pierwszy egzekwując karę za nielegalną sprzedaż ziemi.
 
-Szaunisi byli historycznie bardziej mobilni niż większość narodów wschodnich — ich tradycja mówi o wędrówkach z Południa, przez Ohio Valley, na wschód aż do Karoliny i z powrotem. W 1802 roku są rozbici: część w Indianie nad White River (po Traktacie Greenville 1795), część uciekła do Missisipi i dalej do Terytorium Luizjany za pozwoleniem Hiszpanów, część trwa przy Fort Wayne.
+Krikowie to nie jeden naród, lecz konfederacja ponad pięćdziesięciu autonomicznych miast, dzielonych na białe miasta pokoju i czerwone miasta wojny. Po śmierci Alexandra McGillivraya w 1793 roku zabrakło im przywódcy zdolnego balansować frakcje, a w 1802 roku amerykański agent Benjamin Hawkins forsuje „politykę cywilizacyjną" — pług, bydło, tkactwo. Część wodzów przyjmuje to jako realizm, część — zwłaszcza Red Sticks z czerwonych miast — widzi w tym wyrzeczenie się wszystkiego.
 
-Traktat Greenville w 1795 roku był konsekwencją [[Bitwy pod Fallen Timbers]] (sierpień 1794), gdzie generał Anthony Wayne rozbił armię Konfederacji Miami-Szaunisi-Delaware. [[Mały Żółw]] (Little Turtle, Miami) i [[Niebieski Kurtka]] (Blue Jacket, Szaunisi) podpisali. Szaunisi oddali Ohio za roczną annuity — wypłatę pieniężną — i wąskie terytoria rezerwatowe.
-
-Pięć grup klanowych Szaunisów: Chalaakaatha, Thawikila, Kispoko, Pekowi, Mequachake — każda z własnym specjalizacją i tradycją (Chalaakaatha historycznie dostarczała wodzów politycznych; Kispoko — wojowników). Ten system w 1802 roku jest pod presją, ale żywy.
-
-### Tecumseh i początki konferencji
-
-[[Tecumseh]] (Meteor, Shooting Star) urodzony ~1768 w wiosce Chalaakaatha nad Old Piqua w Ohio. Ojciec zabity przez Anglosaskich osadników, gdy Tecumseh był dzieckiem. Uczestniczył w bitwach lat dziewięćdziesiątych po obu stronach Fallen Timbers. Nie podpisał Greenville.
-
-W 1802 roku Tecumseh ma trzydzieści cztery lata, przebywa między obozami nad White River i Wabash, i zaczyna coraz systematyczniej podróżować do innych narodów. Jego argument jest prosty: żaden pojedynczy naród nie ma ziemi do oddania, bo ziemia należy do wszystkich razem. Żaden wódz jednego narodu nie może legalnie sprzedać tego, co jest własnością zbiorową wszystkich rdzennych ludów. Każda umowa sprzedaży jest nieważna. Jedyną odpowiedzią jest zjednoczenie.
-
-Ten sam argument obejmuje smoki. Ziemia, przodkowie i smoki nie są na sprzedaż, bo nie należą do żadnego pojedynczego wodza. Wokół Tecumseha gromadzą się ci, którzy myślą podobnie — szamani i Dwudusze, których jego ruch ściąga coraz więcej. Sam jest mówcą i wodzem, nie szamanem, lecz to właśnie obietnica zebrania rozproszonych Dwuduszy w jedną siłę daje jego konfederacji militarny sens.
-
-Brat Tecumseha, [[Tenskwatawa]] (Lalawethika), urodzony 1775, w 1802 roku jest chudym mężczyzną ze złą reputacją — słabym wojownikiem, alkoholikiem, który stracił oko w wypadku podczas zabawy z łukiem. Jego wizja z 1805 roku jeszcze nie nastąpiła. Jego transformacja jest przed nim.
-
-### Lenape (Delaware) — najdalej na zachód
-
-[[Lenape]], pierwotni mieszkańcy Delaware, New Jersey i wschodniej Pennsylwanii, byli przez sto pięćdziesiąt lat spychani na zachód. Każde pokolenie traciło ziemię, cofało się, adaptowało. W 1802 roku główne grupy: nad White River w Indianie, w Ohiu przy Sandusky, część już za Missisipi na zachód w Missourim pod ochroną Hiszpanów.
-
-Trzy klany Lenape: Żółw, Indyk, Wilk. Wódz klanu Żółwia tradycyjnie pełnił rolę mediatora w relacjach z innymi narodami — Lenape byli zwani „Dziadkiem" przez wiele algonkijskich narodów, symbolem autorytetu i pierwszeństwa. Ten prestiż kosztował: byli też pierwszymi do utraty ziemi przez kolejne pokolenia, bo ich historyczna rola negocjatorów sprawiała, że Europejczycy zawsze się do nich zwracali jako do reprezentantów wszystkich.
-
-### Miami i Little Turtle — po Greenville
-
-[[Miami]] (Myaamiia, „Ludzie z gęsich krain") — naród zdominowany i skonsolidowany w Indianie, przy ujściach Wabash. Łącznie może cztery do sześciu tysięcy osób.
-
-[[Mały Żółw]] (Michikinikwa) w 1802 roku ma pięćdziesiąt pięć lat i jest człowiekiem, który pobił dwie amerykańskie armie. Bitwa nad rzeką Wabash w 1791 roku (St. Clair's Defeat) — sześćset trzydziestu zabitych żołnierzy, największa klęska armii USA w walkach z rdzennymi przez cały XIX wiek. Mały Żółw potem przegrał Fallen Timbers i podpisał Greenville. Od tej pory współpracuje z Waszyngtonem, przyjmuje farmę i osiadłe życie, przemawia przeciw wojnie. Jego własny naród dzieli się: część patrzy na niego z szacunkiem, część z pogardą. [[Tecumseh]] patrzy z pogardą.
-
-> [!rules]
-> **Narody Wschodnich Lasów (ogólnie)**
-> **Terytorium efektywne 1802:** Ohio, Indiana, część Missisipi
-> **Główne zajęcia:** łowiectwo, rolnictwo (kukurydza, dynia, fasola), handel furtami
-> **Skuteczne uzbrojenie:** karabiny skałkowe, łuki (taktycznie), tomahawki, noże
-> **Typowe umiejętności GURPS:** Survival (Woods) 14+, Tracking 14+, Stealth 13+, Bow 14+, Knife 13+
-> **Zagrożenia 1802:** postępująca utrata ziemi, epidemie, alkohol, fragmentacja polityczna
+Czoktawowie z centralnego Missisipi (dwadzieścia do dwudziestu pięciu tysięcy) uniknęli najgorszej presji dzięki ziemi mniej żyznej i mniej strategicznej od sąsiadów; ich rosnącym głosem jest młody wojownik Pushmataha, który za kilka lat odmówi Tecumsehowi, gdy ten przyjedzie werbować. Czikazowie z zachodniej Tennessee, najmniejsi (sześć do ośmiu tysięcy) i o reputacji najgroźniejszych wojowników południa — Francuzi trzykrotnie próbowali ich złamać i trzykrotnie odeszli z niczym — byli zawsze angielską kartą w grze o Missisipi, a teraz muszą układać się z Waszyngtonem. Seminole to twór najświeższy: Krikowie i inni zbiegowie, którzy zeszli na hiszpańską Florydę i wtopili w siebie uciekinierów z plantacji oraz zbiegłych Afrykanów (Czarni Seminole), żyjąc pod nominalną Koroną Hiszpańską, a faktycznie niezależnie.
 
 ---
 
-## Narody Południowo-Wschodnie — Pięć Cywilizowanych Narodów
+## Równiny i Luizjana
 
-### Czerokesi (Tsalagi) — Główni Ludzie
+Za Missisipi rozciąga się świat, którego Waszyngton prawie nie zna. Najpotężniejsi są Osagowie — osiem do dziesięciu tysięcy ludzi, mężczyźni przeciętnie powyżej sześciu stóp wzrostu — władający dorzeczem Missouri. Ich sojusz ze [[Smoki Rzeczne|Smokami Rzecznymi]], które bronią rzeki przed obcymi łodziami, sprawia, że każda wyprawa handlowa czy wojskowa w dolinie Missouri płaci im za prawo przejazdu w jedwabiu, stali, koniach i broni. [[Terytorium Luizjany]] należy formalnie do Francji, faktycznie do nich, Paunisów i Komanczów; ich wielki wódz Pawhuska, pragmatyk handlujący futrami od dekad, w 1804 roku poprowadzi wielką delegację do Waszyngtonu, by Osagów uznano za suwerennych partnerów.
 
-[[Czerokesi]] nazywają siebie Ani-Yunwiya — Główni Ludzie, lub Tsalagi w swoim własnym języku. Terytorium: Appalachy i ich przedgórza, od południowo-zachodniej Wirginii przez Tennessee i Karolinę Północną po Georgię i Alabamę. Populacja w 1802: szesnaście do dwudziestu tysięcy.
+Paunisi znad Platte (dziesięć do dwunastu tysięcy) łączą osiadłe rolnictwo z sezonowymi polowaniami na bizona i słyną z rzadkiej ceremonii Gwiazdy Porannej, składającej w ofierze schwytaną dziewczynę — obyczaju zanikającego pod naciskiem sąsiadów. Lakota, siedem zachodnich pni Siuksów, kończą właśnie transformację, która zrobiła z nich potęgę: koń, przejęty od południowych narodów, zamienił kilkudniowe naganianie bizonów w kilkugodzinne łowy, a wraz z mięsem urosła populacja, mobilność i apetyt na nowe terytoria, które wydzierają Arikarom i Mandanom. Z Waszyngtonem nie mają jeszcze styczności — pierwsze spotkanie z Lewisem i Clarkiem przyjdzie w 1804 roku.
 
-Siedem klanów: Wilk, Ptak, Jeleń, Długie Ogony (Bird), Dziki Ziemniak, Malina, Niebieski Ptak. Klan matrylinearny; mężczyzna należy do klanu matki, a jego dzieci do klanu żony. Zabójstwo wewnątrz klanu jest najcięższą zbrodnią — niemożliwa do odkupienia.
-
-Struktura polityczna: wielkie Rady Generalne w Chota (historyczna stolica) lub na zmianę w innych miastach, plus lokalne rady każdego z kilkudziesięciu miast. Czeroke miasto to jednostka polityczna — ma własną Radę, własną boisko do gry w piłkę, własny ogień ceremonialny. Naczelny wódz (Uku) pełni funkcję symboliczną i ceremonialną; decyzje są konsensualne.
-
-### Czerokeski Dramat — między adaptacją a oporem
-
-W 1802 roku Czerokesi są najbardziej wewnętrznie podzielonym narodem na południu. Część — zwłaszcza elita mieszcząca się przy granicy z Georgiją i Tennessee — zaczyna aktywnie adoptować europejskie zwyczaje: rolnictwo z pługiem, cegielnia, tartaki, szkoły, angielski język biznesu. Niektórzy z tej grupy posiadają zniewolonych Afrykańczyków.
-
-Tradycjonaliści — zwani Starymi Osadnikami albo po prostu Ludźmi Gór — odrzucają asymilację jako zdradę. Ich argument: żadna adaptacja nie uratuje ziemi. Traktaty z 1791 (Holston), 1798 (Tellico) i 1804 (po kolejnych naciskach) oddały ogromne terytoria. Każdy traktat był negocjowany z grupą wodzów oferujących ziemię za annuity, których inni Czerokesi nie uznawali za swoich reprezentantów.
-
-[[Doublehead]] (Talloteskee) — wódz starzejący się, sprzedający ziemię za osobiste łapówki od agentów Tennessee. W 1802 roku jest jeszcze aktywny, ale jego reputacja wśród młodszych Czerokesów jest zniszczona. Zostanie zabity przez własny naród w 1807 roku jako zdrajca.
-
-### Ceremonia Zielonej Kukurydzy — Busk
-
-Ceremonia Zielonej Kukurydzy jest centralnym rytuałem dla wszystkich narodów Południowo-Wschodnich — Czerokesów, Muskogów, Czerokiów, Czikaszów. Trwa cztery do ośmiu dni; termin: późne lato, gdy kukurydza dojrzewa.
-
-Ceremonia jest jednocześnie rytuałem oczyszczenia, zbiorowym sądem, odnowieniem pactum społecznego i świętowaniem plonów. Przed rozpoczęciem: wygaszenie wszystkich domowych ogni. Publiczna spowiedź grzechów i wykroczeń — każdy, kto chce, może wyznać to, co uczynił złego w minionym roku. Przewinienia mniejsze — zapomniane. Poważne — osądzone przez Radę. Nowy ogień, zapalony rytualnie przez kapłana (Ada-wehi), roznoszony do każdego domu. Nowe życie, zaczęte od nowa.
-
-Nikt nie może pić czarnego napoju (asi, wywar z liści ostrokrzewu) z poprzedniej partii. Mężczyźni picia nowego czarnego napoju do wymiotów — oczyszczenie fizyczne. Następnie uczta z nowej kukurydzy — zakazana przed ceremonią pod groźbą ciężkiej kary.
-
-Ceremonia amnestii: wszelkie przestępstwa poza morderstwem są przebaczone przez ukończenie ceremonii.
-
-### Muskogowie (Krikowie) — Konfederacja Miast
-
-[[Krikowie]] — Muskogowie — to nie jeden naród, lecz konfederacja ponad pięćdziesięciu autonomicznych miast, którą Anglicy zaczęli nazywać Creek Confederacy od angielskiej nazwy rzeki Ochese Creek. Populacja w 1802: dwadzieścia do dwudziestu pięciu tysięcy.
-
-Dwa typy miast: Białe (pokoju, Tłako) i Czerwone (wojny, Tciloki). Białe miasto jest centrum dyplomacji, amnestii, ceremonii pokojowych. Czerwone — centrum przygotowań wojennych. Każde miasto wysyła delegatów do Wielkiej Rady; każde ma swojego *Miko* (wodza) i swoją Radę. Decyzja Wielkiej Rady jest wiążąca, gdy Biały ogień Rady zgodzi się — a zgoda wymaga konsensusu.
-
-[[Alexander McGillivray]], syn szkockiego kupca i córki klanu Wiatrów, przez lata 80-te i na początku 90-tych organizował Krików jako siłę polityczną zdolną rozmawiać z Waszyngtonem i Madrytem jednocześnie. Umarł w 1793 roku, zostawiając po sobie naród w połowie zeuropeizowany i w połowie tradycjonalistyczny — bez centralnego lidera zdolnego balansować obie frakcje.
-
-W 1802 roku Krikowie toczą wewnętrzny spór o kierunek: agent Benjamin Hawkins promuje „politykę cywilizacyjną" Waszyngtonu — rolnictwo z pługiem, bydło, tkactwo. Część wodzów przyjmuje to jako realpolitik. Część — zwłaszcza tzw. Red Sticks, z Czerwonych Miast — widzi w tym wyrzeczenie się wszystkiego.
-
-### Czerokiowie (Choctaw) — Wielki Naród Południa
-
-[[Czerokiowie]] (Choctaw — nie mylić z Czerokesami) zamieszkują centralny Missisipi i wschodnią Luizjanę. Dwadzieścia do dwudziestu pięciu tysięcy osób. Ich tradycyjne siedlisko — lesiste wzgórza Missisipi — nie jest ani tak żyzne jak wybrzeże ryżowe Karoliny, ani tak strategiczne jak Ohio. Uratowało ich to od najbardziej bezpośredniej presji.
-
-[[Pushmataha]] (Apushmataha, Wódz Dębu) urodzony ~1764, w 1802 roku jest trzydziestoośmioletnim wojownikiem o rosnącej reputacji. Nie jest jeszcze w szczytowym momencie swojej potęgi. Będzie najważniejszym głosem Czerokiów przez następne dwadzieścia lat — człowiekiem, który odmówi Tecumseha, gdy ten przyjedzie rekrutować Czerokiów do konfederacji.
-
-Trzy okręgi Czerokiów: Sześć Miast (Sixtown), Okla Hannali (Ludzie Południa), Okla Falaya (Ludzie Zachodu). Każdy z własną tożsamością i stopniem kontaktu z Europejczykami. Sześć Miast — najbardziej tradycjonalistyczne; Okla Hannali — najwięcej wpływu handlowego z Nowego Orleanu.
-
-### Czikazowie (Chickasaw) — Wojownicy
-
-[[Czikazowie]] są najmniejszym z pięciu głównych narodów Południa — sześć do ośmiu tysięcy osób na terytorium zachodniej Tennessee i Missisipi. Mają reputację najgroźniejszych wojowników południa — Francuzi trzykrotnie próbowali ich podbić w XVIII wieku i trzy razy wrócili z katastrofalnym wynikiem.
-
-Czikazowie tradycyjnie byli angielską kartą w grze o Południe: sprzedawali futra Anglii, bronili szlaku Missisipi przed Francją, walczyli z Czerokiami kiedy byli do tego zachęcani. W 1802 roku: Anglia nie ma już Południa, Francja też nie — Czikazowie muszą renegocjować swoje relacje z Waszyngtonem.
-
-### Seminole — nowy naród
-
-[[Seminole]] nie jest starożytnym narodem — to twór XVIII wieku. Krikowie i inne narody, które uciekły na Florydę pod panowanie Hiszpanii, połączyły się tam z uciekinierami z plantacji, zbiegłymi Afrykańczykami (Czarni Seminole, *Estelusti*) i kilkoma resztkami rdzennych Florydyjczyków. W 1802 roku Floryda jest jeszcze hiszpańska — Seminole żyją pod nominalną Koroną Hiszpańską, de facto niezależnie.
+Komancze oderwali się od Szoszonów, gdy przyjęli konia, i w pół wieku stali się panami południowych równin — dwadzieścia do trzydziestu tysięcy ludzi w kilkunastu autonomicznych bandach, których wojownik wypuszczał dziesięć strzał na minutę z galopu, schowany za koniem. Kontrolowali handel końmi od Meksyku po Montanę. To pogranicze [[Smoki Pustynne|Smoków Pustynnych]], i to ich ataki z powietrza obok komanczańskiej kawalerii zatrzymały hiszpańskie presidia na linii, której od pokoleń nie udało się przesunąć: w 1802 roku Teksas na zachód od San Antonio jest faktycznie ziemią Komanczów. Najdalej na północy Mandanowie i Hidatsa, niegdyś węzeł handlowy całych Równin, ledwie trwają — ospa z 1781 i 1801 roku ścięła ich z szesnastu tysięcy do może dwóch, skupionych w dwóch wioskach, gdzie zimą 1804 roku stanie Fort Mandan Lewisa i Clarka.
 
 ---
 
-## Narody Wielkich Równin i Luizjana
+## Życie codzienne
 
-### Osagowie — Władcy Centrum
+Rolnicze narody wschodu i środka żyją z Trzech Sióstr — kukurydzy, fasoli i dyni, sadzonych razem, bo kukurydza daje tyczkę fasoli, fasola wiąże azot, a dynia tłumi chwasty. Na Równinach wszystko daje bizon: mięso świeże i suszone na *pemmican*, skórę na tipi i ubranie, kości na narzędzia, żołądek na naczynie. Tytoń (*Nicotiana rustica*, dużo mocniejszy od europejskiego) i czarny napój z ostrokrzewu służą wyłącznie ceremonii i dyplomacji.
 
-[[Osagowie]] (Ni-U-Ko'n-Ska — Dzieci Środka Wód) są najpotężniejszym narodem na całym terytorium Missisipi-Missouri w 1802 roku. Osiem do dziesięciu tysięcy ludzi, trzy grupy: Wielcy Osagowie nad rzeką Osage w Missourim, Mali Osagowie na południu, Osagowie Wyżynni w Arkansasie. Mężczyźni Osagów uśredniali powyżej sześciu stóp wysokości — byli opisywani przez każdego europejskiego podróżnika jako fizycznie imponujący.
+Szlaki handlowe oplatały kontynent na tysiące lat przed Europejczykami — miedź znad Jeziora Górnego trafiała na Florydę, obsydian z Yellowstone nad Missisipi. Wampum, pasy z polerowanych muszli, służył dyplomacji: pieczętował traktaty i potwierdzał sojusze, a jego fałszowanie szklanymi paciorkami przez Holendrów było jednym z pierwszych przykładów inflacji na kontynencie. Po 1680 roku handel futrami przebudował gospodarkę wszystkich wschodnich narodów — kto kontrolował szlak do Europejczyków, zyskiwał przewagę, a wraz z bronią i suknem przyszły zależność i alkohol.
 
-Osagowski system filozoficzny jest jednym z najbardziej rozwiniętych kosmologicznie na kontynencie. Wszechświat podzielony jest na dwie zasady: *Tzi-Sho* (Niebo) i *Hunkah* (Ziemia). Każdy klan należy do jednej lub drugiej. *Tzi-Sho* reprezentuje pokój, mądrość, wiewiórki, małe zwierzęta, słońce w zenicie. *Hunkah* — wojnę, wilki, łosia, burzę, żywicielstwo. Małżeństwo łączy zawsze osobę Nieba z osobą Ziemi. Każda ceremonia, każda decyzja wojenna, każdy traktat angażuje obie zasady — inaczej jest niekompletny.
-
-[[Pawhuska]] (Biała Głowa) jest w 1802 roku *Ga-ni-tha* — Wielkim Wodzem Wielkiej Grupy Osagów. Jego nazwa pochodzi od kawałka peruki francuskiego oficera, który schwytał i nosił z dumą. Jest pragmatykiem: handlował futrami ze Španią przez dekady, teraz zaczyna myśleć o Amerykanach jako nowych partnerach. Spotka Jeffersona w Waszyngtonie w 1804 roku z wielką delegacją.
-
-Część ich przewagi płynie z sojuszu ze [[Smoki Rzeczne|Smokami Rzecznymi]], które bronią dorzecza Missouri przed obcymi łodziami. Osagowie nie pozwolili nikomu przeciąć ich terytorium bez zgody. Wszystkie ekspedycje handlowe, misyjne i wojskowe w dolinie Missouri płaciły im — w jedwabiu, stali, koniach, broni — za prawo przejazdu. [[Terytorium Luizjany]] formalnie należy do Francji; w praktyce jest terytorium Osagów, Paunisów i Komanczów, z drobnymi europejskimi faktorami przy rzekach.
-
-### Paunisi (Pawnee) — cztery ognie
-
-[[Paunisi]] to cztery narody mówiące wspólnym językiem, siedzące w osadach ziemnych domów nad rzeką Platte w dzisiejszej Nebrasce: Wielki Pawnee, Skidi (Wilk), Kitehahki (Republika), Pitahauerat (Tapage). Razem dziesięć do dwunastu tysięcy osób.
-
-Paunisi są wyjątkowi wśród preriowych ludów — są rolnikami (kukurydza, fasola, dynia) i myśliwymi (dwa sezonowe polowania na bizony), siedzącymi i nomadami jednocześnie. Ich osiedla są stałe przez lato; zimą opuszczone i powrócić do nich po polowaniu.
-
-Ceremonia Gwiazdy Porannej (*Morning Star Ceremony*) jest najbardziej niezwykłą w ich tradycji: coroczne (lub nieregularne) ludzkie ofiarowanie dziewczynki lub kobiety z obcego narodu ku zmartwychwstaniu roślinności. Schwytana podczas rajdu, przez kilka miesięcy traktowana jak gość, potem zabita strzałami z łuku o wschodzie słońca. Ceremonia ta stopniowo zanika pod wpływem kontaktów z innymi narodami i handlem — oficjalnie zaniechana w 1838 roku, gdy młody Pawnee powie *Good Chief* uratował przeznaczoną do ofiary Sioux.
-
-### Lakota (Zachodni Siuksowie) — na progu dominacji
-
-[[Lakota]], siedem pni zachodnich Siuksów (Oceti Sakowin — Siedem Ognisk Rady), w 1802 roku kończą właśnie historyczną transformację. Przez cały XVIII wiek Siuksowie przemieszczali się na zachód pod presją Odżibwów uzbrojonych przez Franuzów. Kiedy dotarli do prerii, zetknęli się z końmi — udomowionymi przez Komanczów i Czejenów, stopniowo rozprzestrzeniającymi się na północ. Koń zmienił wszystko.
-
-Polowanie na bizony bez konia: kilka dni wspólnego naganiania, odgradzania, zbijania do rzeki. Polowanie na koniu: kilka godzin i trzydzieści bizonów leżących na prerii. Wyżywienie, okrycie, schronienie — wszystko z jednego polowania. Populacja wzrosła. Mobilność wzrosła. Terytoria ekspansji wzrosły.
-
-W 1802 roku Lakota jest wciąż w fazie ekspansji na południowy zachód, sukcesywnie wypierając Arikarów i Mandanów z najlepszych terenów polowań. Nie są w konflikcie z USA — pierwsze spotkanie z Lewisem i Clarkiem dopiero w 1804 roku. Sioux znani Waszyngtonowi są Santee Dakotami — wschodnimi, zupełnie inną sytuacją.
-
-[[Sun Dance]] (Wi-wanyang-wacipi — Patrząc na Słońce Taniec): najważniejsza ceremonia Lakota i wielu innych narodów Równin. Cztery dni taneczne, post, w szczytowym momencie — piercing: wbicie pątków w skórę pleców i zawieszenie od słupa przez skórę aż do zerwania. Ofiara fizyczna jako zobowiązanie wobec Słońca i wobec narodu. Nie tortury — akt duchowy.
-
-### Komancze (Nʉmʉnʉʉ) — Władcy Południa
-
-[[Komancze]] oderwali się od Szoszonów w wczesnym XVIII wieku, gdy przyjęli konie. W ciągu pięćdziesięciu lat stali się dominującą siłą południowych równin od Teksasu po Kansas. Dwadzieścia do trzydziestu tysięcy osób, podzielonych na kilkanaście autonomicznych band bez centralnej organizacji politycznej.
-
-Koń i Komancz to jedno. Chłopiec z Komanczów uczył się jazdy konno zanim nauczył się chodzić — najpierw na osiołku, potem na wałachu, w wieku dziesięciu lat pełna jazda bojowa. Dorosły wojownik Komanczów mógł wystrzelić dziesięć strzał na minutę z łuku podczas galopa, schowany za koniem. [[Dragoni]] armii USA nie mieli przez pierwsze pół wieku kontaktu militarnego żadnej taktycznej odpowiedzi na to.
-
-Komancze kontrolowali handel końmi na całym południu. Konie kradzione w Meksyku szły przez Komanczów na północ — do innych równinnych narodów, aż do Montany. *Comanche Exchange* był faktycznie korporacją dystrybucyjną z wyłącznością terytorialną.
-
-Relacja z [[Nowa Hiszpania|Nową Hiszpanią]]: permanentna oscylacja między wojną a handlem. To pogranicze [[Smoki Pustynne|Smoków Pustynnych]] — i to ich ataki z powietrza, obok komanczańskiej kawalerii, zatrzymały hiszpańskie presidia na linii, której od pokoleń nie udało się przesunąć. Coroczne *treguasy* — zawieszenia broni — pozwalały na wymianę handlową w określone miejsca. Kiedy Nowa Hiszpania przestawała płacić lub atakowała, Komancze niszczyli wsie od San Antonio po Durango. W 1802 roku: relatywna stabilizacja, ale Teksas jest faktycznie terytorium komanczańskim na zachód od San Antonio.
-
-### Mandan i Hidatsa — miasta na Missouri
-
-[[Mandan]] i [[Hidatsa]] nad górnym Missouri (dzisiejsza Północna Dakota) prowadzą bodaj najbardziej rozwinięte osadnicze kultury Równin. Ich ziemne domy — kopulaste konstrukcje na drewnianych szkieletach, pokryte ziemią — mieszczą trzy do pięciu rodzin plus konie. Osady: cztery do ośmiu tysięcy osób razem.
-
-Przez stulecia byli węzłem handlowym Równin: przyciągali Lakotów, Asinibojanów, Czejenów, Kri, a przez nich — towary z Kanady i Oceanu Spokojnego. Kukurydza, suszona dynia, tytoń w zamian za skóry, konie, europejski towar.
-
-Epidemie ospy z 1781 i 1801 roku zdziesiątkowały ich. W 1802 roku jest ich może dwa tysiące — z szesnastu tysięcy sprzed pięćdziesięciu lat. Mieszkają w dwóch wioskach: Mitutanka i Roptaheh. Tu w zimie 1804–1805 roku Lewis i Clark zbudują Fort Mandan i przeżyją zimę.
+Uzdrowiciele — *ada-wehi* u Czerokesów, *Midewiwin* u Odżibwów — bywają i pośrednikami z duchami choroby, i trzeźwymi empirykami: kora wierzby na gorączkę, zioła rozszerzające oskrzela, środki odkażające na rany. Lacrosse, grana przez dziesiątki narodów na polach od stu metrów do kilku kilometrów, bywała rozrywką, treningiem wojowników i dyplomacją — meczem zamiast bitwy, by rozstrzygnąć spór.
 
 ---
 
-## Sytuacja polityczna w roku 1802
+## Polityka 1802
 
-### Traktat Greenville i jego konsekwencje
+Polityka Waszyngtonu wobec rdzennych narodów ma w 1802 roku dwie twarze. Pierwszą jest ziemia. [[Traktat Greenville|Greenville]] gwarantował narodom grunt na zachód od wyznaczonej linii, lecz linia ta pełznie z każdym rokiem, w miarę jak gubernator Terytorium Indiana, William Henry Harrison, negocjuje cesje z pojedynczymi wodzami zamiast z konfederacjami. Jefferson pisał mu wprost: jeśli narody zadłużą się w rządowych sklepach, ich ziemia posłuży za zabezpieczenie długu. Do 1809 roku Harrison wytarguje siedemdziesiąt dwa miliony akrów.
 
-[[Traktat Greenville]] z sierpnia 1795 roku był wynikiem Fallen Timbers. Konfederacja Miami-Szaunisi-Delaware-Odawa podpisała — oddała Ohio i wycinek Indiany. Annuities roczne: dziewięćdziesiąt pięć dolarów dla Szaunisów, sto sześćdziesiąt osiem dla Miami, pięćdziesiąt dziewięć dla Delaware. Razem — kilkaset dolarów za ziemię wartą miliony.
+Drugą twarzą jest „cywilizacja". Jefferson wierzy szczerze, że rdzenni mogą się uratować, przyjmując europejskie rolnictwo i własność prywatną — bo człowiek z pługiem potrzebuje mniej ziemi niż łowca, więc reszta zostanie na sprzedaż. Jego agenci działają w każdym z południowych narodów; wyniki są mieszane, bo większość chce narzędzi i tkanin, lecz nie chce rezygnować z ceremonii i ziemi.
 
-Artykuł trzynasty mówił, że USA gwarantuje narodom ziemię na zachód od wyznaczonej linii. Linia ta przesuwała się przez całe lata dziewięćdziesiąte i przez cały rząd Adamsów, w miarę jak kolejni agenci Harrison'a negocjowali nowe cesje z kolejnymi wodzami gotowymi podpisać.
+Z grubsza kontakt układa się w cztery wzorce. Na wschodzie panuje zależność traktatowa — życie na wyznaczonej ziemi za roczną annuitę od rządu, który zarazem naciska na kolejne cesje. W głębi lądu i w [[Kanada Brytyjska|Kanadzie]] trwa partnerski handel futrami, w którym rdzenna wiedza jest firmom niezbędna, a polowań na smoki zaniechano jako wojny niemożliwej do wygrania. Na południu i w Luizjanie działa dyplomacja wielomocarstwowa — Osagowie, Czikazowie i Krikowie grają Hiszpanię, Francję i Anglię przeciw sobie. Na Równinach i zachodzie panuje pełna suwerenność, a Stany Zjednoczone są tam ledwie abstraktem na wschodnim horyzoncie.
 
-### Harrison i polityka ziemi
-
-[[William Henry Harrison]], gubernator Terytorium Indiana od 1800 roku, operuje z Fort Vincennes. Jego instrukcje z Waszyngtonu: pozyskiwać ziemię tak szybko, jak możliwe, przez traktaty z poszczególnymi wodzami, nie z konfederacjami. Jefferson pisał do niego wprost: jeśli narody zaciągają długi w rządowych sklepach (factory system), ich ziemia może służyć jako zabezpieczenie długu. Dług jako narzędzie pozyskiwania ziemi.
-
-Harrison rozumie i stosuje. Do 1809 roku podpisze traktaty oddające siedemdziesiąt dwa miliony akrów. W 1802 roku dopiero zaczyna — już widać kierunek.
-
-### Polityka „cywilizacyjna" Jeffersona
-
-Jefferson wierzy — szczerze, nie jako cynizm — że rdzenne narody mogą uratować się przez przyjęcie europejskiego rolnictwa, własności prywatnej, anglosaskiego prawa. Mężczyzna z pługiem potrzebuje mniej ziemi niż łowca. Jeśli Czerokesi zostaną farmerami, mogą zachować swoje terytoria.
-
-Rządowe *factory stores* — sklepy przy fortach — mają dostarczać narzędzi rolniczych i tkanin. Mają też dostarczać kredytu, który... Sprzeczność jest wbudowana w system.
-
-W 1802 roku agenci Jeffersona działają w każdym z głównych narodów południa. Wyniki są mieszane: część Czerokesów i Czerokiów adaptuje, część odrzuca, większość stoi między — chce narzędzi i tkanin, nie chce rezygnować z ceremonii i ziemi.
-
-### Napięcie w Konfederacji Haudensaunee
-
-Sześć Narodów w 1802 roku jest podzielone nie tylko geograficznie (część w Nowym Jorku, część w Kanadzie), ale i filozoficznie. [[Handsome Lake]] zbiera coraz więcej zwolenników wśród Senekusów. Jego Longhouse Religion jest konserwatywna w sferze ceremonialnej, rewolucyjna społecznie — nakaz monogamii, ojciec w polu zamiast wuja, zakaz alkoholu absolutny.
-
-Matrony klanowe patrzą na Handsome Lake z mieszanymi uczuciami. Jego reforma wzmacnia patrilinearny model rodziny — ich kosztem. Ale alkohol naprawdę niszczy. Ale nowe praktyki rolnicze naprawdę dają jedzenie. Konflikt między nimi ciągnie się przez dekady.
-
-### Za Missisipi — spokój, który nie potrwa
-
-Narody Luizjany — Osagowie, Kanzasi, Paunisi, Omahy — wiedzą, że Francja jest nowym właścicielem od 1800 roku. Nie robi im to żadnej różnicy praktycznej, bo Francja nie ma ani garnizonów, ani agentów, ani misjonarzy w ich kraju.
-
-W 1802 roku Pawhuska i inni Osagowie zastanawiają się, kto tak naprawdę będzie nowym sąsiadem. Hiszpanie przez czterdzieści lat byli tolerowalni. Francuzi bywali. Anglicy z Kanady dają dobre towary i nie żądają ziemi.
-
-Że będą to Amerykanie — tego nikt w 1802 roku jeszcze nie przewiduje.
+Pod wszystkim sączy się alkohol, narzędzie polityki tyleż, co towar. Handlarze dawali rum w ramach zapłaty, a agenci wiedzieli, że po alkoholu negocjuje się łatwiej; Jefferson formalnie się temu sprzeciwiał i praktycznie nie robił nic. Handsome Lake, Tecumseh i seneka Red Jacket — każdy z innych pobudek — walczyli z tym samym spustoszeniem.
 
 ---
 
-## Kluczowe postacie
-
-### Tecumseh (Szaunisi, ~1768–1813)
-
-Najważniejszy polityczny i wojskowy lider rdzennych narodów pierwszego dwudziestolecia XIX wieku. Urodzony w Ohio, wykształcony przez wojnę od dzieciństwa. Uczestniczył w każdej ważnej kampanii między 1780 a 1794 rokiem. Nie podpisał Greenville.
-
-Jego filozofia polityczna jest spójna i konsekwentna: ziemia jest wspólną własnością wszystkich rdzennych ludzi, żaden jeden naród nie może jej alienować, jedyną odpowiedzią na ekspansję jest jedność. Podróżuje od [[Kanada Brytyjska|Kanady]] po [[Floryda|Florydę]], od ziem [[Osagowie|Osagów]] po [[Mohawkowie|Mohawków]] — wszędzie głosząc to samo. Mówi kilkoma językami (Szaunisi, Algonkin, Angielski), jest charyzmatycznym mówcą i potrafi być brutalnie konkretny w negocjacjach.
-
-W 1802 roku jest w fazie organizacyjnej — szuka sprzymierzeńców, ocenia terytoria, mapuje sojusze. Jego confederacy jeszcze nie istnieje jako formalna struktura. Poczucie pilności wzrośnie po kolejnych traktatach Harrisona w latach 1803–1806.
-
-> [!mechanics]
-> **Tecumseh (jako NPC lub grywalna postać)**
-> ST 12, DX 13, IQ 14, HT 12
-> **Umiejętności:** Broń (Łuk) 16, Tomahawk 15, Taktyka 15, Przywódctwo 17, Dyplomacja 14, Retoryka (Oratorstwo) 16, Survival (Woods) 15, Tracking 14
-> **Zalety:** Combat Reflexes, Charisma 3, Language (Angielski) 3, Language (Algonkin) 4, Natural Leader
-> **Reputacja:** +3 wśród rdzennych narodów wschodnich, +1 wśród brytyjskich oficerów, -1 wśród agentów USA
-
-### Tenskwatawa / Lalawethika (Szaunisi, 1775–1836)
-
-Brat bliźniaczy Tecumseha — nie bliźniak, lecz młodszy brat z tego samego roku. W 1802 roku: człowiek z reputacją lenia i pijaka, który stracił oko w wypadku z łukiem jako nastolatek. Nieudany wojownik.
-
-Jego wizja w 1805 roku: śmierć kliniczna, powrót, rozmowa z Mistrzem Życia. Zakaz picia, zakaz używania europejskich ubrań, zakaz małżeństw z białymi, zakaz jedzenia chleba z pszenicy i wieprzowiny — całkowite odcięcie od europejskiej kultury materialnej. Prorok.
-
-W 1802 roku ten człowiek jest przed transformacją. Graczy poznających go teraz — brudny, pijany, sardoniczny — może zaskoczyć to, czym za trzy lata będzie.
-
-### Little Turtle / Mały Żółw (Miami, ~1747–1812)
-
-Pokonał dwie armie USA w 1790 i 1791 roku. Pokonany pod Fallen Timbers w 1794. Podpisał Greenville. Od tej chwili — polityczny pragmatyk, współpracujący z Waszyngtonem, przyjmujący wizytujących uczonych (Benjamin Rush go leczył z podagry, Benjamin Barton opisywał jego wiedzę botaniczną).
-
-W 1802 roku ma pięćdziesiąt pięć lat i artretyzm. Żyje na farmie przy Fort Wayne. Nadal szanowany przez starszych Miami; przez Tecumseha — uważany za zdrajcę.
-
-> [!mechanics]
-> **Mały Żółw (1802 — starszy, wycofany z walki)**
-> ST 10 (osłabiony wiekiem), DX 11, IQ 15, HT 10
-> **Umiejętności:** Taktyka 17, Dyplomacja 15, Przywódctwo 15, Tracking 13 (szczytowy był 16), Angielski (broken) 10
-> **Stan fizyczny:** Chronic Pain (podagra, -2 do fizycznych rzutów co rano)
-> **Reputacja:** +4 wśród Miami, -2 wśród wojowników Tecumseha, +2 wśród oficerów USA jako znany rozmówca
-
-### Red Jacket / Sagoyewatha (Seneki, ~1750–1830)
-
-Największy orator epoki spośród rdzennych ludów. Seneka, który walczył po stronie Brytyjczyków w Rewolucji, wrócił i przez resztę życia sprzeciwiał się chrześcijaństwu, alkoholowi i oddaniu ziemi — wszystkiemu trzemu z równą elokwencją.
-
-Jego odpowiedź misjonarzowi Cram w 1805 roku jest cytowana do dziś: „Brat mówi, jest tylko jedna droga oddawania czci Wielkiemu Duchowi. Jeśli jest tylko jedna religia, dlaczego wy, biali, tak bardzo różnicie się co do niej?"
-
-W 1802 roku jest aktywnym, wpływowym politykiem i mówcą. Nosi wielki medal od Waszyngtona — George Washington dał mu go za neutralność podczas pewnych negocjacji — co jest źródłem ironii, którą sam docenia.
-
-> [!mechanics]
-> **Red Jacket (jako NPC)**
-> ST 10, DX 11, IQ 16, HT 11
-> **Umiejętności:** Retoryka 18, Dyplomacja 15, Prawo (zwyczajowe Haudenosaunee) 15, Historia (Haudenosaunee) 16, Angielski 12
-> **Zalety:** Charisma 4, Language (Seneka native), Language (Angielski), Status 3 (wśród Haudenosaunee)
-> **Wady:** Obsessive (Ochrona tradycji Haudenosaunee), Stubbornness
-
-### Handsome Lake / Skaniadario (Seneki, ~1735–1815)
-
-Prorok i reformator, który przeszedł transformację w 1799 roku — pijak do świętego. Jego Longhouse Religion (Gai'wiio) jest aktywna od trzech lat w 1802 roku. Podróżuje między rezerwatami, głosi, organizuje, buduje.
-
-Jego przekaz jest podwójny: zachować duchowość Haudenosaunee i odrzucić alkohol i rozpad rodziny. Quakrzy mu pomagają — bo jego nakaz rolnictwa i osiadłego życia jest zbieżny z ich programem reform.
-
-### Pawhuska / Biała Głowa (Osagowie, daty niepewne — ~1760s–1809?)
-
-Wielki Wódz Wielkich Osagów. Nazwany od peruki francuskiego oficera, którą zdobył w boju. Pragmatyczny, wyrachowany polityk. Przez lata utrzymywał równowagę między Hiszpanią, Anglią, innymi rdzennymi nacjami i handlarzami futrami.
-
-W 1802 roku rozważa, czym będzie Luizjana po Francuzach. Kiedy dowie się o sprzedaży Ameryce w 1803 roku, zorganizuje wielką delegację do Waszyngtonu — Osagowie chcą być pierwszym narodem, który nawiąże formalne relacje z nowym właścicielem. I chcą być traktowani jako suwerenni partnerzy, nie poddani.
-
-### Doublehead / Talloteskee (Czerokeskie, ~1744–1807)
-
-Wódz wojskowy, który przez lata 80-te i 90-te był jednym z najtwardszych przeciwników ekspansji. Potem zaczął sprzedawać ziemię Czerokesów za osobiste łapówki od agentów Tennessee. W 1802 roku jest jeszcze aktywny, ale coraz bardziej krytykowany.
-
-Zostanie zabity przez Ridgego i Alexenderem Saunders'em w 1807 roku — wyrok Rady Generalnej za zdradę. To pierwszy przypadek, gdy Czerokesi oficjalnie egzekwują karę śmierci za nielegalną sprzedaż ziemi.
-
----
-
-## Praktyka dnia codziennego — przekrojowo
-
-### Jedzenie i żywność
-
-Trzy Siostry dominują w rolniczych kulturach wschodnich i środkowych: kukurydza, fasola, dynia. Sadzone razem — kukurydza daje tyczki fasolom, fasola wiąże azot dla kukurydzy, dynia cieniem tłumi chwasty. Milion lat selekcji.
-
-Na Równinach: bizon. Każda część zwierzęcia ma zastosowanie — mięso (świeże i suszone *pemmican* — mielone z łojem i jagodami), skóra (tipi, ubrania, mięsiwo), kości (narzędzia, igły), żołądek (naczynie do gotowania), języki (delikates). Wypatroszone wnętrzności zjadane na miejscu, jeszcze ciepłe — wątroba z żółcią jako pierwsza część przyznawana myśliwemu.
-
-Czarny napój (asi) — yerba mate prerii — pityny ceremonialnie i jako codzienny napój przez narody południa. Tabak (Nicotiana rustica, znacznie silniejszy niż europejski) — wyłącznie do ceremonii i dyplomacji, nie rekreacyjnie.
-
-### Handel i ekonomia
-
-Szlaki handlowe istniały na kontynencie od tysiącleci przed kontaktem europejskim. [[Miedź]] z Jeziora Górnego trafiała do Florydy. Muszle ze wschodniego wybrzeża — do Ohio. Obsydian z Yellowstone — do Missisipi. Hopewell Culture (200 p.n.e.–500 n.e.) wymieniała towary na zasięg trzech tysięcy kilometrów.
-
-Wampum — polerowane muszle zdobiące pasy lub sznury — był walutą dyplomatyczną, nie handlową. Pas wampum pieczętował traktat, przekazywał wiadomość, potwierdzał sojusz. Wartość zależała od koloru (fioletowe droższe niż białe), wzoru i kontekstu ceremonialnego. Falszowanie wampumu przez Holendrów — metalowe punche i szklane koraliki wyglądające jak muszle — było jednym z pierwszych przykładów inflacji na kontynencie.
-
-Fur trade po 1680 roku zrestrukturyzował ekonomię wszystkich wschodnich narodów. Bobier, wydra, jelonek — towary o wysokiej wartości europejskiej. W zamian: broń palna, metal, sukno, alkohol. Zależność od europejskich towarów zmieniła wewnętrzne stosunki między nacjami — kto kontrolował szlak handlowy do Europejczyków, zyskiwał polityczną hegemonię.
-
-Nad tym wszystkim wisi towar, którego rdzenni nie sprzedają nigdy: [[smocza krew]]. Dla europejskich alchemików jest bezcenna, a płaszcz ze smoczej łuski wart tyle, co małe gospodarstwo — dlatego łowcy krwi wchodzą w głąb terytoriów, a rdzenni zabijają ich za to bez wahania. To jedyna gałąź [[Handel futrami|wymiany]], w której nie ma negocjacji, tylko wojna.
-
-### Medycyna i szamanizm
-
-[[Ada-wehi]] (Czerokesi), [[Midé-wiwin]] (Odżibwe), [[Wičháša wakȟáŋ]] (Lakota) — tytułowe oznaczenia osób posiadających wiedzę uzdrowicielską. Nie ma jednego modelu; w zależności od narodu healer może być:
-
-Specjalistą od konkretnych chorób lub urazów (nastawiac kości, znać zioła przeciwgorączkowe). Pośrednikiem z duchami choroby — bo choroba może być efektem urazy ducha, który teraz drąży ciało. Diagnostą przez sny i wizje — choroba może wynikać z czegoś, co pacjent zrobił lub zaniedbał w sferze duchowej.
-
-Wielu dobrych healerów jest jednocześnie świetnymi empirykami: kora wierzby (salicyna — aspiryna) na ból i gorączkę, rośliny rozszerzające drogi oddechowe w astmie, dezynfekujące zioła na rany. Europejscy lekarze, którzy trafiali do rdzennych healerów, nierzadko opisywali skuteczne leczenie nieznanych im przypadłości.
-
-### Gry i sport
-
-Lacrosse (baggattaway wśród Odżibwów; toli wśród Czerokesów) był najważniejszą grą przynajmniej trzydziestu pięciu narodów. Gra drużynowa z kijami i gumową piłką; pola od stu metrów do kilku kilometrów; drużyny od dziesięciu do kilkuset zawodników. Grana jako rozrywka, jako trening wojskowy, jako ceremonia dyplomatyczna — gra zamiast bitwy, żeby rozwiązać spór. Mecze trwały od świtu do zmierzchu.
-
-Wśród Plains: wyścigi konne od późnego XVIII wieku. Zakłady z końmi, skórami, bronią.
-
-Zimowe liczenie kijów — gra dla dzieci i dorosłych Haudenosaunee: kto trafi laską w poruszający się cel z zamkniętymi oczami. Pamięć mięśniowa i koncentracja jako praktyka bojowa.
-
----
-
-## Relacja z Europejczykami i Amerykanami — Struktura kontaktu
-
-### Cztery typy relacji
-
-W 1802 roku kontakt między rdzennymi a europejskimi/amerykańskimi społeczeństwami przyjmuje cztery wzorce, zależnie od regionu i historii:
-
-**Zależność traktatowa** (Wschód): Narody żyją na ziemiach wyznaczonych przez traktat, z roczną annuity wypłacaną przez rząd USA. Zależność finansowa od rządu, który jednocześnie jest naciskiem na kolejne cesje. Wewnętrzna polityka zdominowana przez pytanie: kiedy i ile oddać, żeby zachować resztę.
-
-**Handel furtami** (Wewnątrz, Kanada): Narody funkcjonują jako partnerzy handlowi — ich umiejętności łowieckie i znajomość terenu są niezbędne dla europejskich firm handlowych. Anglia, Kanada, faktorzy Zatoki Hudsona. Relacja oparta na wzajemnej zależności, nie jednostronnym dyktacie. Wciąż relatywnie partnerska. W [[Kanada Brytyjska|Kanadzie]] po krótkich, krwawych próbach zaniechano polowań na smoki i wrócono do bobra — krew nie była warta wojny, której nie dało się wygrać.
-
-**Symbioza dyplomatyczna** (Luizjana, południe): Narody jako aktywni gracze w polityce wielomocarstewrowej — grają Hiszpanię przeciw Francji, obie przeciw Anglii, wszystkich troje przeciw USA. Osagowie, Czikazowie, Krikowie. Suwerenność de facto zachowana przez balance-of-power.
-
-**Pełna suwerenność** (Równiny, Zachód): Narody nie prowadzą żadnych relacji z żadnym rządem europejskim lub amerykańskim. Komancze, Siuksowie, Szoszoni, Czejeni. USA jest abstraktem na ich wschodnim horyzoncie.
-
-### Alkohol jako narzędzie polityki
-
-Alkohol nie był przypadkowym kontaktem kulturowym — był narzędziem. Furtrzy dostarczali rum i whiskey jako część płatności. Harrison i inni agenci wiedzieli, że negocjacje po alkoholu dają łatwiejsze umowy. Jefferson był tego świadomy i formalnie sprzeciwiał się sprzedaży alkoholu rdzennym ludom — praktycznie nie robił nic, żeby ją powstrzymać.
-
-Skutki: destrukcja społeczna w wielu wspólnotach, szczególnie bliżej granicy osadnictwa. Handsome Lake walczył z tym. Tecumseh walczył z tym. Red Jacket walczył z tym. Każdy z innych przyczyn; każdy widząc ten sam rezultat.
-
----
-
-*Artykuł opisuje stan historyczny na podstawie kronik agentów USA, relacji wojskowych, pamiętników misjonarzy (Heckewelder, Zeisberger), transkryptów traktatów, późniejszych etnografii i rdzennych tradycji ustnych zebranych w XIX i XX wieku. Źródła europejskie i rdzennie-niezależne różnią się; gdzie rozbieżność jest znacząca, odnotowuje się obie wersje.*
-
-*Powiązane artykuły: [[Stany Zjednoczone]], [[Terytorium Luizjany]], [[Traktat Greenville]], [[William Henry Harrison]], [[Handel futrami]], [[Kanada Brytyjska]], [[Smoki]], [[Dwudusze]], [[Punkty rozbieżności]].*
+*Powiązane artykuły: [[Stany Zjednoczone]], [[Terytorium Luizjany]], [[Traktat Greenville]], [[Kanada Brytyjska]], [[Handel futrami]], [[Nowa Hiszpania]], [[Smoki]], [[Dwudusze]], [[smocza krew]], [[Punkty rozbieżności]], [[Chronologia]].*

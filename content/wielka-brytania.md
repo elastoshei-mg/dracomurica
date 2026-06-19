@@ -6,292 +6,120 @@ aliases: [Wielka Brytania (1802), UK, Zjednoczone Królestwo, England, Anglia, B
 
 # Wielka Brytania
 
-Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ma dwadzieścia dwa miesiące. Akt Unii z 1800 roku połączył Wielką Brytanię z Irlandią 1 stycznia 1801 roku, tworząc największe państwo wyspiarskie w historii Europy i jeden z najpoważniejszych błędów politycznych stulecia — bo Unii nie towarzyszyła emancypacja katolicka, którą Irlandczycy uznali za warunek zgody.
+Zjednoczone Królestwo Wielkiej Brytanii i Irlandii ma dwadzieścia dwa miesiące. Akt Unii połączył Wielką Brytanię z Irlandią 1 stycznia 1801 roku, tworząc największe państwo wyspiarskie Europy i zarazem jeden z większych błędów politycznych stulecia — bo Unii nie towarzyszyła emancypacja katolicka, którą Irlandczycy uznali za warunek zgody.
 
-W marcu 1802 roku Wielka Brytania podpisała [[Pokój Amiens]] z Francją. Krytycy nazywają go kapitulacją; rząd nazywa go koniecznością. Obie strony wiedzą, że nie potrwa. Przez czternaście miesięcy, ile go będzie, Londyn skupia się na tym, co robi lepiej niż jakiekolwiek inne miasto na świecie: zarabia pieniądze i buduje maszyny.
+W marcu 1802 roku Londyn podpisał z Francją [[Pokój Amiens]]. Krytycy nazywają go kapitulacją, rząd koniecznością; obie strony wiedzą, że nie potrwa. Przez czternaście miesięcy, ile mu zostało, Wielka Brytania robi to, co umie lepiej niż jakiekolwiek inne państwo: zarabia pieniądze i buduje maszyny.
 
 ---
 
 ## Wyspa, która odrzuciła magię
 
-Tę samą energię, którą kontynent wkłada w czary, Wielka Brytania od dwóch stuleci wkłada w pieniądze, statki i maszyny — i robi to z premedytacją.
+Tę samą energię, którą kontynent wkłada w czary, Wielka Brytania od dwóch stuleci wkłada w pieniądze, statki i maszyny — z premedytacją.
 
-Angielscy lordowie nigdy nie nadawali tytułów [[Prekursorzy|prekursorom]] tylko za ich moc, jak czyniła reszta europejskiej szlachty. Z czystego snobizmu uznali magiczną krew za coś poniżej dobrego urodzenia, więc [[Sorcery]] nigdy nie rozlała się po Wyspach tak jak po Francji czy Niemczech. Kapitał i talent, które gdzie indziej szły w hodowlę magicznych linii, tutaj popłynęły w [[Rewolucja Przemysłowa|przemysł]], finanse i flotę. Stąd profil tej nacji: [[Bank Anglii]], Royal Navy i kominy Manchesteru robią to, co u innych próbuje robić magia — taniej, masowo i bez kaprysów wiary.
+Angielscy lordowie nigdy nie nadawali tytułów [[Prekursorzy|prekursorom]] za samą moc, jak czyniła reszta europejskiej szlachty. Z czystego snobizmu uznali magiczną krew za coś poniżej dobrego urodzenia, więc [[Sorcery]] nie rozlała się po Wyspach tak jak po Francji czy Niemczech. Kapitał i talent, które gdzie indziej szły w hodowlę czarodziejskich rodów, tutaj popłynęły w [[Rewolucja Przemysłowa|przemysł]], finanse i flotę. Bank Anglii, Royal Navy i kominy Manchesteru robią to, co u innych próbuje robić magia — taniej, masowo i bez kaprysów wiary.
 
-Religia dopełnia obrazu. [[Kościół anglikański]], powołany przeciw politycznej władzy Rzymu, ma krótszą historię i mniejszy prestiż, więc [[Cudotwórcy|cudotwórców]] rodzi i szkoli słabiej niż katolicka machina. Nieprzypadkowo to z brytyjskiego gruntu wyrośli purytanie, dla których każda magia „nie-boska" jest wprost dziełem szatana. Establiszment jest z tej trzeźwości dumny i nie wstydzi się jej ani przed Paryżem, ani przed Rzymem.
+Religia dopełnia obrazu. [[Kościół anglikański]], powołany przeciw politycznej władzy Rzymu, ma krótszą historię i mniejszy prestiż, więc [[Cudotwórcy|cudotwórców]] rodzi rzadziej niż katolicka machina. Nieprzypadkowo z brytyjskiego gruntu wyrośli purytanie, dla których każda magia „nie-boska" jest wprost dziełem szatana. Rządzący establishment jest z tej trzeźwości dumny i nie kryje jej ani przed Paryżem, ani przed Rzymem.
 
-Dlatego jawny [[Legion magów|legion czarowników]], który [[Francja Napoleońska|Napoleon]] zbiera nad Sekwaną, jest dla Londynu prowokacją nie mniejszą niż francuska flota. Gazety piszą o nim z odrazą, kaznodzieje grzmią, a Admiralicja po cichu liczy, ile mgły potrafi wezwać jeden adept nad kanałem La Manche. Krążą pogłoski, że [[Pokój Amiens]] miał tajną klauzulę o adeptach po obu stronach wody; rząd zaprzecza, co nikogo nie przekonuje.
-
-> [!rules]
-> **Stosunek do magii:** wrogi i ideologiczny; magia „nie-boska" potępiona, adepci nieliczni i nieafiszujący się
-> **Cudotwórcy:** anglikańscy słabsi i rzadsi niż katoliccy (krótka tradycja, mały prestiż)
-> **Przewaga nacji:** technologia, finanse i flota zamiast czarów — tańsze i odtwarzalne
-> **Punkt zapalny z Francją:** legion magów Napoleona jako casus belli ideologiczny
+Dlatego jawny [[Legion magów|legion czarowników]], który [[Francja Napoleońska|Napoleon]] zbiera nad Sekwaną, jest dla Londynu prowokacją nie mniejszą niż francuska flota. Gazety piszą o nim z odrazą, kaznodzieje grzmią, a Admiralicja po cichu liczy, ile mgły potrafi wezwać jeden adept nad kanałem La Manche. Krążą pogłoski, że Pokój Amiens miał tajną klauzulę o adeptach po obu stronach wody; rząd zaprzecza, co nikogo nie przekonuje.
 
 ---
 
-## Ustrój i Parlament
+## Ustrój i parlament
 
-### Monarchia konstytucyjna
+Jerzy III jest królem od 1760 roku. Konstytucja jest niepisana: prawa zwyczajowe, precedensy i kilka dokumentów — Wielka Karta, Bill of Rights, akt o następstwie tronu — tworzą ramy, w których monarcha rządzi przez ministrów odpowiedzialnych przed Parlamentem. Król mianuje premiera, lecz premier musi mieć większość w Izbie Gmin; od Chwalebnej Rewolucji 1688 roku żaden monarcha nie rządził samą wolą.
 
-[[Jerzy III]] jest królem od 1760 roku — czterdzieści dwa lata. Konstytucja niepisana: prawa zwyczajowe, precedensy i kilka kluczowych dokumentów ([[Magna Carta]], [[Bill of Rights 1689]], [[Act of Settlement 1701]]) tworzą razem ramy, w których monarcha rządzi przez ministrów odpowiedzialnych przed Parlamentem.
+Parlament jest dwuizbowy. Izba Lordów — dziedziczna szlachta i biskupi anglikańscy, około trzystu, choć na sali rzadko bywa stu — ma prawo weta, którego używa oszczędnie. Izba Gmin, po unii z Irlandią licząca 558 posłów, dzierży realną władzę nad ustawami i budżetem.
 
-W praktyce: król mianuje Premiera, ale Premier musi mieć większość w Izbie Gmin. Po [[Rewolucji Chwalebnej 1688]] żaden monarcha nie rządził przez osobistą wolę bez parlamentarnego wsparcia — i wróci do tej tezy każdy, kto spróbuje.
+System wyborczy jest precyzyjnie nieuczciwy. W hrabstwach głosują właściciele ziemi o dochodzie czterdziestu szylingów rocznie; w miastach reguła zależy od konkretnego miasteczka — gdzieniegdzie każdy gospodarz z własnym ogniskiem, gdzie indziej tylko jedenastoosobowa rada. Zgniłe miasteczka wysyłają posłów z garstki wyborców albo znikąd: Old Sarum, puste wzgórze bez domów, daje dwóch posłów jednemu właścicielowi, a stutysięczny Manchester żadnego. Trzy czwarte miejsc w Izbie Gmin obsadza patronat możnych rodów lub Korony. Reforma przyjdzie dopiero w 1832 roku.
 
-Dwuizbowy Parlament: [[Izba Lordów]] (dziedziczna szlachta, biskupi Kościoła Anglikańskiego — ok. trzystu lordów, choć frekwencja rzadko przekracza stu) i [[Izba Gmin]] (558 posłów po Unii z Irlandią, która dodała sto miejsc). Izba Gmin ma rzeczywistą władzę ustawodawczą i budżetową. Izba Lordów — prawo weta, które rzadko używa.
+Dwa stronnictwa dzielą politykę. Torysi skupiają ziemiaństwo, Kościół anglikański i zwolenników silnej władzy wykonawczej; rządzili przez osiemnaście lat Pittem Młodszym. Wigowie skupiają liberalną arystokrację, dysenterów i tych, którzy przyznawali rację amerykańskiej rewolucji — a ich lider, hazardzista i pijak Charles James Fox, cieszy się pokojem i wybiera się do Paryża na rozmowy z Napoleonem, któremu sprzyja bardziej niż własnemu rządowi. Podział bywa płynny: to lojalność wobec ludzi tyleż, co wobec idei.
 
-### System wyborczy — precyzyjnie nieuczciwy
+### Jerzy III i choroba bez nazwy
 
-Prawa wyborcze: zróżnicowane, historycznie utrwalone, racjonalnie niewyjaśnialne. W hrabstwach — właściciele ziemi o dochodzie co najmniej czterdziestu szylingów rocznie. W miastach — zależy od konkretnego miasteczka: gdzieś każdy mężczyzna mający własne ognisko, gdzieś tylko rada miejska złożona z jedenastu osób.
+Król ma sześćdziesiąt cztery lata i przeżył swoich wrogów, swoją wojnę z Ameryką i kilka ataków choroby, której nikt nie umie nazwać. W latach 1788–1789 mówił bez przerwy godzinami i nie poznawał żony; krótszy nawrót przyszedł w 1801 roku, ze stresem irlandzkiej unii. Epoka mówi o „szaleństwie" z gorączką, objawy są realne — gnający potok mowy, omamy, agresja, potem powrót do siebie.
 
-[[Zgniłe miasteczka]]: dziesiątki okręgów wyborczych z kilkoma wyborcami lub z żadnym — Dunwich częściowo zatopionych pod Morzem Północnym wciąż wysyła posłów. [[Old Sarum]]: zielone wzgórze bez budynków, jeden właściciel, dwóch posłów. [[Manchester]], [[Birmingham]], [[Leeds]]: przemysłowe miasta po sto tysięcy mieszkańców, żadnego własnego posła. Reforma Parlamentu czeka do 1832 roku.
+Na dworze, który magią gardzi, nikt nie szuka w tym niczego nadprzyrodzonego. Lekarze mówią o ciele i humorach, dworzanie o przemęczeniu, a każdy szept o „klątwie" ucisza się jak zabobon niegodny korony. To także deklaracja — brytyjska korona oddaje króla w ręce medyków i traktuje jego przypadłość jak chorobę ciała. W 1802 roku król jest stabilny: mieszka w Windsorze, poluje, gra na flecie i z autentycznym przejęciem wypytuje napotkanych poddanych o ich gospodarstwa.
 
-Trzy czwarte miejsc w Izbie Gmin jest pod patronatem arystokratycznych rodów lub Korony. Wolne miejsca obsadzane wyborem. System jest wyraźnie stronniczy i całkowicie stabilny — aż do Reform Act.
-
-### Torysi i Wigowie
-
-[[Partia Torysowska]] skupia ziemiaństwo, Kościół anglikański i zwolenników silnej egzekutywy. Pitt Młodszy rządził przez nich przez osiemnaście lat. [[Partia Wigów]] skupia liberalną arystokrację miejską, disenterów i tych, którzy uważają że Rewolucja Amerykańska miała rację przynajmniej po części.
-
-Podział nie jest idealny: Fox-Wigowie byli bardziej profrancuscy niż wigowskie tradycje uzasadniały; Pitt-Torysi prowadzili politykę reform podatkowych, którą konserwatyści powinni byli odrzucić. Polityka jest lojalnością personalną tak samo jak ideologiczną.
+Następca, książę Walii, czeka. Ma czterdzieści lat, jest otyły, zadłużony na czterysta tysięcy funtów i poślubiony kobiecie, której nie znosi; dwory ojca i syna nie rozmawiają ze sobą.
 
 > [!rules]
-> **Zjednoczone Królestwo Wielkiej Brytanii i Irlandii (1802)**
-> **Forma rządu:** Monarchia konstytucyjna parlamentarna
+> **Forma:** monarchia konstytucyjna, parlamentarna
 > **Monarcha:** Jerzy III (od 1760)
 > **Premier:** Henry Addington (od marca 1801)
 > **Populacja:** ~16 mln (Anglia i Walia ~8,9 mln, Szkocja ~1,6 mln, Irlandia ~5,5 mln)
 > **Stolica:** Londyn (~1 mln mieszkańców — największe miasto świata)
-> **Waluta:** funt szterling (niewymienny na złoto od 1797 — Restriction Act)
+> **Waluta:** funt szterling (niewymienny na złoto od 1797)
 
 ---
 
-## Jerzy III — król w cieniu choroby
+## Addington, Pitt i pokój
 
-Jerzy III ma sześćdziesiąt cztery lata i jest królem, który przeżył swoich politycznych wrogów, swoją wojnę z Ameryką i kilka ataków choroby, której nikt nie potrafi nazwać. Epizody: 1788–1789 (Kryzys Regencyjny — mówił bez przerwy przez kilka godzin, nie rozpoznawał żony), 1801 (krótszy epizod, zbiegł się ze stresem Unii irlandzkiej).
+Henry Addington został premierem w marcu 1801 roku, gdy William Pitt Młodszy podał się do dymisji po tym, jak Jerzy III odmówił zgody na katolicką emancypację w Irlandii. Addington jest lojalny, stateczny i pozbawiony wyobraźni, w pełni świadom, że uchodzi za rozwiązanie tymczasowe.
 
-Oficjalna diagnoza epoki: „szaleństwo" z gorączką. Teorie późniejsze: porfiria (zaburzenie metabolizmu porfiryn powodujące objawy neurologiczne), choroba afektywna dwubiegunowa, zatrucie arsenem z lekarstw — żadna nie uzyskała konsensusu naukowego. Objawy były rzeczywiste: przyspieszona mowa, halucynacje, agresja, potem powrót do normalności.
+[[Pokój Amiens]] był jego największym osiągnięciem i od razu stał się jego ciężarem. Wielka Brytania zwróciła Maltę, Przylądek Dobrej Nadziei, Martynikę, Gwadelupę i kilka innych zdobyczy, zatrzymała Trynidad i Cejlon — a Napoleon w tym czasie reorganizuje Szwajcarię, Włochy i Niemcy, nie zatrzymując się ani na chwilę. Torysi Pitta nazywają pokój zbyt ustępliwym.
 
-Na dworze, który magią pogardza, nikt nie szuka w tej chorobie niczego nadprzyrodzonego — lekarze mówią o ciele i humorach, dworzanie o przemęczeniu, a wszelką podszeptywaną „klątwę" ucisza się jak zabobon niegodny korony. To również jest deklaracja: brytyjska monarchia leczy króla medycyną, nie egzorcyzmem.
-
-W 1802 roku: stabilny. Mieszka w Windsorze, poluje, gra na flecie, czyta rolnicze traktaty. Powiadają, że jego rozmowy z dworzan wymagają cierpliwości — mówi dużo i długo, pyta o szczegóły farm u poddanych, których spotyka, interesuje się pogodą autentycznie.
-
-[[Książę Walii]] — przyszły Jerzy IV — czeka. Ma czterdzieści lat, jest gruby, zadłużony na czterysta tysięcy funtów i żonaty z kobietą, której szczerze nienawidzi (Karolina Brunszwicka, rozdzieleni faktycznie od 1796 roku). Dwory ojca i syna nie rozmawiają ze sobą.
+Addington nie demobilizuje floty i trzyma armię w gotowości, bo wie, że rozejm nie przetrwa. Pitt czeka w opozycji — czterdzieści trzy lata, a wygląda na pięćdziesiąt pięć, pije porto hektolitrami „leczniczo" i niedomaga coraz bardziej. Wróci do władzy w maju 1804 roku i umrze w styczniu 1806, być może wiedząc, że zbudowana przezeń trzecia koalicja właśnie legła pod Austerlitz.
 
 ---
 
-## Henry Addington i pokój, którego nikt nie chce
+## Przemysł, który zbroi świat
 
-[[Henry Addington]] został Premierem w marcu 1801 roku, gdy [[William Pitt Młodszy]] zrezygnował po tym, jak Jerzy III odmówił zgody na katolicką emancypację irlandzką. Addington jest lojalny, stateczny, niewyobraźniowy i doskonale świadomy, że jest postrzegany jako tymczasowe rozwiązanie.
+Wielka Brytania uprzemysławia się szybciej niż ktokolwiek, a [[Rewolucja Przemysłowa|pełen opis tej przemiany]] ma własny artykuł. Tu liczą się rozmiary i skutki. W 1800 roku Wyspy wytopiły sto trzydzieści sześć tysięcy ton żeliwa — więcej niż reszta Europy razem — utkały dwadzieścia sześć milionów jardów bawełny i wydobyły sześćset milionów funtów węgla. Trzy tysiące mil kanałów spina zagłębia węglowe z portami; kanał Bridgewater zbił cenę węgla w Manchesterze o połowę w dniu otwarcia.
 
-[[Pokój Amiens]] był jego największym osiągnięciem i natychmiast stał się jego ciężarem. Torysi Pitta krytykowali go jako zbyt ustępliwy — Wielka Brytania zwróciła Maltę, Przylądek Dobrej Nadziei, Martynikę, Gwadelupę i kilka innych. Zachowała Trynidad i Cejlon. Napoleon nie zatrzymał się w Europie — reorganizuje Szwajcarię, Włochy, Niemcy.
+Cena jest ludzka. Ustawy o zmowach z lat 1799–1800 zdelegalizowały związki, więc robotnik negocjujący płacę zbiorowo popełnia przestępstwo; w przędzalniach Lancashire pracuje się czternaście do szesnastu godzin za osiem do dwunastu szylingów tygodniowo, a wrzeciona obsługują dzieci od siódmego roku życia. Ustawy grodzeniowe wywłaszczyły chłopów z milionów akrów wspólnej ziemi, spychając ich do fabryk i miast. Niszczenie maszyn przez tracących pracę tkaczy zaczyna się lokalnie, bez nazwy; zorganizowani luddyści przyjdą w 1811 roku.
 
-Addington wie, że pokój nie przetrwa. Utrzymuje flotę w gotowości, nie demobilizuje całkowicie armii. Pitt wraca — jest tylko kwestią kiedy.
-
-William Pitt Młodszy, czterdzieści trzy lata, jest tymczasowo w opozycji i już niedomaga. Choroba, którą opisywano jako dnę lub zapalenie jelit, zacznie się pogłębiać. Wróci do władzy w maju 1804 roku i umrze w styczniu 1806.
+Ten sam przemysł zbroi armie. Brytyjskie rusznikarstwo wyprzedza kontynent — gwintowany karabin Bakera, przyjęty około 1800 roku, trafia celniej niż cokolwiek w rękach piechoty Napoleona. Muszkiet wychodzi z manufaktury tysiącami, adepta wyszkolić się nie da, a Wyspy postawiły na ten rachunek wcześniej niż ktokolwiek. Skoro amerykańskie [[Smoki|smoki]] dawno dowiodły, że pojedynczy strzał ich nie powali, tutejsze warsztaty ścigają się o gęstość ognia prędzej niż w spokojniejszym świecie.
 
 ---
 
-## Rewolucja Przemysłowa
+## Royal Navy
 
-### Bawełna i para
+Flota wojenna liczy w 1802 roku sto siedemnaście okrętów liniowych, dwieście fregat i mniejszych jednostek oraz sto tysięcy marynarzy w czasie pokoju — dwa razy tylu na wojnie. Ta przewaga wyrasta ze stu pięćdziesięciu lat systematycznej inwestycji: Admiralicja zarządza dziesiątkami stoczni, zaopatrzeniem, szpitalami morskimi i własnym sądownictwem, a Royal Navy jest największym pracodawcą w Anglii.
 
-Lancashire w 1802 roku to centrum przemysłowe bez precedensu w historii. [[Manchester]] — sto tysięcy mieszkańców, kilkadziesiąt wielkich manufaktur tkackich, kanały łączące miasto z portami Liverpoolu i Hullá. W halach: wrzeciona [[Spinning mule|Cromptona]] napędzane silnikami Watta, tkaczki przy mechanicznych krosnach Cartwrighta. Poziom hałasu uniemożliwia rozmowę, poziom pyłu bawełnianego niszczy płuca przez dekadę pracy.
+Załogi są po części ochotnicze, po części ściągane przez prasy rekruterskie (*press gangs*) — uzbrojone bandy, które łapały mężczyzn przy portach i wcielały siłą; prawo dopuszczało przymus wobec ludzi z morskim doświadczeniem, w praktyce brano, kogo się dało.
 
-Silnik parowy Watta w wersji obrotowej (patent 1782) napędza tysiąc maszyn w kopalniach, tkalniach i hutach. Richard Trevithick w grudniu 1801 roku przeprowadził pierwszy przejazd parowym pojazdem samobieżnym po drodze publicznej w Camborne — lokalny cud, który nie wzbudził natychmiastowej rewolucji, ale zostawił ideę w głowach inżynierów.
-
-Żelazny most przez Severn w Coalbrookdale — odlany z żeliwa przez Abrahama Darby'ego w 1779 roku, trzydzieści metrów rozpiętości — stoi jako dowód, że żelazo zastępuje kamień i drewno tam, gdzie dotąd nikt by tego nie rozważał.
-
-### Liczby
-
-W roku 1800 Wielka Brytania produkowała:
-- Sto trzydzieści sześć tysięcy ton żeliwa (więcej niż cała reszta Europy)
-- Dwadzieścia sześć milionów jardów bawełny
-- Sześćset milionów funtów węgla z kopalń angielskich i walijskich
-
-Sieć kanałów: ponad trzy tysiące mil do 1800 roku, łącząca węglowe zagłębia z portami i miastami. Kanał Bridgewater (1761) zmniejszył cenę węgla w Manchesterze o połowę dzień po otwarciu.
-
-Drogi zaporowe (turnpikes): sześćdziesiąt tysięcy mil dróg pod zarządem prywatnych spółek pobierających opłaty. Lepsze niż w 1750 roku. Gorsze niż za czterdzieści lat, gdy przyjdą koleje.
-
-Ten sam przemysł zbroi armie. Brytyjskie rusznikarstwo wyprzedza kontynent — gwintowany karabin Bakera, przyjęty około 1800 roku, trafia celniej niż cokolwiek w rękach piechoty Napoleona. Muszkiet produkuje się tysiącami, a adepta wyszkolić się nie da; Brytyjczycy postawili na ten rachunek wcześniej niż ktokolwiek inny. Skoro amerykańskie [[Smoki|smoki]] dawno dowiodły, że pojedynczy strzał ich nie powali, tutejsze warsztaty ścigają się o gęstość ognia szybciej niż w spokojniejszym świecie (zob. [[Rewolucja Przemysłowa]]).
-
-### Cena industrializacji
-
-[[Luddyści]] nie powstali jeszcze jako ruch zorganizowany — to nastąpi w 1811 roku. Ale niszczenie maszyn przez robotników tracących pracę przy krosnach ręcznych zaczęło się wcześniej, lokalnie i bez nazwy.
-
-[[Combination Acts 1799–1800]] zdelegalizowały związki zawodowe. Robotnik fabryczny, który próbuje negocjować płace zbiorowo, popełnia przestępstwo. Płaca robotnika przędzalnianego w Lancashire: osiem do dwunastu szylingów tygodniowo. Godziny: czternaście do szesnastu dziennie. Wiek minimalny: prawnie brak. W praktyce: dzieci od siedmiu lat obsługują wrzeciona.
-
-[[Enclosure Acts]]: prywatyzacja terenów wspólnych, przez stulecia dostępnych dla rolników bez ziemi. Między 1760 a 1810 rokiem parlamentarne ustawy wywłaszczyły chłopów z kilku milionów akrów. Bezrolni rolnicy zasilili fabryki lub emigrowali do miast. Urbanizacja Anglii: w 1750 roku co piąty Anglik mieszkał w mieście; w 1850 roku — co drugi.
-
----
-
-## Londyn — miasto miliona
-
-### Skala
-
-[[Londyn]] ma w 1802 roku około miliona mieszkańców — największe miasto świata, wyprzedzające Pekin o jakieś sto tysięcy. Rozciąga się od Tower Bridge na wschodzie po Kensington na zachodzie, od Hampstead na północy po Southwark na południu. Nie ma jednego centrum — ma kilkanaście dzielnic o różnym charakterze.
-
-[[City of London]]: finansowe serce, teren o powierzchni jednej mili kwadratowej, [[Bank Anglii]] i Giełda Papierów Wartościowych, kilkaset domów handlowych i bankierskich. Godziny pracy od ósmej do szóstej; w piątek i sobotę: handel towarami kolonialnymi.
-
-[[Westminster]]: parlament, ministerstwa, St. James's Park. Pałac Buckingham kupiony przez Jerzego III w 1762 roku — wciąż prywatna rezydencja, nie oficjalna siedziba korony. Pałac St. James jest oficjalny.
-
-[[East End]]: doki, manufaktury, imigranci (hugenoci sprzed pokolenia, Żydzi z Europy Wschodniej, marynarze ze wszystkich portów). Wąskie ulice, wielopiętrowe czynszowniaki, najbardziej zróżnicowana etnicznie dzielnica Europy.
-
-### Londyn nocą
-
-Latarnie gazowe nie istnieją jeszcze — pierwsze zostaną zainstalowane w 1807 roku. W 1802 roku Londyn po zmroku: pochodnie latarników, świece w oknach, ciemne uliczki między głównymi arteriami. Przestępczość nocna jest realna; stróże miejscy (*watchmen*) śpią w budkach.
-
-Tawerny i kawiarnie działają do późna. [[Lloyd's of London]] wyrósł z kawiarni Edwarda Lloyda przy Tower Street — ubezpieczyciele marynarki spotykają się tam od 1688 roku. Kawiarnia Lloyda dawno przestała być zwykłą kawiarnią; jest centrum ubezpieczeniowego rynku.
-
----
-
-## Royal Navy — bicz oceanów
-
-Flota wojenna Wielkiej Brytanii w 1802 roku: sto siedemnaście okrętów liniowych, dwieście frygat i mniejszych jednostek, sto tysięcy marynarzy w czasie pokoju. W czasie wojny: dwa razy tyle.
-
-Supremacja morska nie jest szczęśliwym wypadkiem — jest wynikiem systematycznej inwestycji przez sto pięćdziesiąt lat. [[Admiralicja]] zarządza dziesiątkami stoczni, systemem provisioning (zaopatrzenie), siecią szpitali morskich i własnym systemem sądowym. Royal Navy jest największym pracodawcą w Anglii.
-
-Marynarze: część ochotnicza, część z [[press gangs]] — uzbrojonej bandy rekruterskiej, która łapała mężczyzn przy portach i wcielała siłą. Prawo było dwuznaczne; precedensy ustanowiły, że mężczyźni mający doświadczenie morskie podlegają przymusowemu zaciągowi. W praktyce press gangs porywały kogo się dało.
-
-[[Horatio Nelson]], czterdzieści cztery lata, w 1802 roku żyje z Lady Emmą Hamilton w Merton Place pod Londynem, formalnie w trójkącie z jej mężem Sarem Williamem Hamiltonem (który umrze w 1803). Jest najbardziej sławnym Anglikiem po królu. Jego prawe oko jest ślepe od 1794; prawe ramię stracił w 1797 przy Teneryfie. Na pokładzie nie ogranicza go żadna z tych strat. Battle of Nile (1798) i Battle of Copenhagen (1801) są w każdej gazecie i w każdej karczmie.
+Najsławniejszym Anglikiem po królu jest wiceadmirał Horatio Nelson — jednoręki, ślepy na jedno oko, czterdzieści cztery lata. Stracił wzrok w prawym oku pod Calvi w 1794 roku i prawe ramię pod Teneryfą w 1797, a na pokładzie nie ogranicza go żadna z tych ran. Pod Abukirem w 1798 roku zniszczył całą francuską flotę śródziemnomorską i odciął Napoleona w Egipcie; pod Kopenhagą w 1801 zaatakował wbrew rozkazowi, przykładając lunetę do ślepego oka, by nie zobaczyć sygnału do odwrotu. W 1802 roku żyje w Merton Place pod Londynem, w głośnym trójkącie z lady Emmą Hamilton i jej mężem, śledzony przez prasę na każdym kroku. Wie, że spokój nie potrwa.
 
 ---
 
 ## Imperium
 
-### Indie — Kompania nad subkontynentem
+[[Kompanie Wschodnioindyjskie|Kompania Wschodnioindyjska]] panuje nad Bengalem, Madrasem i Bombajem — może dwustoma milionami ludzi pod administracją pośrednią lub wprost — armią stu pięćdziesięciu tysięcy, w większości sipajów pod brytyjskim dowództwem. Gubernator generalny Richard Wellesley prowadzi od 1798 roku agresywną ekspansję: czwarta wojna z Majsurem skończyła się w 1799 roku zdobyciem Seringapatamu i śmiercią Tipu Sułtana, a na horyzoncie jest już konfederacja Marathów, ostatnia wielka siła oporu. Rozbije ją w polu jego brat Arthur, dziś nieznany poza armią indyjską, który za trzynaście lat rozstrzygnie losy Europy pod Waterloo. Podatki bengalskie płacą nie tylko za Kompanię, lecz pośrednio za floty patrolujące Morze Arabskie.
 
-[[Angielska Kompania Wschodnioindyjska]] kontroluje Bengal, Madras i Bombaj — może dwieście milionów ludzi pod pośrednią lub bezpośrednią administracją. Jej armia liczy sto pięćdziesiąt tysięcy żołnierzy, z czego większość to sipahe — indyjscy żołnierze pod angielskim dowództwem.
+Kompania ma też towar, który truje subtelniej niż podatek. Do [[Chiny dynastii Qing|Chin]] płynie [[Czerwone opium]] — mak podlewany [[Smocza krew|smoczą krwią]], wielokrotnie silniejszy od zwykłego i wprost wypalający wewnętrzną energię chińskich mistyków. Pekin zakazuje, Kanton przemyca, Kompania liczy zyski. Dla Londynu to handel jak każdy inny; dla Państwa Środka — broń.
 
-[[Richard Wellesley]], starszy brat przyszłego Wellingtona, jest Governor-General od 1798 roku i prowadzi agresywną ekspansję: czwarta Anglo-Mysore War zakończyła się zdobyciem Seringapatam i śmiercią Tippu Sułtana w 1799 roku. W 1802–1803 roku na horyzoncie: Maratha Confederacy — ostatnia poważna siła oporu w Indiach. Jego brat Arthur Wellesley dowodzi polowymi oddziałami.
+Na Karaibach — Jamajka, Barbados, Trynidad, Antigua — cukier i rum rodzą się z pracy niewolników; samych zniewolonych jest w brytyjskich Indiach Zachodnich może osiemset tysięcy, a statki dowożą rocznie kolejne pięćdziesiąt tysięcy ludzi z Afryki. Kampanię o zniesienie tego handlu poseł William Wilberforce prowadzi w Parlamencie od 1787 roku i co roku przegrywa z lobby plantatorów. Ustawa znosząca handel niewolnikami przejdzie w 1807 roku, samo niewolnictwo padnie w 1833.
 
-Dochody z Bengalu finansują nie tylko Kompanię, lecz pośrednio całą angielską politykę wschodnią. Podatki bengalskie płacą za floty patrolujące Morze Arabskie.
-
-Kompania ma też towar, który truje subtelniej niż podatek. Do [[Chiny dynastii Qing|Chin]] płynie [[Czerwone opium]] — mak podlewany smoczą krwią, wielokrotnie silniejszy od zwykłego i wprost zabójczy dla charakteru chińskich mistyków. Pekin zakazuje, Kanton przemyca, a [[Kompanie Wschodnioindyjskie|Kompania]] liczy zyski. Dla Londynu to handel jak każdy inny; dla Państwa Środka — broń.
-
-### Karaiby i handel atlantycki
-
-Jamajka, Barbados, Trynidad (zdobyte w 1797 roku), Antigua — plantacje cukru i rumu, praca zniewolona. Jamaica produkuje w 1802 roku dwadzieścia trzy tysiące ton cukru rocznie. Cały brytyjski Karaiby: może osiemset tysięcy zniewolonych.
-
-[[Handel niewolnikami]] wciąż trwa legalnie. Brytyjskie statki transportują rocznie może pięćdziesiąt tysięcy ludzi z Afryki do plantacji — Jamajka, Barbados, Trynidad, plus sprzedaż do kolonii innych krajów. Kampania [[Williama Wilberforce'a]] w Parlamentie od 1787 roku napotykała na coroczną porażkę — West India Interest (lobby plantatorów) blokuje każdą ustawę.
-
-Abolition of the Slave Trade Act przejdzie w 1807 roku, dwa lata po śmierci Pitta. Zniesienie samego niewolnictwa — 1833.
-
-### Kanada i Australia
-
-Kanada Górna i Dolna bliżej opisane w [[Kanada Brytyjska|artykule o Kanadzie]]. Nowa Południowa Walia: kolonia karna w Australii od 1788 roku, pięć tysięcy mieszkańców (wolnych i skazańców) plus kilkaset tysięcy Aborygenów, których nikt jeszcze nie próbuje liczyć. [[Matthew Flinders]] w 1802 roku okrąża kontynent australijski i ustala, że jest to jedna wielka wyspa.
+Kanada Górna i Dolna mają własny [[Kanada Brytyjska|artykuł]]. W Nowej Południowej Walii kolonia karna z 1788 roku liczy pięć tysięcy wolnych i skazańców pośród nieliczonej rzeszy Aborygenów; Matthew Flinders właśnie opływa kontynent i dowodzi, że to jedna wielka wyspa.
 
 ---
 
-## Irlandia — Unia i jej konsekwencje
+## Irlandia
 
-Irlandia ma pięć i pół miliona mieszkańców, z czego cztery piąte to katolicy pozbawieni prawa głosu, dostępu do Parlamentu i do większości urzędów przez [[Penal Laws]]. [[Akt Unii 1800]] obiecał zniesienie tych praw jako część pakietu — Pitt prywatnie sugerował, że emancypacja katolicka przyjdzie. Jerzy III powiedział nie; Pitt zrezygnował.
+Irlandia liczy pięć i pół miliona ludzi, z czego cztery piąte to katolicy odcięci od głosu, Parlamentu i większości urzędów przez prawa karne (*Penal Laws*). Akt Unii z 1800 roku miał te prawa znieść — Pitt prywatnie obiecywał emancypację — lecz Jerzy III odmówił, a Pitt odszedł. Katoliccy Irlandczycy dostali z unii jedno: parlament, który ich nie reprezentuje, przeniósł się z Dublina do Westminsteru, gdzie nadal ich nie reprezentuje.
 
-Katoliccy Irlandczycy dostali z Unii jedno: parlament, który ich nie reprezentuje, przeniósł się z Dublina do Westminsteru — gdzie nadal ich nie reprezentuje.
-
-[[Robert Emmet]], dwudziestotrzyletni student, w 1802 roku jest w Paryżu szukając poparcia Napoleona dla kolejnego powstania. Wróci w 1803 roku. Powstanie potrwa kilka godzin. Zostanie powieszony.
-
-[[Towarzystwo Zjednoczonych Irlandczyków]] rozbite po klęsce powstania z 1798 roku (sto tysięcy zabitych, French expedition za mała i za późna). Ale organizacja — sieć lokalna, tradycja — przetrwała w strzępkach, które się reagrupują.
+Powstanie z 1798 roku, w którym zginęło sto tysięcy ludzi, a francuska pomoc przyszła za mała i za późno, rozbiło Towarzystwo Zjednoczonych Irlandczyków, lecz jego strzępy znów się zbierają. Dwudziestotrzyletni Robert Emmet jest właśnie w Paryżu, szukając u Napoleona poparcia dla kolejnego zrywu; wróci w 1803 roku, powstanie potrwa kilka godzin, a jego samego powieszą.
 
 ---
 
-## Gospodarka i finanse
+## Londyn i pieniądz
 
-### Bank Anglii i dług
+Londyn ma w 1802 roku około miliona mieszkańców — największe miasto świata, o sto tysięcy ludniejsze od Pekinu — i nie ma jednego centrum, lecz kilkanaście dzielnic o własnym charakterze. City of London, kwadratowa mila w sercu stolicy, mieści Bank Anglii, giełdę i kilkaset domów bankierskich i handlowych. Westminster to parlament, ministerstwa i pałace. East End to doki, manufaktury i najbardziej wymieszana etnicznie ludność Europy — hugenoci, Żydzi ze wschodu, marynarze ze wszystkich portów. Latarni gazowych jeszcze nie ma; po zmroku miasto oświetlają pochodnie i świece, a w bocznych uliczkach rządzi nocna przestępczość.
 
-[[Bank Anglii]] zawiesił wymienialność banknotów na złoto w 1797 roku — Bank Restriction Act. Banknoty nie są prawnie wymienialne na kruszec, lecz są akceptowane jako środek płatniczy przez siłę nawyku i prawne zobowiązanie. System działa, bo zaufanie do Banku jest absolutne.
-
-Dług narodowy po wojnach rewolucyjnych: ponad pięćset milionów funtów. Odsetki pochłaniają co roku połowę dochodów rządowych. A mimo to Wielka Brytania może zaciągać kolejne pożyczki — bo wszyscy wiedzą, że zapłaci. Wiarygodność kredytowa jest strategicznym atutem tak samo jak okręty.
-
-[[Nathan Mayer Rothschild]] przybył do Londynu około 1798 roku, otworzył dom handlowy przy St. Swithin's Lane. W 1802 roku jest jeszcze małym graczem. Za dziesięć lat będzie finansował angielskie kampanie przeciw Napoleonowi.
-
-### Ubezpieczenia i giełda
-
-[[Lloyd's of London]] ubezpiecza statki za procent od wartości ładunku. Giełda Papierów Wartościowych przy Exchange Alley handluje akcjami Kompanii Wschodnioindyjskiej i obligacjami rządowymi głównie. Spekulacja: stała i niezahamowana. [[South Sea Bubble]] z 1720 roku nie nauczył inwestorów niczego, czego nie zapomnieliby przed następnym boomem.
+Finanse są bronią równą okrętom. Bank Anglii zawiesił wymienialność banknotów na złoto w 1797 roku, lecz papier krąży dalej, bo zaufanie do Banku jest niewzruszone. Dług narodowy po wojnach rewolucyjnych przekroczył pięćset milionów funtów, a odsetki pochłaniają połowę dochodów rządu — mimo to Wielka Brytania pożycza dalej, bo wszyscy wiedzą, że spłaci. Towarzystwo Lloyda, wyrosłe z portowej kawiarni, ubezpiecza statki od procentu wartości ładunku i jest sercem morskiego rynku ubezpieczeń, a spekulacja na giełdzie trwa nieprzerwanie, jakby krach Kompanii Mórz Południowych z 1720 roku niczego nie nauczył.
 
 ---
 
-## Społeczeństwo
+## Społeczeństwo i wiara
 
-### Klasy
+Społeczeństwo jest stopniowane ostro. Kilkuset lordów oraz kilka tysięcy baronetów i szlachty bez tytułu trzyma jakąś czwartą część uprawnej ziemi Anglii, z pałacami w parkach i sieciami politycznych klientów. Niżej drobna szlachta (*gentry*) — sędziowie pokoju, oficerowie, drobni posiadacze — rządzi sprawami lokalnymi. Klasa średnia rośnie najszybciej: kupcy, prawnicy, lekarze, drukarze i pastorzy nonkonformistyczni, zwłaszcza w Manchesterze i Birmingham, gdzie wiara idzie w parze z wolną myślą. Na dole dziesiątki tysięcy tkaczy o malejących dochodach, górników, dokerów i robotników bez prawa do legalnej organizacji, z oczekiwaną długością życia rzędu czterdziestu lat w przemysłowym mieście.
 
-[[Arystokracja]] — kilkuset lordów z prawem zasiadania w Izbie Lordów, kilka tysięcy baronetów i szlachty bez tytułu lordowskiego — kontroluje może jedną czwartą ziemi uprawnej Anglii. Ich majątki: pałace wiejskie z parkami projektowanymi przez Capability Browna, sieci klientów politycznych, dochody z ziemi i z miejskich kamienic.
+[[Kościół anglikański]] jest kościołem państwowym — jego biskupi zasiadają w Izbie Lordów, jego proboszczowie prowadzą metryki — lecz może jedna trzecia Anglików chodzi raczej do kaplic dysenterskich: metodystów, baptystów, kwakrów, kongregacjonalistów. Metodyzm rośnie najszybciej wśród ubogich, emocjonalnym nabożeństwem i pieśnią dając to, czego sucha liturgia anglikańska nie daje.
 
-[[Gentry]] — szlachta bez tytułu: sędziowie pokoju, oficerowie armii, drobni posiadacze. Zarządzają lokalnymi sprawami, zasiadają w ławach przysięgłych, wysyłają synów do Oksfordu.
+W tym wrzeniu trafiają się prawdziwi [[Cudotwórcy|cudotwórcy]] — najczęściej wędrowni kaznodzieje, których wizje ściągają tłumy. Młode ruchy nie mają jednak nabudowanej doktryny, by wyszkolić następcę o tej samej mocy; gdy taki kaznodzieja umiera, jego dar zwykle umiera z nim. Stąd ich siła bywa porywista i krótka — sam metodyzm po śmierci Wesleya w 1791 roku rozpadł się na rywalizujące odłamy.
 
-Klasa średnia rośnie szybko: kupcy, prawnicy, lekarze, niekonformistyczni pastorzy, drukarze. Manchester i Birmingham mają własną kulturę klas średnich — dobroczynne towarzystwa, biblioteki subskrypcyjne, dysenterskie kościoły, gdzie wiara idzie razem z wolną myślą.
-
-Klasa robotnicza: dziesiątki tysięcy tkaczy ręcznych, których dochody spadają bo fabryki zaniżają ceny; górnicy w Walii i Yorkshire; dokerzy Londynu i Liverpoolu; robotnicy budowlani. Brak organizacji legalnej; nędzne zarobki; oczekiwana długość życia robotnika w Manchester — czterdzieści lat.
+Edynburg pozostaje miastem filozofów po Humie i Smisie, a jego katedry kształcą kolejne pokolenie myślicieli. W Anglii budzi się romantyzm: Wordsworth i Coleridge wydali zbiór wierszy w 1798 roku, Jane Austen pisze powieści, na które nie znajduje wydawcy, Turner wystawia pejzaże, Blake rytuje własne księgi.
 
 ---
 
-## Kultura i religia
-
-### Kościół anglikański i nonkonformiści
-
-[[Kościół Anglii]] jest kościołem państwowym — jego biskupi zasiadają w Izbie Lordów, jego proboszczowie rejestrują urodzenia, śluby i śmierci. Ale w 1802 roku może jedna trzecia Anglików uczęszcza raczej do kościołów dysenterskich: [[metodyści]] (pod wpływem Johna Wesleya, który umarł 1791), [[baptyści]], [[kwakrzy]], [[kongregacjonaliści]].
-
-Metodyzm rośnie najszybciej, szczególnie wśród ubogich. Emocjonalne nabożeństwa, pieśni, naciąć na osobiste doświadczenie wiary — wszystko, czego nie daje anglikańska liturgia. [[Ewangelikalizm]] anglikański (Clapham Sect Wilberforce'a i Thornton'a) reformuje Kościół od środka.
-
-W tym kotle wiary trafiają się prawdziwi [[Cudotwórcy|cudotwórcy]] — najczęściej wędrowni kaznodzieje, którzy doświadczyli wizji i ściągają tłumy. Tyle że młode ruchy, od metodystów po jeszcze świeższe sekty, nie mają nabudowanej doktryny, by wyszkolić następcę o tej samej mocy; gdy taki kaznodzieja umiera, jego dar zwykle umiera z nim. Stąd ich siła jest porywista i krótkotrwała, a sam metodyzm po śmierci Wesleya w 1791 roku rozpada się na rywalizujące odłamy.
-
-### Oświecenie szkockie i romantyzm angielski
-
-[[Edinburgh]] jest miastem filozofów: [[David Hume]] umarł w 1776, ale jego uczniowie wciąż żyją. [[Adam Smith]] umarł w 1790. [[Dugald Stewart]] wykłada na Uniwersytecie Edynburskim; jego studenci: Lord Palmerston, Francis Jeffrey, Sydney Smith.
-
-W Anglii: [[romantyzm]] w powijakach. [[William Wordsworth]] i [[Samuel Taylor Coleridge]] opublikowali Lyrical Ballads w 1798 roku — małe wydanie, duże konsekwencje. [[Jane Austen]] pisze Sense and Sensibility i Pride and Prejudice, ale nie może znaleźć wydawcy. [[J.M.W. Turner]] wystawia obrazy pejzażowe w Royal Academy. [[William Blake]] graweruje własne księgi.
-
----
-
-## Kluczowe postacie
-
-### William Pitt Młodszy (1759–1806)
-
-Tymczasowo poza władzą od marca 1801 roku. Osiemnaście lat premierostwa zamknął kryzysem, który stworzył się bez jego woli: Jerzy III odmówił emancypacji, Pitt zrezygnował z honoru. Siedzi teraz w opozycji i krytykuje Pokój Amiens.
-
-Ma czterdzieści trzy lata i wygląda na pięćdziesiąt pięć. Pije port hektolitrami — leczniczo, jak mówi. Nie jest żonaty, nie ma dzieci, nie ma prywatności poza samotną siedzibą w Putney. Jedyna miłość w dokumentach: polityka.
-
-Wróci do władzy w maju 1804 roku. Umrze w styczniu 1806 roku, być może ze świadomością, że III Koalicja, którą zbudował, właśnie rozpadła się pod Austerlitz.
-
-> [!mechanics]
-> **William Pitt Młodszy (1802)**
-> ST 8, DX 10, IQ 17, HT 9
-> **Umiejętności:** Administracja 17, Dyplomacja 15, Retoryka 18, Prawo 15, Ekonomia 16, Historia 15, Intryga 14
-> **Zalety:** Charisma 3, Reputation (były PM, najważniejszy Tory), Language (Francuski, Łacina)
-> **Wady:** Alcoholism (port — traktowany jako lek), Overconfidence (w własnych zdolnościach), Chronic Pain (gout)
-> **Stan 1802:** W opozycji; wciąż najważniejsza postać parlamentarna, czekająca na powrót
-
-### Horatio Nelson (1758–1805)
-
-Wiceadmirał, jednorękki, jednooki, sławniejszy od króla. Wychowany w Norfolk przez pastora-ojca, morze od dwunastu lat, kapitan w dwudziestu. Bitwa pod Nilu (1798): zniszczył całą francuską flotę śródziemnomorską i odciął Napoleona w Egipcie. Bitwa pod Kopenhagą (1801): zaatakował duńską flotę wbrew rozkazowi dowódcy (sławne przyłożenie teleskopu do ślepego oka).
-
-W 1802 roku: emerytura w Merton Place, miłosny trójkąt z Emmą i jej mężem, przejmujące zainteresowanie prasowe każdym jego ruchem. Wie, że spokój nie potrwa. Ma rację — pokój Amiens skończy się w maju 1803 roku.
-
-> [!mechanics]
-> **Horatio Nelson (1802)**
-> ST 10, DX 11 (DX 13 na pokładzie), IQ 14, HT 13
-> **Umiejętności:** Taktyka Morska 19, Dowodzenie Flotą 18, Nawigacja 16, Dowodzenie (Morskie) 17, Szermierka 13, Pistolety 12
-> **Zalety:** Combat Reflexes, Fearlessness 4, Charisma 3, Reputation (hero of Nile, +4 wśród Brytyjczyków), High Pain Threshold
-> **Wady:** One Eye (-1 do strzelania), One Arm (-2 do obustronnych czynności), Overconfidence, Lecherousness
-> **Ekwipunek:** Mundur admiralski z orderami (Gwiazda Łaźni, Order Krzyża Świętego Jerzego); fregata lub okręt liniowy jako domyślna lokacja
-
-### William Wilberforce (1759–1833)
-
-Poseł z Hull od 1780 roku, ewangelikalny chrześcijanin, który w 1787 roku podjął kampanię abolicyjną i od tej chwili składa w Parlamencie ustawę znoszącą handel niewolnikami każdego roku. Każdego roku przegrywa. Poparcie: Clapham Sect, Quakerzy, część metodystów. Opozycja: West India Interest, kilkuset posłów, których dochód zależy od plantacji.
-
-W 1802 roku: kolejna porażka ustawy. Wilberforce liczy sojuszników, przelicza głosy, przygotowuje następną kampanię. Pięć lat.
-
-### Charles James Fox (1749–1806)
-
-Lider Wigów, wróg Pitta od dekady, pijak i hazardzista z olbrzymimi długami. Ma pięćdziesiąt trzy lata i cieszy się pokojem Amiens — jako profrancuski Wig zawsze uważał, że z Rewolucją Francuską można rozmawiać. Odwiedzi Paryż w czasie pokoju i będzie rozmawiał z Napoleonem. Sympatyzuje z nim bardziej niż z własnym rządem.
-
-Zgumnie, że Napoleon zgumnie być dyktatorem. Fox był konsekwentnie po złej stronie historii przez całą karierę — i będzie pierwszy minister Spraw Zagranicznych w historii, który negocjował zniesienie brytyjskiego handlu niewolnikami, czego Wilberforce przez całe życie nie mógł sam osiągnąć.
-
-### Arthur Wellesley (1769–1852)
-
-W 1802 roku: generał dywizji w Indiach, trzydzieści trzy lata, zdobywca Seringapatam. Nikomu poza armią indyjską nieznany. Jego brat Richard Wellesley jest Governor-General.
-
-Za rok — Bitwa pod Assaye (1803), rozstrzygnięcie wwojen maratha. Za jedenaście lat — Waterloo. Na razie: India. Jeśli gracz chce trafić do postaci, która zmieni Europę, może go znaleźć w Indiach w 1802 roku, zanim stanie się kimś.
-
----
-
-*Powiązane artykuły: [[Francja Napoleońska]], [[Kanada Brytyjska]], [[Stany Zjednoczone]], [[Haiti]], [[Pokój Amiens]], [[Handel Trójkątny]], [[Rewolucja Przemysłowa]], [[Państwo Kościelne]], [[Kompanie Wschodnioindyjskie]], [[Punkty rozbieżności]], [[Rdzenne narody Ameryki Północnej]].*
+*Powiązane artykuły: [[Francja Napoleońska]], [[Pokój Amiens]], [[Rewolucja Przemysłowa]], [[Kompanie Wschodnioindyjskie]], [[Chiny dynastii Qing]], [[Kanada Brytyjska]], [[Stany Zjednoczone]], [[Handel Trójkątny]], [[Państwo Kościelne]], [[Punkty rozbieżności]], [[Chronologia]].*

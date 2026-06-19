@@ -6,184 +6,93 @@ aliases: [Państwo Kościelne (1802), Stolica Apostolska, Watykan, Papal States,
 
 # Państwo Kościelne
 
-Pius VII wrócił do Rzymu w lipcu 1800 roku po osiemnastu miesiącach tułaczki — z Wenecji przez Florencję, wyzwoloną od Francuzów po Marengo. Wjechał do miasta, które Francja zdewastowała finansowo, która wywiozła tysiące dzieł sztuki i która formalnie przestała istnieć jako republika przez czternaście miesięcy. Wjechał bez żadnego gwaranta swojej pozycji poza Napoleonem, który właśnie skończył niszczyć poprzednie Państwo Kościelne i teraz chciał od niego czegoś w zamian.
+Państwo Kościelne w 1802 roku jest cieniem siebie sprzed dekady. Francja zdewastowała je finansowo, wywiozła tysiące dzieł sztuki i na czternaście miesięcy zniosła je zupełnie jako Republikę Rzymską. Pius VII odzyskał tron i część ziem, lecz nie odzyskał suwerenności.
 
-W 1802 roku Concordat z Francją jest podpisany od roku. Papież odzyskał terytorium, lecz nie suwerenność. Napoleon dostał Kościół jako narzędzie — w stopniu, którego Rzym jeszcze nie zmierzył.
-
-A jednak Pius nie jest bezsilny, choć armię ma symboliczną, a kasę pustą. Jego prawdziwa siła leży w czymś, czego Napoleon nie potrafi wyprodukować dekretem: w sieci [[Cudotwórcy|cudotwórców]] rozsianej po całej katolickiej Europie, którą tylko Rzym potrafi szkolić, błogosławić i — gdy trzeba — odbierać.
+Doczesne władztwo papieża skurczyło się do środkowej Italii i niemal pustego skarbca. Prawdziwa potęga Rzymu leży gdzie indziej — w sieci [[Cudotwórcy|cudotwórców]] rozsianej po całej katolickiej Europie, której żadna inna instytucja nie potrafi odtwarzać. To ona sprawia, że nawet [[Francja Napoleońska|Napoleon]], pan stutysięcznych korpusów, musi z papieżem siadać do stołu.
 
 ---
 
-## Terytorium i co z niego zostało
+## Państwo, które prawie zniknęło
 
-Państwo Kościelne obejmuje w 1802 roku środkową Italię od Bolonii na północy po Terracina na południu: Lacjum z Rzymem, Umbria, Marche, Romagna. Mniej więcej czterdzieści tysięcy kilometrów kwadratowych, może dwa i pół miliona mieszkańców.
+Państwo Kościelne obejmuje środkową Italię od okolic Bolonii po Terracinę: Lacjum z Rzymem, Umbrię, Marche i część Romanii. Około czterdziestu tysięcy kilometrów kwadratowych i jakieś dwa i pół miliona mieszkańców.
 
-Romagna i Bolonia — żyzna, handlowa północ — były pod Francją od 1797 roku jako część Republiki Cisalpejskiej. [[Traktat Lunéville]] z 1801 roku potwierdził ten stan: Napoleon zwrócił Państwu Kościelnemu ziemie środkowe i południowe, lecz zatrzymał Legacje Bolońską, Ferrarską i Rawenną. W 1800 roku weszły w skład Republiki Włoskiej, której prezydentem będzie Napoleon od 1802.
+Najbogatszej, handlowej północy już tu nie ma. [[Traktat Lunéville]] z 1801 roku potwierdził, że Legacje — Bolonia, Ferrara, Rawenna i Romagna — zostają przy Republice Włoskiej, której prezydentem zostaje w 1802 roku sam Napoleon. Rzym dostał z powrotem ziemie środkowe i południowe, a oddał żyzną Padanię.
 
-Rzym liczy sto pięć tysięcy mieszkańców. Z tego co najmniej osiem tysięcy to duchowni, zakonnicy lub pracownicy kurii. Proporcja jest na stałe wbudowana w strukturę miasta — Rzym bez Kościoła przestałby być tym czym jest: bez kurii, bez pielgrzymów, bez papieskich patronatów, bez zakonnych szpitali i szkół.
+Sam Rzym liczy sto pięć tysięcy mieszkańców, z czego co najmniej osiem tysięcy to duchowni, zakonnicy i ludzie kurii. Bez Kościoła miasto przestałoby być sobą — przy życiu trzymają je kuria, pielgrzymi, papieskie patronaty, zakonne szpitale i szkoły.
+
+Pod tym wszystkim leży pusty skarbiec. Rewolucja skonfiskowała dobra kościelne we Francji, Republika Cisalpejska w Bolonii i Romanii, a francuska okupacja Rzymu wywiozła złoto i sztukę wagonami. [[Traktat w Tolentino]] z 1797 roku, podpisany jeszcze przez Piusa VI pod bagnetem, obciążył Rzym kontrybucją trzydziestu milionów franków; wypłacono, ile się dało, reszta została długiem. W 1802 roku kardynał Consalvi szuka pożyczek u rzymskich bankierów, a odbudowę administracji finansują bieżące opłaty i datki napływające z misji.
 
 > [!rules]
-> **Państwo Kościelne**
+> **Stolica:** Rzym (~105 000 mieszkańców)
 > **Papież:** Pius VII (Barnaba Chiaramonti), lat 60, wybrany 14 marca 1800
 > **Sekretarz Stanu:** kardynał Ercole Consalvi, lat 42
-> **Terytorium efektywne:** Lacjum, Umbria, Marche (~40 000 km²)
-> **Stracone:** Romagna, Bolonia, Ferrara, Ravenna — w Republice Włoskiej
-> **Populacja:** ~2,5 mln
-> **Armia:** kilka tysięcy żołnierzy; faktycznie niezdolna do samodzielnej obrony
-> **Dochody:** daniny, opłaty kościelne, podatki od dóbr klasztornych — systematycznie niewystarczające
-
----
-
-## Concordat — co Pius podpisał
-
-### Negocjacje
-
-Napoleon chciał Concordatu z trzech powodów. Politycznie: Kościół miał szerokie wpływy wśród prowincjonalnej Francji, którą rewolucja podzieliła religijnie — kapłani konstytucyjni kontra niekonstitucyjni, praktykujący kontra apostatyzowani. Ich pogodzenie wymagało papieskiego autorytetu. Militarnie: Wandea i katolicka opozycja kosztowała Francję sto tysięcy żyć; Concordat miał zamknąć tę ranę. Ideologicznie: Napoleon nie wierzył w Boga, lecz wierzył w religię jako spoiwo społeczne. I jeszcze jeden powód, którego żaden dokument nie nazywa wprost: rewolucja rozpędziła francuskich [[Cudotwórcy|cudotwórców]] razem z księżmi, a tylko pojednanie z Rzymem mogło na nowo otworzyć ich szkolenie i przywieść ich pod sztandar Republiki.
-
-Pius VII chciał przeżyć. I odzyskać cokolwiek.
-
-Negocjacje od wiosny 1800 roku. Kardynał Consalvi jechał do Paryża dwukrotnie. Tekst zmieniany osiemnastokrotnie. Napoleon wyrzucił Consalviego z rozmów po jednym z nocnych spotkań i zagroził jednostronnym uregulowaniem spraw Kościoła dekretem — argument, który Rzym zrozumiał.
-
-Concordat podpisano 15 lipca 1801 roku. Ogłoszony publicznie 18 kwietnia 1802, w Wielkanoc, w obecności korpusu dyplomatycznego i marszałków Republiki.
-
-### Warunki
-
-Francja uznaje katolicyzm za religię „wielkiej większości obywateli" — nie religię państwową. Rząd płaci pensje duchownym. Rząd nominuje biskupów; papież mianuje. Kościół zrzeka się pretensji do ziemi skonfiskowanej podczas rewolucji.
-
-Artykuły Organiczne — Napoleon dołączył je jednostronnie, bez konsultacji z Rzymem, natychmiast po ogłoszeniu Concordatu. Osiemdziesiąt siedem dodatkowych paragrafów regulujących Kościół gallikański: zakaz ogłaszania papieskich dokumentów bez rządowego zezwolenia, obowiązek modlitwy za Konsulat podczas mszy, seminaria pod rządowym nadzorem.
-
-Pius zaprotestował. Napoleon wydrukował tekst i wysłał kopię do każdej prefektury.
+> **Terytorium:** Lacjum, Umbria, Marche, część Romanii (~40 000 km², ~2,5 mln ludzi)
+> **Stracone:** Bolonia, Ferrara, Rawenna, Romagna — w Republice Włoskiej
+> **Armia:** kilka tysięcy żołnierzy, niezdolna do samodzielnej obrony
+> **Skarbiec:** chronicznie pusty; dług po kontrybucji z Tolentino
 
 ---
 
 ## Maszyna cudotwórców
 
-Władza Rzymu stoi na czymś trwalszym niż bagnety, których ma zaledwie kilka tysięcy: na tym, że żadna inna instytucja na świecie nie potrafi tak skutecznie wytwarzać [[Cudotwórcy|cudotwórców]].
+Władza Rzymu stoi na czymś trwalszym niż kilka tysięcy żołnierzy: żadna inna instytucja na świecie nie potrafi tak pewnie wytwarzać [[Cudotwórcy|cudotwórców]].
 
-Cud rodzi się z wiary szczerej, niezachwianej i ujętej w karby dogmatu. Kościół katolicki ma za sobą tysiąc osiemset lat tego dogmatu — sobory, doktorów, regułę zakonną, liturgię wypracowaną w każdym szczególe. Klasztory benedyktynów, dominikanów i franciszkanów wyławiają kandydatów spośród nowicjuszy i prowadzą ich latami przez tę samą, sprawdzoną formację. Większość nigdy nie sprowadzi Cudu. Ale ułamek, który to potrafi, jest dzięki tej machinie odtwarzalny pokolenie po pokoleniu — i to czyni z katolicyzmu mocarstwo duchowe niezależnie od stanu kasy.
+Cud rodzi się z wiary szczerej, niezachwianej i ujętej w karby dogmatu. Kościół katolicki ma za sobą tysiąc osiemset lat tego dogmatu — sobory, doktorów, regułę zakonną, liturgię dopracowaną w każdym calu. Klasztory benedyktynów, dominikanów i franciszkanów wyławiają kandydatów wśród nowicjuszy i prowadzą ich latami przez tę samą, sprawdzoną formację. Większość nigdy nie sprowadzi cudu, lecz ułamek, który to potrafi, odradza się pokolenie po pokoleniu. Ta powtarzalność czyni z katolicyzmu mocarstwo duchowe niezależne od stanu kasy.
 
-Najmłodsze odłamy protestanckie są dowodem od przeciwnej strony. Niejeden z nich zaczyna od jednego [[Cudotwórcy|cudotwórcy]] — kaznodziei, który doświadczył wizji albo głosi własną interpretację Pisma — i wokół jego daru gromadzą się wierni. Brakuje im jednak nabudowanych wieków: zbyt wiele jest jeszcze nieustalone, zbyt wiele zależy od dnia i humoru lidera, więc kiedy założyciel umiera, jego ruch rzadko umie wyszkolić następcę o tej samej mocy. Za to każdy taki prorok ciągnie w swoją stronę, chętnie odcinając się od głównego nurtu — i dlatego sekt jest wiele, a żadna nie ma rzymskiej ciągłości.
+Najmłodsze odłamy protestanckie pokazują to samo od drugiej strony. Niejeden zaczyna od jednego cudotwórcy — kaznodziei z wizją albo własnym odczytaniem Pisma — i wokół jego daru gromadzą się wierni. Brak im jednak nabudowanych wieków: zbyt wiele pozostaje nieustalone, zbyt wiele zależy od humoru założyciela, więc gdy ten umiera, ruch rzadko wychowuje następcę o tej samej mocy. Każdy taki prorok ciągnie przy tym w swoją stronę, więc sekt jest mnóstwo, a żadna nie ma rzymskiej ciągłości.
 
-Z tej przewagi wyrasta najgroźniejsza broń papieża: ekskomunika. Bulla rzucona na władcę nie jest tylko gestem. Ma złamać ducha cudotwórców wśród jego poddanych — postawić ich przed wyborem między suwerenem a Kościołem, który ich ukształtował, a samo to rozdarcie potrafi zgasić ich dar. Monarcha, którego cudotwórcy nagle milkną, traci coś, czego armią nie odzyska.
+Z tej przewagi wyrasta najgroźniejsza broń papieża — ekskomunika. Klątwa rzucona na władcę nie jest samym gestem; ma złamać wiarę cudotwórców wśród jego poddanych, postawić ich między suwerenem a Kościołem, który ich ukształtował. Samo to rozdarcie potrafi zgasić ich dar, a monarcha, którego cudotwórcy nagle milkną, traci coś, czego armią nie odzyska.
 
-Dlatego nawet Napoleon, pan stutysięcznych korpusów, siada z Piusem do stołu. Concordat oddał mu częściowy dostęp do francuskiej sieci cudotwórców; otwarta wojna z Rzymem groziłaby jej utratą. To jest karta, którą papież bez ziemi i bez wojska wciąż trzyma w ręku — i ona tłumaczy, czemu z napoleońskiej ery wyjdzie z prestiżem większym, niż w nią wszedł.
-
-> [!rules]
-> **Cuda:** Divine Favor (GURPS Powers: Divine Favor); moc warunkowa, zależna od stanu wiary
-> **Przewaga katolicka:** dwa tysiąclecia dogmatu + sieć klasztorów = odtwarzalne, masowe szkolenie cudotwórców
-> **Słabość protestancka:** młode odłamy rzadko szkolą następców (brak ustalonej doktryny), za to są liczne i różnorodne
-> **Ekskomunika:** narzędzie łamania wiary cudotwórców wrogiego władcy; skuteczne proporcjonalnie do powagi, jaką kler darzy Rzym
+Dlatego nawet Napoleon układa się z Rzymem. Konkordat dał mu częściowy dostęp do francuskiej sieci cudotwórców; otwarta wojna z papieżem groziłaby jej utratą i klątwą o nieprzewidywalnych skutkach. To jedyna mocna karta Piusa — i ona tłumaczy, czemu z epoki napoleońskiej papiestwo wyjdzie silniejsze, niż w nią weszło.
 
 ---
 
-## Pius VII — papież bez kart
+## Pius VII i Konkordat
 
-[[Pius VII]], urodzony Barnaba Chiaramonti w Cesenie w 1742 roku, był biskupem Imoli zanim elekcja w Wenecji uczyniła go papieżem. Był znany jako teolog umiarkowany, benedyktyn z formacją, człowiek spokojny. Homilia bożonarodzeniowa z 1797 roku, gdy był jeszcze biskupem, głosiła że demokracja i chrześcijaństwo są nie tylko do pogodzenia, lecz wzajemnie wspierają się — co w tamtych latach było stanowiskiem śmiałym.
+Pius VII, urodzony Barnaba Chiaramonti w Cesenie w 1742 roku, był benedyktynem i biskupem Imoli, nim trzytygodniowe konklawe w Wenecji uczyniło go papieżem w marcu 1800 roku. Wybrano go jako kompromis, gdy nikt inny nie zebrał głosów, i dlatego, że Francja uznała go za kogoś, z kim da się rozmawiać. Jako biskup głosił w 1797 roku, że demokracja i chrześcijaństwo mogą się wspierać — stanowisko wówczas śmiałe.
 
-Papieżem został dlatego, że nikt inny nie zebrał wymaganej liczby głosów przez trzy tygodnie konklawe w Wenecji. I dlatego, że Francja zaakceptowała go jako kogoś, z kim można rozmawiać.
+Konkordat z Francją był ceną tej rozmowy. Napoleon potrzebował go z kilku powodów naraz: by pogodzić podzieloną religijnie prowincję, by zamknąć ranę Wandei, która kosztowała sto tysięcy ofiar, i dlatego, że w religii widział społeczne spoiwo, choć w Boga nie wierzył. Był też powód, którego żaden artykuł nie nazywa wprost — francuscy cudotwórcy rozpierzchli się razem z księżmi w czasie rewolucji, a tylko pojednanie z Rzymem mogło otworzyć ich szkolenie na nowo i przywieść ich pod sztandar Republiki.
 
-W 1802 roku ma sześćdziesiąt lat i rok pontyfikatu z tytularnego dwóch. Rok 1800 był rokiem podróży i powrotu. Rok 1801 — negocjacji Concordatu. Rok 1802 — zarządzania jego konsekwencjami. W Sekretariacie Stanu mówi się cicho, że Artykuły Organiczne to klęska, której nie można cofnąć, i że trzeba się z niej wykaraskać z jak największą godnością.
+Rokowania ciągnęły się od wiosny 1800 roku. Prowadził je kardynał [[Ercole Consalvi]] — sekretarz stanu, dyplomata bez kapłańskich święceń, który rozumiał europejskie dwory lepiej niż ktokolwiek w kurii. Tekst zmieniano osiemnastokrotnie. Napoleon w nocy wyrzucił Consalviego z rozmów, gdy ten nie chciał oddać prawa mianowania biskupów, i zagroził uregulowaniem spraw Kościoła samym dekretem; kardynała przywołano dopiero, gdy bez niego rokowania utknęły. Podpis padł 15 lipca 1801 roku.
 
-Jego naturalnym instrumentem jest cierpliwość. Wytrzyma Napoleona przez czternaście lat, zostanie przez niego porwany do Fontainebleau w 1809 roku, spędzi pięć lat w areszcie domowym i wróci do Rzymu w 1814 jako jedyny suweren europejski, który wyszedł z napoleońskiej ery z większym prestiżem niż miał.
+Treść była kompromisem. Francja uznała katolicyzm za religię „wielkiej większości obywateli", nie za religię państwową. Rząd płaci pensje duchownym i nominuje biskupów, papież ich zatwierdza, Kościół zrzeka się ziemi utraconej w rewolucji. Ogłoszono to publicznie 18 kwietnia 1802 roku, w Wielkanoc, przed korpusem dyplomatycznym i marszałkami.
 
----
+Triumf zatruły Artykuły Organiczne. Napoleon dołączył je jednostronnie, bez słowa z Rzymem, tuż po ogłoszeniu Konkordatu: osiemdziesiąt siedem paragrafów krępujących Kościół gallikański — zakaz ogłaszania papieskich pism bez zgody rządu, obowiązkowa modlitwa za Konsulat, seminaria pod nadzorem. Pius zaprotestował; Napoleon rozesłał tekst do każdej prefektury. Na pierwszego biskupa mianowanego z mocy Konkordatu wybrał dziewięćdziesięciotrzyletniego kardynała Jean-Baptiste'a de Belloy na stolicę paryską — starość gwarantowała, że arcybiskupstwo wkrótce znów zawakuje, gdy układ polityczny dojrzeje.
 
-## Consalvi — dyplomata w trudnej grze
-
-[[Ercole Consalvi]], czterdzieści dwa lata, sekretarz stanu od maja 1800 roku. Kardynał diakon, nigdy nie wyświęcony na kapłana — rzadkość w Kolegium Kardynalskim. Jego kariera przebiegała przez administrację kościelną, nie przez duszpasterstwo.
-
-Napoleon wyrzucił go z Paryża podczas nocnych negocjacji Concordatu, gdy Consalvi odmówił podpisania tekstu, który nie zabezpieczał mianowania biskupów. Został przywrócony do rozmów po tym jak stało się jasne, że bez niego negocjacje utknęły. W lipcu 1801 roku podpisał.
-
-Consalvi rozumie dyplomację europejską lepiej niż ktokolwiek inny w Kurii: jej języki, jej reguły nieformalne, jej hierarchię prestiżu. W 1802 roku prowadzi politykę minimalizacji strat: żadna publiczna konfrontacja z Napoleonem, każde możliwe rozwiązanie przez kanały dyplomatyczne. Gdy Artykuły Organiczne ukazały się bez konsultacji, złożył formalny protest przez ambasadora. Napoleon notę zignorował.
-
-> [!mechanics]
-> **Ercole Consalvi (1802)**
-> ST 8, DX 10, IQ 17, HT 10
-> **Umiejętności:** Dyplomacja 18, Prawo (kanoniczne) 16, Prawo (cywilne, europejskie) 14, Historia (kościelna) 16, Język (Francuski 15, Łacina native, Włoski native, Angielski 12)
-> **Zalety:** Charisma 2, Contacts (dyplomaci Francji, Austrii, Anglii), Reputation (+2 wśród europejskich dworów jako partner do rozmów)
-> **Wady:** Duty (Stolica Apostolska), granie słabą kartą bez możliwości jej wzmocnienia
+Orężem Piusa jest cierpliwość. Ustępuje tam, gdzie ustępstwo niczego nie burzy, i twardo broni jurysdykcji tam, gdzie granica jest widoczna. To gra o zwycięstwo za dwadzieścia lat: w 1809 roku Napoleon każe go porwać do Fontainebleau, papież spędzi pięć lat w areszcie i wróci do Rzymu w 1814 jako jedyny władca, który wyszedł z epoki napoleońskiej z większym prestiżem, niż w nią wchodził.
 
 ---
 
-## Rzym — miasto i co w nim żyje
+## Kuria i Święte Oficjum
 
-### Starożytność na co dzień
+Kuria — kongregacje, trybunały i sekretariaty papiestwa — w 1802 roku odbudowuje się po rewolucji, która zniszczyła jej akta, rozproszyła urzędników i zmusiła wielu dostojników do ucieczki albo układów z Republiką Cisalpejską.
 
-Starożytny Rzym stoi między nowożytnym jak szkielet. Koloseum służy jako kamieniołom przez trzysta lat — bloki trawertynu z jego murów trafiają do bazyliki świętego Piotra. Forum Romanum jest Campo Vaccino, Krowim Polem: pastwiskiem między kolumnami. Via Sacra zamieniona w szlam i odchody.
+[[Kongregacja Propagandy Wiary]], zarządzająca misjami na wszystkich kontynentach, należy do nielicznych, które nie straciły ciągłości. Misje w Chinach, Indiach, Afryce i Ameryce Łacińskiej raportują do Rzymu przez kurierów — od kilku tygodni z Europy po kilkanaście miesięcy z Azji.
 
-Jednocześnie: Grand Tour. Przez cały XVIII wiek Rzym jest obowiązkowym przystankiem dla angielskiej, niemieckiej, francuskiej arystokracji i zamożnej klasy średniej. Goethe spędził tu dwa lata w 1786–1788 i napisał o tym książkę. W 1802 roku, po Concordacie i po powrocie papieża, turyści wracają stopniowo — Francuzi teraz, Anglicy ostrożnie, bo ich kraj jest technicznie w wojnie z Francją do marca 1802, a potem przez czternaście miesięcy Pokoju Amiens.
+[[Święte Oficjum]] — dawna Inkwizycja — na co dzień zajmuje się cenzurą ksiąg i sprawami apostazji; więźniów ma niewielu, lecz procedury trzyma żywe. To ono orzeka, czy zgłoszony cud jest prawdziwy, czy też dziełem szarlatana albo [[Daemony|demonicznego]] podstępu, i ono pilnuje magii nieświętej — w spadku po wiekach [[Polowania na czarownice|polowań na czarownice]] i wojnie z [[Gildie Śmierci|nekromantami]].
 
-[[Willa Borghese]], [[Panteon]], bazylika świętego Piotra, katakumby — każda z tych lokacji ma własnych strażników, własnych przewodników i własną cenę za dostęp. Kuria zarządza prawami do wstępu jak zasobem.
-
-### Kuria Rzymska
-
-Kuria to biurokratyczny aparat papiestwa: kongregacje, trybunały, sekretariaty. W 1802 roku jest w fazie odbudowy. Rewolucja zniszczyła jej akta, rozproszyla jej urzędników, zmusiła wielu dostojników do ucieczki lub do kompromisów z Republiką Cisalpejską.
-
-[[Kongregacja Propagandy Wiary]] — organ zarządzający misjami katolickimi na wszystkich kontynentach — jest jedną z niewielu, które nie straciły ciągłości operacyjnej. Misje w Chinach, Indiach, Afryce, Ameryce Łacińskiej raportują do Rzymu przez kurierów. Czas odpowiedzi: od kilku tygodni (Europa) do kilkunastu miesięcy (Azja).
-
-[[Święte Oficjum]] — dawna Inkwizycja, teraz pod tą nazwą — zajmuje się głównie cenzurą książek i przypadkami apostazji. Więzień Świętego Oficjum w 1802 roku: niewielu, ale procedury są żywe. To również ono orzeka, czy zgłoszony Cud jest prawdziwy, czy też dziełem szarlatana albo [[Daemony|demonicznego]] podstępu — i ono trzyma oko na magii nieświętej, pamiątce po wiekach [[Polowania na czarownice|polowań na czarownice]] i wojnie z [[Gildie Śmierci|nekromantami]].
+Wewnątrz kurii Konkordat ma zaciekłych przeciwników. Najgłośniejszy jest Bartolomeo Pacca, pro-sekretarz Propagandy, który układ z Napoleonem uważa za błąd i mówi to wprost; Consalvi traktuje go jak problem do omijania. Za kilka lat, gdy Napoleon każe aresztować papieża, to Pacca trafi do twierdzy Fenestrelle, a spisane potem pamiętniki — szczegółowe i stronnicze — staną się jednym z głównych źródeł o tych latach.
 
 ---
 
-## Finansowy grunt pod stopami
+## Rzym między ruinami
 
-Państwo Kościelne zawsze miało skomplikowane finanse — dochody z dóbr kościelnych, podatki od poddanych, datki z całego świata katolickiego. Rewolucja skonfiskowała część dóbr we Francji; Republika Cisalpejska skonfiskowała dobra w Bolonii i Romanii; Francja podczas okupacji Rzymu wywiozła złoto i sztukę.
+Starożytny Rzym stoi pośród nowożytnego jak szkielet. Koloseum od trzystu lat służy za kamieniołom — bloki trawertynu z jego murów poszły w bazylikę świętego Piotra. Forum Romanum jest dziś Campo Vaccino, Krowim Polem: pastwiskiem między kolumnami, z Via Sacra zamienioną w błoto.
 
-Szacunki strat papiestwa z lat 1796–1800: dziesiątki milionów franków w kruszcu, setkach wagonów dzieł sztuki, bibliotekach. [[Traktat w Tolentino]] z 1797 roku — podpisany przez poprzednika Piusa VI pod francuskim bagnetem — zobowiązał Rzym do wypłacenia trzydziestu milionów franków kontrybucji. Wypłacono ile się dało; reszta stała się długiem.
+A jednak to wciąż obowiązkowy przystanek Grand Tour. Przez cały wiek XVIII arystokracja i zamożne mieszczaństwo Anglii, Niemiec i Francji zjeżdżały tu na miesiące; Goethe spędził w Rzymie dwa lata i napisał o tym książkę. Po Konkordacie turyści wracają — Francuzi od razu, Anglicy ostrożnie, bo ich kraj jest z Francją w wojnie aż do [[Pokój Amiens|Pokoju Amiens]].
 
-W 1802 roku kasa apostolska jest pusta lub bliska tego. Consalvi szuka pożyczek u bankierów rzymskich. Nakłady na odbudowę administracji finansowane z bieżących opłat i z datków napływających przez Kongregację Propagandy.
-
----
-
-## Włochy — mapa i kontekst
-
-### Republika Włoska
-
-Republika Włoska (dawna Cisalpejska, przemianowana w styczeń 1802 roku) zajmuje Padanię i Romagnę — najzasobniejszą część Półwyspu. Milan jest stolicą; Napoleon prezydentem. Jej konstytucja modelowana na wzorze konsulamym.
-
-Z perspektywy Rzymu: nieprzyjemny sąsiad na północy z trzystutysięczną armią, administrowany przez człowieka, który był już w Rzymie raz, zostawił rachunki i wróci.
-
-### Królestwo Neapolu
-
-Na południe od Państwa Kościelnego: Neapol i Sycylia pod Ferdynandem IV Burbońskim. Ferdynand opuścił Neapol w 1799 roku gdy wojska Macdonalda wkroczyły i ustanowiły Parthenopejską Republikę. Republika upadła po kilku miesiącach — lud neapolitański wybił republikanów z pomocą lazzaronich i admirała Nelsona. Ferdynand wrócił. Republika padła. Nelson i lady Hamilton uczestniczyli w egzekucjach.
-
-W 1802 roku Neapol jest formalnie po stronie aliantów, lecz po Lunéville musi godzić się z rzeczywistością francuskiej dominacji we Włoszech. Traktat z Francją podpisał we Florencji w 1801 roku, zgadzając się na wycofanie wojsk angielskich z Neapolu i na zamknięcie portów dla Anglii. Ferdynand płaci; Nelson płakał.
-
-### Toskania i Etruria
-
-Toskania była przez dwa lata Republiką Etruską pod Francuzami. W 1801 roku Napoleon oddał ją Ludwikowi I Burbońskiemu — zięciowi Karola IV Hiszpańskiego, jako cenę za Luizjanę. Florencja stolicą Królestwa Etrurii.
-
-Ludwik I umarł w 1803 roku. Karol II, jego syn, miał trzy lata. Matka Ludwika Maria Luisa Parmeńska regentka. Napoleon w 1807 roku anektuje Etrurię — decyzja czysto instrumentalna, bez uprzedzenia.
+[[Willa Borghese]], [[Panteon]], bazylika świętego Piotra, katakumby — każde z tych miejsc ma własnych strażników, przewodników i opłatę za wstęp. Kuria zarządza prawem dostępu jak każdym innym zasobem.
 
 ---
 
-## Kluczowe postacie
+## Włochy dookoła
 
-### Pius VII (1742–1823)
+Na północy leży Republika Włoska — dawna Cisalpejska, przemianowana w styczniu 1802 roku — obejmująca najbogatszą Padanię i Romagnę, ze stolicą w Mediolanie i Napoleonem jako prezydentem. Z perspektywy Rzymu to nieprzyjemny sąsiad z trzystutysięczną armią, rządzony przez człowieka, który raz już był w mieście, zostawił rachunki i wróci.
 
-Barnaba Chiaramonti z Ceseny, benedyktyn, teolog, papież od marca 1800 roku. Sześćdziesiąt lat. Wybrany jako kompromis w Wenecji gdy faktyczny Rzym był pod Francją.
+Na południu Neapol i Sycylia pod Ferdynandem IV Burbońskim. W 1799 roku Ferdynand uciekł przed francuską inwazją i krótką Republiką Partenopejską; wrócił, gdy lud z pomocą admirała Nelsona wybił republikanów, a egzekucje, w których uczestniczyli Nelson i lady Hamilton, do dziś kładą się cieniem na jego dworze. Po Lunéville Neapol musi godzić się z francuską przewagą: zamyka porty przed Anglią i odsyła jej wojska.
 
-Jego strategia w 1802 roku: przetrwać przez ustępstwa tam gdzie ustępstwo niczego nie niszczy, twardo bronić jurysdykcji papieskiej tam gdzie granica jest widoczna. To strategia na wygraną za dwadzieścia lat — i wygra.
-
-> [!mechanics]
-> **Pius VII (1802)**
-> ST 8, DX 9, IQ 15, HT 10
-> **Umiejętności:** Teologia 17, Historia (kościelna) 16, Dyplomacja 13, Prawo (kanoniczne) 15, Łacina (native), Włoski (native), Francuski 11
-> **Zalety:** Status 10 (Głowa Kościoła Katolickiego), Reputation (+3 wśród katolików, -1 wśród rewolucjonistów), Serenity, Longevity
-> **Wady:** Pacifism (samoobrona dopuszczalna), Stubbornness (w kwestiach wiary), Very Wealthy nominalnie — realnie bez środków
-
-### Kardynał Jean-Baptiste de Belloy (1709–1808)
-
-Arcybiskup Paryża, mianowany przez Napoleona w 1802 roku jako pierwsza nominacja na mocy Concordatu. Ma dziewięćdziesiąt trzy lata. Napoleon wybrał go świadomie: starość gwarantuje, że arcybiskupstwo pozostanie wakujące do ponownego obsadzenia za kilka lat, gdy karta polityczna się ułoży.
-
-De Belloy umrze w 1808 roku. Przez sześć lat będzie sprawował urząd z godnością i bez konfliktów z Napoleonem, bo do żadnych nie miał sił.
-
-### Bartolomeo Pacca (1756–1844)
-
-Pro-sekretarz Kongregacji Propagandy Wiary, czterdzieści sześć lat, twardogłowy konserwatysta w Kurii, który Concordat uważa za błąd i mówi o tym głośno w wewnętrznych dyskusjach. Consalvi traktuje go jako nieunikniony problem, który należy omijać.
-
-Pacca będzie Pro-Sekretarzem Stanu w 1808 roku gdy Napoleon każe aresztować Piusa — on jako sekretarz stanu trafi do więzienia Fenestrelle, gdzie spędzi cztery lata. Pamiętniki napisze po powrocie. Są szczegółowe i partyjne, i dlatego cenne.
+Toskanię Napoleon przekształcił w Królestwo Etrurii i oddał Burbonom — Ludwikowi I, zięciowi Karola IV hiszpańskiego — w zamian za [[Terytorium Luizjany|Luizjanę]]. Ludwik umarł w 1803 roku, regencję objęła jego żona, a w 1807 roku Napoleon wchłonie Etrurię bez uprzedzenia, jak rzecz czysto instrumentalną.
 
 ---
 
-*Powiązane artykuły: [[Francja Napoleońska]], [[Święte Cesarstwo Rzymskie]], [[Wielka Brytania]], [[Hiszpania]], [[Cudotwórcy]], [[Punkty rozbieżności]], [[Chronologia]].*
+*Powiązane artykuły: [[Francja Napoleońska]], [[Cudotwórcy]], [[Święte Cesarstwo Rzymskie]], [[Wielka Brytania]], [[Hiszpania]], [[Terytorium Luizjany]], [[Pokój Amiens]], [[Punkty rozbieżności]], [[Chronologia]].*

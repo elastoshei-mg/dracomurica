@@ -18,7 +18,7 @@ configuration:
     defaultMode: dark
     typography:
       header: Arvo
-      body: Special Elite
+      body: Courier Prime
       code: Space Mono
     colors:
       lightMode:
