@@ -1,108 +1,108 @@
 ---
-title: Słownik terminów (1802)
-tags: [slownik, jezyk, terminy, referencja]
-aliases: [Słownik, Glossary, Terminy, Zwroty]
+title: Słownik terminów
+tags: [slownik, jezyk, terminy, referencja, magia]
+aliases: [Słownik, Glossary, Terminy, Zwroty, Słownik terminów (1802)]
 ---
 
-# Słownik terminów (1802)
+# Słownik terminów
 
-Terminy, zwroty, przekleństwa, okrzyki i słowa potoczne z roku 1802 i okolic. Materiał roboczy dla graczy — żeby wiedzieć, co mówi NPC, co krzyczeć w bójce i jak odróżnić *dandy* od *blackguarda*.
+Terminy, zwroty, przekleństwa i okrzyki z roku 1802 i okolic, plus słownictwo magii, którą ten świat zna na co dzień. Po to, żeby wiedzieć, co mówi NPC, co krzyknąć w bójce i jak odróżnić *dandy* od *blackguarda*.
 
-Artykuł dzieli się na sekcje językowe i tematyczne. Terminy oznaczone *(wulg.)* są wulgarne lub obraźliwe; *(arch.)* — archaiczne w epoce, lecz wciąż w użyciu.
+Kursywą podano polskie odpowiedniki. Skróty: *(wulg.)* — wulgarne lub obraźliwe; *(arch.)* — archaiczne już w epoce, lecz wciąż w użyciu; *daw.* — dawna, staropolska wersja do rzucenia przy stole.
 
 ---
 
-## Angielski — mowa potoczna, pochlebstwa i obelgi
+## Angielski — pochwały, obelgi, przysięgi
 
-### Aprobata i entuzjazm
+### Aprobata i zachwyt
 
-**Capital!** — *Wyśmienite! Znakomicie!* Okrzyk aprobaty wśród klas wyższych. „Capital fellow" — znakomity człowiek.
+**Capital!** — *Wyśmienite! Znakomicie!* Okrzyk aprobaty klas wyższych. „Capital fellow" — znakomity człowiek.
 
-**Famous!** — *Wspaniale!* Nie o sławie — o jakości. „A famous dinner" — wyśmienity obiad.
+**Famous!** — *Wspaniale!* Nie o sławie, o jakości. „A famous dinner" — wyśmienity obiad.
 
-**Prime!** / **First-rate!** / **Bang-up!** — *Pierwszorzędny, doskonały.* „That's bang-up work" — naprawdę dobra robota. Używane przez klasy niższe częściej niż *capital*.
+**Prime! / First-rate! / Bang-up!** — *Pierwszorzędne, doskonałe; daw. byczo, jak się patrzy.* „That's bang-up work" — kawał dobrej roboty. Częstsze u klas niższych niż *capital*.
 
-**Topping!** — *Znakomity!* Popularne w Londynie.
+**Topping!** — *Znakomite!* Modne w Londynie.
 
-**I warrant you** — *Zapewniam cię, ręczę za to.* „He'll be there, I warrant you."
+**I warrant you** — *Zapewniam cię, ręczę za to; daw. dalibóg.* „He'll be there, I warrant you."
 
 ### Obelgi i inwektywy
 
-**Blackguard** (*blæɡɑːrd*) — *Łajdak, kanalia, nikczemnik.* Pierwotnie: pracownicy kuchni i stajni. W 1802: poważna obelga klasowa. Nazwać kogoś *blackguard* to zakwestionować jego honorowe miejsce w społeczeństwie.
+**Blackguard** (*blæɡɑːrd*) — *Łajdak, kanalia, nikczemnik; daw. hultaj, łotrzyk, gałgan.* Pierwotnie kuchcik i parobek od stajni. W 1802 poważna obelga klasowa — odmawia człowiekowi honorowego miejsca w społeczeństwie.
 
-**Scoundrel** — *Łotr, szubrawiec.* Nieco lżejsze niż *blackguard*, lecz poważne.
+**Scoundrel** — *Łotr, szubrawiec; daw. szelma, łajdus.* Nieco lżejsze niż *blackguard*, lecz poważne.
 
-**Rogue** — *Łotr, oszust, szubrawiec.* Bywa używane z humorem wśród przyjaciół: „You old rogue!" — ale w konflikcie jest groźbą reputacyjną.
+**Rogue** — *Łotr, oszust, szelma.* Bywa żartem między przyjaciółmi — „You old rogue!" — ale w sporze jest groźbą dla reputacji.
 
-**Jackanapes** — *Zarozumialec, bezczelnik, małpa.* Ktoś, kto zachowuje się ponad swój stan lub bez należytego szacunku.
+**Jackanapes** — *Zarozumialec, bezczelnik; daw. fircyk, panek.* Ktoś, kto zadziera nosa ponad swój stan.
 
-**Coxcomb** — *Paw, fircyk, próżniak.* Człowiek nadmiernie skupiony na własnym wyglądzie i pozycji.
+**Coxcomb** — *Pyszałek, fircyk, próżniak.* Człowiek zapatrzony we własny wygląd i pozycję.
 
-**Popinjay** — *Papuga, pyszałek.* Ktoś próżny i pusty. Dosłownie: papuga.
+**Popinjay** — *Pyszałek, papla; dosł. papuga.* Próżny i pusty.
 
-**Fop** — *Dandys, fircyk.* Mężczyzna obsesyjnie skupiony na modzie, bez substancji. Pejoratywne, ale nie tak mocno jak *blackguard*.
+**Fop** — *Strojniś, fircyk.* Mężczyzna opętany modą, bez treści. Pejoratywne, lecz lżejsze niż *blackguard*.
 
-**Poltroon** — *Tchórz, tchórzliwy łajdak.* Mocna obelga honoru — oskarżenie o brak odwagi.
+**Poltroon** — *Tchórz, bojaźliwiec; daw. tchórz nad tchórze.* Mocne uderzenie w honor — zarzut braku odwagi.
 
-**Milksop** — *Baba, maminsynek, miękiszon.* Mężczyzna bez charakteru i odwagi.
+**Milksop** — *Maminsynek, mięczak; daw. baba, niedojda.* Mężczyzna bez charakteru.
 
-**Nincompoop** / **Blockhead** / **Dolt** — *Głupiec, tępak.* Różne odcienie głupoty. *Blockhead* — głęboka głupota; *nincompoop* — głupota komiczna.
+**Nincompoop / Blockhead / Dolt** — *Głupiec, tępak; daw. bałwan, dudek, gamoń.* *Blockhead* — głupota gruba; *nincompoop* — głupota komiczna.
 
-**Mountebank** — *Szarlatan, hochsztapler, naciągacz.* Pierwotnie: wędrowny sprzedawca fałszywych lekarstw.
+**Mountebank** — *Szarlatan, naciągacz; daw. kuglarz, szalbierz, wydrwigrosz.* Pierwotnie wędrowny sprzedawca fałszywych leków.
 
-**Hussy** — *Hultajka, bezwstydnica.* Kobieta nieodpowiednio zachowująca się lub o złej reputacji moralnej.
+**Hussy** — *Bezwstydnica; daw. ladaco, ladacznica.* Kobieta o złej reputacji lub nieodpowiednim zachowaniu.
 
-**Jade** — *Stara szkaradna jędza.* Lub stary zużyty koń. Nie miłe w obydwu przypadkach.
+**Jade** — *Jędza, sekutnica.* Lub stary zajeżdżony koń. W obu znaczeniach niemiłe.
 
 ### Przysięgi i wykrzykniki
 
-**Zounds!** — *Na rany Boskie!* Skrót od *God's wounds* (rany Chrystusa). *(arch.)* — starsze, wciąż używane.
+**Zounds!** — *Na rany Boskie! Do kroćset!* Skrót od *God's wounds*. *(arch.)*
 
-**Gadzooks!** — *Niech mnie szlag!* Skrót od *God's hooks* (gwoździe krzyża). *(arch.)* — bardziej komiczne niż poważne.
+**Gadzooks!** — *A niech mnie! Tam do licha!* Skrót od *God's hooks* (gwoździe krzyża). *(arch.)*, bardziej komiczne niż groźne.
 
-**Odds bodkins!** — *Na żywego Boga!* Skrót od *God's bodkin* (sztylet Boga). Archaiczne, lecz używane.
+**Odds bodkins!** — *Na żywego Boga!* Od *God's bodkin* (sztylet Boży). *(arch.)*
 
-**'Sblood!** — *Do diabła!* Skrót od *God's blood*. Mocniejsze niż powyższe.
+**'Sblood!** — *Do diabła! Psiakrew!* Od *God's blood*. Mocniejsze niż powyższe.
 
-**By Jove!** — *Na Jowisza! Na miłość boską!* Eufemizm od *By God* — Jowisz zamiast Boga.
+**By Jove!** — *Na Jowisza! Dalibóg!* Eufemizm od *By God*.
 
-**Marry!** — *Matko Boska!* Od *Mary* (Maryja). *(arch.)*
+**Marry!** — *Dalibóg! Jak mi Bóg miły!* Od *Mary* (Maryja). *(arch.)*
 
-**Heaven forfend!** / **God forbid!** — *Broń Boże!*
+**Heaven forfend! / God forbid!** — *Broń Boże! Uchowaj Boże!*
 
-**I'll be jiggered!** — *A niech mnie kule biją!* Zaskoczenie lub niedowierzanie.
+**I'll be jiggered!** — *A niech mnie kule biją! Niech mnie gęś kopnie!* Zaskoczenie i niedowierzanie.
 
-**Lord love you!** — *Kochany ty mój!* Pieszczotliwe lub wyrażające sympatię.
+**Lord love you!** — *Kochany ty mój!* Pieszczotliwe, ciepłe.
 
-**Blast!** / **Damnation!** — *Do diabła! Przeklęte!* *Blast* łagodniejsze, *damnation* mocniejsze.
+**Blast! / Damnation!** — *Do diabła! A niech to! / Przeklęte!* *Blast* łagodniejsze, *damnation* mocniejsze.
 
-**The devil take it!** — *Niech to diabli wezmą!*
+**The devil take it!** — *Niech to diabli wezmą! Tam do kata!*
 
 ---
 
-## Angielski — klasy społeczne i statusy
+## Angielski — stany i statusy
 
-**Quality, the** — *Wyższe sfery, arystokracja.* „He's not of the quality" — nie jest z lepszych rodzin.
+**Quality, the** — *Wyższe sfery, lepsi ludzie.* „He's not of the quality" — nie z lepszych rodzin.
 
-**Gentry, the** — *Ziemiaństwo, szlachta.* Nie lordowie, ale ci powyżej kupców.
+**Gentry, the** — *Ziemiaństwo, szlachta.* Nie lordowie, ale ci ponad kupcami.
 
-**Commonalty / Common folk** — *Prostacy, zwykły lud.* Bez pejoratywu — opis stanu.
+**Commonalty / Common folk** — *Pospólstwo, prosty lud.* Bez pejoratywu — opis stanu.
 
-**Gentleman** — *Dżentelmen, szlachcic.* Technicznie: ktoś bez tytułu, ale z majątkiem i edukacją. Praktycznie: honoru pojęcie.
+**Gentleman** — *Dżentelmen, szlachcic.* Technicznie: bez tytułu, lecz z majątkiem i wychowaniem. Praktycznie: kwestia honoru.
 
-**Esquire** (*Esq.*) — *Pan, Wielmożny.* Tytuł niższy od rycerza, wyższy od *mister*. Każdy szlachcic bez tytułu.
+**Esquire** (*Esq.*) — *Wielmożny pan.* Niżej od rycerza, wyżej od *mister*; każdy szlachcic bez tytułu.
 
-**Your Worship** — *Wasza Wielebność.* Do sędziów pokoju i burmistrzów.
+**Your Worship** — *Wasza Miłość.* Do sędziego pokoju i burmistrza.
 
-**Your Honour** — *Wysoki Sądzie / Panie Sędzio.* Do sędziów sądu wyższego.
+**Your Honour** — *Wysoki Sądzie, Panie Sędzio.* Do sędziego sądu wyższego.
 
-**Dandy** — *Dandys.* Mężczyzna obsesyjnie dbający o modę — Beau Brummell jest archetypem. Nie to samo co *fop* — dandy ma smak; fop tylko pieniądze.
+**Dandy** — *Dandys, elegant.* Mężczyzna z kultem mody — archetypem jest Beau Brummell. Dandy ma smak; *fop* tylko pieniądze.
 
-**Buck** — *Młody elegant, hulaka.* Zamożny młody mężczyzna szukający rozrywek. Konotacje lekko libertynistyczne.
+**Buck** — *Hulaka, młody zawadiaka.* Zamożny młodzik szukający uciech, z nutą libertyna.
 
-**Rake** — *Utracjusz, libertyn.* Mężczyzna prowadzący rozwiązłe życie. „A rake's progress" — droga ku upadkowi.
+**Rake** — *Utracjusz, libertyn; daw. rozpustnik.* Prowadzi rozwiązłe życie. „A rake's progress" — droga ku upadkowi.
 
-**Bluestocking** — *Intelektualistka, uczona dama.* Kobieta zainteresowana literaturą i nauką. Lekko drwiące — „zbyt mądra jak na kobietę".
+**Bluestocking** — *Uczona dama, sawantka.* Kobieta z głową do literatury i nauki. Lekko drwiące — „za mądra jak na kobietę".
 
 ---
 
@@ -112,449 +112,512 @@ Artykuł dzieli się na sekcje językowe i tematyczne. Terminy oznaczone *(wulg.
 
 **Bob** — *Szyling (1/20 funta).* Slang. „A few bob" — kilka szylingów.
 
-**Tanner** — *Sześciopensówka (6d).* Połowa szylinga.
+**Tanner** — *Sześciopensówka (6d).* Pół szylinga.
 
 **Crown** — *Korona (5 szylingów).* Moneta lub kwota.
 
-**Guinea** — *Gwinea (21 szylingów = 1 funt i 1 szyling).* Moneta złota — używana w transakcjach honorowych (honoraria lekarzy, zakłady, obrazy). „Prices in guineas" — mark jakości.
+**Guinea** — *Gwinea (21 szylingów).* Złota moneta transakcji honorowych — honoraria lekarzy, zakłady, obrazy. „Prices in guineas" — znak jakości.
 
-**Farthing** — *Farding (1/4 pensa).* Najmniejsza moneta. „Not worth a farthing" — bezwartościowy.
+**Farthing** — *Ćwierćpensówka (1/4 pensa).* Najmniejsza moneta. „Not worth a farthing" — bezwartościowy.
 
-**Shylock** — *Lichwiarz.* Od postaci z Szekspira. Pejoratywne i antysemickie.
+**Shylock** — *Lichwiarz.* Od postaci Szekspira. Pejoratywne i antysemickie.
 
-**Factor** — *Faktor, agent handlowy.* Przedstawiciel kupca w odległym porcie lub mieście.
+**Factor** — *Faktor, agent handlowy.* Przedstawiciel kupca w odległym porcie.
 
-**Consignment** — *Przesyłka na komis.* Towar wysyłany z poleceniem sprzedaży.
+**Consignment** — *Przesyłka na komis.* Towar wysłany z poleceniem sprzedaży.
 
 ---
 
 ## Angielski — marynarka i morze
 
-**Tar** — *Marynarz.* Od smoły (tar) używanej do konserwacji lin i drewna. „Old salt" — doświadczony marynarz.
+**Tar** — *Marynarz; daw. wilk morski.* Od smoły (*tar*) do konserwacji lin. „Old salt" — stary wyga.
 
-**Landlubber** — *Lądowy szczur.* Ktoś bez doświadczenia morskiego. Obelga dla niemarzynarzy.
+**Landlubber** — *Lądowy szczur, szczur lądowy.* Ktoś bez morskiego doświadczenia. Obelga dla niemarynarzy.
 
-**Pressed man** — *Wcielony siłą, łapaniec.* Mężczyzna zaciągnięty do Royal Navy przez *press gang* bez swojej zgody.
+**Pressed man** — *Wcielony siłą, łapaniec.* Zaciągnięty do Royal Navy przez *press gang* bez zgody.
 
-**Grog** — *Grog.* Mieszanina rumu i wody (proporcja 1:4), porcja wydawana marynarzom Royal Navy dwa razy dziennie. Admiral Vernon wprowadził rozcieńczenie rumu w 1740 roku — jego prezywisko to *Old Grog* od płaszcza z grogran.
+**Grog** — *Grog.* Rum z wodą (1:4), porcja dla marynarzy dwa razy dziennie. Admirał Vernon rozcieńczył rum w 1740 roku — jego przezwisko *Old Grog* od płaszcza z grogramu.
 
-**Splice the mainbrace** — *Wydać dodatkową rację rumu, świętować.* Nagroda za wyjątkowe wysiłki lub zwycięstwo.
+**Splice the mainbrace** — *Wydać dodatkową rację rumu; świętować.* Nagroda za wyjątkowy trud lub zwycięstwo.
 
-**Three sheets to the wind** — *Zalany w sztok.* Gdy trzy liny (sheets) trzymające żagle są luźne, statek kołysze bez kontroli. Metafora pijaństwa.
+**Three sheets to the wind** — *Zalany w sztok.* Trzy luźne liny żagli i statek kołysze bez kontroli — stąd metafora pijaństwa.
 
-**Knows the ropes** — *Zna się na rzeczy.* Dosłownie: wie, do czego służą liny. Przenośnie: doświadczony w czymś.
+**Knows the ropes** — *Zna się na rzeczy.* Dosłownie: wie, do czego służą liny.
 
-**Avast!** — *Stój! Zatrzymaj się!* Rozkaz zatrzymania pracy lub ruchu.
+**Avast!** — *Stój! Dość!* Rozkaz wstrzymania pracy lub ruchu.
 
-**Belay!** — *Zabezpiecz! / Stop!* Zatrzymanie akcji lub zabezpieczenie liny.
+**Belay!** — *Zabezpiecz! Stop!* Zatrzymanie akcji lub umocowanie liny.
 
-**Ahoy!** — *Hej! Halo!* Okrzyk wzywania lub pozdrowienia na morzu.
+**Ahoy!** — *Hej! Halo!* Okrzyk wołania na morzu.
 
-**Starboard / Larboard** — *Prawa burta / Lewa burta.* W 1802 roku: *larboard* dla lewej (wkrótce zastąpione przez *port* dla uniknięcia pomyłek). *Starboard* (prawa) — od anglosaskiego *steorbord* (burta sterowania).
+**Starboard / Larboard** — *Prawa burta / Lewa burta.* W 1802 *larboard* na lewą (wkrótce zastąpione przez *port* dla uniknięcia pomyłek). *Starboard* od anglosaskiego *steorbord* — burta sterowa.
 
-**Quarterdeck** — *Pokład rufowy.* Część okrętu zarezerwowana dla oficerów. „Quarterdeckmanners" — oficerski szyk i zachowanie.
+**Quarterdeck** — *Pokład rufowy.* Część okrętu dla oficerów. „Quarterdeck manners" — oficerski szyk.
 
-**Mess** — *Mesa, stół okrętowy.* Grupa marynarzy lub oficerów jadząca razem. „Mess mate" — towarzysz stołu.
+**Mess** — *Mesa, stół okrętowy.* Grupa jedząca razem. „Mess mate" — towarzysz stołu.
 
-**Yo-ho-ho!** — *Hej-ho!* Okrzyk wysiłku przy ciąganiu lin. Nie z piractwa — ze zbiorowego wysiłku.
+**Yo-ho-ho!** — *Hej-ho!* Okrzyk przy wspólnym ciągnięciu lin — ze zbiorowego wysiłku, nie z piractwa.
 
 ---
 
 ## Angielski — wojsko
 
-**Redcoat** / **Lobster** *(żart.)* — *Czerwony mundur, angielski żołnierz.* Standardowy mundur piechoty brytyjskiej. *Lobster* — od koloru i skorupy.
+**Redcoat / Lobster** *(żart.)* — *Czerwony mundur, angielski żołnierz.* Standardowa piechota brytyjska. *Lobster* — od koloru i „skorupy".
 
-**Tommy** — *Żołnierz piechoty, prosty żołnierz.* *(wczesna forma, bardziej popularna po 1815)*
+**Tommy** — *Prosty żołnierz piechoty.* (Forma wczesna, spopularyzowana po 1815.)
 
-**Musket** — *Muszkiet.* Broń palną z gładką lufą, ładowana od wylotu, efektywna na siedemdziesiąt do stu metrów.
+**Musket** — *Muszkiet.* Broń gładkolufowa, ładowana od wylotu, skuteczna na siedemdziesiąt do stu metrów.
 
-**File-closer** — *Zamykający szyk.* Podoficer stojący za szeregami bojowymi, dbający o dyscyplinę.
+**File-closer** — *Zamykający szyk.* Podoficer za szeregiem, pilnujący dyscypliny.
 
-**Forming square** — *Tworzenie czworoboku.* Defensywna formacja piechoty przeciw kawalerii — żołnierze ustawieni w kwadrat z bagnetami na zewnątrz.
+**Forming square** — *Tworzenie czworoboku.* Obrona piechoty przed kawalerią — kwadrat najeżony bagnetami.
 
-**Canteen** — *Manierka, menażka.* Lub: kantyna przy forcie/koszarach.
+**Canteen** — *Manierka.* Lub kantyna przy forcie.
 
-**Billet** — *Kwaterunek.* Zakwaterowanie żołnierzy u cywilów. „Billeted on the town" — na kwaterunku w mieście. Niepopularne u cywilów.
+**Billet** — *Kwaterunek.* Zakwaterowanie żołnierzy u cywilów. „Billeted on the town" — na kwaterunku w mieście. U cywilów nielubiane.
 
-**Forage** — *Furaż, rekwizycja.* Zbieranie żywności i pasz od ludności cywilnej przez wojsko — eufemizm dla grabieży zorganizowanej.
+**Forage** — *Furaż, rekwizycja.* Zbieranie żywności i paszy od ludności — eufemizm zorganizowanej grabieży.
 
 ---
 
 ## Angielski — medycyna i choroby
 
-**Consumption** — *Suchoty, gruźlica.* Gruźlica płuc — najczęstsza przyczyna śmierci w miastach.
+**Consumption** — *Suchoty, gruźlica.* Gruźlica płuc — częsta przyczyna śmierci w miastach.
 
-**Ague** (*eɪɡjuː*) — *Febra, zimnica.* Malaria — napady gorączki z dreszczami i potami. Endemiczna w bagnistych rejonach (Chesapeake, Luizjana, delta Nilu).
+**Ague** (*eɪɡjuː*) — *Febra, zimnica.* Malaria — napady gorączki z dreszczem. Endemiczna na bagnach (Chesapeake, Luizjana, delta Nilu).
 
-**Yellow jack** — *Żółta gorączka, żółty Jack.* Żółta febra — *Jack* od żółtej bandery wywieszanej przez statki na kwarantannie.
+**Yellow jack** — *Żółta febra.* *Jack* od żółtej bandery statków na kwarantannie.
 
-**Putrid fever** — *Gnilna gorączka.* Tyfus. Szerzył się tam gdzie brud i zagęszczenie — obozy wojskowe, więzienia.
+**Putrid fever** — *Gnilna gorączka.* Tyfus. Plaga obozów, więzień, zatłoczenia.
 
-**Dropsy** — *Puchlina.* Opuchlizna ciała — objaw niewydolności serca lub nerek.
+**Dropsy** — *Puchlina, wodna choroba.* Opuchlizna — objaw niewydolności serca lub nerek.
 
-**Apoplexy** — *Udar.* Nagłe porażenie, utrata przytomności.
+**Apoplexy** — *Apopleksja, udar.* Nagłe porażenie i utrata przytomności.
 
-**Laudanum** — *Laudanum.* Nalewka z opium w alkoholu. Dostępna bez recepty, używana na wszystko: ból, kaszel, biegunka, bezsenność. Uzależniająca.
+**Laudanum** — *Laudanum.* Nalewka opiumowa w alkoholu. Bez recepty, na wszystko: ból, kaszel, biegunkę, bezsenność. Uzależnia.
 
-**Apothecary** — *Aptekarz, felczer.* Niżej w hierarchii niż lekarz (*physician*). Przygotowuje leki i leczy podstawowe dolegliwości.
+**Apothecary** — *Aptekarz, felczer.* Niżej niż *physician* — przyrządza leki i leczy drobne dolegliwości.
 
-**Physician** — *Lekarz.* Wykształcony akademicko, diagnozuje i przepisuje — rzadko operuje.
+**Physician** — *Lekarz, medyk.* Wykształcony akademicko; diagnozuje i przepisuje, rzadko operuje.
 
-**Surgeon** — *Chirurg.* Niżej niż *physician* — wykonuje operacje, amputacje. Na okrętach: *ship's surgeon* — pierwsza pomoc, amputacje po bitwach.
+**Surgeon** — *Chirurg, cyrulik.* Niżej niż *physician* — operacje, amputacje. Na okręcie *ship's surgeon* — pierwsza pomoc i piła po bitwie.
 
-**Bloodletting / Phlebotomy** — *Puszczanie krwi, flebotomia.* Standardowe leczenie przez nacięcie żyły lub przystawianie pijawek. Teoria: nadmierne napięcie naczyniowe wymaga upustu.
+**Bloodletting / Phlebotomy** — *Puszczanie krwi, flebotomia.* Standard leczenia: nacięcie żyły lub pijawki. Teoria: nadmiar trzeba upuścić.
 
 ---
 
-## Angielski — Ameryka Północna i pogranicze
+## Angielski — Ameryka i pogranicze
 
-**Reckoning** / **I reckon** — *Myślę, sądzę, obliczam.* Na wschodnim wybrzeżu: kalkulacja. Na pograniczu: opinia. „I reckon he's right" — zdaje mi się, że ma rację.
+**Reckoning / I reckon** — *Myślę, sądzę; liczę.* Na wschodzie — rachunek; na pograniczu — opinia. „I reckon he's right" — zdaje mi się, że ma rację.
 
-**I allow** — *Sądzę, dopuszczam.* Regionalizm południowy i frontierowy. „I allow he means well" — mam wrażenie, że chce dobrze.
+**I allow** — *Sądzę, przyznaję.* Regionalizm Południa i pogranicza. „I allow he means well" — mam wrażenie, że chce dobrze.
 
-**Yonder** — *Tam, tamtędy, ówdzie.* „Over yonder" — tam dalej.
+**Yonder** — *Tam, ówdzie.* „Over yonder" — tam dalej.
 
-**Tarnation!** — *Do diabła! Jasny gwint!* Eufemizm od *damnation*. Typowo frontierowe.
+**Tarnation!** — *Do diabła! Jasny gwint!* Eufemizm od *damnation*. Typowo pograniczne.
 
-**Consarnit!** / **Dagnabbit!** — *Niech to szlag! Cholera!* Łagodne przekleństwa pogranicza.
+**Consarnit! / Dagnabbit!** — *Niech to szlag! A bodaj to!* Łagodne klątwy pogranicza.
 
-**Hornswoggle** — *Wyrolować, nabrać, okantować.* „I've been hornswoggled" — dałem się oszukać.
+**Hornswoggle** — *Wyrolować, okantować, nabrać.* „I've been hornswoggled" — dałem się oszukać.
 
-**Making tracks** — *Uciekać, zwijać manatki.* „Better make tracks before dark" — lepiej ruszać przed zmrokiem.
+**Making tracks** — *Zwijać manatki, brać nogi za pas.* „Better make tracks before dark" — lepiej ruszać przed zmrokiem.
 
 **Greenhorn** — *Żółtodziób, nowicjusz.* Nowy osadnik lub niewtajemniczony.
 
-**Squatter** — *Dziki osadnik, samowolnik.* Ktoś, kto zajął ziemię publiczną bez tytułu prawnego.
+**Squatter** — *Dziki osadnik, samowolnik.* Zajął ziemię publiczną bez tytułu.
 
-**Speculator** — *Spekulant ziemny.* Kupiec skupujący duże obszary ziemi w nadziei na odsprzedaż z zyskiem. Nielubiany przez osadników.
+**Speculator** — *Spekulant ziemny.* Skupuje ziemię na odsprzedaż. Nielubiany przez osadników.
 
-**Long hunter** — *Myśliwy dalekiego zasięgu.* Myśliwy wyjeżdżający w głąb lasów na miesiące lub lata.
+**Long hunter** — *Myśliwy dalekiego zasięgu.* Wyrusza w lasy na miesiące lub lata.
 
-**Flatboat** — *Barka płaskodenna.* Prosta konstrukcja do jednorazowego spławu towarów rzeką w dół — rozbierana na deski po dotarciu do Nowego Orleanu.
+**Flatboat** — *Barka płaskodenna.* Jednorazowa, na spław w dół rzeki — rozbierana na deski po dotarciu do Nowego Orleanu.
 
-**Keelboat** — *Łódź kilowa.* Węższa, z kilem, można ją holować pod prąd — drożej, wolniej.
+**Keelboat** — *Łódź kilowa.* Węższa, z kilem, holowana pod prąd — drożej i wolniej.
 
-**Indian country** — *Tereny indiańskie.* Ziemie za linią osadnictwa, niezorganizowane jako terytorium USA.
+**Indian country** — *Tereny rdzenne, ziemie indiańskie.* Za linią osadnictwa, poza terytorium USA.
 
-**Treaty line** — *Linia traktatowa.* Oficjalna granica między ziemiami USA a rdzennymi.
+**Treaty line** — *Linia traktatowa.* Oficjalna granica między ziemią USA a rdzenną.
 
 ---
 
-## Francuski — mowa potoczna, przekleństwa, okrzyki
+## Francuski — mowa, przekleństwa, okrzyki
 
 ### Przekleństwa i przysięgi
 
-**Sacré bleu!** — *Na Boga!* Dosłownie: święty błękit — kolor szaty Maryi Panny, eufemizm od *sacré Dieu*. Wszechobecne.
+**Sacré bleu!** — *Na Boga! Tam do licha!* Dosłownie: święty błękit (kolor szaty Maryi), eufemizm od *sacré Dieu*. Wszechobecne.
 
-**Parbleu!** — *Na Boga! Do licha!* Eufemizm od *par Dieu* (przez Boga). Lżejszy odcień.
+**Parbleu!** — *Na Boga! Do licha!* Eufemizm od *par Dieu*. Lżejsze.
 
-**Mordieu!** / **Morbleu!** — *Do licha! Niech to!* Od *mort-Dieu* (śmierć Boga). Mocniejsze.
+**Mordieu! / Morbleu!** — *Do kroćset! A niech to!* Od *mort-Dieu* (śmierć Boga). Mocniejsze.
 
-**Nom d'un chien!** — *Na psa urok! Do diabła!* Dosłownie: w imię psa. Bardziej kolorowe niż obraźliwe.
+**Nom d'un chien!** — *Psia kość! Do diabła!* Dosłownie: w imię psa. Bardziej barwne niż obraźliwe.
 
-**Mille tonnerres!** — *Tysiąc piorunów!* Mocny okrzyk frustracji lub zaskoczenia.
+**Mille tonnerres!** — *Tysiąc piorunów! Do stu piorunów!* Mocny okrzyk frustracji.
 
-**Tonnerre!** / **Tonnerre de Brest!** — *Piorun!* Bonnierowski okrzyk. *Tonnerre de Brest* — piorun z Brestu, słynne z kultury morskiej.
+**Tonnerre! / Tonnerre de Brest!** — *Pioruny!* Marynarski okrzyk, słynny z kultury morskiej Brestu.
 
-**Ventre-saint-gris!** — *Przysięga Henryka IV, przejęta przez Napoleona.* Dosłownie: brzuch świętej szarości (szara tunika mnicha). Używał jej Henri IV, co nadało jej ludowy, gaskońsko-brawurowy charakter.
+**Ventre-saint-gris!** — *Na świętego Pawła!* Przysięga Henryka IV (dosł. brzuch świętej szarości — szara tunika mnicha), przejęta przez Napoleona; ludowa, gaskońsko-zawadiacka.
 
-**Sacré nom de nom!** — *Wielkie nieba! Niech to jasny!* Zdwojona przysięga, komicznie intensywna.
+**Sacré nom de nom!** — *Wielkie nieba! A niech to wszyscy!* Zdwojona przysięga, komicznie intensywna.
 
-**Diable!** / **Sacré diable!** — *Diabeł! Do diab­ła!*
+**Diable! / Sacré diable!** — *Diabeł! Do diabła!*
 
-**Mon Dieu!** — *Mój Boże!* Powszechne, wszystkie klasy.
+**Mon Dieu!** — *Mój Boże!* Powszechne, wszystkie stany.
 
-**Pardon, monsieur / madame** — *Przepraszam, proszę pana / pani.* Rutynowa grzeczność, ale też autentyczna przeprosina.
+**Pardon, monsieur / madame** — *Przepraszam pana / panią.* Rutynowa grzeczność i autentyczna przeprosina.
 
 ### Rewolucja i konsulat
 
-**Citoyen / Citoyenne** — *Obywatel / Obywatelka.* Rewolucyjny sposób zwracania się — zastąpił *monsieur/madame* w latach 1793–1799. W 1802 roku: *monsieur* wraca do użytku, ale *citoyen* wciąż popularne wśród starych republikanów.
+**Citoyen / Citoyenne** — *Obywatel / Obywatelka.* Rewolucyjny zwrot, który w latach 1793–1799 wyparł *monsieur/madame*. W 1802 *monsieur* wraca, lecz *citoyen* żyje wśród starych republikanów.
 
-**Vive la République!** — *Niech żyje Republika!* Okrzyk rewolucyjny — w 1802 roku wciąż aktualny, bo Francja jest republiką (przynajmniej z nazwy).
+**Vive la République!** — *Niech żyje Republika!* W 1802 wciąż aktualne — Francja jest republiką, przynajmniej z nazwy.
 
-**À bas les tyrans!** — *Precz z tyranami!* Okrzyk jakobiński — w 1802 roku ryzykowny w głos.
+**À bas les tyrans!** — *Precz z tyranami!* Okrzyk jakobiński, w 1802 ryzykowny na głos.
 
-**Liberté, Égalité, Fraternité** — *Wolność, Równość, Braterstwo.* Dewiza Republiki Francuskiej.
+**Liberté, Égalité, Fraternité** — *Wolność, Równość, Braterstwo.* Dewiza Republiki.
 
 ### Wojskowość napoleońska
 
 **En avant!** — *Naprzód!* Rozkaz marszu.
 
-**À la baïonnette!** / **Baïonnettes!** — *Na bagnety!*
+**À la baïonnette! / Baïonnettes!** — *Na bagnety!*
 
-**Feu!** — *Ogień!* Rozkaz strzału.
+**Feu!** — *Ognia! Pal!* Rozkaz strzału.
 
-**Retraite!** / **En retraite!** — *Odwrót!*
+**Retraite! / En retraite!** — *Odwrót!*
 
-**Grognard** — *Mruczacz, grumbler.* Żołnierz Starej Gwardii Napoleona — weteran, który biadoli, ale zawsze walczy. Dosłownie: mruczący.
+**Grognard** — *Zrzęda, gwardzista-mruk.* Weteran Starej Gwardii Napoleona — biada, lecz zawsze walczy. Dosłownie: mruczący.
 
-**Brassard** — *Opaska.* Oznaczenie na ramieniu.
+**Brassard** — *Opaska na ramię.* Oznaczenie.
 
-**Cantinière** — *Markietanka.* Kobieta towarzysząca wojsku, prowadząca sprzedaż jedzenia i alkoholu. Oficjalnie uznana, nosząca własny mundur.
+**Cantinière** — *Markietanka.* Kobieta przy wojsku, sprzedająca jadło i alkohol. Oficjalna, z własnym mundurem.
 
 **Vivandière** — *Patrz: cantinière.* Synonim.
 
-**Boulet** — *Kula armatnia.* Dosłownie; przenośnie: niespodziewane uderzenie losu.
+**Boulet** — *Kula armatnia.* Przenośnie: nagły cios losu.
 
-**Billet** (*bilɛ*) — *Kwatera.* Rozkaz kwaterowania żołnierzy u cywilów; też: bilet, nota.
+**Billet** (*bilɛ*) — *Kwatera; bilet, nota.* Rozkaz kwaterowania żołnierzy u cywilów.
 
 ---
 
-## Français de Louisiane — kreolska mowa Nowego Orleanu
+## Français de Louisiane — mowa kreolska Nowego Orleanu
 
-**Lagniappe** (*lanjap*) — *Prezent do zakupu, coś ekstra.* Handlowy zwyczaj dorzucania czegoś małego przy transakcji. Weszło do lokalnego angielskiego — *"a little lagniappe"*.
+**Lagniappe** (*lanjap*) — *Dorzutka, coś ekstra.* Zwyczaj dorzucania drobiazgu do zakupu. Weszło do lokalnego angielskiego — „a little lagniappe".
 
-**Bayou** — *Bayou, rozlewisko.* Wolno płynący kanał wodny w delcie — od Choctaw *bayuk*. Wszechobecne w krajobrazie Luizjany.
+**Bayou** — *Bayou, rozlewisko, starorzecze.* Wolny kanał wodny delty — od Choctaw *bayuk*. Wszechobecne w Luizjanie.
 
-**Faubourg** — *Przedmieście, dzielnica.* Dzielnice Nowego Orleanu poza oryginalnym Vieux Carré.
+**Faubourg** — *Przedmieście, dzielnica.* Dzielnice Nowego Orleanu poza Vieux Carré.
 
-**Vieux Carré** — *Stare Kwadratowe, Stare Miasto.* Pierwotna siatka ulic Nowego Orleanu (dziś French Quarter).
+**Vieux Carré** — *Stare Miasto.* Pierwotna siatka ulic (dziś French Quarter).
 
-**Banquette** (*bãkɛt*) — *Chodnik, trotuaar.* W Luizjanie: chodnik drewniany lub ceglany wzdłuż ulic — słowo weszło do lokalnego angielskiego.
+**Banquette** (*bãkɛt*) — *Chodnik, trotuar.* W Luizjanie: chodnik z desek lub cegły. Weszło do lokalnego angielskiego.
 
-**Cher** (*ʃɛ*) — *Kochanie, drogi/a.* Pieszczotliwy sposób zwracania się do kogoś. „Cher ami" — kochany przyjacielu.
+**Cher** (*ʃɛ*) — *Kochanie, drogi.* Pieszczotliwie. „Cher ami" — kochany przyjacielu.
 
 **Bébé** — *Dziecko, kochanie.* Pieszczotliwe.
 
-**Couillon!** *(wulg.)* — *Głuptas, osioł!* Dosłownie: jądra. W Luizjanie: powszechna, niezbyt mocna obelga.
+**Couillon!** *(wulg.)* — *Głuptas, osioł!* Dosłownie: jądra. W Luizjanie powszechna, niezbyt mocna obelga.
 
-**Bon sang!** — *Na krew! Do licha!* Dosłownie: dobra krew. Łagodna przysięga.
+**Bon sang!** — *Do licha! Tam do kata!* Dosłownie: dobra krew. Łagodne.
 
-**Allons!** — *Chodźmy! No to jazda!* Popularne w kreolskiej mowie jako zachęta.
+**Allons!** — *Chodźmy! No to w drogę!* Popularne jako zachęta.
 
-**C'est la vie** — *Takie jest życie.* Westchnienie rezygnacji.
+**C'est la vie** — *Takie życie.* Westchnienie rezygnacji.
 
 **Mon ami / Mon amie** — *Mój przyjacielu / Moja przyjaciółko.*
 
-**Picayune** — *Drobiazg, coś bez wartości.* Od małej hiszpańskiej monety *picaillon* — weszło do angielskiego przez Nowy Orlean.
+**Picayune** — *Drobiazg, bezwartość.* Od hiszpańskiej monety *picaillon* — weszło do angielskiego przez Nowy Orlean.
 
 ---
 
-## Hiszpański — kolonie i Nowa Świat
+## Hiszpański — kolonie i Nowy Świat
 
 ### Tytuły i statusy
 
-**Don / Doña** — *Pan / Pani (szlachetny).* Tytuł honorowy dla szlachty i ziemiaństwa. Używany przed imieniem: *Don Pedro*, *Doña Ana*.
+**Don / Doña** — *Pan / Pani (szlachetny).* Tytuł honorowy szlachty i ziemiaństwa, przed imieniem: *Don Pedro*, *Doña Ana*.
 
 **Señor / Señora / Señorita** — *Pan / Pani / Panienka.* Standardowy zwrot grzecznościowy.
 
-**Hidalgo** — *Szlachcic niższego szczebla.* Od *hijo de algo* — syn kogoś. Posiada tytuł, nie zawsze posiadłości.
+**Hidalgo** — *Drobny szlachcic.* Od *hijo de algo* — „syn kogoś". Ma tytuł, nie zawsze włości.
 
-**Criollo / Criolla** — *Kreol, kreolka.* Urodzony(a) w koloniach z europejskich rodziców. Niższy prestiż niż *peninsular*, ale wyższy niż *mestizo*.
+**Criollo / Criolla** — *Kreol, kreolka.* Urodzony w koloniach z europejskich rodziców. Niżej niż *peninsular*, wyżej niż *mestizo*.
 
-**Peninsular** — *Peninsularny, przybysz z Półwyspu.* Urodzony w Hiszpanii — wyższy status w koloniach niż kreolowie.
+**Peninsular** — *Przybysz z Półwyspu.* Urodzony w Hiszpanii — w koloniach wyżej niż kreol.
 
-**Mestizo** — *Metys.* Mieszane pochodzenie europejskie i indiańskie.
+**Mestizo** — *Metys.* Pochodzenie europejsko-indiańskie.
 
-**Mulato** — *Mulet.* Mieszane pochodzenie europejskie i afrykańskie.
+**Mulato** — *Mulat.* Pochodzenie europejsko-afrykańskie.
 
-**Zambo / Zambo** — *Zambo.* Mieszane pochodzenie afrykańskie i indiańskie.
+**Zambo** — *Zambo.* Pochodzenie afrykańsko-indiańskie.
 
 ### Administracja
 
-**Intendente** — *Intendent.* Administrator finansowy prowincji — inny urząd niż gubernator (*gobernador*). W Luizjanie to intendent Morales, nie gubernator Salcedo, odwołał prawo składu.
+**Intendente** — *Intendent.* Administrator finansowy prowincji — inny urząd niż gubernator (*gobernador*). W Luizjanie prawo składu odwołał intendent Morales, nie gubernator Salcedo.
 
-**Alcalde** — *Alcad, burmistrz, sędzia pokoju.* Lokalny urzędnik administracyjny i sądowy.
+**Alcalde** — *Alkad, burmistrz-sędzia.* Lokalny urzędnik administracyjny i sądowy.
 
-**Presidio** — *Presidio, garnizon graniczny.* Fort wojskowy z jednostką stałą, często centrum osadnictwa.
+**Presidio** — *Presidio, fort graniczny.* Garnizon ze stałą załogą, często zalążek osady.
 
-**Hacienda** — *Hacjenda.* Duże posiadłości ziemskie z domostwem, polami i zależną siłą roboczą.
+**Hacienda** — *Hacjenda.* Wielka posiadłość z domostwem, polami i zależną siłą roboczą.
 
-**Vaquero** — *Vaquero, pastuch bydła.* Konny pasterz bydła — poprzednik cowboya.
+**Vaquero** — *Vaquero, konny pastuch.* Poprzednik cowboya.
 
 ### Przekleństwa i okrzyki
 
-**¡Caramba!** — *O rany! Niech to!* Wyraz zaskoczenia lub frustracji. Łagodne.
+**¡Caramba!** — *O rany! A niech to!* Zaskoczenie lub frustracja. Łagodne.
 
-**¡Caray!** — *O do licha! O rany!* Eufemizm od *¡Carajo!* (wulg.).
+**¡Caray!** — *O do licha!* Eufemizm od *¡Carajo!*
 
-**¡Carajo!** *(wulg.)* — *Do diabła! Kutas!* Silne przekleństwo — penis, a przez rozszerzenie: mocny wyraz frustacji.
+**¡Carajo!** *(wulg.)* — *Do diabła! Cholera jasna!* Mocne — penis, a przez rozszerzenie wyraz wściekłości.
 
-**¡Coño!** *(wulg.)* — *Kurwa!* Bardzo mocne. W Kubie i Puerto Rico — powszechniejsze; w Meksyku — mocniejsze.
+**¡Coño!** *(wulg.)* — *Kurwa!* Bardzo mocne; powszechniejsze na Karaibach niż w Meksyku.
 
-**¡Válgame Dios!** — *Boże, dopomóż mi! Wielkie nieba!* Dosłownie: niech Bóg mi dopomożą.
+**¡Válgame Dios!** — *Boże, dopomóż! Wielkie nieba!* Dosłownie: niech mi Bóg dopomoże.
 
-**¡Por Dios!** — *Na Boga! Przez Boga!* Mocna przysięga lub apel.
+**¡Por Dios!** — *Na Boga! Na rany Boskie!* Mocna przysięga lub apel.
 
 **¡Dios mío!** — *Boże mój!* Powszechne.
 
-**¡Madre de Dios!** — *Matko Boska!* Intensywne zdumienie lub przerażenie.
+**¡Madre de Dios!** — *Matko Boska!* Zdumienie lub trwoga.
 
 ---
 
-## Haitian Creole i terminologia Vodou
+## Haitański kreolski i Vodou
 
 ### Mowa kreolska
 
-**Ou menm** — *Ty sam / właśnie ty.* Emfatyczne.
+**Ou menm** — *Ty sam, właśnie ty.* Emfatyczne.
 
-**Sa k pase?** — *Co się dzieje? Jak leci?* Pozdrowienie.
+**Sa k pase?** — *Co słychać? Jak leci?* Pozdrowienie.
 
-**Nap boule** — *Jakoś lecimy.* Standardowa odpowiedź na *sa k pase*.
+**Nap boule** — *Jakoś się kręci.* Standardowa odpowiedź na *sa k pase*.
 
 **Mèsi** — *Dziękuję.*
 
 **Tanpri** — *Proszę.*
 
-**Blan** — *Biały człowiek, Europejczyk.* Neutralne określenie — nie zawsze obelga, lecz wyraźne rozróżnienie.
+**Blan** — *Biały, Europejczyk.* Neutralne, lecz wyraźne rozróżnienie.
 
-**Nèg** — *Czarny mężczyzna.* Neutralne w kreolskim — *nèg mwen* oznacza *mój człowieku* (familiarnie). Nie przenosić wprost do angielskiego.
+**Nèg** — *Czarny mężczyzna.* W kreolskim neutralne — *nèg mwen* to „mój człowieku" (poufale). Nie przenosić wprost do angielskiego.
 
-**Gede** — *Duch śmierci.* Rodzina lwa (duchów) Gede — patroni śmierci, pochówku, płodności. Nieodłączni od życia.
+**Gede** — *Duchy śmierci.* Rodzina lwa śmierci, pochówku i płodności — nieodłączni od życia.
 
 ### Terminologia Vodou
 
-**Lwa** — *Lwa, duch.* Boski pośrednik — nie bóg, lecz potężna istota duchowa stojąca między Stwórcą a ludźmi.
+Uwaga: poniższe to słownictwo religii haitańskiej. Mechanikę magii w tym świecie — kobieca moc, wiązanie [[Fey|feyów]], słabość na ołów — opisuje [[Voodoo]] oraz część „Magia settingu" niżej.
 
-**Houngan** — *Houngan.* Kapłan Vodou. Prowadzi ceremonie, leczy, pośredniczy z lwa.
+**Lwa** — *Lwa, duch.* Potężny pośrednik między Stwórcą a ludźmi, nie bóg.
 
-**Mambo** — *Mambo.* Kapłanka Vodou. Równorzędna lub wyższa niż houngan — Vodou nie dyskryminuje płci kapłanów.
+**Houngan** — *Houngan, kapłan.* Prowadzi obrzęd, leczy, pośredniczy z lwa.
 
-**Bòkò** — *Boko, czarownik.* Pracuje z mroczną stroną duchów — sprzedaje klątwy, truizny, uroki. Nie to samo co houngan, choć granice są płynne.
+**Mambo** — *Mambo, kapłanka.* Równa hounganowi lub wyższa.
 
-**Ounfò** — *Ounfo, świątynia.* Miejsce ceremonii Vodou — może być prowizoryczne lub stałe.
+**Bòkò** — *Boko, czarownik.* Pracuje z mroczną stroną duchów — klątwy, trucizny, uroki. Granice z hounganem płynne.
 
-**Asson** — *Asson.* Grzechotka z nasion i kości węża — insygnium hougana lub mambo.
+**Ounfò** — *Ounfo, świątynia.* Miejsce obrzędu, stałe lub prowizoryczne.
 
-**Gros bon ange** — *Wielki dobry anioł.* Część duszy wspólna z całą ludzkością — rozpuszcza się w kosmosie po śmierci.
+**Asson** — *Asson.* Grzechotka z nasion i kości węża — insygnium hougana i mambo.
+
+**Gros bon ange** — *Wielki dobry anioł.* Część duszy wspólna całej ludzkości; po śmierci rozpływa się w kosmosie.
 
 **Ti bon ange** — *Mały dobry anioł.* Indywidualna część duszy — może zostać schwytana i użyta przez bòkò.
 
-**Zombi** — *Zombie.* W oryginalnym znaczeniu: człowiek, któremu bòkò ukradł ti bon ange i używa go jako sługi. Ciało chodzi i pracuje; dusza jest uwięziona. Strach przed zombifikacją jest realny i kulturowo głęboki.
+**Zombi** — *Zombie.* Człowiek, któremu bòkò ukradł *ti bon ange* i używa jako sługi; ciało chodzi i pracuje, dusza jest uwięziona. Strach przed zombifikacją sięga głęboko.
 
-**Ouanga / Wanga** — *Urok, amulet, zaklęcie.* Fizyczny obiekt naładowany mocą duchową — do ochrony lub ataku.
+**Ouanga / Wanga** — *Urok, amulet.* Przedmiot naładowany mocą — do ochrony lub ataku.
 
-**Ogou** — *Ogou.* Lwa żelaza, walki i polityki. Utożsamiany ze świętym Jerzym lub Jakubem. Patronował rewolucjonistom.
+**Ogou** — *Ogou.* Lwa żelaza, walki i polityki; utożsamiany ze świętym Jerzym. Patron rewolucjonistów.
 
-**Erzulie Dantor** — *Erzulie Dantor.* Lwa macierzyństwa, zemsty i ochrony kobiet. Czarna Matka Boska z blizną na policzku. Towarzyszyła kobietom walczącym w rewolucji.
-
----
-
-## Słownictwo z języków rdzennych (przejęte do angielskiego)
-
-Większość tych słów weszła do angielskiego przez kontakty kolonialne i jest w użyciu w Ameryce Północnej w 1802 roku.
-
-**Tomahawk** — *Tomahawk, topór bojowy.* Z algonkijskiego *tamahak*. Broń i narzędzie, symbolicznie: akt wypowiedzenia lub zakończenia wrogości (*bury the hatchet* — zakopać tomahawk).
-
-**Moccasin** — *Mokasyn.* Skórzany but bez twardej podeszwy — z algonkijskiego *makasin*. Noszone przez rdzennych i przez pionierów pogranicza.
-
-**Canoe** — *Kanoe, kajak.* Z karaibskiego *canaoua*. Każde lekkie czółno z kory lub skóry.
-
-**Wampum** — *Wampum.* Polerowane muszle białe (*wampumpeage*) lub fioletowe używane jako waluta dyplomatyczna i ceremonialna. Z algonkijskiego.
-
-**Sachem** — *Sachem, wódz.* Tytuł wodza lub starszego plemienia — szczególnie algonkijskie narody wschodnie.
-
-**Pow-wow** — *Pow-wow, narada.* Zgromadzenie ceremonialne lub lecznicze. W angielskim: każda narada lub zebranie.
-
-**Manitou** — *Manitou, duch.* Algonkijska siła duchowa obecna w istotach i przedmiotach.
-
-**Squaw** *(kontrowersyjne)* — *Kobieta indiańska.* Używane przez białych — rdzenni nie używają go o sobie. Etymologia złożona (z Massachusett *squa*), ale w użyciu kolonialnym bywa lekceważące.
-
-**Papoose** — *Papoose, niemowlę na noszach.* Z algonkijskiego *papoos*. Europejski slang na indiańskie dziecko.
-
-**Bayou** — *Bayou.* Z Choctaw *bayuk* — wolno płynące rozlewisko. Weszło do angielskiego przez Luizjanę.
-
-**Succotash** — *Succotash.* Potrawa z kukurydzy i fasoli — z Narragansett *msickquatash*. Na stołach angloamerykańskich.
-
-**Hominy** — *Hominy.* Kukurydza przetworzona w ługu — ziarna obłuszczone, gotowane. Podstawa kuchni pogranicza. Z Powhatana *uskatahomen*.
-
-**Muskrat** / **Musquash** — *Piżmak.* Gryzoni futerkowy. Z algonkijskiego.
+**Erzulie Dantor** — *Erzulie Dantor.* Lwa macierzyństwa, zemsty i ochrony kobiet; czarna Matka Boska z blizną. Towarzyszyła kobietom rewolucji.
 
 ---
 
-## Terminy prawne, polityczne i dyplomatyczne
+## Słownictwo rdzenne (przejęte do angielskiego)
 
-**Right of deposit** / *droit d'entrepôt* — *Prawo składu.* Prawo do rozładunku, składowania i reeksportu towarów w cudzym porcie przed dalszym transportem. Jego odwołanie przez Moralesa w październiku 1802 wywołało kryzys luizjański.
+Większość tych słów weszła do angielskiego przez kontakty kolonialne i jest w Ameryce Północnej 1802 roku w codziennym użyciu.
 
-**Letters of marque** — *Listy kaperskie.* Oficjalne upoważnienie rządu dla prywatnego statku do atakowania wrogich jednostek handlowych. Właściciel statku (kaper) zatrzymuje część łupów.
+**Tomahawk** — *Tomahawk, topór bojowy.* Z algonkijskiego *tamahak*. Symbolicznie akt wojny lub pokoju (*bury the hatchet* — zakopać tomahawk).
 
-**Privateer** — *Kaper.* Prywatny statek z *letters of marque*. Różni się od pirata: piraci atakują bez rozróżnienia; kaperzy tylko wyznaczonych wrogów.
+**Moccasin** — *Mokasyn.* Miękki but bez twardej podeszwy, z algonkijskiego *makasin*. Noszą go rdzenni i pionierzy.
 
-**Press gang** — *Banda rekrutacyjna, łapanka.* Uzbrojona grupa rekrutów Royal Navy wyłapująca mężczyzn do służby. Legalnie ograniczona do mężczyzn z doświadczeniem morskim; praktycznie — do każdego przy portach.
+**Canoe** — *Kanoe, czółno.* Z karaibskiego *canaoua*. Lekka łódź z kory lub skóry.
 
-**Impressment** — *Przymusowy zaciąg.* Praktyka porywania marynarzy z cywilnych statków i wcielania do Royal Navy. Centralne napięcie w relacjach brytyjsko-amerykańskich.
+**Wampum** — *Wampum.* Polerowane muszle białe lub fioletowe, waluta dyplomatyczna i ceremonialna. Z algonkijskiego.
 
-**Habeas corpus** — *Habeas corpus.* Łacińskie prawo procesowe: „masz ciało" — nakaz doprowadzenia aresztowanego przed sąd. Fundamentalna gwarancja przed bezprawnym aresztem.
+**Sachem** — *Sachem, wódz.* Wódz lub starszy plemienia, zwłaszcza wśród narodów algonkijskich wschodu.
 
-**Attainder** / **Bill of attainder** — *Infamia, kara śmierci cywilnej.* Parlamentarny wyrok skazujący bez procesu. Zakazane w konstytucji USA; wciąż możliwe w Anglii.
+**Pow-wow** — *Pow-wow, narada.* Zgromadzenie ceremonialne lub lecznicze. W angielskim: każde zebranie.
+
+**Manitou** — *Manitou, duch.* Algonkijska siła duchowa w istotach i rzeczach.
+
+**Squaw** *(kontrowersyjne)* — *Kobieta indiańska.* Używane przez białych; rdzenni o sobie nie mówią tak. W użyciu kolonialnym bywa lekceważące.
+
+**Papoose** — *Niemowlę na noszach.* Z algonkijskiego *papoos*. Biały slang na rdzenne dziecko.
+
+**Succotash** — *Succotash.* Potrawa z kukurydzy i fasoli, z Narragansett *msickquatash*.
+
+**Hominy** — *Hominy.* Kukurydza ługowana, łuszczona i gotowana. Podstawa kuchni pogranicza. Z Powhatana *uskatahomen*.
+
+**Muskrat / Musquash** — *Piżmak.* Futerkowy gryzoń. Z algonkijskiego.
+
+---
+
+## Prawo, polityka, dyplomacja
+
+**Right of deposit** / *droit d'entrepôt* — *Prawo składu.* Prawo do rozładunku, składowania i reeksportu w cudzym porcie. Jego odwołanie przez Moralesa w październiku 1802 wywołało kryzys luizjański.
+
+**Letters of marque** — *Listy kaperskie.* Upoważnienie rządu dla prywatnego statku do atakowania wrogiego handlu; kaper zatrzymuje część łupu.
+
+**Privateer** — *Kaper.* Prywatny statek z *letters of marque*. Pirat bije bez różnicy; kaper tylko wyznaczonych wrogów.
+
+**Press gang** — *Banda werbunkowa, łapanka.* Uzbrojony patrol Royal Navy łapiący ludzi do służby. Legalnie tylko ludzi morza, praktycznie każdego przy porcie.
+
+**Impressment** — *Przymusowy zaciąg.* Porywanie marynarzy z cywilnych statków do Royal Navy. Oś napięcia brytyjsko-amerykańskiego.
+
+**Habeas corpus** — *Habeas corpus.* „Masz ciało" — nakaz doprowadzenia aresztowanego przed sąd. Gwarancja przed bezprawnym aresztem.
+
+**Attainder / Bill of attainder** — *Infamia, śmierć cywilna.* Parlamentarny wyrok skazujący bez procesu. Zakazany w konstytucji USA, w Anglii wciąż możliwy.
 
 **Codicil** — *Kodycyl.* Uzupełnienie testamentu.
 
-**Factor** (handl.) — *Faktor.* Agent handlowy działający na rachunek innej firmy, często w odległym porcie.
+**Counting house** — *Kantor, biuro kupieckie.* Księgowość, korespondencja, transakcje firmy handlowej.
 
-**Counting house** — *Kantor, biuro kupieckie.* Biuro firmy handlowej — księgowość, korespondencja, transakcje.
+**Syndic** — *Syndyk.* Reprezentant kupiecki lub prawny; w Nowym Orleanie lokalny urzędnik konsularny.
 
-**Syndic** — *Syndyk.* Reprezentant kupiecki lub prawny. W Nowym Orleanie — lokalny urzędnik konsularny.
+**Consul** (dypl.) — *Konsul.* Handlowy i prawny opiekun obywateli za granicą — nie ambasador.
 
-**Consul** (dypl.) — *Konsul.* Przedstawiciel handlowy i prawny państwa za granicą. Nie ambasador (dyplomacja), lecz praktyczny opiekun obywateli.
-
-**Tributary** / **Tributary state** — *Lennik trybutarny, kraj zależny.* Państwo składające hołd cesarstwu — model chiński i osmański.
+**Tributary state** — *Lennik, kraj trybutarny.* Państwo składające hołd cesarstwu — model chiński i osmański.
 
 ---
 
-## Terminy morskie — wielojęzyczne
+## Terminy morskie
 
-**Tonnage** — *Tonaż.* Pojemność ładunkowa statku w tonach. *Brig* (bryg): dwustu–czterystu ton; *frigate* (fregata): sześciuset–tysiąca dwustu; *ship of the line* (okręt liniowy): tysiąca–trzech tysięcy.
+**Tonnage** — *Tonaż.* Pojemność ładunkowa w tonach. *Brig*: dwustu–czterystu ton; *frigate*: sześciuset–tysiąca dwustu; *ship of the line*: tysiąca–trzech tysięcy.
 
-**Convoy** — *Konwój.* Kolumna statków handlowych pod eskortą okrętów wojennych.
+**Convoy** — *Konwój.* Kolumna statków handlowych pod eskortą wojenną.
 
-**Broadside** — *Salwa burtowa.* Jednoczesny ogień z wszystkich dział jednej burty. Oznacza też: ulotka drukowana jednostronnie.
+**Broadside** — *Salwa burtowa.* Jednoczesny ogień całej burty. Też: ulotka drukowana jednostronnie.
 
-**Frigate** — *Fregata.* Szybki okręt wojenny, trzydzieści do pięćdziesięciu dział na jednym lub dwóch pokładach.
+**Frigate** — *Fregata.* Szybki okręt, trzydzieści do pięćdziesięciu dział.
 
-**Ship of the line** — *Okręt liniowy.* Największy okręt bojowy, sześćdziesiąt cztery do stu dwudziestu dział. Walczy w linii bojowej.
+**Ship of the line** — *Okręt liniowy.* Największy okręt bojowy, sześćdziesiąt cztery do stu dwudziestu dział; walczy w linii.
 
-**Sloop** — *Slup.* Mały okręt wojenny lub cywilny, jeden maszt.
+**Sloop** — *Slup.* Mały okręt jednomasztowy, wojenny lub cywilny.
 
-**Schooner** — *Szkuner.* Dwa lub więcej masztów, żagle gaflowe — szybki, manewrowy.
+**Schooner** — *Szkuner.* Dwa lub więcej masztów, żagle gaflowe — szybki, zwrotny.
 
-**Brig** — *Bryg.* Dwa maszty, żagle rejowe. Popularny statek handlowy atlantycki.
-
-**Flatboat** — *Barka płaskodenna.* Jednorazowa konstrukcja rzeczna.
-
-**Keelboat** — *Łódź kilowa.* Wielokrotnego użytku, zdolna do żeglugi pod prąd.
+**Brig** — *Bryg.* Dwumasztowiec z żaglami rejowymi. Popularny w handlu atlantyckim.
 
 ---
 
-## Miary, wagi i odległości
+## Miary, wagi, odległości
 
-**League** (*leaga*) — *Leuga, liga.* Około cztery kilometry i osiemset metrów (morska) lub cztery kilometry (lądowa). „Three days' march" wygodniejsze niż liczenie lig.
+**League** (*leaga*) — *Liga, leuga.* Około czterech i pół kilometra (morska) lub czterech (lądowa).
 
-**Rod** / **Pole** — *Pręt.* Około pięć metrów. Miara gruntowa.
+**Rod / Pole** — *Pręt.* Około pięciu metrów. Miara gruntowa.
 
-**Acre** — *Akr.* Cztery tysiące czterdzieści siedem metrów kwadratowych. Standardowa miara ziemi w koloniach angielskich.
+**Acre** — *Akr.* Cztery tysiące czterdzieści siedem metrów kwadratowych. Standard ziemi w koloniach angielskich.
 
-**Arpent** — *Arpent.* Francuska miara gruntowa — w Luizjanie i Kanadzie około czterysta dwadzieścia siedem metrów kwadratowych (zmienna). Wąskie, długie działki wzdłuż rzek mierzone w arpentach frontowych.
+**Arpent** — *Arpan.* Francuska miara gruntu; w Luizjanie i Kanadzie zmienna. Wąskie, długie działki nad rzeką mierzono w arpanach frontowych.
 
-**Fathom** (*fæðəm*) — *Sążeń morski.* Jeden metr osiemdziesiąt trzy centymetry. Miara głębokości wody.
+**Fathom** (*fæðəm*) — *Sążeń.* Metr osiemdziesiąt trzy. Miara głębokości wody.
 
-**Tael** (*liăng*) — *Tael, liang.* Chińska jednostka wagi srebra — około trzydziestu siedmiu gramów. Podstawowa jednostka ceny w handlu chińskim.
+**Tael** (*liăng*) — *Tael, liang.* Chińska jednostka wagi srebra, około trzydziestu siedmiu gramów. Podstawa ceny w handlu chińskim.
 
-**Piastre** / **Piece of eight** (*peso de ocho*) — *Piastr, peso.* Hiszpańska moneta srebrna — standard handlu atlantyckiego. Dolar amerykański wzorowany na *peso*.
+**Piastre / Piece of eight** (*peso de ocho*) — *Piastr, peso.* Hiszpańska srebrna moneta — standard handlu atlantyckiego. Dolar amerykański wzorowano na *peso*.
 
-**Picayune** — *Pikajun.* Mała moneta hiszpańska o wartości sześciu i ćwierć centa. W Nowym Orleanie — coś małej wartości.
-
----
-
-## Okrzyki bojowe i rozkazy
-
-**Charge!** / **À la charge!** / **¡Al ataque!** — *Do ataku! Naprzód!*
-
-**Halt!** / **Alto!** / **Halte!** — *Stój!*
-
-**Fire at will!** — *Ogień do woli!* Każdy strzela w swoim tempie.
-
-**Give them no quarter!** — *Nie brać jeńców! Bez litości!* W praktyce: do zabicia, nie do pojmania.
-
-**Stand and deliver!** — *Stój i dawaj!* Klasyczny rozkaz rozbójnika na trakcie. Znany z kultury popularnej, używany na drogach brytyjskich.
-
-**Parole!** — *Hasło!* Rozkaz podania hasła przy warcie. Lub: *parole d'honneur* — słowo honoru.
-
-**À moi! À moi!** — *Na pomoc! Tutaj!* Wołanie w potrzebie.
-
-**Help! Murder!** — *Pomocy! Morderstwo!* Krzyk alarmowy na ulicy angielskiej.
+**Picayune** — *Pikajun.* Mała hiszpańska moneta o wartości sześciu i ćwierć centa. W Nowym Orleanie — coś błahego.
 
 ---
 
-*Artykuł w budowie — kolejne wpisy dodawane przy tworzeniu nowych artykułów settingowych.*
-*Powiązane artykuły: [[Rdzenne narody Ameryki Północnej (1802)]], [[Kanada Brytyjska]], [[Nowy Orlean]], [[Haiti (1802)]], [[Wielka Brytania (1802)]], [[Francja Napoleońska (1802)]].*
+## Magia settingu — jak się o niej mówi
+
+Ten świat był magiczny od zawsze, a w roku 1802 magia ma swoje rzemiosło, swój handel i swój żargon. Poniżej słownictwo, które gracz spotka na ulicy, w salonie i nad rzeką.
+
+### Smoki i łowy
+
+**Smok / drake** — *Smok, drak, gad skrzydlaty.* Drake'owaty, latający, zieje własnym żywiołem; pięć odmian wedle krainy plus osobne cieniste. Nazwy są kolonialne, każda nacja własna. Zob. [[Smoki]].
+
+**Smocza krew / destylat** — *Smocza krew, destylat.* Najcenniejszy surowiec alchemiczny; trzeba ją przepędzić w godzinę po śmierci bestii, inaczej moc gaśnie. Zob. [[smocza krew]].
+
+**Łuska / płaszcz ze smoczej łuski** — *Łuska smocza, płaszcz łuskowy.* Chroni przed ogniem i kwasem (cienista tylko przed mrozem). Cel numer jeden każdego złodzieja na pograniczu.
+
+**Łowca smoków** — *Łowca smoków, smoczy łowca.* Najmuje się na osłonę barek przed [[Smoki Rzeczne|smokami rzecznymi]] albo rusza w górę rzeki polować na smoki i wsie, które ich bronią. [[Nowy Orlean]] to ich południowa baza.
+
+**Dwudusza** — *Dwudusza.* Rdzenny, który znalazł smoka zrodzonego z tej samej duszy; obaj działają jak jeden umysł w dwóch ciałach. Bez rdzennej krwi więź niemożliwa. Zob. [[Dwudusze]].
+
+**Szaman** (rdzenny) — *Szaman.* Skłania dzikie smoki do zsynchronizowanego ataku; klanom przewodzą zwykle Dwudusze.
+
+### Krew, alchemia, opium
+
+**Alchemik** — *Alchemik, destylator.* Przepędza krew, warzy destylat i opium. W Nowym Orleanie zamiast akademii stoi rząd jego warsztatów przy rzece.
+
+**Czerwone opium** — *Czerwone opium.* Mak podlewany smoczą krwią — towar drogi i pilnie strzeżony. Zob. [[Czerwone opium]].
+
+**Smoczy Mag** — *Smoczy Mag.* Człowiek przemieniony dużą dawką smoczej krwi: wzmocniony, lecz z dożywotnim głodem krwi i burgundowym uśmiechem. Zob. [[Smoczy Magowie]].
+
+**Burgundowe zęby / burgundowy uśmiech** — *Burgundowe zęby.* Znamię Smoczego Maga, rozpoznawalne w każdym salonie Europy; pod koniec ancien régime'u nosiła je większość arystokracji Wersalu.
+
+### Sorcery — magia dziedziczna
+
+**Sorcery** — *Magia dziedziczna, magia krwi, czary szlacheckie.* Wrodzona i instynktowna, zwykle jeden wąski, dziwaczny trik, dziedziczona po krwi jak kolor oczu. Na niej stoi europejskie szlachectwo. Zob. [[Sorcery]].
+
+**Adept** — *Adept.* Urodzony z darem; chce, a moc słucha — bez ksiąg, kręgów i inkantacji. Daru nie da się przekazać ani pożyczyć.
+
+**Prekursor** — *Prekursor.* Pierwszy w rodzie, u którego dar się objawił, i zarazem jego sufit — żaden potomek go nie przewyższy.
+
+**Almanach gotajski** — *Almanach gotajski.* Spis panujących domów Europy, a po cichu księga stadna: swat czyta w niej linie mocy, nie tytuły.
+
+**Boskie prawo królów** — *Boskie prawo królów.* Korona realnie budzi krew — nadanie z ręki prawdziwego suwerena potrafi obudzić w obdarowanym i jego potomkach dar. Zob. [[Boskie prawo królów]].
+
+**Cięcie Powietrza** — *Cięcie Powietrza.* Atak na odległość zadawany cięciem broni; japońscy mistrzowie miecza opanowują je treningiem. Zob. [[Cięcie Powietrza]].
+
+**Legion magów** — *Legion magów.* Oddział adeptów Napoleona — raczej warsztat osobliwości niż kompania grenadierów. Zob. [[Legion magów]].
+
+### Cud i Kościół
+
+**Cudotwórca / Cudotwórczyni** — *Cudotwórca.* Człowiek, którego szczera wiara sprowadza prawdziwe Cuda; ksiądz, zakonnica, kaznodzieja, cadyk, marabut. Większość modlitw zostaje bez echa. Zob. [[Cudotwórcy]].
+
+**Cud** — *Cud.* Odpowiedź nieba na modlitwę — od drobnego, ratującego zbiegu okoliczności po rozstąpione morze.
+
+**Baraka** — *Baraka.* Islamska błogosławiona moc spływająca na marabutów i sufickich świętych; ich *karamat* (drobne cuda) ładuje antymagiczne talizmany. Zob. [[Korsarze Barbarii]].
+
+**Egzorcyzm / egzorcysta** — *Egzorcyzm.* Wypędzenie albo poskromienie daemona mocą Cudu — święta siła, nie pakt. Tym zasłynął ojciec Antonio z Nowego Orleanu.
+
+**Demonolog** — *Demonolog.* Czarownik paktujący z [[Daemony|daemonami]]; dla katolika śmiertelny wróg. Tą ścieżką szedł Toussaint Louverture.
+
+### Voodoo, ołów i byty
+
+**Voodoo / Vodou** — *Voodoo.* W tym świecie kobieca magia diaspory: kapłanka wiąże [[Fey|feye]] do służby. Słabość: ołów. Zob. [[Voodoo]].
+
+**Wiedźma (czarna)** — *Czarna wiedźma.* Łamie ducha zamiast go czcić, rzuca gnijące klątwy i podnosi zombie.
+
+**Dosiadanie** — *Dosiadanie.* Wezwany duch zstępuje na wiernego i działa jego ciałem niczym na koniu; koń niewiele potem pamięta.
+
+**Zombie** — *Zombie.* Trup albo żywy człowiek ze skradzioną wolą, posłuszny tej, która go podniosła; ołów zrywa rozkaz i kładzie go z powrotem.
+
+**Ołów** (antymagia) — *Ołów.* Gasi afrykański czar i mistyczne bestie jak strefa bez many — garść opiłków rwie zaklęcie, kołnierz ucisza kapłankę. Cud abrahamowy i pakt z Zewnątrz ołów ignoruje. Zob. [[Voodoo]].
+
+**Kołnierz ołowiany** — *Ołowiany kołnierz.* Odbiera kapłance moc całkowicie; na nim stanął handel niewolnikami.
+
+**Fey / feye** — *Fey, feye.* Istoty ukształtowane przez opowieść — duchy baśni i przodków. Zob. [[Fey]].
+
+**Daemon** — *Daemon.* Byt z Zewnątrz, z którym paktuje demonolog; ołów go nie tyka. Zob. [[Daemony]].
+
+**Żywiołak** — *Żywiołak.* Duch żywiołu — taki jak ten, który niemal na pewno mieszka pod wodospadem Niagara. Zob. [[Żywiołaki]].
+
+### Okrzyki i złorzeczenia świata magicznego
+
+**„Na smoczą krew!"** — *Przysięga albo przekleństwo pogranicza,* na wagę rzeczy najdroższej, jaką zna ten świat.
+
+**„Bodaj ci burgundowe zęby wyrosły!"** — *Złorzeczenie:* obyś popadł w nałóg smoczej krwi i już z niego nie wyszedł.
+
+**„Pójść po krew"** — *Wyruszyć na łowy smocze;* w ustach cyników także: pójść na pewną śmierć.
+
+**„Ołowiany kołnierz na język"** — *O donosicielu albo o kimś, kto gasi każdą rozmowę;* echo kołnierza, który ucisza wiedźmę.
+
+**„Z koroną przychodzi magia"** — *Porzekadło o boskim prawie królów:* prawdziwy suweren budzi krew, nędzny rozdaje puste tytuły.
+
+---
+
+*Powiązane artykuły: [[Rdzenne narody Ameryki Północnej]], [[Nowy Orlean]], [[Haiti]], [[Wielka Brytania]], [[Francja Napoleońska]], [[Voodoo]], [[Cudotwórcy]], [[Sorcery]], [[Smoki]], [[smocza krew]], [[Punkty rozbieżności]].*

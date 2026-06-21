@@ -16,7 +16,7 @@ W marcu 1802 roku Londyn podpisał z Francją [[Pokój Amiens]]. Krytycy nazywaj
 
 Tę samą energię, którą kontynent wkłada w czary, Wielka Brytania od dwóch stuleci wkłada w pieniądze, statki i maszyny — z premedytacją.
 
-Angielscy lordowie nigdy nie nadawali tytułów [[Prekursorzy|prekursorom]] za samą moc, jak czyniła reszta europejskiej szlachty. Z czystego snobizmu uznali magiczną krew za coś poniżej dobrego urodzenia, więc [[Sorcery]] nie rozlała się po Wyspach tak jak po Francji czy Niemczech. Kapitał i talent, które gdzie indziej szły w hodowlę czarodziejskich rodów, tutaj popłynęły w [[Rewolucja Przemysłowa|przemysł]], finanse i flotę. Bank Anglii, Royal Navy i kominy Manchesteru robią to, co u innych próbuje robić magia — taniej, masowo i bez kaprysów wiary.
+Angielscy lordowie nigdy nie nadawali tytułów [[Sorcery|prekursorom]] za samą moc, jak czyniła reszta europejskiej szlachty. Z czystego snobizmu uznali magiczną krew za coś poniżej dobrego urodzenia, więc [[Sorcery]] nie rozlała się po Wyspach tak jak po Francji czy Niemczech. Kapitał i talent, które gdzie indziej szły w hodowlę czarodziejskich rodów, tutaj popłynęły w [[Rewolucja Przemysłowa|przemysł]], finanse i flotę. Bank Anglii, Royal Navy i kominy Manchesteru robią to, co u innych próbuje robić magia — taniej, masowo i bez kaprysów wiary.
 
 Religia dopełnia obrazu. [[Kościół anglikański]], powołany przeciw politycznej władzy Rzymu, ma krótszą historię i mniejszy prestiż, więc [[Cudotwórcy|cudotwórców]] rodzi rzadziej niż katolicka machina. Nieprzypadkowo z brytyjskiego gruntu wyrośli purytanie, dla których każda magia „nie-boska" jest wprost dziełem szatana. Rządzący establishment jest z tej trzeźwości dumny i nie kryje jej ani przed Paryżem, ani przed Rzymem.
 

@@ -26,30 +26,30 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 |---|---|
 | [[Wiki Settingu – Rok 1802]] | NIE |
 | [[Chronologia]] | NIE |
-| [[Słownik terminów]] | NIE |
+| [[Słownik terminów]] | TAK |
 | [[Pokój Amiens]] | TAK |
 | [[Francja Napoleońska]] | TAK |
 | [[Wielka Brytania]] | TAK |
-| [[Święte Cesarstwo Rzymskie]] | NIE |
+| [[Święte Cesarstwo Rzymskie]] | TAK |
 | [[Rosja]] | TAK |
-| [[Imperium Osmańskie]] | NIE |
-| [[Hiszpania]] | NIE |
-| [[Portugalia]] | NIE |
+| [[Imperium Osmańskie]] | TAK |
+| [[Hiszpania]] | TAK |
+| [[Portugalia]] | TAK |
 | [[Państwo Kościelne]] | TAK |
 | [[Stany Zjednoczone]] | TAK |
 | [[Codzienne życie w Stanach Zjednoczonych]] | TAK |
 | [[Terytorium Luizjany]] | NIE |
-| [[Nowy Orlean]] | NIE |
+| [[Nowy Orlean]] | TAK |
 | [[Haiti]] | TAK |
 | [[Toussaint Louverture]] | TAK |
 | [[Kanada Brytyjska]] | TAK |
 | [[Rdzenne narody Ameryki Północnej]] | TAK |
-| [[Traktat Greenville]] | NIE |
+| [[Traktat Greenville]] | TAK |
 | [[Handel Trójkątny]] | TAK |
 | [[Handel futrami]] | TAK |
-| [[Korsarze Barbarii]] | NIE |
-| [[Afryka Subsaharyjska]] | NIE |
-| [[Liga Hanzeatycka – Dziedzictwo]] | NIE |
+| [[Korsarze Barbarii]] | TAK |
+| [[Afryka Subsaharyjska]] | TAK |
+| [[Liga Hanzeatycka – Dziedzictwo]] | TAK |
 | [[Kompanie Wschodnioindyjskie]] | TAK |
 | [[Indie Mogołów i Kompania]] | TAK |
 | [[Chiny dynastii Qing]] | TAK |
@@ -57,15 +57,12 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Rewolucja Przemysłowa]] | TAK |
 | [[Oświecenie]] | TAK |
 | [[Wolnomurarstwo]] | TAK |
-| [[Cudotwórcy]] | BRAK |
-| [[Cudotwórcy wojskowi]] | BRAK |
+| [[Cudotwórcy]] | TAK |
 | [[Papież]] | BRAK |
-| [[Sorcery]] | BRAK |
-| [[Prekursorzy]] | BRAK |
+| [[Sorcery]] | TAK |
 | [[Boskie prawo królów]] | BRAK |
 | [[Europejskie czarostwo]] | BRAK |
 | [[Gildie Śmierci]] | BRAK |
-| [[Polowania na czarownice]] | BRAK |
 | [[Magiczne przedmioty]] | BRAK |
 | [[Alchemia]] | BRAK |
 | [[Smocza krew]] | BRAK |
@@ -80,25 +77,15 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Żywiołaki]] | BRAK |
 | [[Fey]] | BRAK |
 | [[Nieumarli]] | BRAK |
-| [[Smoki]] | BRAK |
-| [[Smoki Rzeczne]] | BRAK |
-| [[Smoki Leśne]] | BRAK |
-| [[Smoki Pustynne]] | BRAK |
-| [[Smoki Górskie]] | BRAK |
-| [[Cieniste Smoki]] | BRAK |
-| [[Dwudusze]] | BRAK |
+| [[Smoki]] | TAK |
 | [[Charau-Ka]] | BRAK |
 | [[Czarna Śmierć]] | BRAK |
 | [[Krucjaty]] | BRAK |
+| [[Voodoo]] | TAK |
 | [[Bois Caïman]] | BRAK |
 | [[Wielki Pożar Londynu]] | BRAK |
-| [[Wodospad Niagara]] | BRAK |
-| [[Wielki Mur]] | BRAK |
-| [[Napoleon Bonaparte]] | BRAK |
 | [[Burbonowie]] | BRAK |
-| [[Rewolucja francuska]] | BRAK |
 | [[Kościół anglikański]] | BRAK |
-| [[Nowa Hiszpania]] | BRAK |
 | [[Skandynawia]] | BRAK |
 | [[Szwajcaria]] | BRAK |
 | [[Ameryka Południowa]] | BRAK |
@@ -152,11 +139,26 @@ Islam jest religią abrahamową, więc i tu Cuda są realne. Purytański zryw wa
 
 Echo tego samego zjawiska ciąży nad pamięcią [[Krucjaty|krucjat]]. Dopóki wiara rycerzy-cudotwórców była czysta, zdobyli Jerozolimę. Przeciągający się konflikt z drugą religią abrahamową, waśnie, chciwość i zwykłe zmęczenie stępiły tę czystość — i odebrały im Ziemię Świętą pasmem klęsk, które Kościół do dziś tłumaczy karą za grzech.
 
+Hiszpania jest odwrotnym biegunem chłodnej, klasztornej powagi. Tamtejsza wiara jest gorąca i skłonna do uniesienia — mistyk woli ekstazę, wizję i łzy od pokory, którą ceni się gdzie indziej, a po kraju nieustannie krążą wieści o nowym świętym: tu ktoś lewitował podczas mszy, tam ktoś nosi rany Chrystusa, owdzie dziewczyna z gór uzdrawia spojrzeniem. Większość tych wieści jest fałszywa, a niejeden domniemany cudotwórca sam szczerze wierzy, że dostał dar, którego nie ma. Co rusz coś się dzieje, tłum ekscytuje się najnowszym przypadkiem, a ten po kilku tygodniach gaśnie albo trafia pod kuratelę Inkwizycji, sceptycznej wobec nieautoryzowanej świętości. W tym hałasie zdarzają się prawdziwi cudotwórcy, lecz odróżnić ich od entuzjastów potrafi niewielu.
+
 #### Cudotwórcy wojskowi
 
 [[Cudotwórcy wojskowi]] to broń obosieczna i władcy o tym wiedzą. Pole bitwy wystawia wiarę na dokładnie te dylematy, które ją łamią: modlitwa o ocalenie towarzysza, który i tak ginie, albo rozkaz pobłogosławienia szturmu na miasto pełne cywilów. Dlatego dziś rzadko przypisuje się cudotwórców na stałe do wojska — to, co dadzą w roli kapelana zarządzającego morale całego pułku, bywa cenniejsze niż jednorazowy cud na polu.
 
 Wyjątki istnieją. W niektórych nacjach katolickich kapelan-cudotwórca jest etatowy, a żołnierze biją się twardziej, wiedząc, że ranny ma szansę. Po przegranej kampanii taki kapelan zwykle wraca odmieniony albo nie wraca wcale.
+
+### Baraka i łowcy adeptów Maghrebu
+
+Islamski nurt Cudu ma własną nazwę i własnych nosicieli. Baraka — błogosławiona moc — spływa na marabutów, sufickich świętych i ludzi uznanych za bliskich Bogu, a karamat, drobne cuda przypisywane takim świętym, są w świecie islamu równie realne co uzdrowienie katolickiego cudotwórcy. Jak każdy Cud abrahamowy baraka jest córką wiary, dlatego ołów jej nie tyka — łaska pozostaje obca metalowi, który dławi rodzimą magię kontynentu. Marabut Sahelu działa tam, gdzie wiedźma Voodoo milknie.
+
+Korsarze Barbarii zbudowali na tym swój najosobliwszy fach: łowy na cudzych adeptów. Marabut ładuje swoją baraką niewielki talizman, a zwykły, pobożny korsarz aktywuje go samą wiarą — przedmiot działa w ręku wierzącego muzułmanina, a w dłoni niewiernego jest martwym srebrem. Talizman tłumi moc schwytanego adepta dowolnej tradycji: europejskiego czarownika, afrykańskiej kapłanki, kogokolwiek, kto wpadnie w ręce rejsu. Ujętego trzyma się w okowach przesyconych baraką, odciętego od mocy, i sprzedaje albo wykupuje jak każdego jeńca. Rzecz jest rzadka, bo marabutów jest niewielu, a talizman cenny — naraz w obiegu jest ich garść.
+
+Najgłębszą zdobyczą jest nawrócony. Renegat, który przyjął islam, nie potrzebuje tłumienia, bo wierzy — jego mocy nikt nie dławi, a on sam bywa tym, który ładuje talizmany dla innych. To wiąże starą kulturę renegatów Maghrebu z magią: odstępca od chrześcijaństwa jest dla regencji wart więcej niż dziesięciu skutych w ładowni. Szerzej przy [[Korsarze Barbarii|regencjach berberyjskich]].
+
+> [!mechanics]
+> **Baraka:** Divine Favor (islam) — realny Cud, odporny na ołów jak cała magia abrahamowa
+> **Talizman antymagiczny:** ładowany baraką marabuta, więc nieodtwarzalny rzemiosłem i nie do masowej produkcji; aktywowany wiarą posiadacza, w ręku niewiernego martwy
+> **Działanie:** tłumi moc i wiąże schwytanego adepta dowolnej tradycji; rzadki, bo marabutów i talizmanów jest mało
 
 ## Sorcery — magia dziedziczna szlachty
 
@@ -171,7 +173,7 @@ Używanie tej mocy nie wymaga wiedzy tajemnej, jest instynktowne, choć trening 
 
 ### Prekursorzy i czystość krwi
 
-Moc jest dziedziczna i to przepisało strukturę społeczną. [[Prekursorzy]] — ci, u których zdolność objawiła się po raz pierwszy — przekazują potomkom dokładnie tę samą moc wraz z ograniczeniami, i są dla niej sufitem. Z każdym pokoleniem zdolność słabnie i objawia się rzadziej, choćby ją pielęgnować najstaranniej.
+Moc jest dziedziczna i to przepisało strukturę społeczną. [[Sorcery|Prekursorzy]] — ci, u których zdolność objawiła się po raz pierwszy — przekazują potomkom dokładnie tę samą moc wraz z ograniczeniami, i są dla niej sufitem. Z każdym pokoleniem zdolność słabnie i objawia się rzadziej, choćby ją pielęgnować najstaranniej.
 
 Stąd wzięło się szlachectwo. Osoba z mocą wchodziła do możnego rodu albo zakładała własny, a genealogia stała się sposobem na utrzymanie cennej krwi w użytecznej formie. Potomek dwóch linii magicznych dziedziczy zwykle moc jednej z nich, ale takie skrzyżowanie utrzymuje ją w sile przez więcej pokoleń — pod warunkiem, że linie dobrano umiejętnie, bo zła kombinacja osłabia obie.
 
@@ -184,6 +186,10 @@ W rodach opartych na magii zaaranżowane małżeństwo przestało być sprawą p
 Utrzymująca się dynastia z pokolenia na pokolenie częściej wydaje członków władających więcej niż jednym typem mocy. Silny monarcha ma dodatkową właściwość: kto otrzyma od niego tytuł albo ważne nadanie, ten i jego bezpośredni potomkowie częściej zostają prekursorami lub utrzymują posiadane moce. Słaby władca rozdaje tytuły swobodnie i bez tego skutku; nadanie z ręki prawdziwego suwerena znaczyło więcej niż prestiż, bo dosłownie mogło obudzić krew.
 
 [[Burbonowie]] są tu legendą Europy. Francuskim królom z tego domu przypisuje się potężną kontrolę nastrojów i emocji — mawiano, że z zewnątrz widać, kiedy król jest w Paryżu, bo tłum nagle dzieli ten sam nastrój. Ile w tym prawdy, a ile dworskiej propagandy budowanej przez dwa stulecia, nie rozstrzygnie nikt; pewne jest, że sąsiednie dwory traktowały tę reputację śmiertelnie poważnie i że rewolucja, która ten dom obaliła, miała wobec niego strach niemal zabobonny.
+
+Hiszpańscy Habsburgowie nieśli sygnaturę mroczniejszą. Domowi temu przypisuje się dziedziczną moc klątwy — wrogowie Habsburgów chorowali nagle, tracili dzieci, gnili za życia, a dwór wiedeński i madrycki przez wieki dbał, by tak właśnie kończyli. Cena okazała się wpisana w samą krew. Pilnowanie czystości daru przez kojarzenie kuzyna z kuzynką, pokolenie po pokoleniu, zepsuło ród fizycznie — wysunięta szczęka, bezpłodność, dzieci, które nie dożywały — a do tego, jak szeptano, drobny ułamek każdej klątwy spadał z powrotem na rzucającą ją linię. Ostatni hiszpański Habsburg, Karol II, przeszedł do historii jako *El Hechizado*, Zaczarowany: kaleki, niezdolny do potomstwa, egzorcyzmowany za życia, w którym widziano dowód, że klątwa pożarła w końcu własny dom. Burbonowie, którzy po nim odziedziczyli tron, dostali go wraz z tą reputacją.
+
+Portugalia ma sygnaturę morską. Tamtejsze stare rody — fidalgowie i dynastie pilotów — dziedziczą wyczucie oceanu: prądów, mgły, pogody i lądu za widnokręgiem, czasem dar wzywania albo uciszania wiatru. To ta krew obeszła świat, gdy Portugalia była mała. Rzecz w tym, że obok niej kwitły pakty z bytami wody — układy z [[Daemony|istotami]] głębin i sztormu — a z zewnątrz nikt nie odróżni jednego od drugiego, bo bywa, że ta sama rodzina sięga po oba. Dlatego portugalski kapitan ma renomę z miejsca: nie wiadomo, czy prowadzi statek wyuczonym kunsztem jak Anglik, czy krwią, czy czymś, z czym się ułożył — i właśnie ta niepewność jest jego najlepszą tarczą.
 
 ### Zmierzch mocy ku roku 1802
 
@@ -209,6 +215,8 @@ Czarodzieje zrzeszali się w gildie dla ochrony przed oskarżeniem i linczem. Im
 [[Czarna Śmierć]] z lat 1347–1351 wybiła może jedną trzecią Europy — i wzmocniła siły nekromantyczne na niespotykaną skalę. Masowa śmierć i fala spontanicznych animacji [[Nieumarli|nieumarłych]] dały moc kultystom i nekromantom, którzy wyszli z ukrycia z jawną wolą zagarnięcia władzy nad wyludnionym kontynentem. Nie byli większością czarodziejów; reszta gildii rzuciła się, by ich powstrzymać, bo zwycięstwo nekromantów oznaczało koniec wszystkich. Zwycięzcy nadali pokonanym nazwę [[Gildie Śmierci]] i tą nazwą obłożyli całe jawne czarostwo.
 
 Cena zwycięstwa była wysoka. Złamanie Gildii Śmierci pociągnęło za sobą koniec jawnych organizacji czarodziejskich w ogóle. Kościoły i władcy zniszczyli pozostałe ośrodki albo wchłonęli je w szczątkowej, nadzorowanej formie. Wiedza, która ginęła z każdym spalonym mistrzem, nie wróciła.
+
+Najwięcej tej wiedzy spłonęło w Hiszpanii, bo najwięcej jej tam było. Osiem wieków sąsiedztwa z Al-Andalus uczyniło Półwysep bramą, przez którą arabska i żydowska nauka tajemna — alchemia, astrologia, lore hermetyczne — wpłynęła do łacińskiej Europy, a tłumacze z Toledo przepisywali ją całymi bibliotekami. Działały tam liczne gildie magiczne, gęstsze niż gdziekolwiek na zachodzie. Kościół i korona łamały je później tym zacieklej, lecz wytępić do końca nie zdołały. Resztki przetrwały w ukryciu, w najwęższej z możliwych form: pojedynczy mistrz przekazujący całość swojej sztuki jednemu uczniowi, ten po latach następnemu, łańcuch jednoosobowych ogniw biegnący pod nosem Inkwizycji od pokoleń. Hiszpański inkwizytor poluje na te linie właśnie dlatego, że wie, iż naprawdę istnieją.
 
 ### Polowania na czarownice
 
@@ -240,11 +248,15 @@ Energie żywiołów przybierają czasem aktywną postać, rzadko i tylko w wyją
 
 Urbanizacja osłabia siły natury, więc miasta są od żywiołaków bezpieczniejsze. Wielki kataklizm potrafi je przywołać tymczasowo: burza wypuszcza między domy drobne żywiołaki powietrza, trzęsienie ziemi zostawia po sobie żywiołaki ziemi niczym wstrząsy wtórne. Nie są z natury wrogie ani sprytne — działają instynktownie, zgodnie ze swoją naturą.
 
+Zwykle zjawisko jest przejściowe, lecz Lizbona jest wyjątkiem. Trzęsienie z 1 listopada 1755 roku, które zrównało miasto z ziemią w poranek Wszystkich Świętych, obudziło coś, co nie rozwiało się ze wstrząsami wtórnymi — pod odbudowanym miastem zostało. Dlatego w Lizbonie żywiołaki ziemi wynurzają się do dziś, sporadycznie i bez ostrzeżenia: pękają bruki, drży fundament, a piwnica potrafi zacisnąć się na człowieku. Pombaliński, odbudowany na równej siatce po katastrofie stoi nad czymś, czego inżynierowie nie umieją nazwać, a kapłani nie umieją wygnać.
+
 ### Fey, animizm i kulty przodków
 
 [[Fey]] są istotami poniekąd wyobrażonymi. Teoretycy widzą w nich dowód na Plan Snów — odbicie planu materialnego, nad którym poważnie głowił się już Platon. Fey pojawiają się epizodycznie, a ich natura opiera się na opowieściach: utarty schemat baśni czy zabobonu tworzy miejsce dla feya, który tę rolę wypełnia — wiedźmy z bagien, skrzata przy palenisku, diabła na rozstaju.
 
 Można je spotkać tylko w okolicznościach zgodnych z legendą, do której należą. Wyrazistych, „bajkowych" feyów nie ma wielu — potrzeba pokoleń powtarzanej opowieści, żeby ktoś podczas pełni naprawdę spotkał leśną wiedźmę. Żadna historia rozsiewana celowo w tym celu się nie spełnia. Fey są przekorne na wszystkie sposoby i wiedzą o świecie śmiertelnych tyle, ile trzeba do ich roli — czarnoksiężnik wyciągnie naukę od demona, od feya co najwyżej spełnione życzenie, nigdy własną magię.
+
+Najgłośniejszy żywy przykład tej reguły siedzi w Portugalii. Tęsknota za królem Sebastianem, zaginionym pod Alcácer Quibir w 1578 roku, narastała przez pokolenia sama z siebie — i wydała feya. Sebastian-fey wraca cyklicznie, by upomnieć się o tron, którego nigdy nie złożył, a jego nawiedzenia są dla Portugalii powracającą klęską — wcielona narodowa obsesja, która żąda korony i sieje zamęt, nim zniknie do następnego razu. Tym ostrzejszy jest kontrast z Arturem z Camelotu. Mimo tysiąca lat opowieści o królu, który powróci, Artur nigdy się nie zmanifestował — a skoro organiczna legenda Sebastiana feya zrodziła, milczenie Artura podpowiada, że jego legendę ułożono kiedyś celowo, zgodnie z regułą, że zasiane historie się nie spełniają. Po co i kto ją zasiał, pozostaje zagadką, której nikt na razie nie rozwiązał.
 
 Drugą twarzą tego zjawiska jest animizm i kult przodków. To również forma manifestacji feyów, słabszych i bezimiennych, więc i ich efekty są subtelniejsze niż Cuda abrahamowe — jedna z przyczyn, dla których te drugie wypierają pierwsze. Różnica polega na tym, że tu nawet zwykły człowiek, dochowując tradycji z przekonaniem, czuje wsparcie przodków: odpędzenie złego losu, drobne podprogowe błogosławieństwo. To samo źródło zasila japońskie kami, chińskie tablice przodków i animizm [[Rdzenne narody Ameryki Północnej|rdzennych narodów Ameryki]], a w innej, mroczniejszej formie — rozstaje amerykańskiego Południa, gdzie strach przed diabłem na skrzyżowaniu dróg ma realne podstawy.
 
@@ -296,6 +308,19 @@ Gdyby od początku byli lepiej zorganizowani, Ameryka mogłaby nie zostać skolo
 > **Status prawny smoczej krwi:** legalna i pożądana w koloniach, ścigana śmiercią przez rdzennych
 > **Smoki w walce:** drapieżniki bojowe; prymitywna broń czarnoprochowa zabija je tylko wtedy, gdy luf w jednym miejscu jest wiele — pojedynczy strzelec ginie, zanim przeładuje
 > **Płaszcz ze smoczej łuski:** drogi, rzadki, chroni przed kwasem i ogniem; cel numer jeden każdego złodzieja na pograniczu
+
+Poza cienistymi smoki są jednym zróżnicowanym gatunkiem. Podział na rzeczne, leśne, pustynne i górskie to adaptacja do regionu, nie osobne rody, więc krzyżówki ponad nim są w teorii możliwe; nazwy są kolonialne, uproszczone i u każdej nacji nieco inne. Na dalekiej północy i w tajdze trafiają się smoki cięższe i o jaśniejszym umaszczeniu, pokrewne leśnym. Cieniste stoją osobno i naprawdę różnią się od reszty.
+
+Naturę smoków zostawia się nierozstrzygniętą na stałe: gatunek naturalny spleciony z animizmem jak fey i kami, pół zwierzę, pół byt duchowy, którego pełni nie zna nikt, łącznie z rdzennymi. Z tej dwoistości bierze się zapewne uniwersalność krwi i to, że niewola ją niszczy.
+
+Rozród przez jaja. Pisklę jest sprawne, choć niepełnowymiarowe, w ciągu miesięcy; odmiany stadne pilnują młodych krótko i puszczają je w małe stada podrostków, samotnicze wyganiają potomstwo w czwartym–piątym roku. Pełną dorosłość smok osiąga około piątego roku i może dożyć stu pięćdziesięciu do dwustu lat zależnie od odmiany, lecz dożywa rzadko — drapieżniczy tryb życia kończy go na polowaniu albo w walce godowej, więc prastare osobniki to ewenement. W pełni rozumne, mówiące smoki istnieją w rdzennych podaniach; żaden Europejczyk takiego nie spotkał.
+
+Niewola i hodowla zawodzą zawsze. Smok trzymany w zamknięciu, choćby w małym rezerwacie pod strażą, szybko zdycha albo jałowieje, a jego krew traci wartość; powodu nikt nie zna, tak jak nikt nie wie, czemu każdy smok ginie podczas przeprawy morskiej. Krwi nie da się produkować, można ją tylko upolować.
+
+> [!mechanics]
+> **Tchnienie wg odmiany:** leśne i rzeczne — kwas (rzeczne także lepki, parzący śluz); pustynne — ogień; górskie — płonąca, lepka nafta (z perspektywy ofiary jak lawa); cieniste — rozbryzgowa kula mrozu, słabsza od reszty, lecz zdolna ciężko ranić
+> **Łuska:** chroni przed ogniem i kwasem; łuska cienistego wyłącznie przed jego własnym, mroźnym tchnieniem
+> **Uraza (stan na 1802):** na razie pojedyncze incydenty przy zachowanej symbiozie, lecz zjawisko narasta w miarę umacniania się Europejczyków na wschodzie; skoordynowany atak na dawnych sojuszników przerasta pospolitą inteligencję gatunku i niepokoi myślicieli, bo sugeruje porozumienie, którego smoki mieć nie powinny
 
 #### Smoki Rzeczne i Plemiona Wielkich Rzek
 
@@ -360,6 +385,10 @@ Skutek jest brutalny. Kolonizatorzy długo nie wiedzieli nawet, że czarnoskórz
 > **Białe Voodoo (szamanki):** Shaman + Spirit Ally (GURPS Dungeon Fantasy 9: Summoners) — sojusze z feyami
 > **Czarne Voodoo (wiedźmy):** Necromancer (DF9) — wymuszone posłuszeństwo potężniejszych bytów, zombie, klątwy
 > **Słabość uniwersalna:** ołów neutralizuje całą afrykańską magię i moce mistycznych bestii
+
+Ołów ma jednak granice działania, i te granice rysują mapę. Dławi rodzimą magię Afryki i moc mistycznych bestii, lecz nie tyka Cudu islamu: baraka marabutów Sahelu i wybrzeża suahilskiego płynie z wiary, więc ani kołnierz, ani kula jej nie gasi (zob. baraka wyżej). Tam, gdzie kończy się Voodoo, zaczyna się moc, której ten sam metal nie rusza.
+
+Druga granica jest strategiczna. Ołów broni punktu — można obłożyć nim fort i okuć nim jeńca, nie da się obłożyć nim maszerującej armii ani kolonii w głębi lądu. Dlatego Europa od trzystu lat siedzi na skraju Afryki: trzyma wybrzeże i pokład statku, a wnętrze, bronione przez państwa, bestie i chorobę, pozostaje nietknięte. Malaria i żółta febra dokańczają dzieła — wybrzeże zwą grobem białego człowieka. Podbój kontynentu przyjdzie dopiero za trzy pokolenia, gdy chinina pokona malarię, karabin maszynowy armie, a tani ołów w przemysłowej ilości — magię.
 
 ### Rewolucja na Haiti
 
@@ -443,7 +472,13 @@ To jeden z punktów spornych z [[Wielka Brytania|Wielką Brytanią]]. [[Pokój A
 
 [[Wielka Brytania|Wielka Brytania]] jest jednym z głównych europejskich ośrodków ruchów antymagicznych i jej elita jest z tego dumna. Przeciwna władzy politycznej Rzymu, powołała w swoim czasie [[Kościół anglikański]], który przez krótszą historię i mniejszy prestiż słabiej inspiruje i szkoli [[Cudotwórcy|cudotwórców]]. Nieprzypadkowo to właśnie z brytyjskiego gruntu wyrośli purytanie, dla których każda magia „nie-boska" jest wprost dziełem szatana.
 
-Angielscy lordowie starannie blokowali nadawanie tytułów [[Prekursorzy|prekursorom]] tylko z racji ich mocy, z wrodzonego snobizmu. Mocno osłabiło to rozprzestrzenianie Sorcery na Wyspach, a kapitał i talent popłynęły w technologię, finanse i flotę. Dlatego siła i profil nacji pozostają zbliżone do historycznych: Bank Anglii, Royal Navy i kominy Manchesteru robią to, co u innych próbuje robić magia, i robią to taniej. Brytyjscy mężowie stanu epoki — premierzy, admirałowie, król — są pod tym względem zwyczajnymi ludźmi i uważają to za powód do dumy, nie wstydu.
+Angielscy lordowie starannie blokowali nadawanie tytułów [[Sorcery|prekursorom]] tylko z racji ich mocy, z wrodzonego snobizmu. Mocno osłabiło to rozprzestrzenianie Sorcery na Wyspach, a kapitał i talent popłynęły w technologię, finanse i flotę. Dlatego siła i profil nacji pozostają zbliżone do historycznych: Bank Anglii, Royal Navy i kominy Manchesteru robią to, co u innych próbuje robić magia, i robią to taniej. Brytyjscy mężowie stanu epoki — premierzy, admirałowie, król — są pod tym względem zwyczajnymi ludźmi i uważają to za powód do dumy, nie wstydu.
+
+### Wolne miasta i metoda kupiecka
+
+Tę samą logikę w czystszej postaci niosą wolne miasta hanzeatyckie — Hamburg, Lubeka, Brema. Miasta kupieckie nie miały szlachty, a [[Sorcery|magia dziedziczna]] jest dziełem szlachty, więc dar nie kupował tu nic. Rządziła księga rachunkowa, weksel, polisa morska i prawo, a kupiec, który nigdy nie rzucił czaru, lecz spłacał długi w terminie, znaczył więcej niż adept bez kredytu. Gdzie pan z darem radził się jasnowidza przed wyprawą, hamburczyk radził się tablic ubezpieczeniowych — a tablice myliły się rzadziej.
+
+To czyni wolne miasta wyspami zimnej metody na magicznym morzu [[Święte Cesarstwo Rzymskie|Rzeszy]], i właśnie dlatego przetrwają one to, co Rzeszę czeka: gdy sekularyzacja i rozpad cesarstwa zburzą magiczną część starego porządku, kantor i bank, które od magii nie zależały, zostaną. Hanza jest starszą, mniejszą [[Wielka Brytania|Anglią]] — z tą różnicą, że metodę dla jednego morza Anglia i Francja skalują dziś na całe imperia. Cudzą magię wolne miasta wożą zresztą jak każdy towar: bałtycki bursztyn-amulet, futra, wosk, ważone i ubezpieczone, nigdy zaklinane. Szerzej przy [[Liga Hanzeatycka – Dziedzictwo|dziedzictwie Hanzy]].
 
 ## Technologia: broń palna i przemysł
 

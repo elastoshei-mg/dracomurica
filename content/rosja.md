@@ -100,4 +100,4 @@ Codzienność chłopa toczy się między ciężką pracą lata a długą ciemno�
 
 ---
 
-*Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Święte Cesarstwo Rzymskie]], [[Imperium Osmańskie]], [[Stany Zjednoczone]], [[Handel futrami]], [[Cudotwórcy]], [[Sorcery]], [[Prekursorzy]], [[Europejskie czarostwo]], [[Daemony]], [[Punkty rozbieżności]], [[Chronologia]].*
+*Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Święte Cesarstwo Rzymskie]], [[Imperium Osmańskie]], [[Stany Zjednoczone]], [[Handel futrami]], [[Cudotwórcy]], [[Sorcery]], [[Sorcery|Prekursorzy]], [[Europejskie czarostwo]], [[Daemony]], [[Punkty rozbieżności]], [[Chronologia]].*

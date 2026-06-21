@@ -82,4 +82,4 @@ Codzienny obraz Rzeszy najlepiej widać na drodze. Kupiec jadący z Hamburga do 
 
 ---
 
-*Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Rosja]], [[Pokój Amiens]], [[Państwo Kościelne]], [[Oświecenie]], [[Wolnomurarstwo]], [[Cudotwórcy]], [[Sorcery]], [[Prekursorzy]], [[Polowania na czarownice]], [[Fey]], [[Punkty rozbieżności]], [[Chronologia]].*
+*Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Rosja]], [[Pokój Amiens]], [[Państwo Kościelne]], [[Oświecenie]], [[Wolnomurarstwo]], [[Cudotwórcy]], [[Sorcery]], [[Sorcery|Prekursorzy]], [[Polowania na czarownice]], [[Fey]], [[Punkty rozbieżności]], [[Chronologia]].*
