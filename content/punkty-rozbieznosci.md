@@ -25,7 +25,7 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | Artykuł | Stan |
 |---|---|
 | [[Wiki Settingu – Rok 1802]] | NIE |
-| [[Chronologia]] | NIE |
+| [[Chronologia]] | TAK |
 | [[Słownik terminów]] | TAK |
 | [[Pokój Amiens]] | TAK |
 | [[Francja Napoleońska]] | TAK |
