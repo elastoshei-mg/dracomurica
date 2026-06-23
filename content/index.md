@@ -1,7 +1,7 @@
 ---
 title: Wiki Settingu – Rok 1802
 tags: [meta, index, nawigacja]
-aliases: [Strona główna, Główna, Index, Wiki]
+aliases: [Strona główna, Główna]
 ---
 
 # Rok 1802
