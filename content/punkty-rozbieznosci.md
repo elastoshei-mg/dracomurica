@@ -24,7 +24,7 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 
 | Artykuł | Stan |
 |---|---|
-| [[Wiki Settingu – Rok 1802]] | NIE |
+| [[Wiki Settingu – Rok 1802]] | TAK |
 | [[Chronologia]] | TAK |
 | [[Słownik terminów]] | TAK |
 | [[Pokój Amiens]] | TAK |
@@ -38,7 +38,7 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Państwo Kościelne]] | TAK |
 | [[Stany Zjednoczone]] | TAK |
 | [[Codzienne życie w Stanach Zjednoczonych]] | TAK |
-| [[Terytorium Luizjany]] | NIE |
+| [[Terytorium Luizjany]] | TAK |
 | [[Nowy Orlean]] | TAK |
 | [[Haiti]] | TAK |
 | [[Toussaint Louverture]] | TAK |
@@ -58,20 +58,15 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Oświecenie]] | TAK |
 | [[Wolnomurarstwo]] | TAK |
 | [[Cudotwórcy]] | TAK |
-| [[Papież]] | BRAK |
 | [[Sorcery]] | TAK |
-| [[Boskie prawo królów]] | BRAK |
 | [[Europejskie czarostwo]] | BRAK |
 | [[Gildie Śmierci]] | BRAK |
 | [[Magiczne przedmioty]] | BRAK |
-| [[Alchemia]] | BRAK |
-| [[Smocza krew]] | BRAK |
+| [[Alchemia]] | TAK |
 | [[Smoczy Magowie]] | BRAK |
-| [[Czerwone opium]] | BRAK |
 | [[Feng shui]] | BRAK |
 | [[Sztuki walki]] | BRAK |
 | [[Cięcie Powietrza]] | BRAK |
-| [[Legion magów]] | BRAK |
 | [[Buddyzm]] | BRAK |
 | [[Daemony]] | BRAK |
 | [[Żywiołaki]] | BRAK |
@@ -80,7 +75,8 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Smoki]] | TAK |
 | [[Charau-Ka]] | BRAK |
 | [[Czarna Śmierć]] | BRAK |
-| [[Krucjaty]] | BRAK |
+| [[Krucjaty]] | TAK |
+| [[Asasyni]] | BRAK |
 | [[Voodoo]] | TAK |
 | [[Bois Caïman]] | BRAK |
 | [[Wielki Pożar Londynu]] | BRAK |
@@ -90,6 +86,8 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Szwajcaria]] | BRAK |
 | [[Ameryka Południowa]] | BRAK |
 | [[Pierwsza Poprawka]] | BRAK |
+
+Część pojęć świadomie nie dostaje własnego pliku — ich linki przekierowano aliasami do artykułów macierzystych: smocza krew i czerwone opium prowadzą do [[Alchemia|Alchemii]], Papież do [[Państwo Kościelne|Państwa Kościelnego]], Legion magów do [[Francja Napoleońska|Francji Napoleońskiej]], boskie prawo królów do [[Sorcery]], a cudotwórcy wojskowi do [[Cudotwórcy|Cudotwórców]].
 
 ## Zasada skali
 

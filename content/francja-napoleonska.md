@@ -1,7 +1,7 @@
 ---
 title: Francja Napoleońska
 tags: [francja, napoleon, polityka, historia, europa, postaci, magia]
-aliases: [Francja, Francja Napoleońska (1802), Konsulat, République Française, Napoleon]
+aliases: [Francja, Francja Napoleońska (1802), Konsulat, République Française, Napoleon, Legion magów]
 ---
 
 # Francja Napoleońska
