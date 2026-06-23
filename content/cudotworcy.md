@@ -1,7 +1,7 @@
 ---
 title: Cudotwórcy
 tags: [magia, religia, cud, kosciol, spoleczenstwo, historia]
-aliases: [Cudotwórca, Paragoni, Paragon, Miracle Workers, Cudotworcy, Cudotwórcy wojskowi]
+aliases: [Cudotwórca, Paragoni, Paragon, Miracle Workers, Cudotworcy, Cudotwórcy, Cudotwórcy wojskowi]
 ---
 
 # Cudotwórcy
