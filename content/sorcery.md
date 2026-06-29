@@ -1,7 +1,7 @@
 ---
 title: Sorcery
 tags: [magia, sorcery, krew, szlachta, dziedziczenie, spoleczenstwo, historia]
-aliases: [Magia dziedziczna, Magia krwi, Czary szlacheckie, Dziedziczna Sorcery, Sorcery (1802), Boskie prawo królów]
+aliases: [Magia dziedziczna, Magia krwi, Czary szlacheckie, Dziedziczna Sorcery, Cięcie Powietrza, Smoczy Magowie, smocza magia, Sorcery (1802), Boskie prawo królów]
 ---
 
 # Sorcery
@@ -103,7 +103,7 @@ Cena jest stała i dożywotnia. Zęby przyjmują barwę burgunda, żyły prześw
 > [!mechanics]
 > **Efekt smoczej krwi:** trwałe podniesienie Sorcerous Empowerment oraz budzenie uśpionych linii — równoległe moce kilku przodków
 > **Wada:** uzależnienie podtrzymujące (fiolka destylatu mniej więcej raz w miesiącu) i trwałe znamiona (burgundowe zęby, widoczne żyły); przerwanie dostaw oznacza śmierć
-> **Nabyta Sorcery:** poza smoczą krwią dar bywa rzadko hodowany samym treningiem — japońscy mistrzowie miecza opanowują tak [[Cięcie Powietrza]], atak na odległość zadawany cięciem broni; szerzej przy [[Japonia|Japonii]]
+> **Nabyta Sorcery:** poza smoczą krwią dar bywa rzadko hodowany samym treningiem — japońscy mistrzowie miecza opanowują tak Cięcie Powietrza, atak na odległość zadawany cięciem broni; szerzej przy [[Japonia|Japonii]]
 
 ---
 

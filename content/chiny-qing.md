@@ -1,7 +1,7 @@
 ---
 title: Chiny dynastii Qing
 tags: [chiny, qing, azja, historia, polityka, gospodarka, spoleczenstwo, magia]
-aliases: [Chiny dynastii Qing (1802), Chiny, Qing, Państwo Środka, China, Cesarstwo Chińskie]
+aliases: [Chiny dynastii Qing (1802), Chiny, Qing, Państwo Środka, China, Cesarstwo Chińskie, Wielki Mur]
 ---
 
 # Chiny dynastii Qing
@@ -51,7 +51,7 @@ Magia Państwa Środka opiera się na *qi* (氣) — życiowej energii, którą 
 
 Sztuki walki to druga gałąź. W klasztorach i tajnych szkołach mistrzowie hartują qi tak długo, że ich ciosy kruszą kamień, a najlepsi tną powietrze na odległość — technikę tę nazywa się [[Cięcie Powietrza]]. W trzystumilionowym kraju jest ich ledwie tysiące, rozsianych wszędzie: wśród mnichów, strażników karawan, wiejskich nauczycieli. [[Buddyzm|Mnisi buddyjscy]] i taoistyczni alchemicy dorzucają własne ścieżki — uzdrawianie, długowieczność, panowanie nad oddechem i strachem.
 
-Nad tym wszystkim ciągnie się [[Wielki Mur]], a jego rola sięga znacznie dalej niż kamień. Mur jest barierą działającą w obie strony. Broni przed najazdem z północy, lecz przede wszystkim ściąga nieszczęście na każdego, kto przekroczy go z bronią: armie najeźdźców więdną od chorób, klątw i złych zrządzeń losu, które kronikarze przypisują samej budowli. Mongołowie pamiętają, że ich przodkowie złamali Mur tylko wtedy, gdy ktoś otworzył im bramę od środka.
+Nad tym wszystkim ciągnie się Wielki Mur, a jego rola sięga znacznie dalej niż kamień. Mur jest barierą działającą w obie strony. Broni przed najazdem z północy, lecz przede wszystkim ściąga nieszczęście na każdego, kto przekroczy go z bronią: armie najeźdźców więdną od chorób, klątw i złych zrządzeń losu, które kronikarze przypisują samej budowli. Mongołowie pamiętają, że ich przodkowie złamali Mur tylko wtedy, gdy ktoś otworzył im bramę od środka.
 
 W głębszym sensie Mur to feng shui zaklęte w skali kontynentu. Domyka qi Państwa Środka i zatrzymuje jego pomyślność wewnątrz jak wodę w naczyniu. Skutek bywa dwojaki: gdy czasy są dobre i władca mądry, energia krąży, a Cesarstwo kwitnie jak żaden inny kraj świata; gdy tron słabnie, ta sama zamknięta siła kiśnie bez ujścia, a zaraza, bunt i głód mnożą się za murem, który nie chce ich wypuścić. Bunt Białego Lotosu ma w sobie i ten posmak — moc Cesarstwa, która nie znajduje wyjścia.
 
@@ -121,4 +121,4 @@ Stany Zjednoczone handlują z Chinami od 1784 roku, odkąd przypłynął tu stat
 
 ---
 
-*Powiązane artykuły: [[Kompanie Wschodnioindyjskie]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Indie Mogołów i Kompania]], [[Czerwone opium]], [[Feng shui]], [[Sztuki walki]], [[Cięcie Powietrza]], [[Wielki Mur]], [[Smocza krew]], [[Japonia]], [[Rosja]], [[Punkty rozbieżności]].*
+*Powiązane artykuły: [[Kompanie Wschodnioindyjskie]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Indie Mogołów i Kompania]], [[Czerwone opium]], [[Feng shui]], [[Sztuki walki]], [[Cięcie Powietrza]], [[Smocza krew]], [[Japonia]], [[Rosja]], [[Punkty rozbieżności]].*

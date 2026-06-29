@@ -91,7 +91,7 @@ Późne krucjaty już tylko przegrywały. Pod Nikopolem w 1396 roku i pod Warną
 
 Świat islamu odpowiadał własną świętą mocą. *Baraka* marabutów i sufickich świętych, *karamat* przekazywany w łańcuchu mistrzów, dżihad mniejszy jako obrona ziemi — wszystko realne i wszystko obecne na polach, gdzie ginęli krzyżowcy. Saladyn urósł w legendę po obu stronach: zdobywca, który łamał armie pod Hattinem, a jeńcom bywał łaskaw.
 
-W górach perskich i syryjskich działał zakon, jakiego chrześcijaństwo się bało. [[Asasyni|Asasyni]] — nizaryci ze swych orlich gniazd w Alamut i Masjafie — słali pojedynczych zabójców, *fida'i*, którzy szli na śmierć z chłodem, jakiego nie tłumaczyła sama wiara. „Starzec z Gór" obiecywał im ogród rozkoszy po drugiej stronie, a wizje, które ich tam zabierały za życia, miały źródło ciemniejsze niż haszysz. Mongołowie zdławili ich twierdze w 1256 roku, lecz wzór tajnego zakonu skrytobójców-wtajemniczonych przetrwał ich upadek.
+W górach perskich i syryjskich działał zakon, jakiego chrześcijaństwo się bało. Asasyni — nizaryci ze swych orlich gniazd w Alamut i Masjafie — słali pojedynczych zabójców, *fida'i*, którzy szli na śmierć z chłodem, jakiego nie tłumaczyła sama wiara. „Starzec z Gór" obiecywał im ogród rozkoszy po drugiej stronie, a wizje, które ich tam zabierały za życia, miały źródło ciemniejsze niż haszysz. Mongołowie zdławili ich twierdze w 1256 roku, lecz wzór tajnego zakonu skrytobójców-wtajemniczonych przetrwał ich upadek.
 
 Pod tym wszystkim żył Lewant niczyjej wiary — dżinny pustyni, z którymi targowano się jak w opowieściach, i [[Fey|feye]] starsze od trzech religii naraz. Krzyżowcy nieśli też w przeciwną stronę legendę, która ich zawiodła. Czekali na Prester Johna, potężnego chrześcijańskiego króla zza Persji, który miał uderzyć na islam od tyłu i podać im rękę. Nigdy nie przyszedł, bo był legendą zasianą celowo, a takie, w odróżnieniu od narosłych same z siebie, nie przyoblekają się w ciało. Pokolenia wojsk wypatrywały sojusznika, którego nie było.
 
@@ -120,4 +120,4 @@ Najświeższe echo bije z Arabii. Purytański zryw wahabitów, który w 1802 rok
 
 ---
 
-*Powiązane artykuły: [[Cudotwórcy]], [[Cudotwórcy wojskowi]], [[Państwo Kościelne]], [[Hiszpania]], [[Imperium Osmańskie]], [[Święte Cesarstwo Rzymskie]], [[Pokój Amiens]], [[Asasyni]], [[Magiczne przedmioty]], [[Alchemia]], [[Europejskie czarostwo]], [[Fey]], [[Nieumarli]], [[Gildie Śmierci]], [[Wolnomurarstwo]], [[Punkty rozbieżności]], [[Chronologia]].*
+*Powiązane artykuły: [[Cudotwórcy]], [[Cudotwórcy wojskowi]], [[Państwo Kościelne]], [[Hiszpania]], [[Imperium Osmańskie]], [[Święte Cesarstwo Rzymskie]], [[Pokój Amiens]], [[Magiczne przedmioty]], [[Alchemia]], [[Europejskie czarostwo]], [[Fey]], [[Nieumarli]], [[Gildie Śmierci]], [[Wolnomurarstwo]], [[Punkty rozbieżności]], [[Chronologia]].*

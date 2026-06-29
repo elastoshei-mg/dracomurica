@@ -16,11 +16,11 @@ Doczesne władztwo papieża skurczyło się do środkowej Italii i niemal pusteg
 
 Państwo Kościelne obejmuje środkową Italię od okolic Bolonii po Terracinę: Lacjum z Rzymem, Umbrię, Marche i część Romanii. Około czterdziestu tysięcy kilometrów kwadratowych i jakieś dwa i pół miliona mieszkańców.
 
-Najbogatszej, handlowej północy już tu nie ma. [[Traktat Lunéville]] z 1801 roku potwierdził, że Legacje — Bolonia, Ferrara, Rawenna i Romagna — zostają przy Republice Włoskiej, której prezydentem zostaje w 1802 roku sam Napoleon. Rzym dostał z powrotem ziemie środkowe i południowe, a oddał żyzną Padanię.
+Najbogatszej, handlowej północy już tu nie ma. Traktat Lunéville z 1801 roku potwierdził, że Legacje — Bolonia, Ferrara, Rawenna i Romagna — zostają przy Republice Włoskiej, której prezydentem zostaje w 1802 roku sam Napoleon. Rzym dostał z powrotem ziemie środkowe i południowe, a oddał żyzną Padanię.
 
 Sam Rzym liczy sto pięć tysięcy mieszkańców, z czego co najmniej osiem tysięcy to duchowni, zakonnicy i ludzie kurii. Bez Kościoła miasto przestałoby być sobą — przy życiu trzymają je kuria, pielgrzymi, papieskie patronaty, zakonne szpitale i szkoły.
 
-Pod tym wszystkim leży pusty skarbiec. Rewolucja skonfiskowała dobra kościelne we Francji, Republika Cisalpejska w Bolonii i Romanii, a francuska okupacja Rzymu wywiozła złoto i sztukę wagonami. [[Traktat w Tolentino]] z 1797 roku, podpisany jeszcze przez Piusa VI pod bagnetem, obciążył Rzym kontrybucją trzydziestu milionów franków; wypłacono, ile się dało, reszta została długiem. W 1802 roku kardynał Consalvi szuka pożyczek u rzymskich bankierów, a odbudowę administracji finansują bieżące opłaty i datki napływające z misji.
+Pod tym wszystkim leży pusty skarbiec. Rewolucja skonfiskowała dobra kościelne we Francji, Republika Cisalpejska w Bolonii i Romanii, a francuska okupacja Rzymu wywiozła złoto i sztukę wagonami. Traktat w Tolentino z 1797 roku, podpisany jeszcze przez Piusa VI pod bagnetem, obciążył Rzym kontrybucją trzydziestu milionów franków; wypłacono, ile się dało, reszta została długiem. W 1802 roku kardynał Consalvi szuka pożyczek u rzymskich bankierów, a odbudowę administracji finansują bieżące opłaty i datki napływające z misji.
 
 > [!rules]
 > **Stolica:** Rzym (~105 000 mieszkańców)
@@ -53,7 +53,7 @@ Pius VII, urodzony Barnaba Chiaramonti w Cesenie w 1742 roku, był benedyktynem 
 
 Konkordat z Francją był ceną tej rozmowy. Napoleon potrzebował go z kilku powodów naraz: by pogodzić podzieloną religijnie prowincję, by zamknąć ranę Wandei, która kosztowała sto tysięcy ofiar, i dlatego, że w religii widział społeczne spoiwo, choć w Boga nie wierzył. Był też powód, którego żaden artykuł nie nazywa wprost — francuscy cudotwórcy rozpierzchli się razem z księżmi w czasie rewolucji, a tylko pojednanie z Rzymem mogło otworzyć ich szkolenie na nowo i przywieść ich pod sztandar Republiki.
 
-Rokowania ciągnęły się od wiosny 1800 roku. Prowadził je kardynał [[Ercole Consalvi]] — sekretarz stanu, dyplomata bez kapłańskich święceń, który rozumiał europejskie dwory lepiej niż ktokolwiek w kurii. Tekst zmieniano osiemnastokrotnie. Napoleon w nocy wyrzucił Consalviego z rozmów, gdy ten nie chciał oddać prawa mianowania biskupów, i zagroził uregulowaniem spraw Kościoła samym dekretem; kardynała przywołano dopiero, gdy bez niego rokowania utknęły. Podpis padł 15 lipca 1801 roku.
+Rokowania ciągnęły się od wiosny 1800 roku. Prowadził je kardynał Ercole Consalvi — sekretarz stanu, dyplomata bez kapłańskich święceń, który rozumiał europejskie dwory lepiej niż ktokolwiek w kurii. Tekst zmieniano osiemnastokrotnie. Napoleon w nocy wyrzucił Consalviego z rozmów, gdy ten nie chciał oddać prawa mianowania biskupów, i zagroził uregulowaniem spraw Kościoła samym dekretem; kardynała przywołano dopiero, gdy bez niego rokowania utknęły. Podpis padł 15 lipca 1801 roku.
 
 Treść była kompromisem. Francja uznała katolicyzm za religię „wielkiej większości obywateli", nie za religię państwową. Rząd płaci pensje duchownym i nominuje biskupów, papież ich zatwierdza, Kościół zrzeka się ziemi utraconej w rewolucji. Ogłoszono to publicznie 18 kwietnia 1802 roku, w Wielkanoc, przed korpusem dyplomatycznym i marszałkami.
 
@@ -67,7 +67,7 @@ Orężem Piusa jest cierpliwość. Ustępuje tam, gdzie ustępstwo niczego nie b
 
 Kuria — kongregacje, trybunały i sekretariaty papiestwa — w 1802 roku odbudowuje się po rewolucji, która zniszczyła jej akta, rozproszyła urzędników i zmusiła wielu dostojników do ucieczki albo układów z Republiką Cisalpejską.
 
-[[Kongregacja Propagandy Wiary]], zarządzająca misjami na wszystkich kontynentach, należy do nielicznych, które nie straciły ciągłości. Misje w Chinach, Indiach, Afryce i Ameryce Łacińskiej raportują do Rzymu przez kurierów — od kilku tygodni z Europy po kilkanaście miesięcy z Azji.
+Kongregacja Propagandy Wiary, zarządzająca misjami na wszystkich kontynentach, należy do nielicznych, które nie straciły ciągłości. Misje w Chinach, Indiach, Afryce i Ameryce Łacińskiej raportują do Rzymu przez kurierów — od kilku tygodni z Europy po kilkanaście miesięcy z Azji.
 
 [[Święte Oficjum]] — dawna Inkwizycja — na co dzień zajmuje się cenzurą ksiąg i sprawami apostazji; więźniów ma niewielu, lecz procedury trzyma żywe. To ono orzeka, czy zgłoszony cud jest prawdziwy, czy też dziełem szarlatana albo [[Daemony|demonicznego]] podstępu, i ono pilnuje magii nieświętej — w spadku po wiekach [[Polowania na czarownice|polowań na czarownice]] i wojnie z [[Gildie Śmierci|nekromantami]].
 
@@ -81,7 +81,7 @@ Starożytny Rzym stoi pośród nowożytnego jak szkielet. Koloseum od trzystu la
 
 A jednak to wciąż obowiązkowy przystanek Grand Tour. Przez cały wiek XVIII arystokracja i zamożne mieszczaństwo Anglii, Niemiec i Francji zjeżdżały tu na miesiące; Goethe spędził w Rzymie dwa lata i napisał o tym książkę. Po Konkordacie turyści wracają — Francuzi od razu, Anglicy ostrożnie, bo ich kraj jest z Francją w wojnie aż do [[Pokój Amiens|Pokoju Amiens]].
 
-[[Willa Borghese]], [[Panteon]], bazylika świętego Piotra, katakumby — każde z tych miejsc ma własnych strażników, przewodników i opłatę za wstęp. Kuria zarządza prawem dostępu jak każdym innym zasobem.
+Willa Borghese, Panteon, bazylika świętego Piotra, katakumby — każde z tych miejsc ma własnych strażników, przewodników i opłatę za wstęp. Kuria zarządza prawem dostępu jak każdym innym zasobem.
 
 ---
 

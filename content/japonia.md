@@ -38,11 +38,11 @@ Kraj dzieli się na około dwieście siedemdziesiąt domen (*han*) pod władzą 
 
 Japońska magia jest sztuką wojownika. Energię, którą Chińczyk zwie qi, tutaj nazywa się *ki*, a hartuje ją szermierz — przez lata cięć, oddechu i zenistycznej dyscypliny, aż ciało robi rzeczy, których robić nie powinno. Najwyższym dowodem mistrzostwa jest [[Cięcie Powietrza]]: ostrze tnące cel na odległość, falą, która wybiega poza stal. Tę technikę spotyka się wśród samurajów średniego szczebla i wyżej, lecz prawdziwych mistrzów jest garstka.
 
-Dwa wieki pokoju Tokugawów obracają się przeciw tej sztuce. Klasa wojowników jest ogromna, a niemal nikt z niej nie zaznał wojny; miecz stał się odznaką, urzędem i ceremonią. Poważne ki i Cięcie Powietrza dochowują nieliczne stare szkoły (*ryū*), trenujące tak, jakby wojna miała wrócić nazajutrz, podczas gdy reszta samurajów nosi dwa miecze, których nigdy nie użyje w gniewie. Pokój wysusza tę magię szybciej niż jakakolwiek klęska. [[Sztuki walki|Wschodnia ścieżka ciała]] i [[Buddyzm|zen]] są jej wspólnym korzeniem: mistrz miecza i mistrz herbaty piją z tego samego źródła co chiński mnich.
+Dwa wieki pokoju Tokugawów obracają się przeciw tej sztuce. Klasa wojowników jest ogromna, a niemal nikt z niej nie zaznał wojny; miecz stał się odznaką, urzędem i ceremonią. Poważne ki i Cięcie Powietrza dochowują nieliczne stare szkoły (*ryū*), trenujące tak, jakby wojna miała wrócić nazajutrz, podczas gdy reszta samurajów nosi dwa miecze, których nigdy nie użyje w gniewie. Pokój wysusza tę magię szybciej niż jakakolwiek klęska. [[Sztuki walki|Wschodnia ścieżka ciała]] i zen są jej wspólnym korzeniem: mistrz miecza i mistrz herbaty piją z tego samego źródła co chiński mnich.
 
 Drugą warstwą są bogowie. Japonia jest gęsta od *kami* — duchów miejsca, rzeki, góry, przodka — które w tym świecie są realne, choć zwykle drobne: odczuwalne błogosławieństwo w starym sanktuarium, dziwna groza nawiedzonego lasu, [[Fey|bezimienna obecność]], jakiej setki lat czci nadały kształt. Najczęściej kami tylko sprzyja albo straszy; rzadziej przybiera postać *yōkai* z pazurami. Wielkie świątynie Ise i Izumo stoją tam, gdzie ta obecność jest najsilniejsza, a setki tysięcy pielgrzymów rocznie czują to, czego nie umieją nazwać.
 
-Gdzie Chiny zamknęły swoją pomyślność za [[Wielki Mur|geomantycznym murem]], Japonia odgrodziła się od świata edyktem i mieczem — barierą czysto polityczną. A nad wszystkim wisi to samo, co nad resztą świata: szermierz, który tnie powietrze, jest wspaniały i bezużyteczny wobec działa okrętowego, którego jeszcze nie widział.
+Gdzie Chiny zamknęły swoją pomyślność za geomantycznym murem, Japonia odgrodziła się od świata edyktem i mieczem — barierą czysto polityczną. A nad wszystkim wisi to samo, co nad resztą świata: szermierz, który tnie powietrze, jest wspaniały i bezużyteczny wobec działa okrętowego, którego jeszcze nie widział.
 
 ---
 
@@ -92,4 +92,4 @@ Na uboczu rośnie myśl groźna dla szogunatu. Nauka Mito, rozwijana przez jedn�
 
 ---
 
-*Powiązane artykuły: [[Chiny dynastii Qing]], [[Kompanie Wschodnioindyjskie]], [[Rosja]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Cięcie Powietrza]], [[Sztuki walki]], [[Buddyzm]], [[Fey]], [[Punkty rozbieżności]], [[Chronologia]].*
+*Powiązane artykuły: [[Chiny dynastii Qing]], [[Kompanie Wschodnioindyjskie]], [[Rosja]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Cięcie Powietrza]], [[Sztuki walki]], [[Fey]], [[Punkty rozbieżności]], [[Chronologia]].*

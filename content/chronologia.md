@@ -90,7 +90,7 @@ Równocześnie Filip zlikwidował zakon templariuszy: procesy o herezję, kult b
 
 Trzy lata z rzędu zimne, mokre lata zniszczyły zbiory w całej Europie Zachodniej. Dziesięć do dwudziestu procent populacji zginęło z głodu i powiązanych chorób — w Flandrii, Francji, Anglii, zachodnich Niemczech. Bydło dziesiątkował mur, a kanibalizm odnotowano w kilku kronikach.
 
-Głód, który poprzedził [[Czarną Śmierć]] o ćwierć wieku, osłabił europejskie populacje. Niedożywiony, demograficznie wyczerpany kontynent nie miał biologicznej rezerwy.
+Głód, który poprzedził [[Czarna Śmierć|Czarną Śmierć]] o ćwierć wieku, osłabił europejskie populacje. Niedożywiony, demograficznie wyczerpany kontynent nie miał biologicznej rezerwy.
 
 ### 1337–1453 — Wojna Stuletnia
 

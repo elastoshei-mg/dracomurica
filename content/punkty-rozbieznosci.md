@@ -1,93 +1,30 @@
 ---
 title: Punkty rozbieżności
 tags: [meta, lore, historia]
-aliases: [Points of Divergence, PoD, Punkty Rozbieżności, Punkty rozbieżności,Rozbieżności, Obszary rozbieżności]
+aliases: [Points of Divergence, PoD, Rozbieżności, Obszary rozbieżności]
 ---
 
 # Punkty rozbieżności
 
-Świat tej kampanii był magiczny od zawsze, ale magia rzadko działała w skali zdolnej przepisać dzieje. Adept ma zwykle jeden wąski trik. Cud bywa odmówiony. Czarodziej kosztuje fortunę w szkoleniu, a jest jeden na prowincję.
+Świt nad Missouri. Łowca stoi po kolana we krwi, która jeszcze paruje, a alchemik przy ognisku liczy minuty — ma niecałą godzinę, zanim posoka skrzepnie i zgaśnie jak każda inna krew. W sitowiu za ich plecami czeka ktoś trzeci: zwiadowca, który zapamiętał obie twarze i zaniesie wiadomość do wioski, gdzie zdecydują, czy warto ich ścigać.
 
-Dlatego ceny zboża, traktaty pokojowe i wynik większości bitew biegną torem znanym z [[Chronologia|prawdziwej historii]]. Dopiero tam, gdzie wkracza smocza krew, ołów, klaster [[Cudotwórcy|cudotwórców]] albo francuska szlachta z burgundowymi zębami, historia skręca. Punktem odniesienia jest [[Pokój Amiens|rok 1802]] — pierwsze miesiące po podpisaniu pokoju, zanim cokolwiek zostanie przesądzone.
+Tej samej godziny, sześć tysięcy mil na wschód, starzec w sewilskiej katedrze wstaje z kolan po trzech godzinach modlitwy, z wargami popękanymi od suchości, i niesie na rękach dziecko, które przed chwilą jeszcze charczało z gorączki. Lekarz miejski, wezwany za późno, nie znajdzie słów. Ksiądz też nic nie powie — modlitwa, którą właśnie wypowiedział, była ostatnią, jaką miał w sobie na najbliższy czas, i wie to lepiej niż ktokolwiek w kościele.
 
-Ten dokument zbiera te skręty w jednym miejscu i pilnuje, żeby reszta wiki była z nimi zgodna.
+W salonie nad Sekwaną młoda hrabina podgrzewa dłonią filiżankę czekolady, nie dotykając porcelany, i śmieje się, gdy gość wzdryga się na ten widok. Sztuczka jest błaha — jej babka umiała więcej, jej prababka umiała wznieść pożar — ale wystarcza, by spłowiały rodowód rodziny znów wydał się wart małżeńskiej umowy, którą prawnicy podpiszą jutro.
 
-## Status dokumentu
+Na Saint-Domingue noc pachnie dymem i trzciną cukrową. Bębny biją od zmierzchu, a francuski oficer, który przeżył trzy szarże kawalerii bez jednej rany, tej nocy nie wyjdzie z namiotu. Jego żołnierze już wiedzą, czego się boją. Wiedzą też, że żaden rozkaz nie odda im odwagi.
 
-Dokument roboczy. Tabela jest inwentarzem artykułów wiki ze znacznikiem stanu: **TAK** — przerobiony pod nowe lore i sensowną strukturę, **NIE** — plik istnieje, lecz czeka na przeróbkę, **BRAK** — pojęcie linkowane w treści, które nie ma jeszcze własnego pliku.
+W piwnicy nowoorleańskiego sklepu coś bulgocze pod kopułą ze szkła i miedzi. Zapach jest gryzący, słodkawy, niebezpieczny — destylat smoczej krwi, przepędzony w ciągu godziny od zabicia bestii, bo inaczej zgaśnie jak ta nad Missouri. Mężczyzna, który go warzy, nie ma nazwiska znanego nikomu poza klientem. W tym fachu sława skraca życie.
 
-Wcześniejsze masowe oznaczanie na TAK okazało się przedwczesne: te same wady struktury (powtórzenia, kalki, doklejane wstawki zamiast spójnego tekstu) wracały w kolejnych plikach, więc każdy artykuł przechodzi pełną przeróbkę od nowa. Stan każdego pliku pokazuje kolumna w tabeli niżej.
+Pięć scen, jeden rok: 1802.
 
-Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki korpusu czyszczę z niego przy każdej przeróbce. Lista BRAK jest zarazem listą do przeglądu — część linków warto z czasem usunąć, zamiast tworzyć osobny artykuł. Nie każdy element świata zasługuje na własny plik.
+Świat, w którym zaczynasz, jest naszym światem. Napoleon Bonaparte podpisał właśnie pokój z Anglią. Thomas Jefferson rządzi młodą republiką z nowego, niedokończonego Białego Domu. Statki Kompanii wciąż płyną do Kantonu po herbatę i porcelanę, a w Petersburgu młody car czyta Woltera i wierzy, że może zreformować imperium. Każda data, którą pamiętasz ze szkoły, nadal się zgadza.
 
-### Inwentarz artykułów
+Różni go jedno. Magia jest tu prawdziwa — i prawie nigdy nie dość silna, by przepisać wynik wojny czy traktatu. Adept ma zwykle jeden wąski trik. Modlitwa o cud częściej zostaje bez odpowiedzi, niż zostaje wysłuchana. Czarodziej kosztuje fortunę w szkoleniu i jest jeden na prowincję, jeśli w ogóle. Dlatego ceny zboża, traktaty pokojowe i wynik większości bitew biegną torem znanym z [[Chronologia|prawdziwej historii]].
 
-| Artykuł | Stan |
-|---|---|
-| [[Wiki Settingu – Rok 1802]] | TAK |
-| [[Chronologia]] | TAK |
-| [[Słownik terminów]] | TAK |
-| [[Pokój Amiens]] | TAK |
-| [[Francja Napoleońska]] | TAK |
-| [[Wielka Brytania]] | TAK |
-| [[Święte Cesarstwo Rzymskie]] | TAK |
-| [[Rosja]] | TAK |
-| [[Imperium Osmańskie]] | TAK |
-| [[Hiszpania]] | TAK |
-| [[Portugalia]] | TAK |
-| [[Państwo Kościelne]] | TAK |
-| [[Stany Zjednoczone]] | TAK |
-| [[Codzienne życie w Stanach Zjednoczonych]] | TAK |
-| [[Terytorium Luizjany]] | TAK |
-| [[Nowy Orlean]] | TAK |
-| [[Haiti]] | TAK |
-| [[Toussaint Louverture]] | TAK |
-| [[Kanada Brytyjska]] | TAK |
-| [[Rdzenne narody Ameryki Północnej]] | TAK |
-| [[Traktat Greenville]] | TAK |
-| [[Handel Trójkątny]] | TAK |
-| [[Handel futrami]] | TAK |
-| [[Korsarze Barbarii]] | TAK |
-| [[Afryka Subsaharyjska]] | TAK |
-| [[Liga Hanzeatycka – Dziedzictwo]] | TAK |
-| [[Kompanie Wschodnioindyjskie]] | TAK |
-| [[Indie Mogołów i Kompania]] | TAK |
-| [[Chiny dynastii Qing]] | TAK |
-| [[Japonia]] | TAK |
-| [[Rewolucja Przemysłowa]] | TAK |
-| [[Oświecenie]] | TAK |
-| [[Wolnomurarstwo]] | TAK |
-| [[Cudotwórcy]] | TAK |
-| [[Sorcery]] | TAK |
-| [[Europejskie czarostwo]] | BRAK |
-| [[Gildie Śmierci]] | BRAK |
-| [[Magiczne przedmioty]] | BRAK |
-| [[Alchemia]] | TAK |
-| [[Smoczy Magowie]] | BRAK |
-| [[Feng shui]] | BRAK |
-| [[Sztuki walki]] | BRAK |
-| [[Cięcie Powietrza]] | BRAK |
-| [[Buddyzm]] | BRAK |
-| [[Daemony]] | BRAK |
-| [[Żywiołaki]] | BRAK |
-| [[Fey]] | BRAK |
-| [[Nieumarli]] | BRAK |
-| [[Smoki]] | TAK |
-| [[Charau-Ka]] | BRAK |
-| [[Czarna Śmierć]] | BRAK |
-| [[Krucjaty]] | TAK |
-| [[Asasyni]] | BRAK |
-| [[Voodoo]] | TAK |
-| [[Bois Caïman]] | BRAK |
-| [[Wielki Pożar Londynu]] | BRAK |
-| [[Burbonowie]] | BRAK |
-| [[Kościół anglikański]] | BRAK |
-| [[Skandynawia]] | BRAK |
-| [[Szwajcaria]] | BRAK |
-| [[Ameryka Południowa]] | BRAK |
-| [[Pierwsza Poprawka]] | BRAK |
+Skręca dopiero tam, gdzie wkracza smocza krew, ołów, klaster [[Cudotwórcy|cudotwórców]] albo szlachta o burgundowych zębach. Te skręty są rzadkie, konkretne i zostawiają ślad, który czuć w świecie długo po tym, jak ucichną. Reszta tego dokumentu jest ich mapą.
 
-Część pojęć świadomie nie dostaje własnego pliku — ich linki przekierowano aliasami do artykułów macierzystych: smocza krew i czerwone opium prowadzą do [[Alchemia|Alchemii]], Papież do [[Państwo Kościelne|Państwa Kościelnego]], Legion magów do [[Francja Napoleońska|Francji Napoleońskiej]], boskie prawo królów do [[Sorcery]], a cudotwórcy wojskowi do [[Cudotwórcy|Cudotwórców]].
+Punktem odniesienia jest [[Pokój Amiens|rok 1802]] — pierwsze miesiące po podpisaniu pokoju, zanim cokolwiek zostanie przesądzone. To jest ten moment.
 
 ## Zasada skali
 
@@ -125,15 +62,15 @@ Cudotwórca podnosi zdrowie, urodzaj i powodzenie obszaru, na którym posługuje
 
 Pius VII rozegrał to świadomie. Konkordat z 1801 roku przywrócił katolicki kult we Francji w zamian za uznanie rewolucyjnych konfiskat — i przy okazji oddał Pierwszemu Konsulowi częściową kontrolę nad francuskimi cudotwórcami, których wcześniej rewolucja rozpędziła. [[Francja Napoleońska|Napoleon]] dostał dostęp do duchowej infrastruktury, papież dostał Francję z powrotem na łonie Kościoła. Obaj uznali, że wygrali.
 
-Klasztory szkolą cudotwórców z dala od brudu świata, żeby nie stępić narzędzia. Szkoły przykościelne wyłapują kandydatów i wbijają im powagę tytułów kościelnych, bo od tej powagi zależy ich późniejsze posłuszeństwo wobec patriarchów. Wizje, anioły i nawiedzenia świętych nie dowodzą boga, który je zsyła — wierni oczywiście twierdzą inaczej i palą każdego, kto powie głośno coś przeciwnego.
+Klasztory szkolą cudotwórców z dala od brudu świata, żeby nie stępić cennego narzędzia. Szkoły przykościelne wyłapują kandydatów i wbijają im powagę tytułów kościelnych, bo od tej powagi zależy ich późniejsze posłuszeństwo wobec patriarchów. Wizje, anioły i nawiedzenia świętych nie dowodzą boga, który je zsyła — wierni oczywiście twierdzą inaczej i palą każdego, kto powie głośno coś przeciwnego.
 
 Ta przewaga ma jeden filar: odtwarzalność. Dwa tysiąclecia dogmatu i sieć klasztorów pozwalają katolicyzmowi szkolić nowych cudotwórców pokolenie po pokoleniu. Najmłodsze odłamy protestanckie zaczynają zwykle od jednego cudotwórcy-wizjonera, lecz bez ustalonej doktryny rzadko wykształcą następcę o tej samej mocy — za to każdy z nich ciągnie w swoją stronę, mnożąc sekty zamiast budować ciągłość. Stąd siła Rzymu i krucha moc amerykańskich proroków (zob. [[Państwo Kościelne]]).
 
 #### Gdzie to widać w 1802 roku
 
-W [[Stany Zjednoczone|Stanach Zjednoczonych]] rzecz wymknęła się spod jakiejkolwiek kontroli. Rewival w Cane Ridge w Kentucky w sierpniu 1801 roku ściągnął ponoć ponad dwadzieścia tysięcy ludzi — i wśród tych tysięcy nawróconych objawiła się garstka prawdziwych cudotwórców. Reszta to ekstaza, drgawki i krzyk, ale ta garstka wystarczyła, by każdy wędrowny kaznodzieja obiecywał teraz cuda. Organizatorzy pokroju Bartona Stone'a i Jamesa McGready'ego są zręcznymi mówcami, nie uzdrowicielami — i właśnie dlatego ruch rośnie tak szybko, bo nikt nie musi udowadniać mocy, żeby zbierać tłumy.
+W [[Stany Zjednoczone|Stanach Zjednoczonych]] rzecz wymknęła się spod jakiejkolwiek kontroli. Rewival w Cane Ridge w Kentucky w sierpniu 1801 roku ściągnął ponoć ponad dwadzieścia tysięcy ludzi — i wśród tych tysięcy nawróconych objawiła się grupa prawdziwych cudotwórców. Reszta to ekstaza, drgawki i krzyk, ale ta garstka wystarczyła, by każdy wędrowny kaznodzieja obiecywał teraz cuda. Organizatorzy pokroju Bartona Stone'a i Jamesa McGready'ego są zręcznymi mówcami, nie uzdrowicielami — i właśnie dlatego ruch rośnie tak szybko, bo nikt nie musi udowadniać mocy, żeby zbierać tłumy.
 
-Islam jest religią abrahamową, więc i tu Cuda są realne. Purytański zryw wahhabitów na Półwyspie Arabskim postawił na skrajną czystość doktryny — a ta przez krótki czas wzmacnia cudotwórców tak samo, jak osłabiło ich rozluźnienie. W kwietniu 1802 roku wojownicy Saudów złupili Karbalę, jedno z najświętszych miast szyizmu. [[Imperium Osmańskie]] patrzy na to z trwogą, bo purytanie z głębi pustyni dysponują zapałem, jakiego stambulscy urzędnicy nie potrafią już rozpalić w swoich.
+Islam jest religią abrahamową, więc i tu Cuda są realne. Purytański zryw wahhabitów na Półwyspie Arabskim postawił na skrajną czystość doktryny — a ta przez krótki czas wzmacnia cudotwórców tak samo, jak osłabiło ich rozluźnienie. W kwietniu 1802 roku wojownicy Saudów złupili Karbalę, jedno z najświętszych miast szyizmu. [[Imperium Osmańskie]] patrzy na to z trwogą, bo purytanie z głębi pustyni dysponują zapałem, jakiego stambulscy urzędnicy nie potrafią już rozpalić w swoich włościach.
 
 Echo tego samego zjawiska ciąży nad pamięcią [[Krucjaty|krucjat]]. Dopóki wiara rycerzy-cudotwórców była czysta, zdobyli Jerozolimę. Przeciągający się konflikt z drugą religią abrahamową, waśnie, chciwość i zwykłe zmęczenie stępiły tę czystość — i odebrały im Ziemię Świętą pasmem klęsk, które Kościół do dziś tłumaczy karą za grzech.
 
@@ -160,7 +97,7 @@ Najgłębszą zdobyczą jest nawrócony. Renegat, który przyjął islam, nie po
 
 ## Sorcery — magia dziedziczna szlachty
 
-Magia objawia się wśród ludzi spontanicznie, w każdym wieku i niemal dowolnej formie. [[Sorcery]] ma jednak stałe cechy. Pierwsza manifestacja zwykle wiąże się z traumą lub silnym uczuciem. Moc bywa wąsko tematyczna i dziwaczna w specyfikacji — potężne uzdrawianie, ale tylko ptactwa; ogień, ale wyłącznie w kształcie konia; rozmowa przez sny, lecz jedynie z osobami znanymi osobiście.
+Magia objawia się wśród ludzi spontanicznie, w każdym wieku i niemal dowolnej formie. [[Sorcery]] ma jednak stałe cechy. Pierwsza manifestacja zwykle wiąże się z traumą lub silnym uczuciem. Moc bywa wąsko tematyczna i dziwaczna w specyfikacji — kontrola nad deszczem, ale tylko naturalnym; wzrok sięgający za horyzont, ale tylko nocą; rozmowa przez sny, lecz jedynie z osobami znanymi osobiście.
 
 Używanie tej mocy nie wymaga wiedzy tajemnej, jest instynktowne, choć trening podnosi skuteczność. Męczy ciało i potrafi powalić nieprzytomnego.
 
@@ -175,7 +112,7 @@ Moc jest dziedziczna i to przepisało strukturę społeczną. [[Sorcery|Prekurso
 
 Stąd wzięło się szlachectwo. Osoba z mocą wchodziła do możnego rodu albo zakładała własny, a genealogia stała się sposobem na utrzymanie cennej krwi w użytecznej formie. Potomek dwóch linii magicznych dziedziczy zwykle moc jednej z nich, ale takie skrzyżowanie utrzymuje ją w sile przez więcej pokoleń — pod warunkiem, że linie dobrano umiejętnie, bo zła kombinacja osłabia obie.
 
-W rodach opartych na magii zaaranżowane małżeństwo przestało być sprawą posagu czy sojuszu. Stało się zabiegiem hodowlanym. Almanach gotajski, wydawany od 1763 roku jako spis panujących domów Europy, w tym świecie pełni drugą, cichą funkcję — to księga stadna, w której swatowie czytają nie tytuły, lecz linie mocy, i każdy poważny dwór trzyma egzemplarz z dopiskami na marginesach.
+W rodach opartych na magii zaaranżowane małżeństwo przestało być sprawą tylko posagu czy sojuszu. Stało się zabiegiem hodowlanym. Almanach gotajski, wydawany od 1763 roku jako spis panujących domów Europy, w tym świecie pełni drugą, cichą funkcję — to księga stadna, w której swatowie czytają nie tytuły, lecz linie mocy, i każdy poważny dwór trzyma egzemplarz z dopiskami na marginesach.
 
 #### Boskie prawo królów
 
@@ -185,7 +122,7 @@ Utrzymująca się dynastia z pokolenia na pokolenie częściej wydaje członków
 
 [[Burbonowie]] są tu legendą Europy. Francuskim królom z tego domu przypisuje się potężną kontrolę nastrojów i emocji — mawiano, że z zewnątrz widać, kiedy król jest w Paryżu, bo tłum nagle dzieli ten sam nastrój. Ile w tym prawdy, a ile dworskiej propagandy budowanej przez dwa stulecia, nie rozstrzygnie nikt; pewne jest, że sąsiednie dwory traktowały tę reputację śmiertelnie poważnie i że rewolucja, która ten dom obaliła, miała wobec niego strach niemal zabobonny.
 
-Hiszpańscy Habsburgowie nieśli sygnaturę mroczniejszą. Domowi temu przypisuje się dziedziczną moc klątwy — wrogowie Habsburgów chorowali nagle, tracili dzieci, gnili za życia, a dwór wiedeński i madrycki przez wieki dbał, by tak właśnie kończyli. Cena okazała się wpisana w samą krew. Pilnowanie czystości daru przez kojarzenie kuzyna z kuzynką, pokolenie po pokoleniu, zepsuło ród fizycznie — wysunięta szczęka, bezpłodność, dzieci, które nie dożywały — a do tego, jak szeptano, drobny ułamek każdej klątwy spadał z powrotem na rzucającą ją linię. Ostatni hiszpański Habsburg, Karol II, przeszedł do historii jako *El Hechizado*, Zaczarowany: kaleki, niezdolny do potomstwa, egzorcyzmowany za życia, w którym widziano dowód, że klątwa pożarła w końcu własny dom. Burbonowie, którzy po nim odziedziczyli tron, dostali go wraz z tą reputacją.
+Habsburgowie nieśli sygnaturę mroczniejszą. Domowi temu przypisuje się dziedziczną moc klątwy — wrogowie Habsburgów chorowali nagle, tracili dzieci, gnili za życia, a dwór wiedeński i madrycki przez wieki dbał, by tak właśnie kończyli. Cena okazała się wpisana w samą krew. Pilnowanie czystości daru przez kojarzenie kuzyna z kuzynką, pokolenie po pokoleniu, zepsuło ród fizycznie — wysunięta szczęka, bezpłodność, dzieci, które nie dożywały — a do tego, jak szeptano, drobny ułamek każdej klątwy spadał z powrotem na rzucającą ją linię. Ostatni hiszpański Habsburg, Karol II, przeszedł do historii jako *El Hechizado*, Zaczarowany: kaleki, niezdolny do potomstwa, egzorcyzmowany za życia, w którym widziano dowód, że klątwa pożarła w końcu własny dom. Burbonowie, którzy po nim odziedziczyli tron, dostali go wraz z tą reputacją.
 
 Portugalia ma sygnaturę morską. Tamtejsze stare rody — fidalgowie i dynastie pilotów — dziedziczą wyczucie oceanu: prądów, mgły, pogody i lądu za widnokręgiem, czasem dar wzywania albo uciszania wiatru. To ta krew obeszła świat, gdy Portugalia była mała. Rzecz w tym, że obok niej kwitły pakty z bytami wody — układy z [[Daemony|istotami]] głębin i sztormu — a z zewnątrz nikt nie odróżni jednego od drugiego, bo bywa, że ta sama rodzina sięga po oba. Dlatego portugalski kapitan ma renomę z miejsca: nie wiadomo, czy prowadzi statek wyuczonym kunsztem jak Anglik, czy krwią, czy czymś, z czym się ułożył — i właśnie ta niepewność jest jego najlepszą tarczą.
 
@@ -218,7 +155,7 @@ Najwięcej tej wiedzy spłonęło w Hiszpanii, bo najwięcej jej tam było. Osie
 
 ### Polowania na czarownice
 
-Po Czarnej Śmierci wiele rodów porzuciło magię albo uprawia ją wyłącznie w sekrecie, byle odciąć się od odoru czarnoksięstwa. [[Polowania na czarownice]] są tym okrutniejsze, im rzadziej trafiają na prawdziwego adepta. Procesy w Würzburgu w latach 1626–1631 posłały na stos setki ludzi, niemal samych niewinnych; w Salem w 1692 roku powiesiło się ich dwadzieścioro. Każdy wie, że magowie paktują z demonami, bo wielu kiedyś to robiło, a niektórzy nadal — i ta jedna prawda wystarcza, by spalić tysiąc niewinnych za jednego winnego.
+Po Czarnej Śmierci wiele rodów porzuciło magię albo uprawia ją wyłącznie w sekrecie, byle odciąć się od odoru czarnoksięstwa. Polowania na czarownice są tym okrutniejsze, im rzadziej trafiają na prawdziwego adepta. Procesy w Würzburgu w latach 1626–1631 posłały na stos setki ludzi, niemal samych niewinnych; w Salem w 1692 roku powiesiło się ich dwadzieścioro. Każdy wie, że magowie paktują z demonami, bo wielu kiedyś to robiło, a niektórzy nadal — i ta jedna prawda wystarcza, by spalić tysiąc niewinnych za jednego winnego.
 
 > [!mechanics]
 > **Pakty:** Assisting Spirits (GURPS Thaumatology) — patron pożycza moc na dług spłacany postępującą korupcją charakteru
@@ -228,7 +165,7 @@ Po Czarnej Śmierci wiele rodów porzuciło magię albo uprawia ją wyłącznie 
 
 [[Magiczne przedmioty]] zawsze były luksusem szlachty i narzędziem nacji, bo mało kogo było na nie stać. Trudno je powielać — każdy twórca robi je nieco inaczej — więc krążyły jako symbole statusu albo egzemplarze ceremonialne i wojskowe, zwykle unikalne i nieliczne. Po upadku gildii, które były głównym dostawcą, ich liczba runęła i dziś przedmiot z prawdziwą mocą wycenia się jak majątek ziemski.
 
-[[Szwajcaria]] jest wyjątkiem. Tamtejsze rody często przejawiają zdolność ożywiania i umagiczniania przedmiotów — stąd słynne zegary i mechanizmy. Wielu traktuje to jak hobby, część szlachciców angażuje się w to jak wynalazcy. Zegarmistrz Abraham-Louis Breguet, urodzony w Neuchâtel, sprzedaje w Paryżu czasomierze, za które książęta płacą fortuny — oficjalnie za precyzję, a po cichu za to, co te mechanizmy ponoć potrafią ponad mierzenie czasu. Sam Breguet nigdy tego nie potwierdził ani nie zaprzeczył, co tylko podbija cenę.
+Szwajcaria jest wyjątkiem. Tamtejsze rody często przejawiają zdolność ożywiania i umagiczniania przedmiotów — co daje dodatkowy wydźwięk ich słynnym zegarom i mechanizmom. Wielu traktuje to jak hobby, część szlachciców angażuje się w to jak wynalazcy. Zegarmistrz Abraham-Louis Breguet, urodzony w Neuchâtel, sprzedaje w Paryżu czasomierze, za które książęta płacą fortuny — oficjalnie za precyzję, a po cichu za to, co te mechanizmy ponoć potrafią ponad mierzenie czasu. Sam Breguet nigdy tego nie potwierdził ani nie zaprzeczył, co tylko podbija cenę.
 
 > [!mechanics]
 > **System:** tworzenie przedmiotów wymaga opanowania efektu, który twórca duplikuje (GURPS Magic)
@@ -242,7 +179,7 @@ Manifestacja nie ma fizycznego ciała. Po „śmierci" rozpada się w pył, moż
 
 ### Żywiołaki
 
-Energie żywiołów przybierają czasem aktywną postać, rzadko i tylko w wyjątkowych warunkach. [[Wielki Pożar Londynu]] z września 1666 roku — ten, który zaczął się od piekarni przy Pudding Lane i strawił większość Cytadeli — był tak straszliwy, że zaczął rodzić [[Żywiołaki]] ognia, a te jeszcze go wzmogły. W relacjach z epoki, choćby w skrupulatnych dziennikach urzędników, ogień „zachowywał się jak żywy"; oficjalna kronika mówi o wietrze, lecz londyńczycy wiedzą swoje. [[Wodospad Niagara]] niemal na pewno ma swojego żywiołaka wody, którego rdzenni mieszkańcy znali na długo przed przybyciem Europejczyków.
+Energie żywiołów przybierają czasem aktywną postać, rzadko i tylko w wyjątkowych warunkach. Wielki Pożar Londynu z września 1666 roku — ten, który zaczął się od piekarni przy Pudding Lane i strawił większość Cytadeli — był tak straszliwy, że zaczął rodzić [[Żywiołaki]] ognia, a te jeszcze go wzmogły. W relacjach z epoki, choćby w skrupulatnych dziennikach urzędników, ogień „zachowywał się jak żywy"; oficjalna kronika mówi o wietrze, lecz londyńczycy wiedzą swoje. Wodospad Niagara niemal na pewno ma swojego żywiołaka wody, którego rdzenni mieszkańcy znali na długo przed przybyciem Europejczyków.
 
 Urbanizacja osłabia siły natury, więc miasta są od żywiołaków bezpieczniejsze. Wielki kataklizm potrafi je przywołać tymczasowo: burza wypuszcza między domy drobne żywiołaki powietrza, trzęsienie ziemi zostawia po sobie żywiołaki ziemi niczym wstrząsy wtórne. Nie są z natury wrogie ani sprytne — działają instynktownie, zgodnie ze swoją naturą.
 
@@ -266,11 +203,11 @@ Mikstury z powszechnych składników są słabe i nietrwałe. Średniozamożny s
 
 > [!mechanics]
 > **System:** Alchemia (GURPS Magic)
-> **Baza surowcowa:** czyste złoto jako jedyny pospolity nośnik; destylowana [[smocza krew]] jako uniwersalny komponent najwyższej klasy
+> **Baza surowcowa:** czyste złoto jako jedyny pospolity nośnik; destylowana smocza krew jako uniwersalny komponent najwyższej klasy
 
 ### Smocza krew i Smoczy Magowie
 
-Kolonizacja Ameryki zmieniła wszystko, bo dała dostęp do [[smocza krew|smoczej krwi]]. Żaden smok nie przeżył podróży morskiej, a krew trzeba zebrać tuż po śmierci, więc pozyskuje się ją na miejscu i destyluje — dopiero to pozwala ją transportować. Destylat ma uniwersalną naturę; da się z niego próbować zrobić niemal każdy preparat. To czyni go najcenniejszym surowcem alchemicznym, jaki kiedykolwiek istniał, i przebudowało całą gospodarkę kolonialną wokół jego zdobywania.
+Kolonizacja Ameryki zmieniła wszystko, bo dała dostęp do smoczej krwi. Żaden smok nie przeżył podróży morskiej, a krew trzeba zebrać tuż po śmierci, więc pozyskuje się ją na miejscu i destyluje — dopiero to pozwala ją transportować. Destylat ma uniwersalną naturę; da się z niego próbować zrobić niemal każdy preparat. To czyni go najcenniejszym surowcem alchemicznym, jaki kiedykolwiek istniał, i przebudowało całą gospodarkę kolonialną wokół jego zdobywania.
 
 Duża ilość destylatu trwale wzmacnia ludzkie ciało. Mówi się o kąpieli w smoczej krwi i nie jest to dalekie od prawdy. Taka terapia daje zdrowie i długowieczność, wręcz odmładza, wzmacnia każdą zdolność Sorcery i potrafi obudzić uśpione moce rozrzedzone przez pokolenia. Szlachcic z odpowiednimi koneksjami nagle przywracał świetność podupadłemu rodowi i manifestował równolegle moce kilku przodków — coś, co wcześniej zdarzało się niemal wyłącznie u dynastii królewskich.
 
@@ -284,7 +221,7 @@ Cena jest stała. Zęby przyjmują na trwałe barwę burgunda, żyły prześwitu
 
 ### Czerwone opium
 
-Maki podlewane smoczą krwią dają opium o wielokrotnie większej sile i mistycznych zastosowaniach. Przez barwę zwą je [[Czerwone opium|Czerwonym opium]]. Brytyjscy handlarze uczynili z niego główne narzędzie korumpowania [[Chiny dynastii Qing|Chin]] — ta sama [[Kompanie Wschodnioindyjskie|Kompania Wschodnioindyjska]], która w naszej historii pompowała do Kantonu zwykłe opium z Bengalu, tutaj pompuje produkt, który dla chińskich mistyków jest zarazem skarbem i trucizną duszy.
+Maki podlewane smoczą krwią dają opium o wielokrotnie większej sile i mistycznych zastosowaniach. Przez barwę zwą je Czerwonym opium. Brytyjscy handlarze uczynili z niego główne narzędzie korumpowania [[Chiny dynastii Qing|Chin]] — ta sama [[Kompanie Wschodnioindyjskie|Kompania Wschodnioindyjska]], która w naszej historii pompowała do Kantonu zwykłe opium z Bengalu, tutaj pompuje produkt, który dla chińskich mistyków jest zarazem skarbem i trucizną duszy.
 
 ## Nowy Świat: rdzenne narody i smoki
 
@@ -354,7 +291,7 @@ Mieszają się w sprawy rdzennych, a teraz i białych, zawsze gotowe doradzić a
 
 Klanom przewodzą zwykle [[Dwudusze|Smocze Dwudusze]] — szamani lub wojownicy, którzy odnaleźli smoka zrodzonego z tej samej duszy. Bez rdzennej krwi taka więź jest w praktyce niemożliwa. To nie czyni każdego wodza magiem: większość przywódców rządzi radą, mową i wojną jak wszędzie, a Dwudusza jest rzadkością otoczoną czcią, nie regułą.
 
-Polityka pogranicza wygląda przez to inaczej, niż znamy. Michikinikwa — Mała Żółwica, wódz Miami, który podpisał [[Traktat Greenville]] w 1795 roku — w 1802 roku namawia swoich do układania się z osadnikami, bo widzi, dokąd prowadzi wojna. Młodszy Tecumseh widzi co innego i zbiera wokół siebie tych, którzy wierzą, że ziemia i smoki nie są na sprzedaż. Spór między nimi nie dotyczy magii, lecz tego, czy świat rdzennych da się ocalić układem, czy tylko oporem.
+Polityka pogranicza wygląda przez to inaczej, niż znamy. Michikinikwa — Mały Żółw, wódz Miami, który podpisał [[Traktat Greenville]] w 1795 roku — w 1802 roku namawia swoich do układania się z osadnikami, bo widzi, dokąd prowadzi wojna. Młodszy Tecumseh widzi co innego i zbiera wokół siebie tych, którzy wierzą, że ziemia i smoki nie są na sprzedaż. Spór między nimi nie dotyczy magii, lecz tego, czy świat rdzennych da się ocalić układem, czy tylko oporem.
 
 > [!mechanics]
 > **Szamani:** Path/Book Ritual Magic (GURPS Thaumatology) — długie rytuały wpływające na przyrodę i pogodę na dużych obszarach
@@ -392,9 +329,9 @@ Druga granica jest strategiczna. Ołów broni punktu — można obłożyć nim f
 
 W naszej historii rewolucja niewolników na Saint-Domingue była genialnym zrywem militarnym. Tutaj zwycięstwo miało charakter nadnaturalnego horroru. Wszystko zaczęło się od ceremonii w Bois Caïman w sierpniu 1791 roku, którą poprowadzili houngan **Dutty Boukman** i mambo **Cécile Fatiman** — tej nocy, według tradycji, „otwarto bramę". Afrykańskie wiedźmy odprawiły później rytuały, które sprowadziły na wyspę armię zombie i hordy mściwych feyów, przed którymi francuskie wojska uciekały w popłochu.
 
-To zmienia rolę dowódców, lecz większości z nich nie zastępuje. Jean-Jacques Dessalines i pozostali generałowie pozostają wodzami, a magia jest bronią mambo i wiedźm, którą dowódcy kierują jak artylerią. Wyjątkiem jest [[Toussaint Louverture]] — sam adept, demonolog paktujący z bytami ognia, idący osobną od kobiecego Voodoo ścieżką [[Europejskie czarostwo|europejskiego czarostwa]]. Dlatego uwięzienie go w forcie de Joux w 1802 roku zabiera wyspie jego ogień, lecz nie kończy rewolucji: armia zombie nie potrzebuje generała, a Dessalines wciąż stoi na wyspie.
+To zmienia rolę dowódców, lecz większości z nich nie zastępuje. Jean-Jacques Dessalines i pozostali generałowie pozostają wodzami, a magia jest bronią mambo i wiedźm, którą dowódcy kierują jak artylerią. Wyjątkiem jest [[Toussaint Louverture]] — demonolog paktujący z bytami ognia, idący osobną od kobiecego Voodoo ścieżką [[Europejskie czarostwo|europejskiego czarostwa]]. Dlatego uwięzienie go w forcie de Joux w 1802 roku zabiera wyspie jego ogień, lecz nie kończy rewolucji: armia zombie nie potrzebuje generała, a Dessalines wciąż stoi na wyspie.
 
-Francuzi opuszczają wyspę, ale tego nie da się łatwo odczynić. Wolne [[Haiti]] będzie zdewastowane plagą złośliwych gremlinów, które niszczą plony, psują narzędzia i sieją chaos w młodej republice — cena za otwarcie bramy, której nikt nie umie domknąć. Ekspedycja generała Leclerca i tak topnieje od żółtej febry; w połączeniu z grozą rytuałów Francja traci tu wojsko szybciej, niż jest w stanie je dosyłać.
+Francuzi opuszczają wyspę, ale tego co się wcześniej zadziało nie da się łatwo odczynić. Wolne [[Haiti]] będzie zdewastowane plagą złośliwych gremlinów, które niszczą plony, psują narzędzia i sieją chaos w młodej republice — cena za otwarcie bramy, której nikt nie umie domknąć. Ekspedycja generała Leclerca i tak topnieje od żółtej febry; w połączeniu z grozą rytuałów Francja traci tu wojsko szybciej, niż jest w stanie je dosyłać.
 
 Haiti jest punktem zwrotnym z jeszcze jednego powodu. Zebrało się tu dość wiedźm, by spętać liczne feye spoza Afryki, a więc odporne na ołów. Nie rozwiązuje to wszystkich ich problemów i nie przychodzi łatwo, ale zmienia układ sił. Feye z Ameryk wciąż rzadko sprzyjają adeptkom Voodoo, które zwykle muszą posiłkować się bytami z ojczystych opowieści.
 
@@ -408,9 +345,9 @@ Skutek jest ponury i dotyka [[Codzienne życie w Stanach Zjednoczonych|codzienne
 
 ### Chiny
 
-[[Chiny dynastii Qing|Chiny]] są skrajnym przykładem zalet i wad obcowania z feyami, choć same tego tak nie ujmują. Siła tradycji i ceremonii obrosła kraj niezliczonymi bytami, które subtelnie naginają tę rzeczywistość. Dzięki temu opanowano [[Feng shui]], a jego największym dziełem jest [[Wielki Mur]] — stale wzmacniana bariera, która realnie utrudnia dostęp do wnętrza kraju i sprowadza klątwy na intruzów.
+[[Chiny dynastii Qing|Chiny]] są skrajnym przykładem zalet i wad obcowania z feyami, choć same tego tak nie ujmują. Siła tradycji i ceremonii obrosła kraj niezliczonymi bytami, które subtelnie naginają tę rzeczywistość. Dzięki temu opanowano [[Feng shui]], a jego największym dziełem jest Wielki Mur — stale wzmacniana bariera, która realnie utrudnia dostęp do wnętrza kraju i sprowadza klątwy na intruzów.
 
-Dziś trawi je inny problem. Narasta przemyt [[Czerwone opium|Czerwonego opium]], jeszcze bardziej uzależniającego niż zwykłe, ale rewelacyjnego dla miejscowych mistyków w medytacjach zwiększających moc — i zarazem znacznie bardziej niszczącego charakter. Przywódcy żądni potęgi sięgają po nie, co napędza waśnie między sektami i klanami. Powstanie Białego Lotosu, które wybuchło w 1794 roku i wciąż tli się w górskich prowincjach, czerpie z tej samej studni: mistycyzm, rozpacz i czerwony dym. Cesarz Jiaqing, który w 1799 roku stracił wszechwładnego dworaka Heshena za korupcję, tłumi rebelię, lecz źródła jej siły nie potrafi wysuszyć.
+Dziś trawi je inny problem. Narasta przemyt Czerwonego opium, jeszcze bardziej uzależniającego niż zwykłe, ale rewelacyjnego dla miejscowych mistyków w medytacjach zwiększających moc — i zarazem znacznie bardziej niszczącego charakter. Przywódcy żądni potęgi sięgają po nie, co napędza waśnie między sektami i klanami. Powstanie Białego Lotosu, które wybuchło w 1794 roku i wciąż tli się w górskich prowincjach, czerpie z tej samej studni: mistycyzm, rozpacz i czerwony dym. Cesarz Jiaqing, który w 1799 roku stracił wszechwładnego dworaka Heshena za korupcję, tłumi rebelię, lecz źródła jej siły nie potrafi wysuszyć.
 
 > [!mechanics]
 > **Feng shui:** Ritual Magic — powszechnie tworzone, trwałe, zwykle subtelne efekty (GURPS Thaumatology)
@@ -425,13 +362,13 @@ Charakterystyczne dla regionu [[Sztuki walki]] dają efekt nadludzki, choć dale
 
 ### Buddyzm
 
-[[Buddyzm]] łączy mistycyzm energii feyów ze sztukami walki, więc potężni mnisi bywają prawdziwie nadnaturalnymi przeciwnikami. To owoc ideologii samodoskonalenia: ciało powoli odstraja się od planu materialnego, a dostraja do czegoś jak Plan Idei — protoplanu, z którego wywodzą się feye. Takich mnichów jest niewielu, a osiągnięcie tego poziomu zajmuje życie.
+Buddyzm łączy mistycyzm energii feyów ze sztukami walki, więc potężni mnisi bywają prawdziwie nadnaturalnymi przeciwnikami. To owoc ideologii samodoskonalenia: ciało powoli odstraja się od planu materialnego, a dostraja do czegoś jak Plan Idei — protoplanu, z którego wywodzą się feye. Takich mnichów jest niewielu, a osiągnięcie tego poziomu zajmuje życie.
 
 ### Japonia
 
 [[Japonia]] jest, jak Chiny, regionem silnie uduchowionym przez miejscowe religie, a izolacja sakoku pozostaje głównym kursem — okno na świat to wąska szczelina w Nagasaki. Szogunat Tokugawów rządzi twardo i nie zamierza tej szczeliny poszerzać.
 
-Najlepsi fechmistrze europejscy to jedyni godni rywale samurajów. W Europie taka biegłość jest rzadkością; wśród samurajów średniego szczebla zdarza się [[Cięcie Powietrza]], a mistrzowie najstarszych szkół miecza jednym cięciem koszą mały oddział albo przecinają kamienny mur zamku. Takich mistrzów jest jednak niewielu i każdy jest znany z imienia w swojej prowincji — to nie umiejętność, którą ma przeciętny szeregowy szermierz.
+Najlepsi fechmistrze europejscy to jedyni godni rywale samurajów. W Europie taka biegłość jest rzadkością; wśród samurajów średniego szczebla zdarza się Cięcie Powietrza, a mistrzowie najstarszych szkół miecza jednym cięciem koszą mały oddział albo przecinają kamienny mur zamku. Takich mistrzów jest jednak niewielu i każdy jest znany z imienia w swojej prowincji — to nie umiejętność, którą ma przeciętny szeregowy szermierz.
 
 > [!mechanics]
 > **Cięcie Powietrza:** nabyte Sorcery — atak na odległość zadawany cięciem broni (rodzaj blade beam); rzadkie, opanowane przez nielicznych mistrzów
@@ -446,7 +383,7 @@ Najgorsze w starciu nie jest szybka śmierć. Jeńcy idą na masowe, krwawe ofia
 
 ## Skandynawia
 
-Miejscowe legendy mówią wiele o trollach, ograch i gigantach — i mają rację. [[Skandynawia|Te istoty]] zwykle trzymają się jednak z dala od ludzi, w głębi gór i lasów Norwegii oraz szwedzkiej północy, gdzie żaden pobór ani podatek nie sięga. Mieszkańcy doskonale wiedzą, których dolin się nie zapuszczać, i nie traktują tego jak zabobonu, lecz jak wiedzę praktyczną przekazywaną dzieciom razem z nauką liczenia.
+Miejscowe legendy mówią wiele o trollach, ograch i gigantach — i mają rację. Te istoty zwykle trzymają się jednak z dala od ludzi, w głębi gór i lasów Norwegii oraz szwedzkiej północy, gdzie żaden pobór ani podatek nie sięga. Mieszkańcy doskonale wiedzą, których dolin się nie zapuszczać, i nie traktują tego jak zabobonu, lecz jak wiedzę praktyczną przekazywaną dzieciom razem z nauką liczenia.
 
 ## Europa około 1802: rewolucja, Napoleon, Wielka Brytania
 
@@ -454,7 +391,7 @@ Miejscowe legendy mówią wiele o trollach, ograch i gigantach — i mają racj�
 
 Francuska szlachta od dawna słynęła z zamiłowania do magii. Salony pełne były bękartów — jednej z głównych dróg wprowadzania nowej krwi prekursorów do obiegu. Zawiłe prawo gwarantowało szlachcie niemal pełną bezkarność za skutki używania mocy na plebsie; najwyżej drobna grzywna po tym, jak szlachcic wstrząsem zburzył kamienicę z lokatorami w środku. Traktowano to jako niegroźną formę treningu.
 
-[[Smocza krew]] zyskała wśród tej szlachty ogromne uznanie, bo wielu z nich miało w żyłach niezliczone, lecz zbyt słabe linie, by same się zmanifestowały. W szczytowym okresie większość znaczącej arystokracji dworu wersalskiego stała się [[Smoczy Magowie|Smoczymi Magami]] — burgundowy uśmiech był pod koniec ancien régime'u oznaką przynależności do śmietanki. Taki przyrost mocy z licencją na jej nadużywanie był jedną z przyczyn [[Rewolucja francuska|Rewolucji francuskiej]]: pozostałe stany, mając dość tego szaleństwa, sięgnęły po broń. Szlachta równie chętnie używała [[Polowania na czarownice|polowań na czarownice]] do eliminacji rywali, a skorumpowany kler kierował się przy wskazywaniu obiektu inkwizycji głównie wysokością łapówki.
+Smocza krew zyskała wśród tej szlachty ogromne uznanie, bo wielu z nich miało w żyłach niezliczone, lecz zbyt słabe linie, by same się zmanifestowały. W szczytowym okresie większość znaczącej arystokracji dworu wersalskiego stała się [[Smoczy Magowie|Smoczymi Magami]] — burgundowy uśmiech był pod koniec ancien régime'u oznaką przynależności do śmietanki. Taki przyrost mocy z licencją na jej nadużywanie był jedną z przyczyn [[Rewolucja francuska|Rewolucji francuskiej]]: pozostałe stany, mając dość tego szaleństwa, sięgnęły po broń. Szlachta równie chętnie używała [[Polowania na czarownice|polowań na czarownice]] do eliminacji rywali, a skorumpowany kler kierował się przy wskazywaniu obiektu inkwizycji głównie wysokością łapówki.
 
 Rewolucja przyniosła zaskakujący skutek. Społeczeństwo tak głęboko sprzeciwiło się dalszemu używaniu smoczej krwi — skoro dostęp miała do niej tylko znienawidzona arystokracja — że zakazano jej całkowicie. W połączeniu z próbami ograniczenia niewolnictwa w koloniach odmieniło to relacje francuskich rządów kolonialnych z rdzennymi. [[Francja Napoleońska|Napoleon]] chętnie wróciłby do pozyskiwania krwi ze względów wojskowych, lecz logistyka i brak sił na rozwój [[Terytorium Luizjany|Luizjany]] go powstrzymały; wolał krótkoterminowy zastrzyk gotówki ze sprzedaży, może z myślą o skupowaniu krwi od Amerykanów w przyszłości.
 
@@ -468,7 +405,7 @@ To jeden z punktów spornych z [[Wielka Brytania|Wielką Brytanią]]. [[Pokój A
 
 ### Wielka Brytania — front antymagiczny
 
-[[Wielka Brytania|Wielka Brytania]] jest jednym z głównych europejskich ośrodków ruchów antymagicznych i jej elita jest z tego dumna. Przeciwna władzy politycznej Rzymu, powołała w swoim czasie [[Kościół anglikański]], który przez krótszą historię i mniejszy prestiż słabiej inspiruje i szkoli [[Cudotwórcy|cudotwórców]]. Nieprzypadkowo to właśnie z brytyjskiego gruntu wyrośli purytanie, dla których każda magia „nie-boska" jest wprost dziełem szatana.
+[[Wielka Brytania|Wielka Brytania]] jest jednym z głównych europejskich ośrodków ruchów antymagicznych i jej elita jest z tego dumna. Przeciwna władzy politycznej Rzymu, powołała w swoim czasie Kościół anglikański, który przez krótszą historię i mniejszy prestiż słabiej inspiruje i szkoli [[Cudotwórcy|cudotwórców]]. Nieprzypadkowo to właśnie z brytyjskiego gruntu wyrośli purytanie, dla których każda magia „nie-boska" jest wprost dziełem szatana.
 
 Angielscy lordowie starannie blokowali nadawanie tytułów [[Sorcery|prekursorom]] tylko z racji ich mocy, z wrodzonego snobizmu. Mocno osłabiło to rozprzestrzenianie Sorcery na Wyspach, a kapitał i talent popłynęły w technologię, finanse i flotę. Dlatego siła i profil nacji pozostają zbliżone do historycznych: Bank Anglii, Royal Navy i kominy Manchesteru robią to, co u innych próbuje robić magia, i robią to taniej. Brytyjscy mężowie stanu epoki — premierzy, admirałowie, król — są pod tym względem zwyczajnymi ludźmi i uważają to za powód do dumy, nie wstydu.
 
@@ -490,11 +427,88 @@ To czyni wolne miasta wyspami zimnej metody na magicznym morzu [[Święte Cesars
 
 Kraj targają poważne napięcia naraz. Niewolnictwo, relacje z [[Wielka Brytania|Wielką Brytanią]] i napoleońską Francją, zakres władzy rządu federalnego — to tylko część z nich. Prezydent Jefferson rządzi krajem oświeconych deistów i rozentuzjazmowanych proroków zarazem, próbując nie dać się wciągnąć ani jednym, ani drugim. Do tego dochodzi paniczny strach Południa przed [[Haiti|haitańską]] „zarazą [[Voodoo]]", który napędza represje wobec niewolników i mordowanie każdego podejrzanego o znajomość tej sztuki.
 
-## Otwarte kwestie wymagające akceptacji prowadzącego
+---
+
+## Aneks dla prowadzącego
+
+Ten dział nie opisuje świata. To zaplecze, w którym Adam i Claude pilnują spójności wiki — gracz może go spokojnie pominąć.
+
+### Otwarte kwestie wymagające akceptacji prowadzącego
 
 Wszelka zmiana, która przestawia wynik realnego konfliktu albo każe historii potoczyć się zupełnie inaczej — poza tym, co opisano wyżej — wymaga osobnego zatwierdzenia, zanim trafi do korpusu. Pola, które na razie celowo zostają nierozstrzygnięte:
 
 - dokładny, subtelny wpływ [[Cudotwórcy|cudotwórców]] na losy wojen europejskich, skoro żadnej ze stron nie dają przewagi masowej;
 - treść ewentualnej magicznej klauzuli [[Pokój Amiens|pokoju w Amiens]] i to, czy w ogóle istniała;
-- czy i jak [[Francja Napoleońska|Napoleon]] sięgnie po amerykańską [[smocza krew|smoczą krew]] mimo rewolucyjnego zakazu;
+- czy i jak [[Francja Napoleońska|Napoleon]] sięgnie po amerykańską smoczą krew mimo rewolucyjnego zakazu;
 - skala i przywództwo [[Charau-Ka]] w głębi [[Ameryka Południowa|Ameryki Południowej]] — ile w pogłoskach o czterorękich królach jest prawdy.
+
+### Status dokumentu i inwentarz artykułów
+
+Dokument roboczy. Tabela jest inwentarzem artykułów wiki ze znacznikiem stanu: **TAK** — przerobiony pod nowe lore i sensowną strukturę, **NIE** — plik istnieje, lecz czeka na przeróbkę, **BRAK** — pojęcie linkowane w treści, które nie ma jeszcze własnego pliku.
+
+Wcześniejsze masowe oznaczanie na TAK okazało się przedwczesne: te same wady struktury (powtórzenia, kalki, doklejane wstawki zamiast spójnego tekstu) wracały w kolejnych plikach, więc każdy artykuł przechodzi pełną przeróbkę od nowa. Stan każdego pliku pokazuje kolumna w tabeli niżej.
+
+Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki korpusu czyszczę z niego przy każdej przeróbce. Lista BRAK jest zarazem listą do przeglądu — część linków warto z czasem usunąć, zamiast tworzyć osobny artykuł. Nie każdy element świata zasługuje na własny plik.
+
+| Artykuł | Stan |
+|---|---|
+| [[Wiki Settingu – Rok 1802]] | TAK |
+| [[Chronologia]] | TAK |
+| [[Słownik terminów]] | TAK |
+| [[Pokój Amiens]] | TAK |
+| [[Francja Napoleońska]] | TAK |
+| [[Wielka Brytania]] | TAK |
+| [[Święte Cesarstwo Rzymskie]] | TAK |
+| [[Rosja]] | TAK |
+| [[Imperium Osmańskie]] | TAK |
+| [[Hiszpania]] | TAK |
+| [[Portugalia]] | TAK |
+| [[Państwo Kościelne]] | TAK |
+| [[Stany Zjednoczone]] | TAK |
+| [[Codzienne życie w Stanach Zjednoczonych]] | TAK |
+| [[Terytorium Luizjany]] | TAK |
+| [[Nowy Orlean]] | TAK |
+| [[Haiti]] | TAK |
+| [[Toussaint Louverture]] | TAK |
+| [[Kanada Brytyjska]] | TAK |
+| [[Rdzenne narody Ameryki Północnej]] | TAK |
+| [[Traktat Greenville]] | TAK |
+| [[Handel Trójkątny]] | TAK |
+| [[Handel futrami]] | TAK |
+| [[Korsarze Barbarii]] | TAK |
+| [[Afryka Subsaharyjska]] | TAK |
+| [[Liga Hanzeatycka – Dziedzictwo]] | TAK |
+| [[Kompanie Wschodnioindyjskie]] | TAK |
+| [[Indie Mogołów i Kompania]] | TAK |
+| [[Chiny dynastii Qing]] | TAK |
+| [[Japonia]] | TAK |
+| [[Rewolucja Przemysłowa]] | TAK |
+| [[Oświecenie]] | TAK |
+| [[Wolnomurarstwo]] | TAK |
+| [[Cudotwórcy]] | TAK |
+| [[Sorcery]] | TAK |
+| [[Europejskie czarostwo]] | BRAK |
+| [[Gildie Śmierci]] | BRAK |
+| [[Magiczne przedmioty]] | BRAK |
+| [[Alchemia]] | TAK |
+| [[Smoczy Magowie]] | BRAK |
+| [[Feng shui]] | BRAK |
+| [[Sztuki walki]] | BRAK |
+| [[Cięcie Powietrza]] | BRAK |
+| [[Buddyzm]] | BRAK |
+| [[Daemony]] | BRAK |
+| [[Żywiołaki]] | BRAK |
+| [[Fey]] | TAK |
+| [[Nieumarli]] | BRAK |
+| [[Smoki]] | TAK |
+| [[Charau-Ka]] | BRAK |
+| [[Czarna Śmierć]] | BRAK |
+| [[Krucjaty]] | TAK |
+| [[Voodoo]] | TAK |
+| [[Bois Caïman]] | BRAK |
+| [[Wielki Pożar Londynu]] | BRAK |
+| [[Burbonowie]] | BRAK |
+| [[Ameryka Południowa]] | BRAK |
+| [[Pierwsza Poprawka]] | BRAK |
+
+Część pojęć świadomie nie dostaje własnego pliku — ich linki przekierowano aliasami do artykułów macierzystych: smocza krew i czerwone opium prowadzą do [[Alchemia|Alchemii]], Papież do [[Państwo Kościelne|Państwa Kościelnego]], Legion magów do [[Francja Napoleońska|Francji Napoleońskiej]], boskie prawo królów do [[Sorcery]], a cudotwórcy wojskowi do [[Cudotwórcy|Cudotwórców]].
