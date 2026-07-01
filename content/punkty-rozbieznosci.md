@@ -471,6 +471,7 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Haiti]] | TAK |
 | [[Toussaint Louverture]] | TAK |
 | [[Kanada Brytyjska]] | TAK |
+| [[Nowa Hiszpania]] | TAK |
 | [[Rdzenne narody Ameryki Północnej]] | TAK |
 | [[Traktat Greenville]] | TAK |
 | [[Handel Trójkątny]] | TAK |
@@ -487,28 +488,25 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Wolnomurarstwo]] | TAK |
 | [[Cudotwórcy]] | TAK |
 | [[Sorcery]] | TAK |
-| [[Europejskie czarostwo]] | BRAK |
-| [[Gildie Śmierci]] | BRAK |
+| [[Europejskie czarostwo]] | TAK |
+| [[Inkwizycja]] | TAK |
+| [[Gildie Śmierci]] | TAK |
 | [[Magiczne przedmioty]] | BRAK |
 | [[Alchemia]] | TAK |
 | [[Smoczy Magowie]] | BRAK |
 | [[Feng shui]] | BRAK |
-| [[Sztuki walki]] | BRAK |
+| [[Sztuki walki]] | TAK |
 | [[Cięcie Powietrza]] | BRAK |
 | [[Buddyzm]] | BRAK |
 | [[Daemony]] | BRAK |
 | [[Żywiołaki]] | BRAK |
 | [[Fey]] | TAK |
-| [[Nieumarli]] | BRAK |
 | [[Smoki]] | TAK |
-| [[Charau-Ka]] | BRAK |
-| [[Czarna Śmierć]] | BRAK |
 | [[Krucjaty]] | TAK |
 | [[Voodoo]] | TAK |
 | [[Bois Caïman]] | BRAK |
-| [[Wielki Pożar Londynu]] | BRAK |
 | [[Burbonowie]] | BRAK |
-| [[Ameryka Południowa]] | BRAK |
+| [[Ameryka Południowa]] | TAK |
 | [[Pierwsza Poprawka]] | BRAK |
 
-Część pojęć świadomie nie dostaje własnego pliku — ich linki przekierowano aliasami do artykułów macierzystych: smocza krew i czerwone opium prowadzą do [[Alchemia|Alchemii]], Papież do [[Państwo Kościelne|Państwa Kościelnego]], Legion magów do [[Francja Napoleońska|Francji Napoleońskiej]], boskie prawo królów do [[Sorcery]], a cudotwórcy wojskowi do [[Cudotwórcy|Cudotwórców]].
+Część pojęć świadomie nie dostaje własnego pliku — ich linki przekierowano aliasami do artykułów macierzystych: smocza krew i czerwone opium prowadzą do [[Alchemia|Alchemii]], Papież do [[Państwo Kościelne|Państwa Kościelnego]], Legion magów do [[Francja Napoleońska|Francji Napoleońskiej]], boskie prawo królów do [[Sorcery]], a cudotwórcy wojskowi do [[Cudotwórcy|Cudotwórców]]. Nieumarli, Czarna Śmierć i Polowania na czarownice prowadzą do [[Gildie Śmierci|Gildii Śmierci]], gdzie mieszczą się razem jako jedna, spójna historia. Charau-Ka prowadzi do [[Ameryka Południowa|Ameryki Południowej]].

@@ -1,7 +1,7 @@
 ---
 title: Rdzenne narody Ameryki Północnej
 tags: [indianie, rdzenne narody, kultura, filozofia, polityka, postacie, smoki]
-aliases: [Indianie, Native Americans, Ludy rdzenne, Pierwsze Narody, Ludy rdzenne Ameryki Północnej, Rdzenne narody, Rdzenne narody Ameryki Północnej (1802)]
+aliases: [Indianie, Native Americans, Ludy rdzenne, Dwudusze, Pierwsze Narody, Ludy rdzenne Ameryki Północnej, Rdzenne narody, Rdzenne narody Ameryki Północnej (1802)]
 ---
 
 # Rdzenne narody Ameryki Północnej
@@ -28,7 +28,7 @@ Osobno trzymają się [[Cieniste Smoki]] — małe jak kot, sprytne, jako jedyne
 
 ### Szamani i Dwudusze
 
-Szamani są tu czymś powszechnym — niemal każda społeczność ma kogoś, kto czyta sny, leczy i prowadzi obrzędy, a spora ich część realnie wpływa na pogodę, zwierzęta i bieg choroby. [[Dwudusze|Dwudusza]] — człowiek, który odnalazł smoka zrodzonego z tej samej duszy — jest rzadszy, lecz nie wyjątkowy: na większy klan przypada ich kilku. Bez rdzennej krwi ta więź jest w praktyce niemożliwa, co zamyka ją przed każdym europejskim adeptem.
+Szamani są tu czymś powszechnym — niemal każda społeczność ma kogoś, kto czyta sny, leczy i prowadzi obrzędy, a spora ich część realnie wpływa na pogodę, zwierzęta i bieg choroby. Dwudusza — człowiek, który odnalazł smoka zrodzonego z tej samej duszy — jest rzadszy, lecz nie wyjątkowy: na większy klan przypada ich kilku. Bez rdzennej krwi ta więź jest w praktyce niemożliwa, co zamyka ją przed każdym europejskim adeptem.
 
 To dzięki nim opór wreszcie się opłaca. Sam smok jest groźny, lecz dziki i samotny; dopiero szaman, który skłoni stado do zsynchronizowanego uderzenia, i Dwudusza, który poprowadzi je w bój — człowiek i bestia jak jeden umysł w dwóch ciałach — zmieniają rozproszone drapieżniki w wojsko. Tam, gdzie tych ludzi jest dość, a na zachodzie i w głębi lądu jest, kolumna osadników albo wyprawa po krew po prostu nie wraca.
 
@@ -124,4 +124,4 @@ Pod wszystkim sączy się alkohol, narzędzie polityki tyleż, co towar. Handlar
 
 ---
 
-*Powiązane artykuły: [[Stany Zjednoczone]], [[Terytorium Luizjany]], [[Traktat Greenville]], [[Kanada Brytyjska]], [[Handel futrami]], [[Nowa Hiszpania]], [[Smoki]], [[Dwudusze]], [[smocza krew]], [[Punkty rozbieżności]], [[Chronologia]].*
+*Powiązane artykuły: [[Stany Zjednoczone]], [[Terytorium Luizjany]], [[Traktat Greenville]], [[Kanada Brytyjska]], [[Handel futrami]], [[Nowa Hiszpania]], [[Smoki]], [[smocza krew]], [[Punkty rozbieżności]], [[Chronologia]].*
