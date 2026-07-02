@@ -493,13 +493,11 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Gildie Śmierci]] | TAK |
 | [[Magiczne przedmioty]] | BRAK |
 | [[Alchemia]] | TAK |
-| [[Smoczy Magowie]] | BRAK |
 | [[Feng shui]] | BRAK |
 | [[Sztuki walki]] | TAK |
-| [[Cięcie Powietrza]] | BRAK |
 | [[Buddyzm]] | BRAK |
-| [[Daemony]] | BRAK |
-| [[Żywiołaki]] | BRAK |
+| [[Daemony]] | TAK |
+| [[Żywiołaki]] | TAK |
 | [[Fey]] | TAK |
 | [[Smoki]] | TAK |
 | [[Krucjaty]] | TAK |
@@ -507,6 +505,6 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Bois Caïman]] | BRAK |
 | [[Burbonowie]] | BRAK |
 | [[Ameryka Południowa]] | TAK |
-| [[Pierwsza Poprawka]] | BRAK |
+| [[Amerykańska Konstytucja]] | TAK |
 
-Część pojęć świadomie nie dostaje własnego pliku — ich linki przekierowano aliasami do artykułów macierzystych: smocza krew i czerwone opium prowadzą do [[Alchemia|Alchemii]], Papież do [[Państwo Kościelne|Państwa Kościelnego]], Legion magów do [[Francja Napoleońska|Francji Napoleońskiej]], boskie prawo królów do [[Sorcery]], a cudotwórcy wojskowi do [[Cudotwórcy|Cudotwórców]]. Nieumarli, Czarna Śmierć i Polowania na czarownice prowadzą do [[Gildie Śmierci|Gildii Śmierci]], gdzie mieszczą się razem jako jedna, spójna historia. Charau-Ka prowadzi do [[Ameryka Południowa|Ameryki Południowej]].
+Część pojęć świadomie nie dostaje własnego pliku — ich linki przekierowano aliasami do artykułów macierzystych: smocza krew i czerwone opium prowadzą do [[Alchemia|Alchemii]], Papież do [[Państwo Kościelne|Państwa Kościelnego]], Legion magów do [[Francja Napoleońska|Francji Napoleońskiej]], boskie prawo królów do [[Sorcery]], a cudotwórcy wojskowi do [[Cudotwórcy|Cudotwórców]]. Nieumarli, Czarna Śmierć i Polowania na czarownice prowadzą do [[Gildie Śmierci|Gildii Śmierci]], gdzie mieszczą się razem jako jedna, spójna historia. Charau-Ka prowadzi do [[Ameryka Południowa|Ameryki Południowej]]. Pierwsza Poprawka prowadzi do [[Amerykańska Konstytucja|Amerykańskiej Konstytucji]].
