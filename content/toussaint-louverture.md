@@ -74,7 +74,7 @@ W lipcu 1801 roku Toussaint ogłosił konstytucję wyspy: siedemdziesiąt siedem
 
 Szczegóły ekspedycji Leclerca, pożaru Cap-Français i bitwy o Crête-à-Pierrot opisuje artykuł o [[Haiti]].
 
-Wiosną 1802 roku Toussaint widział to, co Leclerc: szybkiego zwycięstwa nie ma żadna strona. Złożył broń w maju z zimnego wyrachowania — w zamian za amnestię, zachowanie rang oficerów i wolność czarnych mieszkańców. Wycofał się do posiadłości pod Ennery, hodował bydło i czekał. Szóstego czerwca 1802 roku generał Brunet zwabił go na rzekome rozmowy listem pełnym zapewnień o szacunku; gdy Toussaint wszedł, zamknięto drzwi i przystawiono bagnety. Tej samej nocy wsadzono go na pokład fregaty. Podobno powiedział wtedy, że ścinając go, obalono jedynie pień drzewa wolności — odrośnie z korzeni, bo są głębokie i liczne.
+Wiosną 1802 roku Toussaint widział to, co Leclerc: szybkiego zwycięstwa nie ma żadna strona. Złożył broń w maju z zimnego wyrachowania — w zamian za amnestię, zachowanie rang oficerów i wolność czarnych mieszkańców. Wycofał się do posiadłości pod Ennery, hodował bydło i czekał. Siódmego czerwca 1802 roku generał Brunet zwabił go na rzekome rozmowy listem pełnym zapewnień o szacunku; gdy Toussaint wszedł, zamknięto drzwi i przystawiono bagnety. Tej samej nocy wsadzono go na pokład fregaty. Podobno powiedział wtedy, że ścinając go, obalono jedynie pień drzewa wolności — odrośnie z korzeni, bo są głębokie i liczne.
 
 Fort de Joux stoi na przełęczy w Jurze, tysiąc dwieście metrów nad poziomem morza. Cela była zimna, wilgotna i wąska, racje skąpe, kontakt z rodziną zakazany. Wysłannik Napoleona wypytywał o ukryte złoto, którego nie było; na pytania o pobudki Toussaint odpowiadał długo, o Raynalu i o naturze wolności, i nie zdradził niczego.
 

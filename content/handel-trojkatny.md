@@ -46,7 +46,9 @@ Europejskie faktorie na wybrzeżu — Elmina, Cape Coast Castle, Gorée, Luanda 
 
 Statek środkowego przejścia to bryg lub trójmasztowiec stu pięćdziesięciu do czterystu ton, z dodatkowym pokładem niewolniczym o wysokości może sześćdziesięciu centymetrów — człowiek nie mógł na nim usiąść. Plan statku Brookes, wydany w 1787 roku przez abolicjonistów, pokazywał czterysta pięćdziesiąt cztery osoby ułożone ramię przy ramieniu na trzech pokładach; prawdziwe statki pakowały czasem więcej, bo ciasny załadunek był kalkulacją — wyższa śmiertelność, lecz wyższy zysk, jeśli przeżyje dość ludzi. Mężczyzn kuto parami w żelazo, kobietom zakładano ołów.
 
-Śmiertelność w XVIII wieku sięgała dziesięciu do piętnastu procent, głównie od czerwonki, ospy i odwodnienia; kapitanowie wpisywali „*died*" do dziennika obok innych zmiennych ekonomicznych. Załoga umierała równie często — Europejczyk na wybrzeżu zachodniej Afryki miał przed żółtą febrą i malarią taką samą zerową odporność, co żołnierze Leclerca na [[Haiti]] — a wyższa śmiertelność marynarzy niż zniewolonych była argumentem, którego abolicjoniści używali w Parlamencie. Buntów udokumentowano ponad pięćset, najczęściej tuż przy wyjściu z afrykańskiego portu; kajdany, przewaga załogi i brak wiedzy nawigacyjnej przesądzały, że garstka kończyła się przejęciem statku, a większość egzekucją.
+Śmiertelność w XVIII wieku sięgała dziesięciu do piętnastu procent, głównie od czerwonki, ospy i odwodnienia; kapitanowie wpisywali „*died*" do dziennika obok innych zmiennych ekonomicznych. Załoga umierała równie często — Europejczyk na wybrzeżu zachodniej Afryki miał przed żółtą febrą i malarią taką samą zerową odporność, co żołnierze Leclerca na [[Haiti]]. Wyższa śmiertelność marynarzy niż zniewolonych była argumentem, którego abolicjoniści używali w Parlamencie.
+
+Buntów udokumentowano ponad pięćset, najczęściej tuż przy wyjściu z afrykańskiego portu. Kajdany, przewaga załogi i brak wiedzy nawigacyjnej przesądzały, że garstka kończyła się przejęciem statku, a większość egzekucją.
 
 ---
 
@@ -58,7 +60,9 @@ Skumulowane liczby za cały okres handlu (1500–1867) układają się tak. Braz
 
 ## Liverpool i pieniądz
 
-W 1700 roku z Liverpoolu wychodziło pięć statków niewolniczych rocznie; w 1799 — sto dwadzieścia. Miasto zbudowało się na tym handlu dosłownie: doki, nabrzeżne magazyny i eleganckie kamienice finansowane z zysków, rodowe firmy kupieckie, których właściciele zasiadali w Parlamencie i lobbowali przeciw abolicji albo zostawali burmistrzami i bankierami. Wartość wszystkich ładunków przewiezionych przez Liverpool w całym okresie szacuje się na ponad sto pięćdziesiąt milionów funtów — przy rocznym budżecie rządu brytyjskiego rzędu pięćdziesięciu milionów. Bristol bywał wcześniej większym ośrodkiem, a Londyn przez cały czas finansował i ubezpieczał handel, rzadziej armując statki sam.
+W 1700 roku z Liverpoolu wychodziło pięć statków niewolniczych rocznie; w 1799 — sto dwadzieścia. Miasto zbudowało się na tym handlu dosłownie: doki, nabrzeżne magazyny i eleganckie kamienice finansowane z zysków, rodowe firmy kupieckie, których właściciele zasiadali w Parlamencie i lobbowali przeciw abolicji albo zostawali burmistrzami i bankierami.
+
+Wartość wszystkich ładunków przewiezionych przez Liverpool w całym okresie szacuje się na ponad sto pięćdziesiąt milionów funtów — przy rocznym budżecie rządu brytyjskiego rzędu pięćdziesięciu milionów. Bristol bywał wcześniej większym ośrodkiem, a Londyn przez cały czas finansował i ubezpieczał handel, rzadziej armując statki sam.
 
 > [!rules]
 > **Handel trójkątny — dane, ~1802**

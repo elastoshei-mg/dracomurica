@@ -1,7 +1,7 @@
 ---
 title: Haiti
 tags: [haiti, rewolucja, karaiby, francja, historia, magia, voodoo]
-aliases: [Haiti (1802), Saint-Domingue, Santo Domingo, Wyspa Hispaniola, La Perle des Antilles]
+aliases: [Haiti (1802), Saint-Domingue, Wyspa Hispaniola, La Perle des Antilles]
 ---
 
 # Haiti
@@ -73,7 +73,7 @@ W czerwcu 1802 roku Leclerc zwabił Toussainta na rozmowy i kazał go aresztowa�
 
 ## Żółta febra i Rochambeau
 
-Od wiosny 1802 roku febra kosiła armię szybciej niż jakakolwiek taktyka. W sierpniu Leclerc pisał, że traci czterystu do pięciuset ludzi tygodniowo; drugiego października zmarł sam. Dowództwo przejął Donatien Rochambeau, sadysta, który topił jeńców w morzu i sprowadził z Kuby psy tresowane na ludzi, urządzając publiczne egzekucje. Okrucieństwo tylko przyśpieszyło to, co i tak było nieuchronne — powrót do walki Dessalinesa, Christophe'a i Pétiona.
+Od wiosny 1802 roku febra kosiła armię szybciej niż jakakolwiek taktyka. W sierpniu Leclerc pisał, że traci czterystu do pięciuset ludzi tygodniowo; drugiego listopada zmarł sam. Dowództwo przejął Donatien Rochambeau, sadysta, który topił jeńców w morzu i sprowadził z Kuby psy tresowane na ludzi, urządzając publiczne egzekucje. Okrucieństwo tylko przyśpieszyło to, co i tak było nieuchronne — powrót do walki Dessalinesa, Christophe'a i Pétiona.
 
 ---
 

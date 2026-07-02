@@ -49,6 +49,8 @@ Zombie jest trupem wskrzeszonym do bezmyślnego posłuszeństwa albo żywym czł
 
 I tu wraca ołów. Zombie ożywia afrykański czar, więc ten sam metal, który ucisza wiedźmę, rozrywa jej władzę nad trupem: opiłki w ustach albo kołnierz na szyi zwalniają zombie z rozkazu i kładą go z powrotem. Wiedźma pilnuje, by jej martwa służba nie zetknęła się z ołowiem — a łowca zombie nosi go przy sobie, jak inni noszą srebro na wilkołaka.
 
+Zombie Voodoo nie płynie z tej samej żyły co europejska nekromancja [[Gildie Śmierci|Gildii Śmierci]]. Ta druga opiera się na kolegium magii GURPS i ożywia ciało po ciele, z Maintain Spell co dobę — dlatego masowe animacje w Europie zdarzyły się tylko raz, podczas Fali z lat 1347–1360. Afrykańska tradycja wiedźm buduje armie zombie jednym rytuałem zbiorowym, więc Haiti nie potrzebowało własnej Fali, by wystawić hordę umarłych.
+
 > [!mechanics]
 > **Czarne Voodoo — wiedźma:** szablon Necromancer (GURPS Dungeon Fantasy 9: Summoners)
 > **Rdzeń:** Deathliness, zdolności nekromantyczne, Deathly spells (Curse, Death Vision, Summon/Command Spirit)
@@ -68,6 +70,7 @@ Kołnierze odlewa się masowo w Liverpoolu i Nantes, tanio i bez namysłu, jak p
 > **Z bliska:** opiłki, kule czy okucie w zasięgu tłumią rzuty; ołowiany kołnierz na ciele = pełne uciszenie
 > **Zasięg:** moc wraca, gdy ołów się oddali — metal dławi, nie niszczy trwale
 > **Cel:** afrykański czar i bestie; Cud abrahamowy (baraka, cud chrześcijański) ołów ignoruje
+> **Poza zasięgiem:** Sorcery, europejskie czarostwo i smocza magia są nietknięte — ołów rani ich adeptów tylko jak zwykły pocisk
 
 ---
 

@@ -116,7 +116,7 @@ W rodach opartych na magii zaaranżowane małżeństwo przestało być sprawą t
 
 #### Boskie prawo królów
 
-[[Boskie prawo królów]] nie jest tu czczą metaforą. Wśród rodzin przejmujących władzę nad wielkimi terytoriami odsetek spontanicznych prekursorów jest wyraźnie wyższy niż gdzie indziej — stąd porzekadło, że „z koroną przychodzi magia".
+[[Boskie prawo królów]] ma tu realne, sprawdzalne działanie. Wśród rodzin przejmujących władzę nad wielkimi terytoriami odsetek spontanicznych prekursorów jest wyraźnie wyższy niż gdzie indziej — stąd porzekadło, że „z koroną przychodzi magia".
 
 Utrzymująca się dynastia z pokolenia na pokolenie częściej wydaje członków władających więcej niż jednym typem mocy. Silny monarcha ma dodatkową właściwość: kto otrzyma od niego tytuł albo ważne nadanie, ten i jego bezpośredni potomkowie częściej zostają prekursorami lub utrzymują posiadane moce. Słaby władca rozdaje tytuły swobodnie i bez tego skutku; nadanie z ręki prawdziwego suwerena znaczyło więcej niż prestiż, bo dosłownie mogło obudzić krew.
 
@@ -211,7 +211,7 @@ Kolonizacja Ameryki zmieniła wszystko, bo dała dostęp do smoczej krwi. Żaden
 
 Duża ilość destylatu trwale wzmacnia ludzkie ciało. Mówi się o kąpieli w smoczej krwi i nie jest to dalekie od prawdy. Taka terapia daje zdrowie i długowieczność, wręcz odmładza, wzmacnia każdą zdolność Sorcery i potrafi obudzić uśpione moce rozrzedzone przez pokolenia. Szlachcic z odpowiednimi koneksjami nagle przywracał świetność podupadłemu rodowi i manifestował równolegle moce kilku przodków — coś, co wcześniej zdarzało się niemal wyłącznie u dynastii królewskich.
 
-Cena jest stała. Zęby przyjmują na trwałe barwę burgunda, żyły prześwitują pod skórą, a od tej chwili trzeba regularnie pić niewielkie dawki krwi, bo inaczej wzmocnione energie wymkną się spod kontroli i skończą mimowolnymi manifestacjami, a w końcu śmiercią. Dawka jest indywidualna; typowo wystarcza fiolka miesięcznie. Tych, którzy przeszli proces, nazywa się [[Smoczy Magowie|Smoczymi Magami]], a burgundowy uśmiech jest dziś rozpoznawalny w każdym salonie Europy.
+Cena jest stała. Zęby przyjmują na trwałe barwę burgunda, żyły prześwitują pod skórą, a od tej chwili trzeba regularnie pić niewielkie dawki krwi, bo inaczej wzmocnione energie wymkną się spod kontroli i skończą mimowolnymi manifestacjami, a w końcu śmiercią. Dawka jest indywidualna; typowo wystarcza fiolka miesięcznie. Sama przemiana to nie jednorazowy łyk, lecz wielotygodniowa kuracja prowadzona przez wprawnego alchemika, pochłaniająca fortunę w destylacie — pełną procedurę opisuje [[Alchemia]]. Tych, którzy przeszli proces, nazywa się [[Smoczy Magowie|Smoczymi Magami]], a burgundowy uśmiech jest dziś rozpoznawalny w każdym salonie Europy.
 
 > [!mechanics]
 > **Efekt:** trwałe wzmocnienie Sorcery + budzenie uśpionych linii krwi
@@ -321,7 +321,7 @@ Skutek jest brutalny. Kolonizatorzy długo nie wiedzieli nawet, że czarnoskórz
 > **Czarne Voodoo (wiedźmy):** Necromancer (DF9) — wymuszone posłuszeństwo potężniejszych bytów, zombie, klątwy
 > **Słabość uniwersalna:** ołów neutralizuje całą afrykańską magię i moce mistycznych bestii
 
-Ołów ma jednak granice działania, i te granice rysują mapę. Dławi rodzimą magię Afryki i moc mistycznych bestii, lecz nie tyka Cudu islamu: baraka marabutów Sahelu i wybrzeża suahilskiego płynie z wiary, więc ani kołnierz, ani kula jej nie gasi (zob. baraka wyżej). Tam, gdzie kończy się Voodoo, zaczyna się moc, której ten sam metal nie rusza.
+Ołów ma jednak granice działania, i te granice rysują mapę. Dławi rodzimą magię Afryki i moc mistycznych bestii, lecz nie tyka Cudu islamu: baraka marabutów Sahelu i wybrzeża suahilskiego płynie z wiary, więc ani kołnierz, ani kula jej nie gasi (zob. baraka wyżej). Tam, gdzie kończy się Voodoo, zaczyna się moc, której ten sam metal nie rusza. Ta sama obojętność metalu obejmuje Sorcery i smoczą magię Europy: ołów rani ich adeptów jak zwykły pocisk, nic ponad to.
 
 Druga granica jest strategiczna. Ołów broni punktu — można obłożyć nim fort i okuć nim jeńca, nie da się obłożyć nim maszerującej armii ani kolonii w głębi lądu. Dlatego Europa od trzystu lat siedzi na skraju Afryki: trzyma wybrzeże i pokład statku, a wnętrze, bronione przez państwa, bestie i chorobę, pozostaje nietknięte. Malaria i żółta febra dokańczają dzieła — wybrzeże zwą grobem białego człowieka. Podbój kontynentu przyjdzie dopiero za trzy pokolenia, gdy chinina pokona malarię, karabin maszynowy armie, a tani ołów w przemysłowej ilości — magię.
 
@@ -347,7 +347,7 @@ Skutek jest ponury i dotyka [[Codzienne życie w Stanach Zjednoczonych|codzienne
 
 [[Chiny dynastii Qing|Chiny]] są skrajnym przykładem zalet i wad obcowania z feyami, choć same tego tak nie ujmują. Siła tradycji i ceremonii obrosła kraj niezliczonymi bytami, które subtelnie naginają tę rzeczywistość. Dzięki temu opanowano [[Feng shui]], a jego największym dziełem jest Wielki Mur — stale wzmacniana bariera, która realnie utrudnia dostęp do wnętrza kraju i sprowadza klątwy na intruzów.
 
-Dziś trawi je inny problem. Narasta przemyt Czerwonego opium, jeszcze bardziej uzależniającego niż zwykłe, ale rewelacyjnego dla miejscowych mistyków w medytacjach zwiększających moc — i zarazem znacznie bardziej niszczącego charakter. Przywódcy żądni potęgi sięgają po nie, co napędza waśnie między sektami i klanami. Powstanie Białego Lotosu, które wybuchło w 1794 roku i wciąż tli się w górskich prowincjach, czerpie z tej samej studni: mistycyzm, rozpacz i czerwony dym. Cesarz Jiaqing, który w 1799 roku stracił wszechwładnego dworaka Heshena za korupcję, tłumi rebelię, lecz źródła jej siły nie potrafi wysuszyć.
+Dziś trawi je inny problem. Narasta przemyt Czerwonego opium, jeszcze bardziej uzależniającego niż zwykłe, ale rewelacyjnego dla miejscowych mistyków w medytacjach zwiększających moc — i zarazem znacznie bardziej niszczącego charakter. Przywódcy żądni potęgi sięgają po nie, co napędza waśnie między sektami i klanami. Powstanie Białego Lotosu, które wybuchło w 1796 roku i wciąż tli się w górskich prowincjach, czerpie z tej samej studni: mistycyzm, rozpacz i czerwony dym. Cesarz Jiaqing, który w 1799 roku stracił wszechwładnego dworaka Heshena za korupcję, tłumi rebelię, lecz źródła jej siły nie potrafi wysuszyć.
 
 > [!mechanics]
 > **Feng shui:** Ritual Magic — powszechnie tworzone, trwałe, zwykle subtelne efekty (GURPS Thaumatology)

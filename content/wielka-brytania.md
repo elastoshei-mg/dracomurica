@@ -20,6 +20,8 @@ Angielscy lordowie nigdy nie nadawali tytułów [[Sorcery|prekursorom]] za samą
 
 Religia dopełnia obrazu. Kościół anglikański, powołany przeciw politycznej władzy Rzymu, ma krótszą historię i mniejszy prestiż, więc [[Cudotwórcy|cudotwórców]] rodzi rzadziej niż katolicka machina. Nieprzypadkowo z brytyjskiego gruntu wyrośli purytanie, dla których każda magia „nie-boska" jest wprost dziełem szatana. Rządzący establishment jest z tej trzeźwości dumny i nie kryje jej ani przed Paryżem, ani przed Rzymem.
 
+Jeden rodzaj magii ta niechęć omija. [[Wolnomurarstwo|Loże wolnomularskie]] pielęgnują od stuleci zachodnią odmianę [[Feng shui|geomancji]] przebraną za symbolikę architektoniczną — rzemiosło do powtórzenia, nie objawiony dar do odziedziczenia, więc pasuje do brytyjskiej pogardy dla krwi i cudu. Kątownica i cyrkiel liczą się w Londynie tak, jak liczy się dobrze prowadzona księga rachunkowa: metoda, którą da się powtórzyć, nie łaska, którą trzeba odziedziczyć.
+
 Dlatego jawny [[Legion magów|legion czarowników]], który [[Francja Napoleońska|Napoleon]] zbiera nad Sekwaną, jest dla Londynu prowokacją nie mniejszą niż francuska flota. Gazety piszą o nim z odrazą, kaznodzieje grzmią, a Admiralicja po cichu liczy, ile mgły potrafi wezwać jeden adept nad kanałem La Manche. Krążą pogłoski, że Pokój Amiens miał tajną klauzulę o adeptach po obu stronach wody; rząd zaprzecza, co nikogo nie przekonuje.
 
 ---
@@ -36,7 +38,7 @@ Dwa stronnictwa dzielą politykę. Torysi skupiają ziemiaństwo, Kościół ang
 
 ### Jerzy III i choroba bez nazwy
 
-Król ma sześćdziesiąt cztery lata i przeżył swoich wrogów, swoją wojnę z Ameryką i kilka ataków choroby, której nikt nie umie nazwać. W latach 1788–1789 mówił bez przerwy godzinami i nie poznawał żony; krótszy nawrót przyszedł w 1801 roku, ze stresem irlandzkiej unii. Epoka mówi o „szaleństwie" z gorączką, objawy są realne — gnający potok mowy, omamy, agresja, potem powrót do siebie.
+Król ma sześćdziesiąt cztery lata i przeżył swoich wrogów, swoją wojnę z Ameryką i kilka ataków choroby, której nikt nie umie nazwać. W latach 1788–1789 mówił bez przerwy nawet przez pięćdziesiąt osiem godzin i nie poznawał żony; dworska plotka głosi, że w Windsor Great Park pozdrowił dąb, biorąc go za króla Prus. Krótszy nawrót przyszedł w 1801 roku, ze stresem irlandzkiej unii. Epoka mówi o „szaleństwie" z gorączką, objawy są realne — gnający potok mowy, omamy, agresja, potem powrót do siebie.
 
 Na dworze, który magią gardzi, nikt nie szuka w tym niczego nadprzyrodzonego. Lekarze mówią o ciele i humorach, dworzanie o przemęczeniu, a każdy szept o „klątwie" ucisza się jak zabobon niegodny korony. To także deklaracja — brytyjska korona oddaje króla w ręce medyków i traktuje jego przypadłość jak chorobę ciała. W 1802 roku król jest stabilny: mieszka w Windsorze, poluje, gra na flecie i z autentycznym przejęciem wypytuje napotkanych poddanych o ich gospodarstwa.
 

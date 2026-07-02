@@ -14,7 +14,9 @@ Sorcery to magia, z którą się rodzi. Objawia się instynktownie, bez ksiąg i
 
 Moc przychodzi sama. Manifestuje się u ludzi spontanicznie, w każdym wieku i niemal dowolnej formie — u dziecka przy palenisku, u rekruta pod pierwszym ogniem, u wdowy nad świeżym grobem. Pierwsze objawienie wiąże się zwykle z traumą albo silnym uczuciem, jakby dar czekał na pęknięcie, którym wyjdzie na wierzch.
 
-Dar bywa wąsko tematyczny i dziwaczny w specyfikacji. Potężne uzdrawianie, ale tylko ptactwa. Ogień posłuszny w każdym calu, lecz wyłącznie w kształcie konia. Rozmowa przez sny, jednak jedynie z osobami znanymi osobiście. Jeden hrabia podnosi z ziemi dowolny ciężar, dopóki przedmiot jest z żelaza; pewna baronowa słyszy każde kłamstwo wypowiedziane w jej obecności, a głuchnie na prawdę.
+Dar bywa wąsko tematyczny i dziwaczny w specyfikacji. Potężne uzdrawianie, ale tylko ptactwa. Ogień posłuszny w każdym calu, lecz wyłącznie w kształcie konia. Rozmowa przez sny, jednak jedynie z osobami znanymi osobiście.
+
+Jeden hrabia podnosi z ziemi dowolny ciężar, dopóki przedmiot jest z żelaza. Pewna baronowa słyszy każde kłamstwo wypowiedziane w jej obecności, a głuchnie na prawdę.
 
 Adept po prostu chce, a moc słucha — bez formuł, kręgów i inkantacji, których potrzebuje wyuczony [[Europejskie czarostwo|czarownik]]. Tej zdolności nie da się przekazać ani pożyczyć. Trening podnosi celność i skuteczność, lecz nie nauczy daru kogoś, kto się z nim nie urodził.
 
@@ -60,7 +62,7 @@ Cena czystości bywa wpisana w ciało. Ród pilnujący daru przez kojarzenie kuz
 
 ## Boskie prawo królów
 
-[[Boskie prawo królów]] nie jest tu metaforą. Wśród rodzin przejmujących władzę nad wielkimi terytoriami odsetek spontanicznych prekursorów jest wyraźnie wyższy niż gdzie indziej — stąd porzekadło, że „z koroną przychodzi magia".
+[[Boskie prawo królów]] ma tu realne, mierzalne działanie. Wśród rodzin przejmujących władzę nad wielkimi terytoriami odsetek spontanicznych prekursorów jest wyraźnie wyższy niż gdzie indziej — stąd porzekadło, że „z koroną przychodzi magia".
 
 Trwała dynastia z pokolenia na pokolenie częściej wydaje członków władających więcej niż jednym typem mocy. Silny monarcha ma przy tym właściwość, której nie ma nikt poniżej: kto otrzyma od niego tytuł albo ważne nadanie, ten i jego bezpośredni potomkowie częściej zostają prekursorami lub utrzymują posiadane moce. Słaby władca rozdaje tytuły swobodnie i bez tego skutku. Nadanie z ręki prawdziwego suwerena dosłownie budziło krew, więc znaczyło więcej niż sam prestiż — i każdy dwór o tym wiedział.
 
@@ -88,7 +90,9 @@ Moc słabnie od stuleci i nie z jednej przyczyny. Rosnąca populacja, rozwój cy
 
 W roku 1802 prawdziwie mocne zdolności są rzadkością nawet wśród arystokracji, a z przyczyn politycznych trzyma się je w sekrecie. Salon pełen hrabiów wyczaruje co najwyżej iskry do fajki i barwne dymki nad stołem; spotkanie naprawdę potężnego adepta jest wydarzeniem na całe życie i tematem opowieści przekazywanej wnukom.
 
-Sekret ma twarde powody. We Francji ancien régime'u zawiłe prawo gwarantowało szlachcie niemal pełną bezkarność za skutki używania mocy na plebsie — najwyżej drobna grzywna po tym, jak hrabia wstrząsem zburzył kamienicę z lokatorami w środku. Pozostałe stany zapamiętały to dobrze. Adept, który dziś obnosi się z darem, przypomina ludziom, za co poszła pod nóż arystokracja, więc mądrzejsi milczą.
+Sekret ma twarde powody. We Francji ancien régime'u zawiłe prawo gwarantowało szlachcie niemal pełną bezkarność za skutki używania mocy na plebsie — najwyżej drobna grzywna po tym, jak hrabia wstrząsem zburzył kamienicę z lokatorami w środku.
+
+Pozostałe stany zapamiętały to dobrze. Adept, który dziś obnosi się z darem, przypomina ludziom, za co poszła pod nóż arystokracja, więc mądrzejsi milczą.
 
 [[Napoleon Bonaparte|Napoleon]] złamał tę zasadę. Ujawnił publicznie, że jest potężnym adeptem magii powietrza, i obiecał ochronę przed stosem każdemu adeptowi, który wstąpi do armii — buduje z nich [[Legion magów|legion]], jakiego żaden europejski władca nie odważył się zebrać od stuleci. Jego moc jest przy tym raczej wyuczonym czarostwem niż dziedziczną Sorcery, co dla starych rodów czyni rzecz jeszcze bardziej gorszącą: korsykański parweniusz nauczył się tego, co oni mają we krwi.
 
@@ -97,6 +101,8 @@ Sekret ma twarde powody. We Francji ancien régime'u zawiłe prawo gwarantowało
 ## Smocza krew i przebudzenie
 
 Jedyny świeży zastrzyk mocy płynie z [[Smocza krew|smoczej krwi]] z Ameryki. Duża dawka destylatu trwale wzmacnia ciało, podbija każdą zdolność Sorcery i potrafi obudzić moce uśpione, rozrzedzone przez pokolenia. Szlachcic z odpowiednimi koneksjami nagle przywracał świetność podupadłemu rodowi i manifestował równolegle dary kilku przodków — coś, co wcześniej zdarzało się niemal wyłącznie u dynastii panujących.
+
+Sama przemiana jest kosztowną, wielotygodniową kuracją alchemiczną, nie jednym łykiem przy źródle — alchemik dawkuje destylat sesja po sesji, a pełną procedurę opisuje [[Alchemia]]. Ołów, który dławi Voodoo i afrykańskie bestie, nie ma nad Smoczym Magiem żadnej szczególnej władzy: rani go jak zwykłego człowieka, nic więcej.
 
 Cena jest stała i dożywotnia. Zęby przyjmują barwę burgunda, żyły prześwitują pod skórą, a od tej chwili trzeba regularnie pić małe dawki krwi, bo inaczej wzmocnione energie wymkną się spod kontroli i skończą śmiercią. Tych, którzy przeszli proces, nazywa się [[Smoczy Magowie|Smoczymi Magami]], a burgundowy uśmiech jest dziś rozpoznawalny w każdym salonie Europy. Pod koniec ancien régime'u nosiła go większość znaczącej arystokracji Wersalu — i to ona, nie stare linie, stoi za większością głośnych manifestacji ostatnich dekad.
 

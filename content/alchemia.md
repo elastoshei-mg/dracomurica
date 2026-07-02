@@ -96,6 +96,8 @@ Produktem ubocznym tego samego polowania jest łuska. Płaszcz ze smoczej łuski
 
 Najpotężniejszym warem, jaki potrafi ten fach, jest przemiana w [[Smoczy Magowie|Smoczego Maga]]. Olbrzymia dawka oczyszczonego destylatu — mówi się wprost o kąpieli we krwi — trwale wzmacnia ciało, daje zdrowie i długowieczność, wzmacnia każdą zdolność [[Sorcery]] i potrafi obudzić moce uśpione i rozrzedzone przez pokolenia. Szlachcic z odpowiednimi koneksjami przywraca tak świetność podupadłemu rodowi i włada naraz mocami kilku przodków.
 
+Kąpiel we krwi to nazwa fachowa, nie przepis. Alchemik prowadzi wielotygodniową kurację: frakcjonuje destylat i dawkuje go w ściśle odmierzonych sesjach, mieszając go z preparatami stabilizującymi, by ciało pacjenta nie odrzuciło nagłego napływu mocy. Sama ilość surowca kosztuje tyle, co dobry majątek ziemski, a bez doświadczonego alchemika przy pacjencie śmierć od przeciążenia jest częstsza niż udana przemiana.
+
 Cena jest stała i dożywotnia. Zęby przyjmują na trwałe barwę burgunda, żyły prześwitują pod skórą, a od tej chwili trzeba regularnie pić niewielkie dawki, bo inaczej wzmocnione energie wymykają się spod kontroli i kończą mimowolnymi manifestacjami, a w końcu śmiercią. Procedura jest droga, niebezpieczna i nieodwracalna; pełne reguły trzyma [[Smoczy Magowie]].
 
 > [!mechanics]
