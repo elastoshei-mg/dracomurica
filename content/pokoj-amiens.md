@@ -2,6 +2,8 @@
 title: Pokój Amiens
 tags: [dyplomacja, traktat, francja, wielka-brytania, historia, europa, magia]
 aliases: [Pokój Amiens (1802), Pokój Amiens, Treaty of Amiens, Amiens, Traktat Amiens, Paix d'Amiens]
+aliases: ["Pokój Amiens"]
+aliases: ["Pokój Amiens"]
 ---
 
 # Pokój Amiens

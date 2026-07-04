@@ -1,7 +1,9 @@
 ---
 title: Alchemia
 tags: [alchemia, magia, mechanika, rzemioslo, smocza krew, czerwone opium, gurps]
-aliases: [Alchemy, Alchemik, Eliksiry, Destylacja, Smocza krew, smocza krew, Czerwone opium]
+aliases: ["Alchemia", Alchemy, Alchemik, Eliksiry, Destylacja, Smocza krew, smocza krew, Czerwone opium]
+aliases: ["Alchemia", "Alchemia"]
+aliases: ["Alchemia", "Alchemia"]
 ---
 
 # Alchemia

@@ -1,7 +1,9 @@
 ---
 title: Chiny dynastii Qing
 tags: [chiny, qing, azja, historia, polityka, gospodarka, spoleczenstwo, magia]
-aliases: [Chiny dynastii Qing (1802), Chiny, Qing, Państwo Środka, China, Cesarstwo Chińskie, Wielki Mur]
+aliases: ["Chiny dynastii Qing", Chiny dynastii Qing (1802), Chiny, Qing, Państwo Środka, China, Cesarstwo Chińskie, Wielki Mur]
+aliases: ["Chiny dynastii Qing", "Chiny dynastii Qing"]
+aliases: ["Chiny dynastii Qing", "Chiny dynastii Qing"]
 ---
 
 # Chiny dynastii Qing

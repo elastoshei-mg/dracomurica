@@ -1,7 +1,9 @@
 ---
 title: Nowy Orlean
 tags: [nowy orlean, luizjana, usa, francja, hiszpania, voodoo, smoki, handel, miasta]
-aliases: [New Orleans, La Nouvelle-Orléans, Nowy Orlean (1802)]
+aliases: ["Nowy Orlean", New Orleans, La Nouvelle-Orléans, Nowy Orlean (1802)]
+aliases: ["Nowy Orlean", "Nowy Orlean"]
+aliases: ["Nowy Orlean", "Nowy Orlean"]
 ---
 
 # Nowy Orlean

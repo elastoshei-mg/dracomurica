@@ -1,7 +1,9 @@
 ---
 title: Żywiołaki
 tags: [magia, natura, zjawiska, byty-pozaplanarne]
-aliases: [Wielki Pożar Londynu, Elementals, Duchy żywiołów]
+aliases: ["Żywiołaki", Wielki Pożar Londynu, Elementals, Duchy żywiołów]
+aliases: ["Żywiołaki", "Żywiołaki"]
+aliases: ["Żywiołaki", "Żywiołaki"]
 ---
 
 # Żywiołaki

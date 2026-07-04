@@ -1,7 +1,9 @@
 ---
 title: Toussaint Louverture
 tags: [postać, haiti, rewolucja, wojsko, polityka, karaiby, francja, magia]
-aliases: [François-Dominique Toussaint, Toussaint L'Ouverture, Toussaint Bréda, The Black Napoleon, Czarny Napoleon]
+aliases: ["Toussaint Louverture", François-Dominique Toussaint, Toussaint L'Ouverture, Toussaint Bréda, The Black Napoleon, Czarny Napoleon]
+aliases: ["Toussaint Louverture", "Toussaint Louverture"]
+aliases: ["Toussaint Louverture", "Toussaint Louverture"]
 ---
 
 # Toussaint Louverture

@@ -1,7 +1,9 @@
 ---
 title: Państwo Kościelne
 tags: [watykan, papiez, kosciol, wlochy, europa, historia, polityka, cudotworcy]
-aliases: [Państwo Kościelne (1802), Stolica Apostolska, Watykan, Papal States, Holy See, Pius VII, Papież]
+aliases: ["Państwo Kościelne", Państwo Kościelne (1802), Stolica Apostolska, Watykan, Papal States, Holy See, Pius VII, Papież]
+aliases: ["Państwo Kościelne", "Państwo Kościelne"]
+aliases: ["Państwo Kościelne", "Państwo Kościelne"]
 ---
 
 # Państwo Kościelne

@@ -1,7 +1,9 @@
 ---
 title: Traktat Greenville
 tags: [traktat, usa, rdzenne narody, ohio, smoki, historia, polityka]
-aliases: [Treaty of Greenville, Traktat z Greenville, Pokój Greenville, Greenville 1795]
+aliases: ["Traktat Greenville", Treaty of Greenville, Traktat z Greenville, Pokój Greenville, Greenville 1795]
+aliases: ["Traktat Greenville", "Traktat Greenville"]
+aliases: ["Traktat Greenville", "Traktat Greenville"]
 ---
 
 # Traktat Greenville

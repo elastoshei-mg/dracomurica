@@ -1,7 +1,9 @@
 ---
 title: Voodoo
 tags: [magia, religia, afryka, karaiby, diaspora, fey, niewolnictwo, historia]
-aliases: [Vodou, Vodun, Voudou, Wodu]
+aliases: ["Voodoo", Vodou, Vodun, Voudou, Wodu]
+aliases: ["Voodoo", "Voodoo"]
+aliases: ["Voodoo", "Voodoo"]
 ---
 
 # Voodoo

@@ -1,7 +1,9 @@
 ---
 title: Portugalia
 tags: [portugalia, europa, kolonie, brazylia, historia, polityka, gospodarka, spoleczenstwo, magia]
-aliases: [Portugalia (1802), Portugal, Królestwo Portugalii, Korona Portugalska]
+aliases: ["Portugalia", Portugalia (1802), Portugal, Królestwo Portugalii, Korona Portugalska]
+aliases: ["Portugalia", "Portugalia"]
+aliases: ["Portugalia", "Portugalia"]
 ---
 
 # Portugalia

@@ -1,7 +1,9 @@
 ---
 title: Rosja
 tags: [rosja, imperium, aleksander, historia, polityka, spoleczenstwo, europa, magia]
-aliases: [Rosja (1802), Russia, Imperium Rosyjskie, Carstwo Rosji, Царская Россия]
+aliases: ["Rosja", Rosja (1802), Russia, Imperium Rosyjskie, Carstwo Rosji, Царская Россия]
+aliases: ["Rosja", "Rosja"]
+aliases: ["Rosja", "Rosja"]
 ---
 
 # Rosja

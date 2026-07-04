@@ -1,7 +1,9 @@
 ---
 title: Amerykańska Konstytucja
 tags: [usa, prawo, polityka, historia, konstytucja]
-aliases: [Pierwsza poprawka, Pierwsza Poprawka, Konstytucja Stanów Zjednoczonych, US Constitution, Bill of Rights, Karta Praw]
+aliases: ["Amerykańska Konstytucja", Pierwsza poprawka, Pierwsza Poprawka, Konstytucja Stanów Zjednoczonych, US Constitution, Bill of Rights, Karta Praw]
+aliases: ["Amerykańska Konstytucja", "Amerykańska Konstytucja"]
+aliases: ["Amerykańska Konstytucja", "Amerykańska Konstytucja"]
 ---
 
 # Amerykańska Konstytucja

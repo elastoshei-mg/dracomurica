@@ -1,7 +1,9 @@
 ---
 title: Burbonowie
 tags: [francja, hiszpania, dynastia, sorcery, magia, genealogia, arystokracja]
-aliases: [Bourbon, Dom Burbonów, House of Bourbon, Burbonowie francuscy, Burbonowie hiszpańscy, Burbonowie neapolitańscy]
+aliases: ["Burbonowie", Bourbon, Dom Burbonów, House of Bourbon, Burbonowie francuscy, Burbonowie hiszpańscy, Burbonowie neapolitańscy]
+aliases: ["Burbonowie", "Burbonowie"]
+aliases: ["Burbonowie", "Burbonowie"]
 ---
 
 # Burbonowie

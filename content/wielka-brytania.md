@@ -1,7 +1,9 @@
 ---
 title: Wielka Brytania
 tags: [wielka brytania, anglia, imperium, polityka, historia, gospodarka, postaci, antymagia]
-aliases: [Wielka Brytania (1802), UK, Zjednoczone Królestwo, England, Anglia, Britain]
+aliases: ["Wielka Brytania", Wielka Brytania (1802), UK, Zjednoczone Królestwo, England, Anglia, Britain]
+aliases: ["Wielka Brytania", "Wielka Brytania"]
+aliases: ["Wielka Brytania", "Wielka Brytania"]
 ---
 
 # Wielka Brytania

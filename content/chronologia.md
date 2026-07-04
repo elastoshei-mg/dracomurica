@@ -1,7 +1,9 @@
 ---
 title: Chronologia – 1200–1802
 tags: [chronologia, historia, fundamenty]
-aliases: [Oś czasu, Timeline, Historia]
+aliases: ["Chronologia – 1200–1802", Oś czasu, Timeline, Historia]
+aliases: ["Chronologia – 1200–1802", "Chronologia – 1200–1802"]
+aliases: ["Chronologia – 1200–1802", "Chronologia – 1200–1802"]
 ---
 
 # Chronologia: 1200–1802
