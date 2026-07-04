@@ -2,8 +2,7 @@
 title: Wolnomurarstwo
 tags: [frakcja, organizacja, sieć, filozofia, oświecenie, europa, ameryki, magia]
 aliases: ["Wolnomurarstwo", Masoni, Masoneria, Wolnomularstwo, Wolnomularze, Loże masońskie, Freemasonry, Free and Accepted Masons, F&AM]
-aliases: ["Wolnomurarstwo", "Wolnomurarstwo"]
-aliases: ["Wolnomurarstwo", "Wolnomurarstwo"]
+
 ---
 
 # Wolnomurarstwo

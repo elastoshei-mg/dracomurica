@@ -2,8 +2,7 @@
 title: Święte Cesarstwo Rzymskie
 tags: [cesarstwo, niemcy, europa, habsburgowie, historia, polityka, magia]
 aliases: ["Święte Cesarstwo Rzymskie", Święte Cesarstwo Rzymskie (1802), HRE, Rzesza, Cesarstwo Rzymskie, Niemcy, Reich]
-aliases: ["Święte Cesarstwo Rzymskie", "Święte Cesarstwo Rzymskie"]
-aliases: ["Święte Cesarstwo Rzymskie", "Święte Cesarstwo Rzymskie"]
+
 ---
 
 # Święte Cesarstwo Rzymskie
