@@ -6,7 +6,7 @@ aliases: [Strona główna, Główna]
 
 # Rok 1802
 
-![](./images/main_img.png)
+![](./images/hero-image.png)
 
 Napoleon Bonaparte właśnie podpisał pokój z Wielką Brytanią. Thomas Jefferson siedzi w nowo wybudowanym Białym Domu i patrzy na zachód. Pomiędzy nimi leży [[Terytorium Luizjany]] – obszar trzy razy większy od Francji, który formalnie zmienił właściciela dwa lata temu i od tej chwili nie daje spokoju nikomu.
 
