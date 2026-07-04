@@ -1,7 +1,7 @@
----
+﻿---
 title: Imperium Osmańskie
 tags: [osmanowie, turcja, islam, europa, azja, historia, polityka, spoleczenstwo, magia]
-aliases: [Imperium Osmańskie (1802), Osmanowie, Turcy, Ottoman Empire, Wysoka Porta, Sublime Porte]
+aliases: ["Imperium Osmańskie", Imperium Osmańskie (1802), Osmanowie, Turcy, Ottoman Empire, Wysoka Porta, Sublime Porte]
 ---
 
 # Imperium Osmańskie
@@ -85,3 +85,4 @@ Pod polityką tkwi słabość gospodarcza wpisana w prawo. Kapitulacje, przywile
 ---
 
 *Powiązane artykuły: [[Rosja]], [[Francja Napoleońska]], [[Wielka Brytania]], [[Pokój Amiens]], [[Cudotwórcy]], [[Daemony]], [[Punkty rozbieżności]], [[Chronologia]].*
+

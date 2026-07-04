@@ -1,7 +1,7 @@
----
+﻿---
 title: Liga Hanzeatycka – Dziedzictwo
 tags: [frakcja, organizacja, handel, niemcy, morze-baltyckie, kupcy, magia, historia]
-aliases: [Hanza, Liga Hanzeatycka, Hanseatic League, Wolne Miasta Hanzeatyckie, Hansestädte, Dziedzictwo Hanzy]
+aliases: ["Liga Hanzeatycka – Dziedzictwo", Hanza, Liga Hanzeatycka, Hanseatic League, Wolne Miasta Hanzeatyckie, Hansestädte, Dziedzictwo Hanzy]
 ---
 
 # Liga Hanzeatycka – Dziedzictwo
@@ -73,3 +73,4 @@ Tym głośniej brzmi w tych latach nuta nostalgii za Hanzą, *Hansenostalgie* �
 ---
 
 *Powiązane artykuły: [[Święte Cesarstwo Rzymskie]], [[Wielka Brytania]], [[Francja Napoleońska]], [[Rewolucja Przemysłowa]], [[Handel futrami]], [[Stany Zjednoczone]], [[Sorcery]], [[Czarna Śmierć]], [[Punkty rozbieżności]], [[Chronologia]].*
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Afryka Subsaharyjska
 tags: [afryka, krolestwa, handel, niewolnictwo, islam, magia, spoleczenstwo, historia]
-aliases: [Afryka Subsaharyjska (1802), Sub-Saharan Africa, Afryka, Czarna Afryka, Africa]
+aliases: ["Afryka Subsaharyjska", Afryka Subsaharyjska (1802), Sub-Saharan Africa, Afryka, Czarna Afryka, Africa]
 ---
 
 # Afryka Subsaharyjska
@@ -78,3 +78,4 @@ Na samym południu leży jedyna osadnicza kolonia kontynentu. Kapsztad, założo
 ---
 
 *Powiązane artykuły: [[Handel Trójkątny]], [[Korsarze Barbarii]], [[Haiti]], [[Portugalia]], [[Wielka Brytania]], [[Voodoo]], [[Cudotwórcy]], [[Punkty rozbieżności]], [[Chronologia]].*
+

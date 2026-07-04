@@ -1,7 +1,7 @@
----
+﻿---
 title: Europejskie czarostwo
 tags: [magia, czarostwo, mechanika, gurps, kolegia]
-aliases: [Czarostwo, Magia uczona, Czarnoksięstwo, Wizardry, Magia ksiąg]
+aliases: ["Europejskie czarostwo", Czarostwo, Magia uczona, Czarnoksięstwo, Wizardry, Magia ksiąg]
 ---
 
 # Europejskie czarostwo
@@ -125,3 +125,4 @@ Geografia tej ukrytej tradycji nie jest równomierna. [[Hiszpania]] ściga ją n
 ---
 
 *Powiązane artykuły: [[Sorcery]], [[Cudotwórcy]], [[Alchemia]], [[Gildie Śmierci]], [[Daemony]], [[Fey]], [[Toussaint Louverture]], [[Krucjaty]], [[Hiszpania]], [[Punkty rozbieżności]], [[Chronologia]], [[Słownik terminów]].*
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Rdzenne narody Ameryki Północnej
 tags: [indianie, rdzenne narody, kultura, filozofia, polityka, postacie, smoki]
-aliases: [Indianie, Native Americans, Ludy rdzenne, Dwudusze, Pierwsze Narody, Ludy rdzenne Ameryki Północnej, Rdzenne narody, Rdzenne narody Ameryki Północnej (1802)]
+aliases: ["Rdzenne narody Ameryki Północnej", Indianie, Native Americans, Ludy rdzenne, Dwudusze, Pierwsze Narody, Ludy rdzenne Ameryki Północnej, Rdzenne narody, Rdzenne narody Ameryki Północnej (1802)]
 ---
 
 # Rdzenne narody Ameryki Północnej
@@ -125,3 +125,4 @@ Pod wszystkim sączy się alkohol, narzędzie polityki tyleż, co towar. Handlar
 ---
 
 *Powiązane artykuły: [[Stany Zjednoczone]], [[Terytorium Luizjany]], [[Traktat Greenville]], [[Kanada Brytyjska]], [[Handel futrami]], [[Nowa Hiszpania]], [[Smoki]], [[smocza krew]], [[Punkty rozbieżności]], [[Chronologia]].*
+

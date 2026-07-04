@@ -1,7 +1,7 @@
----
+﻿---
 title: Chronologia – 1200–1802
 tags: [chronologia, historia, fundamenty]
-aliases: [Oś czasu, Timeline, Historia]
+aliases: ["Chronologia – 1200–1802", Oś czasu, Timeline, Historia]
 ---
 
 # Chronologia: 1200–1802
@@ -557,3 +557,4 @@ Rok 1803 domknie kilka wątków zawieszonych w 1802. 7 kwietnia [[Toussaint Louv
 ---
 
 *Chronologia splata udokumentowaną historię z warstwą rozbieżności tego świata. Tam, gdzie nie zaznaczono inaczej, bieg wydarzeń pokrywa się z naszym; pełną listę reguł i odstępstw trzyma [[Punkty rozbieżności]].*
+

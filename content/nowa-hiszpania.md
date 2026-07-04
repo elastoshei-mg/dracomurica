@@ -1,7 +1,7 @@
----
+﻿---
 title: Nowa Hiszpania
 tags: [nowa hiszpania, hiszpania, kolonie, smoki, rdzenne narody, alchemia, geografia, polityka, historia, pogranicze]
-aliases: [Nueva España, New Spain, Wicekrólestwo Nowej Hiszpanii]
+aliases: ["Nowa Hiszpania", Nueva España, New Spain, Wicekrólestwo Nowej Hiszpanii]
 ---
 
 # Nowa Hiszpania
@@ -109,3 +109,4 @@ Oficjalnie wpisuje się to jako dezercję. Żołnierze, którzy znajdują takie 
 ---
 
 *Powiązane artykuły: [[Hiszpania]], [[Terytorium Luizjany]], [[Rdzenne narody Ameryki Północnej]], [[Smoki]], [[Charau-Ka]], [[Alchemia]], [[Smoczy Magowie]], [[Cudotwórcy]], [[Stany Zjednoczone]], [[Punkty rozbieżności]], [[Chronologia]].*
+

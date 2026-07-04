@@ -1,7 +1,7 @@
----
+﻿---
 title: Chiny dynastii Qing
 tags: [chiny, qing, azja, historia, polityka, gospodarka, spoleczenstwo, magia]
-aliases: [Chiny dynastii Qing (1802), Chiny, Qing, Państwo Środka, China, Cesarstwo Chińskie, Wielki Mur]
+aliases: ["Chiny dynastii Qing", Chiny dynastii Qing (1802), Chiny, Qing, Państwo Środka, China, Cesarstwo Chińskie, Wielki Mur]
 ---
 
 # Chiny dynastii Qing
@@ -122,3 +122,4 @@ Stany Zjednoczone handlują z Chinami od 1784 roku, odkąd przypłynął tu stat
 ---
 
 *Powiązane artykuły: [[Kompanie Wschodnioindyjskie]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Indie Mogołów i Kompania]], [[Czerwone opium]], [[Feng shui]], [[Sztuki walki]], [[Cięcie Powietrza]], [[Smocza krew]], [[Japonia]], [[Rosja]], [[Punkty rozbieżności]].*
+

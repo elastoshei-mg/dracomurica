@@ -1,7 +1,7 @@
----
+﻿---
 title: Handel trójkątny
 tags: [handel, atlantyk, niewolnictwo, historia, ekonomia, afryka, karaiby, magia]
-aliases: [Handel Trójkątny (1802), Triangular Trade, Transatlantycki handel niewolnikami, Middle Passage]
+aliases: ["Handel trójkątny", Handel Trójkątny (1802), Triangular Trade, Transatlantycki handel niewolnikami, Middle Passage]
 ---
 
 # Handel trójkątny
@@ -90,3 +90,4 @@ Demograficzne szacunki są nieostre, lecz kilka rzeczy jest pewnych. Regiony eks
 ---
 
 *Powiązane artykuły: [[Haiti]], [[Wielka Brytania]], [[Nowy Orlean]], [[Terytorium Luizjany]], [[Afryka Subsaharyjska]], [[Stany Zjednoczone]], [[Voodoo]], [[Francja Napoleońska]], [[Punkty rozbieżności]], [[Chronologia]].*
+

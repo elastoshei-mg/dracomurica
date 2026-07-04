@@ -1,7 +1,7 @@
----
+﻿---
 title: Kompanie Wschodnioindyjskie
 tags: [handel, azja, imperium, kolonie, korporacje, historia, indie, chiny, magia]
-aliases: [Kompanie Wschodnioindyjskie (1802), East India Companies, EIC, VOC, Kompania Wschodnioindyjska]
+aliases: ["Kompanie Wschodnioindyjskie", Kompanie Wschodnioindyjskie (1802), East India Companies, EIC, VOC, Kompania Wschodnioindyjska]
 ---
 
 # Kompanie Wschodnioindyjskie
@@ -85,3 +85,4 @@ Z Londynu do Indii prowadzą trzy drogi. Oficer Kompanii zdobywa nominację prze
 ---
 
 *Powiązane artykuły: [[Wielka Brytania]], [[Chiny dynastii Qing]], [[Indie Mogołów i Kompania]], [[Handel Trójkątny]], [[Czerwone opium]], [[Smocza krew]], [[Smoki]], [[Japonia]], [[Punkty rozbieżności]], [[Chronologia]].*
+

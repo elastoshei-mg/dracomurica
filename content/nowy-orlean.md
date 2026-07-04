@@ -1,7 +1,7 @@
----
+﻿---
 title: Nowy Orlean
 tags: [nowy orlean, luizjana, usa, francja, hiszpania, voodoo, smoki, handel, miasta]
-aliases: [New Orleans, La Nouvelle-Orléans, Nowy Orlean (1802)]
+aliases: ["Nowy Orlean", New Orleans, La Nouvelle-Orléans, Nowy Orlean (1802)]
 ---
 
 # Nowy Orlean
@@ -100,3 +100,4 @@ Czy organizacja istnieje, czy to strach po Haiti ulepił sobie kształt z bębn�
 ---
 
 *Powiązane artykuły: [[Terytorium Luizjany]], [[Stany Zjednoczone]], [[Francja Napoleońska]], [[Hiszpania]], [[Haiti]], [[Voodoo]], [[Cudotwórcy]], [[Smoki]], [[smocza krew]], [[Rdzenne narody Ameryki Północnej]], [[Punkty rozbieżności]].*
+

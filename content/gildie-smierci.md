@@ -1,7 +1,7 @@
----
+﻿---
 title: Gildie Śmierci
 tags: [historia, magia, nekromancja, wojna, kosciol, europejskie-czarostwo, cudotworcy, xiv-wiek]
-aliases: [Polowania na czarownice, Nieumarli, Czarna Śmierć, Death Guilds, Wojna z Gildiami Śmierci, Black Death]
+aliases: ["Gildie Śmierci", Polowania na czarownice, Nieumarli, Czarna Śmierć, Death Guilds, Wojna z Gildiami Śmierci, Black Death]
 ---
 
 # Gildie Śmierci
@@ -198,3 +198,4 @@ To jest największy koszmar organizacji zbudowanej na przekonaniu, że wojnę wy
 ---
 
 *Powiązane artykuły: [[Europejskie czarostwo]], [[Cudotwórcy]], [[Inkwizycja]], [[Hiszpania]], [[Krucjaty]], [[Fey]], [[Sorcery]], [[Punkty rozbieżności]], [[Chronologia]].*
+

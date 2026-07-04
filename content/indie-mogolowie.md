@@ -1,7 +1,7 @@
----
+﻿---
 title: Indie Mogołów i Kompania
 tags: [indie, mughal, kompania, azja, historia, polityka, spoleczenstwo, religia, magia]
-aliases: [Indie Mogołów i Kompania (1802), Indie, India, Mogołowie, Mughal Empire, Subkontynent, Hindustan]
+aliases: ["Indie Mogołów i Kompania", Indie Mogołów i Kompania (1802), Indie, India, Mogołowie, Mughal Empire, Subkontynent, Hindustan]
 ---
 
 # Indie Mogołów i Kompania
@@ -93,3 +93,4 @@ Wiedza o Indiach stała się przy tym osobnym przedsięwzięciem. Zmarły w 1794
 ---
 
 *Powiązane artykuły: [[Kompanie Wschodnioindyjskie]], [[Wielka Brytania]], [[Chiny dynastii Qing]], [[Handel Trójkątny]], [[Czerwone opium]], [[Smocza krew]], [[Sztuki walki]], [[Buddyzm]], [[Punkty rozbieżności]], [[Chronologia]].*
+

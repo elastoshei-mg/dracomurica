@@ -1,7 +1,7 @@
----
+﻿---
 title: Handel futrami
 tags: [handel, gospodarka, kanada, rosja, rdzenne narody, siec, frakcja, technologia, smoki]
-aliases: [Fur Trade, Handel futrzany, Futrzarstwo, Soft Gold, Мягкое золото]
+aliases: ["Handel futrami", Fur Trade, Handel futrzany, Futrzarstwo, Soft Gold, Мягкое золото]
 ---
 
 # Handel futrami
@@ -101,3 +101,4 @@ Już dziś nowojorski kapitał liczy te marże: kupiec John Jacob Astor, na razi
 ---
 
 *Powiązane artykuły: [[Kanada Brytyjska]], [[Rdzenne narody Ameryki Północnej]], [[Rosja]], [[Chiny dynastii Qing]], [[Kompanie Wschodnioindyjskie]], [[Liga Hanzeatycka – Dziedzictwo]], [[Stany Zjednoczone]], [[Smocza krew]], [[Smoki]], [[Punkty rozbieżności]], [[Chronologia]].*
+

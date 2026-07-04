@@ -1,7 +1,7 @@
----
+﻿---
 title: Inkwizycja
 tags: [inkwizycja, kosciol, magia, organizacja, wywiad, daemony, sorcery, mechanika]
-aliases: [Święte Oficjum, Holy Office, Santo Oficio, Inquisition, Inkwizycja Hiszpańska, Inkwizycja Rzymska]
+aliases: ["Inkwizycja", Święte Oficjum, Holy Office, Santo Oficio, Inquisition, Inkwizycja Hiszpańska, Inkwizycja Rzymska]
 ---
 
 # Inkwizycja
@@ -98,3 +98,4 @@ Inkwizycja w 1802 roku nie płonie już tak jasno jak dwa wieki temu. Stosów je
 ---
 
 *Powiązane artykuły: [[Hiszpania]], [[Państwo Kościelne]], [[Nowa Hiszpania]], [[Cudotwórcy]], [[Sorcery]], [[Daemony]], [[Gildie Śmierci]], [[Polowania na czarownice]], [[Europejskie czarostwo]], [[Krucjaty]], [[Smoczy Magowie]], [[Burbonowie]], [[Punkty rozbieżności]], [[Chronologia]].*
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Amerykańska Konstytucja
 tags: [usa, prawo, polityka, historia, konstytucja]
-aliases: [Pierwsza poprawka, Pierwsza Poprawka, Konstytucja Stanów Zjednoczonych, US Constitution, Bill of Rights, Karta Praw]
+aliases: ["Amerykańska Konstytucja", Pierwsza poprawka, Pierwsza Poprawka, Konstytucja Stanów Zjednoczonych, US Constitution, Bill of Rights, Karta Praw]
 ---
 
 # Amerykańska Konstytucja
@@ -165,3 +165,4 @@ Kongres uchwali w grudniu 1803 roku, a stany ratyfikują do czerwca 1804, dwunas
 ---
 
 *Powiązane artykuły: [[Stany Zjednoczone]], [[Codzienne życie w Stanach Zjednoczonych]], [[Cudotwórcy]], [[Voodoo]], [[Haiti]], [[Rdzenne narody Ameryki Północnej]], [[Inkwizycja]], [[Alchemia]], [[Handel Trójkątny]], [[Punkty rozbieżności]], [[Chronologia]].*
+

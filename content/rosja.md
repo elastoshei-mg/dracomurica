@@ -1,7 +1,7 @@
----
+﻿---
 title: Rosja
 tags: [rosja, imperium, aleksander, historia, polityka, spoleczenstwo, europa, magia]
-aliases: [Rosja (1802), Russia, Imperium Rosyjskie, Carstwo Rosji, Царская Россия]
+aliases: ["Rosja", Rosja (1802), Russia, Imperium Rosyjskie, Carstwo Rosji, Царская Россия]
 ---
 
 # Rosja
@@ -101,3 +101,4 @@ Codzienność chłopa toczy się między ciężką pracą lata a długą ciemno�
 ---
 
 *Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Święte Cesarstwo Rzymskie]], [[Imperium Osmańskie]], [[Stany Zjednoczone]], [[Handel futrami]], [[Cudotwórcy]], [[Sorcery]], [[Sorcery|Prekursorzy]], [[Europejskie czarostwo]], [[Daemony]], [[Punkty rozbieżności]], [[Chronologia]].*
+

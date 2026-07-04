@@ -1,7 +1,7 @@
----
+﻿---
 title: Wiki Settingu – Rok 1802
 tags: [meta, index, nawigacja]
-aliases: [Strona główna, Główna]
+aliases: ["Wiki Settingu – Rok 1802", Strona główna, Główna]
 ---
 
 # Rok 1802
@@ -90,3 +90,4 @@ To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 Artykuły opisują świat takim, jakim jest w roku 1802 — albo jakim był do tego roku. Każde zdanie opiera się na rzeczywistej historii, do momentu gdy historia przestaje być rzeczywista, a magia wpleciona jest tam, gdzie pozwala na to [[Punkty rozbieżności|zasada skali]].
 
 [[Chronologia]] to najlepsze miejsce, żeby zacząć — sześćset lat kontekstu, które uczyniły rok 1802 tym, czym jest. Reguły świata i pełną listę rozbieżności trzyma [[Punkty rozbieżności]].
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Państwo Kościelne
 tags: [watykan, papiez, kosciol, wlochy, europa, historia, polityka, cudotworcy]
-aliases: [Państwo Kościelne (1802), Stolica Apostolska, Watykan, Papal States, Holy See]
+aliases: ["Państwo Kościelne", Państwo Kościelne (1802), Stolica Apostolska, Watykan, Papal States, Holy See]
 ---
 
 # Państwo Kościelne
@@ -96,3 +96,4 @@ Toskanię Napoleon przekształcił w Królestwo Etrurii i oddał Burbonom — Lu
 ---
 
 *Powiązane artykuły: [[Francja Napoleońska]], [[Cudotwórcy]], [[Święte Cesarstwo Rzymskie]], [[Wielka Brytania]], [[Hiszpania]], [[Terytorium Luizjany]], [[Pokój Amiens]], [[Punkty rozbieżności]], [[Chronologia]].*
+

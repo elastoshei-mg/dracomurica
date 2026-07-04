@@ -1,7 +1,7 @@
----
+﻿---
 title: Kanada Brytyjska
 tags: [kanada, wielka brytania, kolonie, historia, handel, spoleczenstwo, smoki]
-aliases: [Kanada, British North America, Brytyjska Ameryka Północna, Kanada Brytyjska (1802)]
+aliases: ["Kanada Brytyjska", Kanada, British North America, Brytyjska Ameryka Północna, Kanada Brytyjska (1802)]
 ---
 
 # Kanada Brytyjska
@@ -100,3 +100,4 @@ Kanady broni geografia bardziej niż wojsko. Święty Wawrzyniec tworzy korytarz
 ---
 
 *Powiązane artykuły: [[Rdzenne narody Ameryki Północnej]], [[Stany Zjednoczone]], [[Wielka Brytania]], [[Handel futrami]], [[Pokój Amiens]], [[Smoki]], [[Punkty rozbieżności]], [[Chronologia]].*
+

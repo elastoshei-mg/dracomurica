@@ -1,7 +1,7 @@
----
+﻿---
 title: Korsarze Barbarii
 tags: [maghreb, korsarze, islam, afryka, morze, dyplomacja, niewolnictwo, magia, historia]
-aliases: [Korsarze Barbarii (1802), Barbary Pirates, Barbary Corsairs, Berberyjczycy, Państwa berberyjskie, Maghreb]
+aliases: ["Korsarze Barbarii", Korsarze Barbarii (1802), Barbary Pirates, Barbary Corsairs, Berberyjczycy, Państwa berberyjskie, Maghreb]
 ---
 
 # Korsarze Barbarii
@@ -80,3 +80,4 @@ Władza w Algierze jest transakcyjna i krwawa. Janczarska kasta słucha deja, do
 ---
 
 *Powiązane artykuły: [[Imperium Osmańskie]], [[Stany Zjednoczone]], [[Wielka Brytania]], [[Francja Napoleońska]], [[Afryka Subsaharyjska]], [[Handel Trójkątny]], [[Cudotwórcy]], [[Sorcery]], [[Punkty rozbieżności]], [[Chronologia]], [[Słownik terminów]].*
+

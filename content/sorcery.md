@@ -1,7 +1,7 @@
----
+﻿---
 title: Sorcery
 tags: [magia, sorcery, krew, szlachta, dziedziczenie, spoleczenstwo, historia]
-aliases: [Magia dziedziczna, Magia krwi, Czary szlacheckie, Dziedziczna Sorcery, Cięcie Powietrza, Prekursorzy, Smoczy Magowie, smocza magia, Sorcery (1802), Boskie prawo królów]
+aliases: ["Sorcery", Magia dziedziczna, Magia krwi, Czary szlacheckie, Dziedziczna Sorcery, Cięcie Powietrza, Prekursorzy, Smoczy Magowie, smocza magia, Sorcery (1802), Boskie prawo królów]
 ---
 
 # Sorcery
@@ -126,3 +126,4 @@ Zostaje jeden problem, którego filozofowie woleliby nie stawiać. Skoro Sorcery
 ---
 
 *Powiązane artykuły: [[Boskie prawo królów]], [[Cudotwórcy]], [[Europejskie czarostwo]], [[Smocza krew]], [[Smoczy Magowie]], [[Burbonowie]], [[Magiczne przedmioty]], [[Francja Napoleońska]], [[Wielka Brytania]], [[Rosja]], [[Święte Cesarstwo Rzymskie]], [[Oświecenie]], [[Punkty rozbieżności]], [[Chronologia]].*
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Bois Caïman
 tags: [wydarzenie, haiti, voodoo, rewolucja, magia, historia]
-aliases: [Bwa Kayiman, Ceremonia w Bois Caïman, Noc 14 sierpnia, Noc otwartej bramy]
+aliases: ["Bois Caïman", Bwa Kayiman, Ceremonia w Bois Caïman, Noc 14 sierpnia, Noc otwartej bramy]
 ---
 
 # Bois Caïman
@@ -86,3 +86,4 @@ Jedna legenda, popularna zwłaszcza wśród młodszych weteranów rewolucji, umi
 ---
 
 *Powiązane artykuły: [[Haiti]], [[Voodoo]], [[Toussaint Louverture]], [[Fey]], [[Daemony]], [[Gildie Śmierci]], [[Handel Trójkątny]], [[Punkty rozbieżności]], [[Chronologia]].*
+

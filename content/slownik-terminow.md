@@ -1,7 +1,7 @@
----
+﻿---
 title: Słownik terminów
 tags: [slownik, jezyk, terminy, referencja, magia]
-aliases: [Słownik, Glossary, Terminy, Zwroty, Słownik terminów (1802)]
+aliases: ["Słownik terminów", Słownik, Glossary, Terminy, Zwroty, Słownik terminów (1802)]
 ---
 
 # Słownik terminów
@@ -621,3 +621,4 @@ Ten świat był magiczny od zawsze, a w roku 1802 magia ma swoje rzemiosło, sw�
 ---
 
 *Powiązane artykuły: [[Rdzenne narody Ameryki Północnej]], [[Nowy Orlean]], [[Haiti]], [[Wielka Brytania]], [[Francja Napoleońska]], [[Voodoo]], [[Cudotwórcy]], [[Sorcery]], [[Smoki]], [[smocza krew]], [[Punkty rozbieżności]].*
+

@@ -1,7 +1,7 @@
----
+﻿---
 title: Rewolucja Przemysłowa
 tags: [technologia, gospodarka, anglia, spoleczenstwo, historia, nauka, magia]
-aliases: [Rewolucja Przemysłowa (1802), Industrial Revolution, Industrializacja, Uprzemysłowienie]
+aliases: ["Rewolucja Przemysłowa", Rewolucja Przemysłowa (1802), Industrial Revolution, Industrializacja, Uprzemysłowienie]
 ---
 
 # Rewolucja Przemysłowa
@@ -175,3 +175,4 @@ Drugi front to chemia. Humphry Davy pokazuje w londyńskich wykładach z lat 180
 ---
 
 *Powiązane artykuły: [[Wielka Brytania]], [[Oświecenie]], [[Smoki]], [[Smocza krew]], [[Stany Zjednoczone]], [[Francja Napoleońska]], [[Rosja]], [[Punkty rozbieżności]], [[Chronologia]].*
+

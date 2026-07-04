@@ -1,7 +1,7 @@
----
+﻿---
 title: Ameryka Południowa
 tags: [ameryka poludniowa, geografia, kolonie, hiszpania, portugalia, charau-ka, demonologia, magia]
-aliases: [Charau-Ka, South America, Ameryka Płd.]
+aliases: ["Ameryka Południowa", Charau-Ka, South America, Ameryka Płd.]
 ---
 
 # Ameryka Południowa
@@ -111,3 +111,4 @@ Każde z trzech hiszpańskich wicekrólestw traktuje problem Charau-Ka jako spra
 ---
 
 *Powiązane artykuły: [[Hiszpania]], [[Portugalia]], [[Nowa Hiszpania]], [[Rdzenne narody Ameryki Północnej]], [[Smoki]], [[Daemony]], [[Żywiołaki]], [[Fey]], [[Europejskie czarostwo]], [[Punkty rozbieżności]], [[Chronologia]].*
+

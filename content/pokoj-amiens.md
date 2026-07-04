@@ -1,7 +1,7 @@
----
+﻿---
 title: Pokój Amiens
 tags: [dyplomacja, traktat, francja, wielka-brytania, historia, europa, magia]
-aliases: [Pokój Amiens (1802), Treaty of Amiens, Amiens, Traktat Amiens, Paix d'Amiens]
+aliases: ["Pokój Amiens", Pokój Amiens (1802), Treaty of Amiens, Amiens, Traktat Amiens, Paix d'Amiens]
 ---
 
 # Pokój Amiens
@@ -71,3 +71,4 @@ Pokój w Amiens stworzył też warunki [[Terytorium Luizjany|sprzedaży Luizjany
 ---
 
 *Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Haiti]], [[Terytorium Luizjany]], [[Państwo Kościelne]], [[Stany Zjednoczone]], [[Legion magów]], [[Punkty rozbieżności]], [[Chronologia]].*
+
