@@ -1,9 +1,7 @@
 ---
 title: Punkty rozbieżności
 tags: [meta, lore, historia]
-aliases: [Points of Divergence, PoD, Punkty rozbieżności, Rozbieżności, Obszary rozbieżności]
-aliases: ["Punkty rozbieżności"]
-aliases: ["Punkty rozbieżności"]
+aliases: [Points of Divergence, PoD, Rozbieżności, Obszary rozbieżności]
 ---
 
 # Punkty rozbieżności

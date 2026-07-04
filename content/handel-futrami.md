@@ -1,9 +1,7 @@
 ---
 title: Handel futrami
 tags: [handel, gospodarka, kanada, rosja, rdzenne narody, siec, frakcja, technologia, smoki]
-aliases: ["Handel futrami", Fur Trade, Handel futrzany, Futrzarstwo, Soft Gold, Мягкое золото]
-aliases: ["Handel futrami", "Handel futrami"]
-aliases: ["Handel futrami", "Handel futrami"]
+aliases: [Fur Trade, Handel futrzany, Futrzarstwo, Soft Gold, Мягкое золото]
 ---
 
 # Handel futrami

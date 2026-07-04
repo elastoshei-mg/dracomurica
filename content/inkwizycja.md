@@ -1,9 +1,7 @@
 ---
 title: Inkwizycja
 tags: [inkwizycja, kosciol, magia, organizacja, wywiad, daemony, sorcery, mechanika]
-aliases: ["Inkwizycja", Święte Oficjum, Holy Office, Santo Oficio, Inquisition, Inkwizycja Hiszpańska, Inkwizycja Rzymska]
-aliases: ["Inkwizycja", "Inkwizycja"]
-aliases: ["Inkwizycja", "Inkwizycja"]
+aliases: [Święte Oficjum, Holy Office, Santo Oficio, Inquisition, Inkwizycja Hiszpańska, Inkwizycja Rzymska]
 ---
 
 # Inkwizycja

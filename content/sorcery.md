@@ -1,9 +1,7 @@
 ---
 title: Sorcery
 tags: [magia, sorcery, krew, szlachta, dziedziczenie, spoleczenstwo, historia]
-aliases: ["Sorcery", Magia dziedziczna, Magia krwi, Czary szlacheckie, Dziedziczna Sorcery, Cięcie Powietrza, Prekursorzy, Smoczy Magowie, smocza magia, Sorcery (1802), Boskie prawo królów]
-aliases: ["Sorcery", "Sorcery"]
-aliases: ["Sorcery", "Sorcery"]
+aliases: [Magia dziedziczna, Magia krwi, Czary szlacheckie, Dziedziczna Sorcery, Cięcie Powietrza, Prekursorzy, Smoczy Magowie, smocza magia, Sorcery (1802), Boskie prawo królów]
 ---
 
 # Sorcery

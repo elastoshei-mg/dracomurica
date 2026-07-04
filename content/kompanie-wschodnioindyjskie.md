@@ -1,9 +1,7 @@
 ---
 title: Kompanie Wschodnioindyjskie
 tags: [handel, azja, imperium, kolonie, korporacje, historia, indie, chiny, magia]
-aliases: ["Kompanie Wschodnioindyjskie", Kompanie Wschodnioindyjskie (1802), East India Companies, EIC, VOC, Kompania Wschodnioindyjska]
-aliases: ["Kompanie Wschodnioindyjskie", "Kompanie Wschodnioindyjskie"]
-aliases: ["Kompanie Wschodnioindyjskie", "Kompanie Wschodnioindyjskie"]
+aliases: [Kompanie Wschodnioindyjskie (1802), East India Companies, EIC, VOC, Kompania Wschodnioindyjska]
 ---
 
 # Kompanie Wschodnioindyjskie

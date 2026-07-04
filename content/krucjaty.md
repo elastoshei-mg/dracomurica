@@ -1,9 +1,7 @@
 ---
 title: Krucjaty
 tags: [krucjaty, religia, cudotworcy, wojna, historia, magia, bliski-wschod]
-aliases: ["Krucjaty", Wyprawy krzyżowe, Crusades, Krucjata, Wojny krzyżowe]
-aliases: ["Krucjaty", "Krucjaty"]
-aliases: ["Krucjaty", "Krucjaty"]
+aliases: [Wyprawy krzyżowe, Crusades, Krucjata, Wojny krzyżowe]
 ---
 
 # Krucjaty

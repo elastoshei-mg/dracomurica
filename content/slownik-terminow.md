@@ -1,9 +1,7 @@
 ---
 title: Słownik terminów
 tags: [slownik, jezyk, terminy, referencja, magia]
-aliases: ["Słownik terminów", Słownik, Glossary, Terminy, Zwroty, Słownik terminów (1802)]
-aliases: ["Słownik terminów", "Słownik terminów"]
-aliases: ["Słownik terminów", "Słownik terminów"]
+aliases: [Słownik, Glossary, Terminy, Zwroty, Słownik terminów (1802)]
 ---
 
 # Słownik terminów

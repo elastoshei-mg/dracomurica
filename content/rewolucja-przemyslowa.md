@@ -1,9 +1,7 @@
 ---
 title: Rewolucja Przemysłowa
 tags: [technologia, gospodarka, anglia, spoleczenstwo, historia, nauka, magia]
-aliases: ["Rewolucja Przemysłowa", Rewolucja Przemysłowa (1802), Industrial Revolution, Industrializacja, Uprzemysłowienie]
-aliases: ["Rewolucja Przemysłowa", "Rewolucja Przemysłowa"]
-aliases: ["Rewolucja Przemysłowa", "Rewolucja Przemysłowa"]
+aliases: [Rewolucja Przemysłowa (1802), Industrial Revolution, Industrializacja, Uprzemysłowienie]
 ---
 
 # Rewolucja Przemysłowa

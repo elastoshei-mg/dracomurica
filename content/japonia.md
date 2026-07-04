@@ -1,9 +1,7 @@
 ---
 title: Japonia
 tags: [japonia, azja, tokugawa, sakoku, historia, kultura, spoleczenstwo, magia]
-aliases: ["Japonia", Japonia (1802), Japan, Edo Japan, Tokugawa Japan, Nihon, Nippon]
-aliases: ["Japonia", "Japonia"]
-aliases: ["Japonia", "Japonia"]
+aliases: [Japonia (1802), Japan, Edo Japan, Tokugawa Japan, Nihon, Nippon]
 ---
 
 # Japonia

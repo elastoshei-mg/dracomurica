@@ -1,9 +1,7 @@
 ---
 title: Haiti
 tags: [haiti, rewolucja, karaiby, francja, historia, magia, voodoo]
-aliases: ["Haiti", Haiti (1802), Saint-Domingue, Wyspa Hispaniola, La Perle des Antilles]
-aliases: ["Haiti", "Haiti"]
-aliases: ["Haiti", "Haiti"]
+aliases: [Haiti (1802), Saint-Domingue, Wyspa Hispaniola, La Perle des Antilles]
 ---
 
 # Haiti

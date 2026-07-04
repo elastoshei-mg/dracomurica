@@ -1,9 +1,7 @@
 ---
 title: Handel trójkątny
 tags: [handel, atlantyk, niewolnictwo, historia, ekonomia, afryka, karaiby, magia]
-aliases: ["Handel trójkątny", Handel Trójkątny, Handel Trójkątny (1802), Triangular Trade, Transatlantycki handel niewolnikami, Middle Passage]
-aliases: ["Handel trójkątny", "Handel trójkątny"]
-aliases: ["Handel trójkątny", "Handel trójkątny"]
+aliases: [Handel Trójkątny (1802), Triangular Trade, Transatlantycki handel niewolnikami, Middle Passage]
 ---
 
 # Handel trójkątny

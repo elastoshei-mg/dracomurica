@@ -1,9 +1,7 @@
 ---
 title: Hiszpania
 tags: [hiszpania, europa, kolonie, burbonowie, historia, polityka, gospodarka, spoleczenstwo, magia]
-aliases: ["Hiszpania", Hiszpania (1802), España, Spain, Korona Hiszpańska, Monarchia Hiszpańska]
-aliases: ["Hiszpania", "Hiszpania"]
-aliases: ["Hiszpania", "Hiszpania"]
+aliases: [Hiszpania (1802), España, Spain, Korona Hiszpańska, Monarchia Hiszpańska]
 ---
 
 # Hiszpania

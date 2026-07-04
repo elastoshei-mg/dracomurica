@@ -1,9 +1,7 @@
 ---
 title: Fey
 tags: [fey, magia, folklor, mity, byty-pozaplanarne, archiwum]
-aliases: ["Fey", Feye, Plan Snów, Lud Czarów]
-aliases: ["Fey", "Fey"]
-aliases: ["Fey", "Fey"]
+aliases: [Feye, Plan Snów, Lud Czarów]
 ---
 
 # Fey
