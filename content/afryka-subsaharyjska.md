@@ -1,9 +1,7 @@
 ---
 title: Afryka Subsaharyjska
 tags: [afryka, krolestwa, handel, niewolnictwo, islam, magia, spoleczenstwo, historia]
-aliases: ["Afryka Subsaharyjska", Afryka Subsaharyjska (1802), Sub-Saharan Africa, Afryka, Czarna Afryka, Africa]
-aliases: ["Afryka Subsaharyjska", "Afryka Subsaharyjska"]
-aliases: ["Afryka Subsaharyjska", "Afryka Subsaharyjska"]
+aliases: [Afryka Subsaharyjska (1802), Sub-Saharan Africa, Afryka, Czarna Afryka, Africa]
 ---
 
 # Afryka Subsaharyjska

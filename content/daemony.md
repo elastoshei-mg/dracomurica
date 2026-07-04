@@ -1,9 +1,7 @@
 ---
 title: Daemony
 tags: [magia, byty-pozaplanarne, inkwizycja, demonologia]
-aliases: ["Daemony", Istoty z Zewnątrz, Fałszywe anioły, Demony, Byty spoza planu]
-aliases: ["Daemony", "Daemony"]
-aliases: ["Daemony", "Daemony"]
+aliases: [Istoty z Zewnątrz, Fałszywe anioły, Demony, Byty spoza planu]
 ---
 
 # Daemony
