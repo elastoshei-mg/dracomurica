@@ -6,16 +6,13 @@ aliases: [Strona główna, Główna]
 
 # Rok 1802
 
+![](./images/main_img.png)
+
 Napoleon Bonaparte właśnie podpisał pokój z Wielką Brytanią. Thomas Jefferson siedzi w nowo wybudowanym Białym Domu i patrzy na zachód. Pomiędzy nimi leży [[Terytorium Luizjany]] – obszar trzy razy większy od Francji, który formalnie zmienił właściciela dwa lata temu i od tej chwili nie daje spokoju nikomu.
 
 To historia, jaką znamy, z jedną różnicą: magia jest tu prawdziwa, choć rzadka i ukrywana. Szczera wiara potrafi sprowadzić [[Cudotwórcy|Cud]], we krwi panujących rodów płynie dziedziczna [[Sorcery|magia]], a za Missisipi żyją [[Smoki|smoki]], których krew jest najcenniejszym surowcem [[Alchemia|alchemicznym]] świata. Mimo to ceny zboża, traktaty pokojowe i wynik większości bitew biegną torem znanym z podręczników, bo magia prawie nigdy nie skaluje się do poziomu armii. Świat skręca dopiero w wybranych punktach, a gdzie i dlaczego, pilnują [[Punkty rozbieżności]].
 
 To jest ten moment. Zanim cokolwiek zostanie przesądzone.
-
-![](images/main_img.png)
-
-![](images/main_img2.png)
-
 
 ---
 
