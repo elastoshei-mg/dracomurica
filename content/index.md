@@ -12,7 +12,7 @@ To historia, jaką znamy, z jedną różnicą: magia jest tu prawdziwa, choć rz
 
 To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 
-[](images/main_img.png)
+![](images/main_img.png)
 
 
 ---
