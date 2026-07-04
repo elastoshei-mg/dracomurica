@@ -10,6 +10,8 @@ W 1802 roku wyspa, którą Francja zwie Saint-Domingue, jest najważniejszym pol
 
 Bez Haiti nie ma sprzedaży [[Terytorium Luizjany|Luizjany]]. Bez niej nie ma ekspansji [[Stany Zjednoczone|Stanów]] na zachód w tym kształcie. Haiti jest zawiasem, na którym obraca się kontynent.
 
+Cztery fazy dzielą tę wojnę. Lata 1791–1802 to walka o zniesienie niewolnictwa i o autonomię pod Toussaintem, jeszcze pod formalną flagą Francji. Luty–listopad 1802 to wojna z ekspedycją Leclerca. Od śmierci Leclerca w listopadzie 1802 dowództwo przejmuje Rochambeau, a walka toczy się już wprost o niepodległość. Pierwszego stycznia 1804 roku Dessalines ją ogłasza.
+
 ---
 
 ## La Perle des Antilles

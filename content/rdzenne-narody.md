@@ -6,7 +6,7 @@ aliases: [Indianie, Native Americans, Ludy rdzenne, Dwudusze, Pierwsze Narody, L
 
 # Rdzenne narody Ameryki Północnej
 
-Przed europejskim kontaktem ziemie na wschód od Gór Skalistych zamieszkiwało od pięciu do dziesięciu milionów ludzi w setkach odrębnych narodów, z własnymi językami, prawem i kosmologią sięgającą tysięcy lat. W 1802 roku żyje z nich od sześciuset tysięcy do miliona. Resztę zabrały ospa, odra, tyfus i dżuma, które przemiatały kontynent od 1492 roku, wyprzedzając osadników o całe dekady i nie pytając o wojnę ani bezpośredni kontakt.
+Przed europejskim kontaktem ziemie na wschód od Gór Skalistych zamieszkiwało od pięciu do dziesięciu milionów ludzi w setkach odrębnych narodów, z własnymi językami, prawem i kosmologią sięgającą tysięcy lat. W 1802 roku żyje z nich od sześciuset tysięcy do miliona. Resztę zabrały ospa, odra, tyfus i dżuma, które przemiatały kontynent od 1492 roku, wyprzedzając osadników o całe dekady i nie pytając o wojnę ani bezpośredni kontakt. „Naród” oznacza w tym artykule wspólnotę etniczno-kulturową o własnym języku i zwyczajach — liczącą czasem dziesiątki tysięcy głów, czasem kilkaset — a „lud” czy „ludność” jej mieszkańców jako zbiorowość liczebną, bez tego politycznego ciężaru.
 
 Rok 1802 dzieli ten świat na dwoje. Na wschód od Appalachów większość narodów jest już zepchnięta w szczeliny między stanami albo na kurczące się terytoria traktatowe. Na zachód od Missisipi leżą wciąż w pełni suwerenne światy, o których Waszyngton wie niewiele — [[Terytorium Luizjany]] należy na papierze do Francji od dwóch lat, a w rzeczywistości do Osagów, Paunisów, Komanczów i dziesiątek narodów, które z Paryżem nie podpisały niczego.
 

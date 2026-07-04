@@ -6,7 +6,7 @@ aliases: [Rosja (1802), Russia, Imperium Rosyjskie, Carstwo Rosji, Царска�
 
 # Rosja
 
-Imperium Rosyjskie jest największym państwem świata — szesnaście milionów kilometrów kwadratowych od Finlandii po Alaskę, od Arktyki po Kaukaz. Czterdzieści do czterdziestu czterech milionów poddanych, armia trzystu tysięcy ludzi ze służbą na ćwierć wieku, dwór mówiący po francusku i chłopi żyjący jak przed sześciuset laty.
+Imperium Rosyjskie jest największym państwem świata — szesnaście milionów kilometrów kwadratowych od Finlandii po Alaskę, od Arktyki po Kaukaz. Trzydzieści pięć do czterdziestu czterech milionów poddanych, zależnie od tego, czy liczyć tylko rdzeń imperium, czy wszystkie świeżo przyłączone ziemie łącznie z Kaukazem; armia trzystu tysięcy ludzi ze służbą na ćwierć wieku, dwór mówiący po francusku i chłopi żyjący jak przed sześciuset laty.
 
 Aleksander I ma dwadzieścia pięć lat. Objął tron w marcu 1801 roku, trzy godziny po tym, jak gwardyjscy oficerowie udusili jego ojca Pawła I w Zamku Michajłowskim. Aleksander wiedział o spisku; do końca życia twierdził, że nie wiedział, iż ojca zabiją, a nie tylko zmuszą do abdykacji.
 
@@ -26,7 +26,7 @@ Sam Aleksander robi na każdym rozmówcy wrażenie jedynego człowieka, który g
 > **Imperium Rosyjskie (1802)**
 > **Car:** Aleksander I, lat 25 (ur. 1777); panuje od marca 1801
 > **Terytorium:** ~16 mln km² — od Finlandii po Alaskę
-> **Populacja:** ~40–44 mln
+> **Populacja:** ~35–44 mln (zależnie od metodologii liczenia)
 > **Stolica:** Sankt Petersburg (~250 000)
 > **Język dworu:** francuski; ludu — rosyjski i dziesiątki innych
 > **Religia:** prawosławie pod Świętym Synodem

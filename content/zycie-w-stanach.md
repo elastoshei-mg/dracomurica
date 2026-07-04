@@ -97,7 +97,7 @@ Pieniądz był kłopotliwy: dolara wprowadzono w 1792 roku, lecz monety były rz
 > Robotnik niewykwalifikowany: 0,50–0,75 / dzień; cieśla: ~1,25; marynarz: 10–12 / miesiąc
 > Solona wieprzowina: 3–4 centy/funt; mąka pszenna: 4–6 / baryłka; kukurydza: 40–50 centów/buszel
 > Whiskey kukurydziana: 25–30 centów/galon; kawa: 20–25 centów/funt; herbata: 0,80–1,50 / funt
-> Ziemia publiczna (Ohio): 2 / akr; farma w Pensylwanii: 15–20 / akr
+> Ziemia publiczna (Ohio, wg ustawy z 1800 roku): 2 / akr, działki od 320 akrów na kredyt; farma w Pensylwanii: 15–20 / akr
 > Koń roboczy: 50–80; krowa: 15–25; muszkiet: 8–20
 > Zniewolony mężczyzna: 350–500; zniewolony rzemieślnik: 600–800
 

@@ -32,6 +32,8 @@ Wszystko, co odróżnia ten świat od naszego, wynika z jednej reguły: magia je
 
 Liczy się wyjątek. Dynastia panująca nad ludzkimi nastrojami, jeden mistrz miecza tnący szereg na odległość, jeden rytuał sprowadzający armię umarłych — to są dźwignie, na których historia się wygina. Pojedyncza taka jednostka bywała decydująca; tysiąc słabych adeptów nie znaczy nic wobec tysiąca muszkietów.
 
+Jedyny prawdziwy wyłom w tej regule leży na [[Haiti]]. Sorcery i europejskie czarostwo pozostają tam, gdzie były — jeden adept, jeden trik — ale afrykańska magia krwi działa inną mechaniką: zbiorowy rytuał wiąże naraz tłum feyów i podnosi armię zmarłych jednym aktem, bez mnożenia adeptów jeden do jednego z żołnierzem. To dlatego wiedźmy Voodoo z Bois Caïman złamały ekspedycję Leclerca, mimo że ogólna zasada tego świata magię armijną wyklucza — wyjątek jest ograniczony do jednego miejsca i jednej tradycji, nie sygnałem, że reguła słabnie gdzie indziej.
+
 Adeptów jest mało i tego nie należy mylić z konwencją innych settingów. W przeciętnej wsi nie ma ani jednego. W mieście wielkości Lyonu silny czarodziej to jeden, najwyżej kilku, i zwykle pracują dla kogoś bogatego. Większość szlachty włada co najwyżej salonową sztuczką do podgrzania herbaty. Spotkanie prawdziwie potężnego maga jest wydarzeniem na całe życie i tematem opowieści przekazywanej wnukom.
 
 Początek XIX wieku dokłada drugie ostrze. [[Rewolucja Przemysłowa]] i broń palna dorównały bezpośredniej magii bojowej, a często ją przebiły. Muszkiet można produkować tysiącami; adeptów nie. Skala, dotąd korzystna dla magii w starciu z dzidą i łukiem, obróciła się przeciw niej.
@@ -502,8 +504,8 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Smoki]] | TAK |
 | [[Krucjaty]] | TAK |
 | [[Voodoo]] | TAK |
-| [[Bois Caïman]] | BRAK |
-| [[Burbonowie]] | BRAK |
+| [[Bois Caïman]] | TAK |
+| [[Burbonowie]] | TAK |
 | [[Ameryka Południowa]] | TAK |
 | [[Amerykańska Konstytucja]] | TAK |
 
