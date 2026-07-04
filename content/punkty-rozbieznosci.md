@@ -495,9 +495,9 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Gildie Śmierci]] | TAK |
 | [[Magiczne przedmioty]] | BRAK |
 | [[Alchemia]] | TAK |
-| [[Feng shui]] | BRAK |
+| [[Feng shui]] | TAK |
 | [[Sztuki walki]] | TAK |
-| [[Buddyzm]] | BRAK |
+| [[Buddyzm]] | TAK |
 | [[Daemony]] | TAK |
 | [[Żywiołaki]] | TAK |
 | [[Fey]] | TAK |
