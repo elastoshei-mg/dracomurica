@@ -16,6 +16,14 @@ To jest ten moment. Zanim cokolwiek zostanie przesądzone.
 
 [](images/main_img2.png)
 
+[](main_img.png)
+
+[](main_img2.png)
+
+[](content/images/main_img.png)
+
+[](content/images/main_img2.png)
+
 ---
 
 ## Nawigacja
