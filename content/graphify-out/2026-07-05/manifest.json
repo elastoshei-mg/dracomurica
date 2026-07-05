@@ -1,0 +1,277 @@
+{
+  "afryka-subsaharyjska.md": {
+    "mtime": 1783163674.194,
+    "ast_hash": "97cb2d2a72fe1efc053dbe45bbe51173",
+    "semantic_hash": "97cb2d2a72fe1efc053dbe45bbe51173"
+  },
+  "alchemia.md": {
+    "mtime": 1783163674.201,
+    "ast_hash": "5cd9f3b836af20365121ae40709ad235",
+    "semantic_hash": "5cd9f3b836af20365121ae40709ad235"
+  },
+  "ameryka-poludniowa.md": {
+    "mtime": 1783163674.21,
+    "ast_hash": "a442e8ff5f4a28e45dd0772fdd7a082f",
+    "semantic_hash": "a442e8ff5f4a28e45dd0772fdd7a082f"
+  },
+  "amerykanska-konstytucja.md": {
+    "mtime": 1783163674.219,
+    "ast_hash": "94e26be95a5899e7248bafc193bdb84e",
+    "semantic_hash": "94e26be95a5899e7248bafc193bdb84e"
+  },
+  "bois-caiman.md": {
+    "mtime": 1783163674.229,
+    "ast_hash": "8ea819726c081369fa0c510531d0a611",
+    "semantic_hash": "8ea819726c081369fa0c510531d0a611"
+  },
+  "buddyzm.md": {
+    "mtime": 1783206506.976,
+    "ast_hash": "0a2459adaf1b2cbb4d49d4215f459db5",
+    "semantic_hash": "0a2459adaf1b2cbb4d49d4215f459db5"
+  },
+  "burbonowie.md": {
+    "mtime": 1783163674.236,
+    "ast_hash": "756c603e7142b46dad967fa6f21c0d70",
+    "semantic_hash": "756c603e7142b46dad967fa6f21c0d70"
+  },
+  "chiny-qing.md": {
+    "mtime": 1783163674.236,
+    "ast_hash": "68e10422ee4f2caf5f4da1466e3936cb",
+    "semantic_hash": "68e10422ee4f2caf5f4da1466e3936cb"
+  },
+  "chronologia.md": {
+    "mtime": 1783163674.252,
+    "ast_hash": "662edb18aa57d029c097921788336ddf",
+    "semantic_hash": "662edb18aa57d029c097921788336ddf"
+  },
+  "cudotworcy.md": {
+    "mtime": 1783163415.065,
+    "ast_hash": "98fa469af6e4f6bd7ef612867da66b2a",
+    "semantic_hash": "98fa469af6e4f6bd7ef612867da66b2a"
+  },
+  "daemony.md": {
+    "mtime": 1783163674.252,
+    "ast_hash": "3b9b6bdad558969aba5230ec6d25d8b4",
+    "semantic_hash": "3b9b6bdad558969aba5230ec6d25d8b4"
+  },
+  "europejskie-czarostwo.md": {
+    "mtime": 1783163674.261,
+    "ast_hash": "170f8e6a8bd833bec4100a779d4b071e",
+    "semantic_hash": "170f8e6a8bd833bec4100a779d4b071e"
+  },
+  "feng-shui.md": {
+    "mtime": 1783205067.004,
+    "ast_hash": "e5b251a4d60393ab1cef7bc099fc0221",
+    "semantic_hash": "e5b251a4d60393ab1cef7bc099fc0221"
+  },
+  "fey.md": {
+    "mtime": 1783163674.269,
+    "ast_hash": "6259748e771ecd93e664a8d4079280e3",
+    "semantic_hash": "6259748e771ecd93e664a8d4079280e3"
+  },
+  "francja-napoleonska.md": {
+    "mtime": 1783162870.825,
+    "ast_hash": "08fff1706017085df90b4298e1849a38",
+    "semantic_hash": "08fff1706017085df90b4298e1849a38"
+  },
+  "gildie-smierci.md": {
+    "mtime": 1783163674.277,
+    "ast_hash": "6462da000dc59c4140fc665abf436b86",
+    "semantic_hash": "6462da000dc59c4140fc665abf436b86"
+  },
+  "haiti.md": {
+    "mtime": 1783163674.285,
+    "ast_hash": "bd18be5cb1910575fbb5126f6d33bf95",
+    "semantic_hash": "bd18be5cb1910575fbb5126f6d33bf95"
+  },
+  "handel-futrami.md": {
+    "mtime": 1783163674.294,
+    "ast_hash": "217b7ee5dff501939cb1d48c7b21b819",
+    "semantic_hash": "217b7ee5dff501939cb1d48c7b21b819"
+  },
+  "handel-trojkatny.md": {
+    "mtime": 1783163674.303,
+    "ast_hash": "4c38b7eed5d38aca33c059024f41d2e8",
+    "semantic_hash": "4c38b7eed5d38aca33c059024f41d2e8"
+  },
+  "hiszpania.md": {
+    "mtime": 1783163674.303,
+    "ast_hash": "d37fe52d562b9b8341667bd3a4e6e91f",
+    "semantic_hash": "d37fe52d562b9b8341667bd3a4e6e91f"
+  },
+  "imperium-osmanskie.md": {
+    "mtime": 1783163674.312,
+    "ast_hash": "2c41383a4e11b8fc03bf3e1fca1795fc",
+    "semantic_hash": "2c41383a4e11b8fc03bf3e1fca1795fc"
+  },
+  "indie-mogolowie.md": {
+    "mtime": 1783163674.33,
+    "ast_hash": "6267c82d2149bd0393e0b9b20cd44d94",
+    "semantic_hash": "6267c82d2149bd0393e0b9b20cd44d94"
+  },
+  "inkwizycja.md": {
+    "mtime": 1783163674.33,
+    "ast_hash": "d5438f46a595f88912a213381eeb5803",
+    "semantic_hash": "d5438f46a595f88912a213381eeb5803"
+  },
+  "japonia.md": {
+    "mtime": 1783163674.339,
+    "ast_hash": "a0396cb887afe9d52db85de5742d5787",
+    "semantic_hash": "a0396cb887afe9d52db85de5742d5787"
+  },
+  "kanada.md": {
+    "mtime": 1783163674.346,
+    "ast_hash": "af19ae9989bc844ebd8860c6e02f1882",
+    "semantic_hash": "af19ae9989bc844ebd8860c6e02f1882"
+  },
+  "kompanie-wschodnioindyjskie.md": {
+    "mtime": 1783163674.355,
+    "ast_hash": "f2abbb5aea58c6a4f5758157f5957cb2",
+    "semantic_hash": "f2abbb5aea58c6a4f5758157f5957cb2"
+  },
+  "korsarze-barbarii.md": {
+    "mtime": 1783163674.363,
+    "ast_hash": "91f2967df378569ff05bdc39f129c072",
+    "semantic_hash": "91f2967df378569ff05bdc39f129c072"
+  },
+  "krucjaty.md": {
+    "mtime": 1783163674.368,
+    "ast_hash": "7d5682bd344e2dc8ac38364feb0d3c6c",
+    "semantic_hash": "7d5682bd344e2dc8ac38364feb0d3c6c"
+  },
+  "liga-hanzeatycka-dziedzictwo.md": {
+    "mtime": 1783163674.377,
+    "ast_hash": "db4da6247701b3b6734038ec17bd67cc",
+    "semantic_hash": "db4da6247701b3b6734038ec17bd67cc"
+  },
+  "nowa-hiszpania.md": {
+    "mtime": 1783163674.384,
+    "ast_hash": "e6a2b06a5e22c75295cc346876bb7566",
+    "semantic_hash": "e6a2b06a5e22c75295cc346876bb7566"
+  },
+  "nowy-orlean.md": {
+    "mtime": 1783163674.393,
+    "ast_hash": "fa9cf097ec1a6a7e0d91bef07a10853d",
+    "semantic_hash": "fa9cf097ec1a6a7e0d91bef07a10853d"
+  },
+  "oswiecenie.md": {
+    "mtime": 1783163674.393,
+    "ast_hash": "418ab5884168a6a82a25d60f5898736c",
+    "semantic_hash": "418ab5884168a6a82a25d60f5898736c"
+  },
+  "panstwo-koscielne.md": {
+    "mtime": 1783163674.4,
+    "ast_hash": "7cb3b8a8ac16145361727a70e92b8b17",
+    "semantic_hash": "7cb3b8a8ac16145361727a70e92b8b17"
+  },
+  "pokoj-amiens.md": {
+    "mtime": 1783163674.411,
+    "ast_hash": "b8dd492b99a95880393bdbcee9a7e500",
+    "semantic_hash": "b8dd492b99a95880393bdbcee9a7e500"
+  },
+  "portugalia.md": {
+    "mtime": 1783163674.417,
+    "ast_hash": "6c9101e6ad7e7c6df5fed51eed4c32b5",
+    "semantic_hash": "6c9101e6ad7e7c6df5fed51eed4c32b5"
+  },
+  "punkty-rozbieznosci.md": {
+    "mtime": 1783206711.723,
+    "ast_hash": "d1adcc47687b249c79fc69c305938e76",
+    "semantic_hash": "d1adcc47687b249c79fc69c305938e76"
+  },
+  "rdzenne-narody.md": {
+    "mtime": 1783163674.426,
+    "ast_hash": "f6412ef6deaa9b785beed74e56974547",
+    "semantic_hash": "f6412ef6deaa9b785beed74e56974547"
+  },
+  "rewolucja-przemyslowa.md": {
+    "mtime": 1783163674.435,
+    "ast_hash": "e0271a8a0f8af0b0e72de49f83f2d3ec",
+    "semantic_hash": "e0271a8a0f8af0b0e72de49f83f2d3ec"
+  },
+  "rosja.md": {
+    "mtime": 1783163674.444,
+    "ast_hash": "6c7485bf6597b5dd5b84a508843aa5aa",
+    "semantic_hash": "6c7485bf6597b5dd5b84a508843aa5aa"
+  },
+  "smoki.md": {
+    "mtime": 1783163080.583,
+    "ast_hash": "e50da9949d62e8e603f55c34e7ef40e5",
+    "semantic_hash": "e50da9949d62e8e603f55c34e7ef40e5"
+  },
+  "sorcery.md": {
+    "mtime": 1783163674.46,
+    "ast_hash": "d6e94528e8074a7a621a1839234d0974",
+    "semantic_hash": "d6e94528e8074a7a621a1839234d0974"
+  },
+  "stany-zjednoczone.md": {
+    "mtime": 1783163140.012,
+    "ast_hash": "f18ff7eef4d11833a006ced1c012fb8e",
+    "semantic_hash": "f18ff7eef4d11833a006ced1c012fb8e"
+  },
+  "swiete-cesarstwo-rzymskie.md": {
+    "mtime": 1783163143.288,
+    "ast_hash": "bdf59a1b6db9f602e89c80544033f5b2",
+    "semantic_hash": "bdf59a1b6db9f602e89c80544033f5b2"
+  },
+  "sztuki-walki.md": {
+    "mtime": 1783163145.491,
+    "ast_hash": "e7a70f104b7ca931179d4e99587348af",
+    "semantic_hash": "e7a70f104b7ca931179d4e99587348af"
+  },
+  "terytorium-luizjany.md": {
+    "mtime": 1783163148.19,
+    "ast_hash": "9ae07aba4e1a41ad6205a8fbebc04274",
+    "semantic_hash": "9ae07aba4e1a41ad6205a8fbebc04274"
+  },
+  "index.md": {
+    "mtime": 1783165912.759,
+    "ast_hash": "61649156444131bc90e12dd45306a507",
+    "semantic_hash": "61649156444131bc90e12dd45306a507"
+  },
+  "slownik-terminow.md": {
+    "mtime": 1783163674.451,
+    "ast_hash": "c800d73dc992f031b80f2d3883c3b875",
+    "semantic_hash": "c800d73dc992f031b80f2d3883c3b875"
+  },
+  "toussaint-louverture.md": {
+    "mtime": 1783163159.643,
+    "ast_hash": "871512323d785ef17a662f7eec9cdfe1",
+    "semantic_hash": "871512323d785ef17a662f7eec9cdfe1"
+  },
+  "traktat-greenville.md": {
+    "mtime": 1783163157.608,
+    "ast_hash": "a22a43e5d9ca9bbc26817934c702396c",
+    "semantic_hash": "a22a43e5d9ca9bbc26817934c702396c"
+  },
+  "voodoo.md": {
+    "mtime": 1783163117.589,
+    "ast_hash": "514a6432b654c610fd5883ec883287d5",
+    "semantic_hash": "514a6432b654c610fd5883ec883287d5"
+  },
+  "wielka-brytania.md": {
+    "mtime": 1783163120.108,
+    "ast_hash": "7ff4e79759f3d578a3526ebe508db393",
+    "semantic_hash": "7ff4e79759f3d578a3526ebe508db393"
+  },
+  "wolnomurarstwo.md": {
+    "mtime": 1783205354.0,
+    "ast_hash": "51a68bd0a1917e8e831d892b832d7cf9",
+    "semantic_hash": "51a68bd0a1917e8e831d892b832d7cf9"
+  },
+  "zycie-w-stanach.md": {
+    "mtime": 1783163105.198,
+    "ast_hash": "1ed89d889c6aa799463231362181bf0b",
+    "semantic_hash": "1ed89d889c6aa799463231362181bf0b"
+  },
+  "zywiolaki.md": {
+    "mtime": 1783163108.317,
+    "ast_hash": "24740e35fa3c90aec8519a58d8b3b00c",
+    "semantic_hash": "24740e35fa3c90aec8519a58d8b3b00c"
+  },
+  "images/hero-image.jpg": {
+    "mtime": 1783164372.964,
+    "ast_hash": "432fed6e731833e205bc6a6099320298",
+    "semantic_hash": "432fed6e731833e205bc6a6099320298"
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "communities": {
+    "0": [
+      "alchemia_concept",
+      "cudotworcy_concept",
+      "images_hero_image",
+      "index_rok_1802",
+      "punkty_rozbieznosci_concept",
+      "rewolucja_przemyslowa_concept",
+      "smoki_concept",
+      "sorcery_concept",
+      "terytorium_luizjany_concept",
+      "wielka_brytania_uk"
+    ],
+    "1": [
+      "cudotworcy_cudotworcy",
+      "cudotworcy_divine_favor",
+      "daemony_daemony",
+      "feng_shui_feng_shui",
+      "feng_shui_miara_salomonowa",
+      "fey_fey",
+      "fey_regula_zasiania",
+      "francja_napoleonska_napoleon",
+      "haiti_toussaint_louverture"
+    ],
+    "2": [
+      "europejskie_czarostwo_czarostwo",
+      "europejskie_czarostwo_magery",
+      "francja_napoleonska_legion_magow",
+      "gildie_smierci_fala",
+      "gildie_smierci_gildie_smierci",
+      "handel_futrami_handel_futrami",
+      "hiszpania_hiszpania",
+      "hiszpania_inkwizycja"
+    ],
+    "3": [
+      "daemony_concept",
+      "fey_concept",
+      "haiti_concept",
+      "toussaint_louverture_bio",
+      "voodoo_magic",
+      "wolnomurarstwo_masonry",
+      "zywiolaki_elementals"
+    ],
+    "4": [
+      "afryka_subsaharyjska_afryka_subsaharyjska",
+      "afryka_subsaharyjska_olow",
+      "afryka_subsaharyjska_voodoo",
+      "bois_caiman_brama",
+      "chronologia_gildie_smierci"
+    ],
+    "5": [
+      "alchemia_alchemia",
+      "alchemia_czerwone_opium",
+      "alchemia_smocza_krew",
+      "burbonowie_burbonowie"
+    ],
+    "6": [
+      "slownik_terminow_glossary",
+      "smocza_krew_concept",
+      "smoczy_magowie_concept",
+      "traktat_greenville_doc"
+    ],
+    "7": [
+      "haiti_haiti",
+      "haiti_voodoo",
+      "handel_trojkatny_handel_trojkatny"
+    ],
+    "8": [
+      "nowy_orlean_nowy_orlean",
+      "nowy_orlean_smocza_krew",
+      "nowy_orlean_voodoo"
+    ],
+    "9": [
+      "nowy_orlean_pere_antoine",
+      "panstwo_koscielne_panstwo_koscielne",
+      "pokoj_amiens_pokoj_amiens"
+    ],
+    "10": [
+      "oswiecenie_oswiecenie",
+      "punkty_rozbieznosci_punkty_rozbieznosci",
+      "punkty_rozbieznosci_smoczy_magowie"
+    ],
+    "11": [
+      "stany_zjednoczone_thomas_jefferson",
+      "terytorium_luizjany_smocza_granica",
+      "terytorium_luizjany_zakup_luizjany"
+    ],
+    "12": [
+      "buddyzm_qi",
+      "chiny_qing_chiny_qing"
+    ],
+    "13": [
+      "panstwo_koscielne_ercole_consalvi",
+      "panstwo_koscielne_pius_vii"
+    ],
+    "14": [
+      "portugalia_portugalia",
+      "portugalia_sebastian_fey"
+    ],
+    "15": [
+      "rdzenne_narody_dwudusze",
+      "rdzenne_narody_rdzenne_narody"
+    ],
+    "16": [
+      "rewolucja_przemyslowa_boulton_watt",
+      "rewolucja_przemyslowa_james_watt"
+    ],
+    "17": [
+      "rewolucja_przemyslowa_humphry_davy",
+      "smoki_smocza_krew"
+    ],
+    "18": [
+      "rewolucja_przemyslowa_industrial_revolution",
+      "rewolucja_przemyslowa_richard_trevithick"
+    ],
+    "19": [
+      "rosja_aleksander_i",
+      "rosja_swiety_synod"
+    ],
+    "20": [
+      "sorcery_boskie_prawo_krolow",
+      "sorcery_prekursor"
+    ],
+    "21": [
+      "ameryka_poludniowa_charau_ka"
+    ],
+    "22": [
+      "ameryka_poludniowa_ludy_o_zatrutej_krwi"
+    ],
+    "23": [
+      "amerykanska_konstytucja_konstytucja"
+    ],
+    "24": [
+      "daemony_falszywe_anioly"
+    ],
+    "25": [
+      "imperium_osmanskie_ali_pasza"
+    ],
+    "26": [
+      "imperium_osmanskie_athos"
+    ],
+    "27": [
+      "imperium_osmanskie_bektaszyci"
+    ],
+    "28": [
+      "imperium_osmanskie_imperium_osmanskie"
+    ],
+    "29": [
+      "imperium_osmanskie_janczarzy"
+    ],
+    "30": [
+      "imperium_osmanskie_muhammad_ali"
+    ],
+    "31": [
+      "imperium_osmanskie_nizam_i_cedid"
+    ],
+    "32": [
+      "imperium_osmanskie_selim_iii"
+    ],
+    "33": [
+      "imperium_osmanskie_wahabici"
+    ],
+    "34": [
+      "indie_mogolowie_marathowie"
+    ],
+    "35": [
+      "indie_mogolowie_ranjit_singh"
+    ],
+    "36": [
+      "indie_mogolowie_shah_alam_ii"
+    ],
+    "37": [
+      "inkwizycja_inkwizycja_krolewska"
+    ],
+    "38": [
+      "inkwizycja_sekcja_blekitnej_krwi"
+    ],
+    "39": [
+      "japonia_rangaku"
+    ],
+    "40": [
+      "japonia_sakoku"
+    ],
+    "41": [
+      "japonia_tokugawa_ienari"
+    ],
+    "42": [
+      "kanada_kanada_dolna"
+    ],
+    "43": [
+      "kanada_voyageurzy"
+    ],
+    "44": [
+      "kompanie_wschodnioindyjskie_czerwone_opium"
+    ],
+    "45": [
+      "kompanie_wschodnioindyjskie_eic"
+    ],
+    "46": [
+      "korsarze_barbarii_marabuci"
+    ],
+    "47": [
+      "krucjaty_zakony_rycerskie"
+    ],
+    "48": [
+      "liga_hanzeatycka_dziedzictwo_hamburg"
+    ],
+    "49": [
+      "nowa_hiszpania_komanczeria"
+    ],
+    "50": [
+      "nowa_hiszpania_provincias_internas"
+    ],
+    "51": [
+      "nowy_orlean_therese_farjon"
+    ],
+    "52": [
+      "rewolucja_przemyslowa_abraham_darby"
+    ],
+    "53": [
+      "rewolucja_przemyslowa_manchester"
+    ],
+    "54": [
+      "rewolucja_przemyslowa_richard_arkwright"
+    ],
+    "55": [
+      "rosja_kolduny"
+    ],
+    "56": [
+      "rosja_mir"
+    ],
+    "57": [
+      "stany_zjednoczone_drugie_wielkie_przebudzenie"
+    ],
+    "58": [
+      "swiete_cesarstwo_rzymskie_franciszek_ii"
+    ],
+    "59": [
+      "swiete_cesarstwo_rzymskie_fryderyk_wilhelm_iii"
+    ],
+    "60": [
+      "swiete_cesarstwo_rzymskie_recess_deputacyjny"
+    ],
+    "61": [
+      "sztuki_walki_trained_by_a_master"
+    ],
+    "62": [
+      "zycie_w_stanach_daily"
+    ]
+  },
+  "cohesion": {
+    "0": 0.2222222222222222,
+    "1": 0.2222222222222222,
+    "2": 0.25,
+    "3": 0.38095238095238093,
+    "4": 0.4,
+    "5": 0.5,
+    "6": 0.5,
+    "7": 0.6666666666666666,
+    "8": 0.6666666666666666,
+    "9": 0.6666666666666666,
+    "10": 0.6666666666666666,
+    "11": 0.6666666666666666,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0,
+    "47": 1.0,
+    "48": 1.0,
+    "49": 1.0,
+    "50": 1.0,
+    "51": 1.0,
+    "52": 1.0,
+    "53": 1.0,
+    "54": 1.0,
+    "55": 1.0,
+    "56": 1.0,
+    "57": 1.0,
+    "58": 1.0,
+    "59": 1.0,
+    "60": 1.0,
+    "61": 1.0,
+    "62": 1.0
+  },
+  "gods": [
+    {
+      "id": "index_rok_1802",
+      "label": "Rok 1802",
+      "degree": 9
+    },
+    {
+      "id": "europejskie_czarostwo_czarostwo",
+      "label": "Europejskie czarostwo",
+      "degree": 4
+    },
+    {
+      "id": "voodoo_magic",
+      "label": "Voodoo",
+      "degree": 4
+    },
+    {
+      "id": "afryka_subsaharyjska_voodoo",
+      "label": "Voodoo (Afryka\u0144skie)",
+      "degree": 3
+    },
+    {
+      "id": "alchemia_smocza_krew",
+      "label": "Smocza Krew",
+      "degree": 3
+    },
+    {
+      "id": "cudotworcy_cudotworcy",
+      "label": "Cudotw\u00f3rcy",
+      "degree": 3
+    },
+    {
+      "id": "daemony_daemony",
+      "label": "Daemony",
+      "degree": 3
+    },
+    {
+      "id": "fey_fey",
+      "label": "Fey",
+      "degree": 3
+    },
+    {
+      "id": "gildie_smierci_gildie_smierci",
+      "label": "Gildie \u015amierci",
+      "degree": 3
+    },
+    {
+      "id": "smoki_concept",
+      "label": "Smoki",
+      "degree": 3
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Gildie \u015amierci",
+      "target": "Brama w Bois Ca\u00efman",
+      "source_files": [
+        "chronologia.md",
+        "bois-caiman.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "Battle on the river with dragons and indigenous people",
+      "target": "Rok 1802",
+      "source_files": [
+        "images/hero-image.jpg",
+        "index.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "crosses file types (doc \u2194 image); connects across different repos/directories; peripheral node `Battle on the river with dragons and indigenous people` unexpectedly reaches hub `Rok 1802`"
+    },
+    {
+      "source": "Battle on the river with dragons and indigenous people",
+      "target": "Smoki",
+      "source_files": [
+        "images/hero-image.jpg",
+        "index.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc \u2194 image); connects across different repos/directories"
+    },
+    {
+      "source": "Napoleon Bonaparte",
+      "target": "Europejskie czarostwo",
+      "source_files": [
+        "francja-napoleonska.md",
+        "europejskie-czarostwo.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "implements",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "Feng shui",
+      "target": "Fey",
+      "source_files": [
+        "feng-shui.md",
+        "fey.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "shares_data_with",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
