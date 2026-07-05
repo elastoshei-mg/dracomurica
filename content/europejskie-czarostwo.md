@@ -43,7 +43,7 @@ Przykłady zaklęć startowych w tabeli niżej są orientacyjne — pokazują lo
 | Władanie ciałem | Cudze ciało od środka | Swędzenie, Skurcz | Pozornie błahe efekty otwierające ścieżkę do paraliżu i osłabienia |
 | Komunikacja i empatia | Emocje, myśli, mowa na odległość | Wyczuj Emocje, Wyczuj Wrogów | Fundament czytania myśli; ulubione kolegium dworskich doradców |
 | Ziemia | Skała, grunt, metal w ziemi | Wyczuj Ziemię, Kształtuj Ziemię | Powolne, lecz solidne — ulubione przez czarowników osiadłych przy jednym miejscu |
-| Zaklinanie przedmiotów | Zamykanie efektu w przedmiocie | — (wymaga już opanowanego zaklęcia źródłowego) | Kolegium szczytowe; pierwszym krokiem jest opanowanie efektu, który adept chce zamknąć w przedmiocie, nie samo Zaklinanie |
+| [[Magiczne przedmioty|Zaklinanie przedmiotów]] | Zamykanie efektu w przedmiocie | — (wymaga już opanowanego zaklęcia źródłowego) | Kolegium szczytowe; pierwszym krokiem jest opanowanie efektu, który adept chce zamknąć w przedmiocie, nie samo Zaklinanie |
 | Ogień | Płomień, żar, spalanie | Roznieć Ogień, Zagaś Ogień | Widowiskowe i ryzykowne — pierwsze podejrzenie sąsiadów pada zwykle na czarownika ognia |
 | Pożywienie | Jedzenie, jego jakość i trwałość | Wyczuj Pożywienie, Sprawdź Pożywienie | Niepozorne, lecz cenione przy dworze — wykrywanie trucizny w pucharze to żywa renta |
 | Wrota | Przejścia między miejscami i planami | — (łańcuch wymagań z wielu kolegiów) | Najwyższe i najrzadsze kolegium; praktycznym pierwszym krokiem bywa Apportacja z Ruchu |
@@ -124,5 +124,5 @@ Geografia tej ukrytej tradycji nie jest równomierna. [[Hiszpania]] ściga ją n
 
 ---
 
-*Powiązane artykuły: [[Sorcery]], [[Cudotwórcy]], [[Alchemia]], [[Gildie Śmierci]], [[Daemony]], [[Fey]], [[Toussaint Louverture]], [[Krucjaty]], [[Hiszpania]], [[Punkty rozbieżności]], [[Chronologia]], [[Słownik terminów]].*
+*Powiązane artykuły: [[Sorcery]], [[Cudotwórcy]], [[Alchemia]], [[Gildie Śmierci]], [[Daemony]], [[Fey]], [[Toussaint Louverture]], [[Krucjaty]], [[Hiszpania]], [[Magiczne przedmioty]], [[Punkty rozbieżności]], [[Chronologia]], [[Słownik terminów]].*
 

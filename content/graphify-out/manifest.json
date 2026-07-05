@@ -273,5 +273,10 @@
     "mtime": 1783164372.964,
     "ast_hash": "432fed6e731833e205bc6a6099320298",
     "semantic_hash": "432fed6e731833e205bc6a6099320298"
+  },
+  "magiczne-przedmioty.md": {
+    "mtime": 1783285578.653147,
+    "ast_hash": "c1f628af6f8cecc037706b96d83d4246",
+    "semantic_hash": "c1f628af6f8cecc037706b96d83d4246"
   }
 }

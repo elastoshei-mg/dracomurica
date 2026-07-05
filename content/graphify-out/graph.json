@@ -4,6 +4,46 @@
   "graph": {
     "hyperedges": [
       {
+        "id": "magical_item_traditions",
+        "label": "Magical Item Traditions",
+        "nodes": [
+          "magiczne_przedmioty_zaklinanie_przedmiotow",
+          "magiczne_przedmioty_wanga",
+          "magiczne_przedmioty_baraka",
+          "magiczne_przedmioty_relikwie",
+          "daemony_targowe"
+        ],
+        "relation": "form",
+        "confidence": "EXTRACTED",
+        "confidence_score": 1.0,
+        "source_file": "magiczne-przedmioty.md"
+      },
+      {
+        "id": "magic_systems_1802",
+        "label": "Magic Systems of 1802",
+        "nodes": [
+          "cudotworcy_cudotworcy",
+          "europejskie_czarostwo_czarostwo",
+          "sorcery_sorcery",
+          "voodoo_voodoo"
+        ],
+        "relation": "participate_in",
+        "confidence": "EXTRACTED",
+        "confidence_score": 1.0
+      },
+      {
+        "id": "anti_magic_mechanics",
+        "label": "Anti-Magic and Suppression",
+        "nodes": [
+          "voodoo_olow",
+          "korsarze_barbarii_baraka",
+          "daemony_targowe"
+        ],
+        "relation": "form",
+        "confidence": "INFERRED",
+        "confidence_score": 0.8
+      },
+      {
         "id": "magic_system_1802",
         "label": "Magic System of 1802",
         "nodes": [
@@ -48,46 +88,6 @@
         "confidence": "EXTRACTED",
         "confidence_score": 0.9,
         "source_file": "traktat-greenville.md"
-      },
-      {
-        "id": "extraplanar_entities",
-        "label": "Extraplanar Entities",
-        "nodes": [
-          "daemony_daemony",
-          "fey_fey",
-          "daemony_falszywe_anioly"
-        ],
-        "relation": "form",
-        "confidence": "EXTRACTED",
-        "confidence_score": 0.9,
-        "source_file": "daemony.md"
-      },
-      {
-        "id": "magic_systems_1802",
-        "label": "Magic Systems of 1802",
-        "nodes": [
-          "cudotworcy_cudotworcy",
-          "europejskie_czarostwo_czarostwo",
-          "haiti_voodoo",
-          "feng_shui_feng_shui"
-        ],
-        "relation": "participate_in",
-        "confidence": "EXTRACTED",
-        "confidence_score": 1.0,
-        "source_file": "europejskie-czarostwo.md"
-      },
-      {
-        "id": "historical_trauma_magic",
-        "label": "Historical Magic Suppression",
-        "nodes": [
-          "gildie_smierci_gildie_smierci",
-          "hiszpania_inkwizycja",
-          "europejskie_czarostwo_czarostwo"
-        ],
-        "relation": "participate_in",
-        "confidence": "EXTRACTED",
-        "confidence_score": 0.95,
-        "source_file": "gildie-smierci.md"
       },
       {
         "id": "religious_miracles_network",
@@ -246,7 +246,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 3,
       "norm_label": "afryka subsaharyjska",
       "community_name": "African Voodoo and Alchemy",
       "id": "afryka_subsaharyjska_afryka_subsaharyjska"
@@ -260,7 +260,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 3,
       "norm_label": "voodoo (afrykanskie)",
       "community_name": "African Voodoo and Alchemy",
       "id": "afryka_subsaharyjska_voodoo"
@@ -274,7 +274,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 3,
       "norm_label": "o\u0142ow (antymagia)",
       "community_name": "African Voodoo and Alchemy",
       "id": "afryka_subsaharyjska_olow"
@@ -330,7 +330,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 21,
+      "community": 26,
       "norm_label": "charau-ka",
       "community_name": "Charau-Ka Creatures",
       "id": "ameryka_poludniowa_charau_ka"
@@ -344,7 +344,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 22,
+      "community": 27,
       "norm_label": "ludy o zatrutej krwi",
       "community_name": "Poison-Blooded Peoples",
       "id": "ameryka_poludniowa_ludy_o_zatrutej_krwi"
@@ -358,7 +358,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 23,
+      "community": 28,
       "norm_label": "konstytucja stanow zjednoczonych",
       "community_name": "United States Constitution",
       "id": "amerykanska_konstytucja_konstytucja"
@@ -372,7 +372,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 3,
       "norm_label": "brama w bois caiman",
       "community_name": "African Voodoo and Alchemy",
       "id": "bois_caiman_brama"
@@ -386,7 +386,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 16,
       "norm_label": "qi (energia zyciowa)",
       "community_name": "Qing Dynasty Qi",
       "id": "buddyzm_qi"
@@ -414,7 +414,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 12,
+      "community": 16,
       "norm_label": "chiny dynastii qing",
       "community_name": "Qing Dynasty Qi",
       "id": "chiny_qing_chiny_qing"
@@ -428,94 +428,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 3,
       "norm_label": "gildie smierci",
       "community_name": "African Voodoo and Alchemy",
       "id": "chronologia_gildie_smierci"
-    },
-    {
-      "label": "Cudotw\u00f3rcy",
-      "file_type": "document",
-      "source_file": "cudotworcy.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 1,
-      "norm_label": "cudotworcy",
-      "community_name": "Supernatural Napoleonic Era",
-      "id": "cudotworcy_cudotworcy"
-    },
-    {
-      "label": "Divine Favor",
-      "file_type": "concept",
-      "source_file": "cudotworcy.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 1,
-      "norm_label": "divine favor",
-      "community_name": "Supernatural Napoleonic Era",
-      "id": "cudotworcy_divine_favor"
-    },
-    {
-      "label": "Daemony",
-      "file_type": "document",
-      "source_file": "daemony.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 1,
-      "norm_label": "daemony",
-      "community_name": "Supernatural Napoleonic Era",
-      "id": "daemony_daemony"
-    },
-    {
-      "label": "Fa\u0142szywe anio\u0142y",
-      "file_type": "concept",
-      "source_file": "daemony.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 24,
-      "norm_label": "fa\u0142szywe anio\u0142y",
-      "community_name": "False Angel Entities",
-      "id": "daemony_falszywe_anioly"
-    },
-    {
-      "label": "Europejskie czarostwo",
-      "file_type": "document",
-      "source_file": "europejskie-czarostwo.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "europejskie czarostwo",
-      "community_name": "European Magic and Inquisition",
-      "id": "europejskie_czarostwo_czarostwo"
-    },
-    {
-      "label": "Magery",
-      "file_type": "concept",
-      "source_file": "europejskie-czarostwo.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "magery",
-      "community_name": "European Magic and Inquisition",
-      "id": "europejskie_czarostwo_magery"
     },
     {
       "label": "Feng shui",
@@ -526,7 +442,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 8,
       "norm_label": "feng shui",
       "community_name": "Supernatural Napoleonic Era",
       "id": "feng_shui_feng_shui"
@@ -540,7 +456,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 8,
       "norm_label": "miara salomonowa",
       "community_name": "Supernatural Napoleonic Era",
       "id": "feng_shui_miara_salomonowa"
@@ -554,7 +470,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 8,
       "norm_label": "fey",
       "community_name": "Supernatural Napoleonic Era",
       "id": "fey_fey"
@@ -568,7 +484,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 8,
       "norm_label": "regu\u0142a zasiania",
       "community_name": "Supernatural Napoleonic Era",
       "id": "fey_regula_zasiania"
@@ -582,7 +498,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "norm_label": "napoleon bonaparte",
       "community_name": "Supernatural Napoleonic Era",
       "id": "francja_napoleonska_napoleon"
@@ -602,34 +518,6 @@
       "id": "francja_napoleonska_legion_magow"
     },
     {
-      "label": "Gildie \u015amierci",
-      "file_type": "document",
-      "source_file": "gildie-smierci.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "gildie smierci",
-      "community_name": "European Magic and Inquisition",
-      "id": "gildie_smierci_gildie_smierci"
-    },
-    {
-      "label": "Fala (1347-1360)",
-      "file_type": "concept",
-      "source_file": "gildie-smierci.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 2,
-      "norm_label": "fala (1347-1360)",
-      "community_name": "European Magic and Inquisition",
-      "id": "gildie_smierci_fala"
-    },
-    {
       "label": "Haiti",
       "file_type": "document",
       "source_file": "haiti.md",
@@ -638,7 +526,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 10,
       "norm_label": "haiti",
       "community_name": "Haitian Trade and Voodoo",
       "id": "haiti_haiti"
@@ -652,7 +540,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 10,
       "norm_label": "voodoo",
       "community_name": "Haitian Trade and Voodoo",
       "id": "haiti_voodoo"
@@ -680,7 +568,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 11,
       "norm_label": "handel futrami",
       "community_name": "European Magic and Inquisition",
       "id": "handel_futrami_handel_futrami"
@@ -694,7 +582,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 7,
+      "community": 10,
       "norm_label": "handel trojkatny",
       "community_name": "Haitian Trade and Voodoo",
       "id": "handel_trojkatny_handel_trojkatny"
@@ -708,7 +596,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 11,
       "norm_label": "hiszpania",
       "community_name": "European Magic and Inquisition",
       "id": "hiszpania_hiszpania"
@@ -722,7 +610,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 11,
       "norm_label": "inkwizycja",
       "community_name": "European Magic and Inquisition",
       "id": "hiszpania_inkwizycja"
@@ -731,7 +619,7 @@
       "label": "Imperium Osma\u0144skie",
       "file_type": "document",
       "source_file": "imperium-osmanskie.md",
-      "community": 28,
+      "community": 32,
       "norm_label": "imperium osmanskie",
       "community_name": "Ottoman Empire",
       "id": "imperium_osmanskie_imperium_osmanskie"
@@ -740,7 +628,7 @@
       "label": "Selim III",
       "file_type": "code",
       "source_file": "imperium-osmanskie.md",
-      "community": 32,
+      "community": 36,
       "norm_label": "selim iii",
       "community_name": "Sultan Selim III",
       "id": "imperium_osmanskie_selim_iii"
@@ -749,7 +637,7 @@
       "label": "Nowy Porz\u0105dek (Nizam-\u0131 Cedid)",
       "file_type": "concept",
       "source_file": "imperium-osmanskie.md",
-      "community": 31,
+      "community": 35,
       "norm_label": "nowy porzadek (nizam-\u0131 cedid)",
       "community_name": "Ottoman Military Reform",
       "id": "imperium_osmanskie_nizam_i_cedid"
@@ -758,7 +646,7 @@
       "label": "Janczarzy",
       "file_type": "code",
       "source_file": "imperium-osmanskie.md",
-      "community": 29,
+      "community": 33,
       "norm_label": "janczarzy",
       "community_name": "Janissary Corps",
       "id": "imperium_osmanskie_janczarzy"
@@ -767,7 +655,7 @@
       "label": "Zakon Bektaszyt\u00f3w",
       "file_type": "concept",
       "source_file": "imperium-osmanskie.md",
-      "community": 27,
+      "community": 31,
       "norm_label": "zakon bektaszytow",
       "community_name": "Bektashi Order",
       "id": "imperium_osmanskie_bektaszyci"
@@ -776,7 +664,7 @@
       "label": "G\u00f3ra Athos",
       "file_type": "document",
       "source_file": "imperium-osmanskie.md",
-      "community": 26,
+      "community": 30,
       "norm_label": "gora athos",
       "community_name": "Mount Athos Monasticism",
       "id": "imperium_osmanskie_athos"
@@ -785,7 +673,7 @@
       "label": "Wahabici",
       "file_type": "concept",
       "source_file": "imperium-osmanskie.md",
-      "community": 33,
+      "community": 37,
       "norm_label": "wahabici",
       "community_name": "Wahhabi Movement",
       "id": "imperium_osmanskie_wahabici"
@@ -794,7 +682,7 @@
       "label": "Ali Pasza z Janiny",
       "file_type": "code",
       "source_file": "imperium-osmanskie.md",
-      "community": 25,
+      "community": 29,
       "norm_label": "ali pasza z janiny",
       "community_name": "Ali Pasha of Ioannina",
       "id": "imperium_osmanskie_ali_pasza"
@@ -803,7 +691,7 @@
       "label": "Muhammad Ali",
       "file_type": "code",
       "source_file": "imperium-osmanskie.md",
-      "community": 30,
+      "community": 34,
       "norm_label": "muhammad ali",
       "community_name": "Muhammad Ali of Egypt",
       "id": "imperium_osmanskie_muhammad_ali"
@@ -812,7 +700,7 @@
       "label": "Shah Alam II",
       "file_type": "code",
       "source_file": "indie-mogolowie.md",
-      "community": 36,
+      "community": 40,
       "norm_label": "shah alam ii",
       "community_name": "Mughal Emperor Shah Alam",
       "id": "indie_mogolowie_shah_alam_ii"
@@ -821,7 +709,7 @@
       "label": "Konfederacja Marath\u00f3w",
       "file_type": "code",
       "source_file": "indie-mogolowie.md",
-      "community": 34,
+      "community": 38,
       "norm_label": "konfederacja marathow",
       "community_name": "Maratha Confederacy",
       "id": "indie_mogolowie_marathowie"
@@ -830,7 +718,7 @@
       "label": "Ranjit Singh",
       "file_type": "code",
       "source_file": "indie-mogolowie.md",
-      "community": 35,
+      "community": 39,
       "norm_label": "ranjit singh",
       "community_name": "Sikh Empire Leadership",
       "id": "indie_mogolowie_ranjit_singh"
@@ -839,7 +727,7 @@
       "label": "Inkwizycja Hiszpa\u0144ska",
       "file_type": "code",
       "source_file": "inkwizycja.md",
-      "community": 37,
+      "community": 41,
       "norm_label": "inkwizycja hiszpanska",
       "community_name": "Spanish Inquisition",
       "id": "inkwizycja_inkwizycja_krolewska"
@@ -848,7 +736,7 @@
       "label": "Sekcja B\u0142\u0119kitnej Krwi",
       "file_type": "code",
       "source_file": "inkwizycja.md",
-      "community": 38,
+      "community": 42,
       "norm_label": "sekcja b\u0142ekitnej krwi",
       "community_name": "Blue Blood Section",
       "id": "inkwizycja_sekcja_blekitnej_krwi"
@@ -857,7 +745,7 @@
       "label": "Tokugawa Ienari",
       "file_type": "code",
       "source_file": "japonia.md",
-      "community": 41,
+      "community": 45,
       "norm_label": "tokugawa ienari",
       "community_name": "Shogun Tokugawa Ienari",
       "id": "japonia_tokugawa_ienari"
@@ -866,7 +754,7 @@
       "label": "Sakoku",
       "file_type": "concept",
       "source_file": "japonia.md",
-      "community": 40,
+      "community": 44,
       "norm_label": "sakoku",
       "community_name": "Japanese Isolationism",
       "id": "japonia_sakoku"
@@ -875,7 +763,7 @@
       "label": "Rangaku (Nauki Holenderskie)",
       "file_type": "concept",
       "source_file": "japonia.md",
-      "community": 39,
+      "community": 43,
       "norm_label": "rangaku (nauki holenderskie)",
       "community_name": "Japanese Western Learning",
       "id": "japonia_rangaku"
@@ -884,7 +772,7 @@
       "label": "Kanada Dolna",
       "file_type": "document",
       "source_file": "kanada.md",
-      "community": 42,
+      "community": 46,
       "norm_label": "kanada dolna",
       "community_name": "Lower Canada History",
       "id": "kanada_kanada_dolna"
@@ -893,7 +781,7 @@
       "label": "Voyageurzy",
       "file_type": "concept",
       "source_file": "kanada.md",
-      "community": 43,
+      "community": 47,
       "norm_label": "voyageurzy",
       "community_name": "Canadian Fur Traders",
       "id": "kanada_voyageurzy"
@@ -902,7 +790,7 @@
       "label": "Angielska Kompania Wschodnioindyjska (EIC)",
       "file_type": "code",
       "source_file": "kompanie-wschodnioindyjskie.md",
-      "community": 45,
+      "community": 49,
       "norm_label": "angielska kompania wschodnioindyjska (eic)",
       "community_name": "East India Company",
       "id": "kompanie_wschodnioindyjskie_eic"
@@ -911,25 +799,16 @@
       "label": "Czerwone Opium",
       "file_type": "concept",
       "source_file": "kompanie-wschodnioindyjskie.md",
-      "community": 44,
+      "community": 48,
       "norm_label": "czerwone opium",
       "community_name": "Red Opium Trade",
       "id": "kompanie_wschodnioindyjskie_czerwone_opium"
     },
     {
-      "label": "Marabuci",
-      "file_type": "concept",
-      "source_file": "korsarze-barbarii.md",
-      "community": 46,
-      "norm_label": "marabuci",
-      "community_name": "Marabout Mystics",
-      "id": "korsarze_barbarii_marabuci"
-    },
-    {
       "label": "Zakony Rycerskie",
       "file_type": "concept",
       "source_file": "krucjaty.md",
-      "community": 47,
+      "community": 50,
       "norm_label": "zakony rycerskie",
       "community_name": "Chivalric Orders",
       "id": "krucjaty_zakony_rycerskie"
@@ -938,7 +817,7 @@
       "label": "Hamburg",
       "file_type": "document",
       "source_file": "liga-hanzeatycka-dziedzictwo.md",
-      "community": 48,
+      "community": 51,
       "norm_label": "hamburg",
       "community_name": "City of Hamburg",
       "id": "liga_hanzeatycka_dziedzictwo_hamburg"
@@ -947,7 +826,7 @@
       "label": "Provincias Internas",
       "file_type": "document",
       "source_file": "nowa-hiszpania.md",
-      "community": 50,
+      "community": 57,
       "norm_label": "provincias internas",
       "community_name": "Spanish Internal Provinces",
       "id": "nowa_hiszpania_provincias_internas"
@@ -956,7 +835,7 @@
       "label": "Komanczeria",
       "file_type": "document",
       "source_file": "nowa-hiszpania.md",
-      "community": 49,
+      "community": 56,
       "norm_label": "komanczeria",
       "community_name": "Comancheria Territory",
       "id": "nowa_hiszpania_komanczeria"
@@ -970,7 +849,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 12,
       "norm_label": "nowy orlean",
       "community_name": "New Orleans Occult Trade",
       "id": "nowy_orlean_nowy_orlean"
@@ -984,7 +863,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 12,
       "norm_label": "voodoo w nowym orleanie",
       "community_name": "New Orleans Occult Trade",
       "id": "nowy_orlean_voodoo"
@@ -998,7 +877,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 8,
+      "community": 12,
       "norm_label": "handel smocza krwia",
       "community_name": "New Orleans Occult Trade",
       "id": "nowy_orlean_smocza_krew"
@@ -1012,7 +891,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 13,
       "norm_label": "pere antoine (antonio de sedella)",
       "community_name": "Church and Diplomacy",
       "id": "nowy_orlean_pere_antoine"
@@ -1026,7 +905,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 51,
+      "community": 58,
       "norm_label": "matka therese de st. xavier farjon",
       "community_name": "Ursuline Convent Leadership",
       "id": "nowy_orlean_therese_farjon"
@@ -1040,7 +919,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 14,
       "norm_label": "oswiecenie",
       "community_name": "Enlightenment Dragon Mages",
       "id": "oswiecenie_oswiecenie"
@@ -1054,7 +933,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 13,
       "norm_label": "panstwo koscielne",
       "community_name": "Church and Diplomacy",
       "id": "panstwo_koscielne_panstwo_koscielne"
@@ -1068,7 +947,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 18,
       "norm_label": "pius vii",
       "community_name": "Papal States Leadership",
       "id": "panstwo_koscielne_pius_vii"
@@ -1082,7 +961,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 13,
+      "community": 18,
       "norm_label": "kardyna\u0142 ercole consalvi",
       "community_name": "Papal States Leadership",
       "id": "panstwo_koscielne_ercole_consalvi"
@@ -1096,7 +975,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 13,
       "norm_label": "pokoj amiens",
       "community_name": "Church and Diplomacy",
       "id": "pokoj_amiens_pokoj_amiens"
@@ -1110,7 +989,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 19,
       "norm_label": "portugalia",
       "community_name": "Portuguese Fey Lore",
       "id": "portugalia_portugalia"
@@ -1124,7 +1003,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 14,
+      "community": 19,
       "norm_label": "sebastian i (fey)",
       "community_name": "Portuguese Fey Lore",
       "id": "portugalia_sebastian_fey"
@@ -1138,7 +1017,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 14,
       "norm_label": "punkty rozbieznosci",
       "community_name": "Enlightenment Dragon Mages",
       "id": "punkty_rozbieznosci_punkty_rozbieznosci"
@@ -1152,7 +1031,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 14,
       "norm_label": "smoczy magowie",
       "community_name": "Enlightenment Dragon Mages",
       "id": "punkty_rozbieznosci_smoczy_magowie"
@@ -1166,7 +1045,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 20,
       "norm_label": "rdzenne narody ameryki po\u0142nocnej",
       "community_name": "Indigenous North American Spirituality",
       "id": "rdzenne_narody_rdzenne_narody"
@@ -1180,7 +1059,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 15,
+      "community": 20,
       "norm_label": "dwudusze",
       "community_name": "Indigenous North American Spirituality",
       "id": "rdzenne_narody_dwudusze"
@@ -1194,7 +1073,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 23,
       "norm_label": "industrial revolution",
       "community_name": "Industrial Revolution Engineering",
       "id": "rewolucja_przemyslowa_industrial_revolution"
@@ -1208,7 +1087,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 53,
+      "community": 60,
       "norm_label": "manchester",
       "community_name": "Industrial Manchester",
       "id": "rewolucja_przemyslowa_manchester"
@@ -1222,7 +1101,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 21,
       "norm_label": "james watt",
       "community_name": "Steam Power Pioneers",
       "id": "rewolucja_przemyslowa_james_watt"
@@ -1236,7 +1115,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 16,
+      "community": 21,
       "norm_label": "boulton & watt",
       "community_name": "Steam Power Pioneers",
       "id": "rewolucja_przemyslowa_boulton_watt"
@@ -1250,7 +1129,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 54,
+      "community": 61,
       "norm_label": "richard arkwright",
       "community_name": "Textile Industry Innovation",
       "id": "rewolucja_przemyslowa_richard_arkwright"
@@ -1264,7 +1143,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 52,
+      "community": 59,
       "norm_label": "abraham darby",
       "community_name": "Iron Industry Pioneers",
       "id": "rewolucja_przemyslowa_abraham_darby"
@@ -1278,7 +1157,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 18,
+      "community": 23,
       "norm_label": "richard trevithick",
       "community_name": "Industrial Revolution Engineering",
       "id": "rewolucja_przemyslowa_richard_trevithick"
@@ -1292,7 +1171,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 22,
       "norm_label": "humphry davy",
       "community_name": "Chemical Alchemy",
       "id": "rewolucja_przemyslowa_humphry_davy"
@@ -1306,7 +1185,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 19,
+      "community": 24,
       "norm_label": "aleksander i",
       "community_name": "Russian Orthodox Church",
       "id": "rosja_aleksander_i"
@@ -1320,7 +1199,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 56,
+      "community": 63,
       "norm_label": "mir (gmina)",
       "community_name": "Russian Peasant Communes",
       "id": "rosja_mir"
@@ -1334,7 +1213,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 19,
+      "community": 24,
       "norm_label": "swiety synod",
       "community_name": "Russian Orthodox Church",
       "id": "rosja_swiety_synod"
@@ -1348,7 +1227,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 55,
+      "community": 62,
       "norm_label": "ko\u0142duny",
       "community_name": "Slavic Folklore Spirits",
       "id": "rosja_kolduny"
@@ -1362,38 +1241,10 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 17,
+      "community": 22,
       "norm_label": "smocza krew",
       "community_name": "Chemical Alchemy",
       "id": "smoki_smocza_krew"
-    },
-    {
-      "label": "Prekursor",
-      "file_type": "concept",
-      "source_file": "sorcery.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 20,
-      "norm_label": "prekursor",
-      "community_name": "Divine Right Monarchy",
-      "id": "sorcery_prekursor"
-    },
-    {
-      "label": "Boskie Prawo Kr\u00f3l\u00f3w",
-      "file_type": "concept",
-      "source_file": "sorcery.md",
-      "source_location": null,
-      "source_url": null,
-      "captured_at": null,
-      "author": null,
-      "contributor": null,
-      "community": 20,
-      "norm_label": "boskie prawo krolow",
-      "community_name": "Divine Right Monarchy",
-      "id": "sorcery_boskie_prawo_krolow"
     },
     {
       "label": "Thomas Jefferson",
@@ -1404,7 +1255,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 15,
       "norm_label": "thomas jefferson",
       "community_name": "Jefferson and Louisiana Purchase",
       "id": "stany_zjednoczone_thomas_jefferson"
@@ -1418,7 +1269,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 57,
+      "community": 64,
       "norm_label": "drugie wielkie przebudzenie",
       "community_name": "Second Great Awakening",
       "id": "stany_zjednoczone_drugie_wielkie_przebudzenie"
@@ -1432,7 +1283,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 60,
+      "community": 67,
       "norm_label": "recess deputacyjny rzeszy",
       "community_name": "German Mediatization",
       "id": "swiete_cesarstwo_rzymskie_recess_deputacyjny"
@@ -1446,7 +1297,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 58,
+      "community": 65,
       "norm_label": "franciszek ii",
       "community_name": "Emperor Francis II",
       "id": "swiete_cesarstwo_rzymskie_franciszek_ii"
@@ -1460,7 +1311,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 59,
+      "community": 66,
       "norm_label": "fryderyk wilhelm iii",
       "community_name": "King Frederick William III",
       "id": "swiete_cesarstwo_rzymskie_fryderyk_wilhelm_iii"
@@ -1474,7 +1325,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 61,
+      "community": 68,
       "norm_label": "trained by a master",
       "community_name": "Martial Arts Mastery",
       "id": "sztuki_walki_trained_by_a_master"
@@ -1488,7 +1339,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 15,
       "norm_label": "louisiana purchase",
       "community_name": "Jefferson and Louisiana Purchase",
       "id": "terytorium_luizjany_zakup_luizjany"
@@ -1502,7 +1353,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 11,
+      "community": 15,
       "norm_label": "smocza granica",
       "community_name": "Jefferson and Louisiana Purchase",
       "id": "terytorium_luizjany_smocza_granica"
@@ -1513,8 +1364,8 @@
       "source_file": "index.md",
       "community": 0,
       "norm_label": "rok 1802",
-      "id": "index_rok_1802",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "index_rok_1802"
     },
     {
       "label": "Smoki",
@@ -1522,8 +1373,8 @@
       "source_file": "index.md",
       "community": 0,
       "norm_label": "smoki",
-      "id": "smoki_concept",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "smoki_concept"
     },
     {
       "label": "Alchemia",
@@ -1531,8 +1382,8 @@
       "source_file": "index.md",
       "community": 0,
       "norm_label": "alchemia",
-      "id": "alchemia_concept",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "alchemia_concept"
     },
     {
       "label": "Sorcery",
@@ -1540,8 +1391,8 @@
       "source_file": "index.md",
       "community": 0,
       "norm_label": "sorcery",
-      "id": "sorcery_concept",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "sorcery_concept"
     },
     {
       "label": "Cudotw\u00f3rcy",
@@ -1549,8 +1400,8 @@
       "source_file": "index.md",
       "community": 0,
       "norm_label": "cudotworcy",
-      "id": "cudotworcy_concept",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "cudotworcy_concept"
     },
     {
       "label": "Punkty rozbie\u017cno\u015bci",
@@ -1558,8 +1409,8 @@
       "source_file": "index.md",
       "community": 0,
       "norm_label": "punkty rozbieznosci",
-      "id": "punkty_rozbieznosci_concept",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "punkty_rozbieznosci_concept"
     },
     {
       "label": "Terytorium Luizjany",
@@ -1567,89 +1418,71 @@
       "source_file": "index.md",
       "community": 0,
       "norm_label": "terytorium luizjany",
-      "id": "terytorium_luizjany_concept",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "terytorium_luizjany_concept"
     },
     {
       "label": "Haiti",
       "file_type": "concept",
       "source_file": "index.md",
-      "community": 3,
+      "community": 7,
       "norm_label": "haiti",
-      "id": "haiti_concept",
-      "community_name": "Haitian Voodoo and Spirits"
+      "community_name": "Haitian Voodoo and Spirits",
+      "id": "haiti_concept"
     },
     {
       "label": "S\u0142ownik termin\u00f3w",
       "file_type": "document",
       "source_file": "slownik-terminow.md",
-      "community": 6,
+      "community": 9,
       "norm_label": "s\u0142ownik terminow",
-      "id": "slownik_terminow_glossary",
-      "community_name": "Dragon Magic Terminology"
+      "community_name": "Dragon Magic Terminology",
+      "id": "slownik_terminow_glossary"
     },
     {
       "label": "Smocza krew",
       "file_type": "concept",
       "source_file": "slownik-terminow.md",
-      "community": 6,
+      "community": 9,
       "norm_label": "smocza krew",
-      "id": "smocza_krew_concept",
-      "community_name": "Dragon Magic Terminology"
+      "community_name": "Dragon Magic Terminology",
+      "id": "smocza_krew_concept"
     },
     {
       "label": "Smoczy Magowie",
       "file_type": "concept",
       "source_file": "slownik-terminow.md",
-      "community": 6,
+      "community": 9,
       "norm_label": "smoczy magowie",
-      "id": "smoczy_magowie_concept",
-      "community_name": "Dragon Magic Terminology"
+      "community_name": "Dragon Magic Terminology",
+      "id": "smoczy_magowie_concept"
     },
     {
       "label": "Toussaint Louverture",
       "file_type": "document",
       "source_file": "toussaint-louverture.md",
-      "community": 3,
+      "community": 7,
       "norm_label": "toussaint louverture",
-      "id": "toussaint_louverture_bio",
-      "community_name": "Haitian Voodoo and Spirits"
+      "community_name": "Haitian Voodoo and Spirits",
+      "id": "toussaint_louverture_bio"
     },
     {
       "label": "Daemony",
       "file_type": "concept",
       "source_file": "toussaint-louverture.md",
-      "community": 3,
+      "community": 7,
       "norm_label": "daemony",
-      "id": "daemony_concept",
-      "community_name": "Haitian Voodoo and Spirits"
+      "community_name": "Haitian Voodoo and Spirits",
+      "id": "daemony_concept"
     },
     {
       "label": "Traktat Greenville",
       "file_type": "document",
       "source_file": "traktat-greenville.md",
-      "community": 6,
+      "community": 9,
       "norm_label": "traktat greenville",
-      "id": "traktat_greenville_doc",
-      "community_name": "Dragon Magic Terminology"
-    },
-    {
-      "label": "Voodoo",
-      "file_type": "document",
-      "source_file": "voodoo.md",
-      "community": 3,
-      "norm_label": "voodoo",
-      "id": "voodoo_magic",
-      "community_name": "Haitian Voodoo and Spirits"
-    },
-    {
-      "label": "Fey",
-      "file_type": "concept",
-      "source_file": "voodoo.md",
-      "community": 3,
-      "norm_label": "fey",
-      "id": "fey_concept",
-      "community_name": "Haitian Voodoo and Spirits"
+      "community_name": "Dragon Magic Terminology",
+      "id": "traktat_greenville_doc"
     },
     {
       "label": "Wielka Brytania",
@@ -1657,8 +1490,8 @@
       "source_file": "wielka-brytania.md",
       "community": 0,
       "norm_label": "wielka brytania",
-      "id": "wielka_brytania_uk",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "wielka_brytania_uk"
     },
     {
       "label": "Rewolucja Przemys\u0142owa",
@@ -1666,35 +1499,35 @@
       "source_file": "wielka-brytania.md",
       "community": 0,
       "norm_label": "rewolucja przemys\u0142owa",
-      "id": "rewolucja_przemyslowa_concept",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "rewolucja_przemyslowa_concept"
     },
     {
       "label": "Wolnomurarstwo",
       "file_type": "document",
       "source_file": "wolnomurarstwo.md",
-      "community": 3,
+      "community": 69,
       "norm_label": "wolnomurarstwo",
-      "id": "wolnomurarstwo_masonry",
-      "community_name": "Haitian Voodoo and Spirits"
+      "community_name": "Haitian Voodoo and Spirits",
+      "id": "wolnomurarstwo_masonry"
     },
     {
       "label": "Codzienne \u017cycie w Stanach Zjednoczonych",
       "file_type": "document",
       "source_file": "zycie-w-stanach.md",
-      "community": 62,
+      "community": 70,
       "norm_label": "codzienne zycie w stanach zjednoczonych",
-      "id": "zycie_w_stanach_daily",
-      "community_name": "Early American Life"
+      "community_name": "Early American Life",
+      "id": "zycie_w_stanach_daily"
     },
     {
       "label": "\u017bywio\u0142aki",
       "file_type": "document",
       "source_file": "zywiolaki.md",
-      "community": 3,
+      "community": 7,
       "norm_label": "zywio\u0142aki",
-      "id": "zywiolaki_elementals",
-      "community_name": "Haitian Voodoo and Spirits"
+      "community_name": "Haitian Voodoo and Spirits",
+      "id": "zywiolaki_elementals"
     },
     {
       "label": "Battle on the river with dragons and indigenous people",
@@ -1702,8 +1535,240 @@
       "source_file": "images/hero-image.jpg",
       "community": 0,
       "norm_label": "battle on the river with dragons and indigenous people",
-      "id": "images_hero_image",
-      "community_name": "Alternative History Louisiana"
+      "community_name": "Alternative History Louisiana",
+      "id": "images_hero_image"
+    },
+    {
+      "label": "Magiczne przedmioty",
+      "file_type": "document",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_magiczne_przedmioty",
+      "community": 1,
+      "norm_label": "magiczne przedmioty"
+    },
+    {
+      "label": "Zaklinanie przedmiot\u00f3w",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_zaklinanie_przedmiotow",
+      "community": 1,
+      "norm_label": "zaklinanie przedmiotow"
+    },
+    {
+      "label": "Europejskie czarostwo",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_europejskie_czarostwo",
+      "community": 1,
+      "norm_label": "europejskie czarostwo"
+    },
+    {
+      "label": "Gildie \u015amierci",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_gildie_smierci",
+      "community": 1,
+      "norm_label": "gildie smierci"
+    },
+    {
+      "label": "Kamienie mocy",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_kamienie_mocy",
+      "community": 17,
+      "norm_label": "kamienie mocy"
+    },
+    {
+      "label": "Alchemia",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_alchemia",
+      "community": 17,
+      "norm_label": "alchemia"
+    },
+    {
+      "label": "Wanga",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_wanga",
+      "community": 55,
+      "norm_label": "wanga"
+    },
+    {
+      "label": "Talizmany baraki",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_baraka",
+      "community": 52,
+      "norm_label": "talizmany baraki"
+    },
+    {
+      "label": "Relikwie",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_relikwie",
+      "community": 53,
+      "norm_label": "relikwie"
+    },
+    {
+      "label": "Sorcery",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_sorcery",
+      "community": 1,
+      "norm_label": "sorcery"
+    },
+    {
+      "label": "Smocza \u0142uska",
+      "file_type": "concept",
+      "source_file": "magiczne-przedmioty.md",
+      "id": "magiczne_przedmioty_smocza_luska",
+      "community": 54,
+      "norm_label": "smocza \u0142uska"
+    },
+    {
+      "label": "Cudotw\u00f3rcy",
+      "file_type": "document",
+      "source_file": "cudotworcy.md",
+      "id": "cudotworcy_cudotworcy",
+      "community": 6,
+      "norm_label": "cudotworcy"
+    },
+    {
+      "label": "Divine Favor",
+      "file_type": "concept",
+      "source_file": "cudotworcy.md",
+      "id": "cudotworcy_divine_favor",
+      "community": 6,
+      "norm_label": "divine favor"
+    },
+    {
+      "label": "Daemony",
+      "file_type": "document",
+      "source_file": "daemony.md",
+      "id": "daemony_daemony",
+      "community": 1,
+      "norm_label": "daemony"
+    },
+    {
+      "label": "Fa\u0142szywe anio\u0142y",
+      "file_type": "concept",
+      "source_file": "daemony.md",
+      "id": "daemony_falszywe_anioly",
+      "community": 1,
+      "norm_label": "fa\u0142szywe anio\u0142y"
+    },
+    {
+      "label": "Karmiciele",
+      "file_type": "concept",
+      "source_file": "daemony.md",
+      "id": "daemony_karmiciele",
+      "community": 1,
+      "norm_label": "karmiciele"
+    },
+    {
+      "label": "Targowe",
+      "file_type": "concept",
+      "source_file": "daemony.md",
+      "id": "daemony_targowe",
+      "community": 4,
+      "norm_label": "targowe"
+    },
+    {
+      "label": "Europejskie czarostwo",
+      "file_type": "document",
+      "source_file": "europejskie-czarostwo.md",
+      "id": "europejskie_czarostwo_czarostwo",
+      "community": 2,
+      "norm_label": "europejskie czarostwo"
+    },
+    {
+      "label": "Magery",
+      "file_type": "concept",
+      "source_file": "europejskie-czarostwo.md",
+      "id": "europejskie_czarostwo_magery",
+      "community": 2,
+      "norm_label": "magery"
+    },
+    {
+      "label": "Gildie \u015amierci",
+      "file_type": "document",
+      "source_file": "gildie-smierci.md",
+      "id": "gildie_smierci_gildie_smierci",
+      "community": 2,
+      "norm_label": "gildie smierci"
+    },
+    {
+      "label": "Fala",
+      "file_type": "concept",
+      "source_file": "gildie-smierci.md",
+      "id": "gildie_smierci_fala",
+      "community": 2,
+      "norm_label": "fala"
+    },
+    {
+      "label": "Korsarze Barbarii",
+      "file_type": "document",
+      "source_file": "korsarze-barbarii.md",
+      "id": "korsarze_barbarii_korsarze",
+      "community": 6,
+      "norm_label": "korsarze barbarii"
+    },
+    {
+      "label": "Baraka",
+      "file_type": "concept",
+      "source_file": "korsarze-barbarii.md",
+      "id": "korsarze_barbarii_baraka",
+      "community": 6,
+      "norm_label": "baraka"
+    },
+    {
+      "label": "Sorcery",
+      "file_type": "document",
+      "source_file": "sorcery.md",
+      "id": "sorcery_sorcery",
+      "community": 25,
+      "norm_label": "sorcery"
+    },
+    {
+      "label": "Smoczy Magowie",
+      "file_type": "concept",
+      "source_file": "sorcery.md",
+      "id": "sorcery_smoczy_magowie",
+      "community": 25,
+      "norm_label": "smoczy magowie"
+    },
+    {
+      "label": "Voodoo",
+      "file_type": "document",
+      "source_file": "voodoo.md",
+      "id": "voodoo_voodoo",
+      "community": 4,
+      "norm_label": "voodoo"
+    },
+    {
+      "label": "Mambo",
+      "file_type": "concept",
+      "source_file": "voodoo.md",
+      "id": "voodoo_mambo",
+      "community": 4,
+      "norm_label": "mambo"
+    },
+    {
+      "label": "Wanga",
+      "file_type": "concept",
+      "source_file": "voodoo.md",
+      "id": "voodoo_wanga",
+      "community": 4,
+      "norm_label": "wanga"
+    },
+    {
+      "label": "O\u0142\u00f3w",
+      "file_type": "concept",
+      "source_file": "voodoo.md",
+      "id": "voodoo_olow",
+      "community": 4,
+      "norm_label": "o\u0142ow"
     }
   ],
   "links": [
@@ -1781,78 +1846,6 @@
       "target": "buddyzm_qi"
     },
     {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "cudotworcy.md",
-      "source": "cudotworcy_cudotworcy",
-      "target": "cudotworcy_divine_favor"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "cudotworcy.md",
-      "source": "cudotworcy_cudotworcy",
-      "target": "francja_napoleonska_napoleon"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "daemony.md",
-      "source": "daemony_daemony",
-      "target": "cudotworcy_cudotworcy"
-    },
-    {
-      "relation": "conceptually_related_to",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "daemony.md",
-      "source": "daemony_daemony",
-      "target": "fey_fey"
-    },
-    {
-      "relation": "calls",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "haiti.md",
-      "source": "haiti_toussaint_louverture",
-      "target": "daemony_daemony"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "europejskie-czarostwo.md",
-      "source": "europejskie_czarostwo_czarostwo",
-      "target": "europejskie_czarostwo_magery"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "europejskie-czarostwo.md",
-      "source": "europejskie_czarostwo_czarostwo",
-      "target": "gildie_smierci_gildie_smierci"
-    },
-    {
-      "relation": "implements",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "francja-napoleonska.md",
-      "source": "francja_napoleonska_legion_magow",
-      "target": "europejskie_czarostwo_czarostwo"
-    },
-    {
-      "relation": "implements",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "francja-napoleonska.md",
-      "source": "francja_napoleonska_napoleon",
-      "target": "europejskie_czarostwo_czarostwo"
-    },
-    {
       "relation": "shares_data_with",
       "confidence": "INFERRED",
       "confidence_score": 0.8,
@@ -1877,20 +1870,20 @@
       "target": "fey_regula_zasiania"
     },
     {
-      "relation": "references",
+      "relation": "implements",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "gildie-smierci.md",
-      "source": "gildie_smierci_gildie_smierci",
-      "target": "gildie_smierci_fala"
+      "source_file": "francja-napoleonska.md",
+      "source": "francja_napoleonska_napoleon",
+      "target": "europejskie_czarostwo_czarostwo"
     },
     {
-      "relation": "references",
-      "confidence": "INFERRED",
-      "confidence_score": 0.9,
-      "source_file": "gildie-smierci.md",
-      "source": "hiszpania_inkwizycja",
-      "target": "gildie_smierci_gildie_smierci"
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "francja-napoleonska.md",
+      "source": "francja_napoleonska_legion_magow",
+      "target": "europejskie_czarostwo_czarostwo"
     },
     {
       "relation": "references",
@@ -1907,6 +1900,14 @@
       "source_file": "handel-trojkatny.md",
       "source": "handel_trojkatny_handel_trojkatny",
       "target": "haiti_haiti"
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "haiti.md",
+      "source": "haiti_toussaint_louverture",
+      "target": "daemony_daemony"
     },
     {
       "relation": "references",
@@ -2047,14 +2048,6 @@
       "target": "rosja_swiety_synod"
     },
     {
-      "relation": "conceptually_related_to",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "sorcery.md",
-      "source": "sorcery_boskie_prawo_krolow",
-      "target": "sorcery_prekursor"
-    },
-    {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
@@ -2136,14 +2129,6 @@
     },
     {
       "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "index.md",
-      "source": "index_rok_1802",
-      "target": "voodoo_magic"
-    },
-    {
-      "relation": "references",
       "confidence": "INFERRED",
       "confidence_score": 1.0,
       "source_file": "images/hero-image.jpg",
@@ -2172,14 +2157,6 @@
       "confidence_score": 1.0,
       "source_file": "toussaint-louverture.md",
       "source": "toussaint_louverture_bio",
-      "target": "haiti_concept"
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "voodoo.md",
-      "source": "voodoo_magic",
       "target": "haiti_concept"
     },
     {
@@ -2215,14 +2192,6 @@
       "target": "daemony_concept"
     },
     {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "toussaint-louverture.md",
-      "source": "toussaint_louverture_bio",
-      "target": "voodoo_magic"
-    },
-    {
       "relation": "conceptually_related_to",
       "confidence": "EXTRACTED",
       "confidence_score": 0.9,
@@ -2234,36 +2203,204 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "voodoo.md",
-      "source": "voodoo_magic",
-      "target": "fey_concept"
+      "source_file": "wielka-brytania.md",
+      "source": "wielka_brytania_uk",
+      "target": "rewolucja_przemyslowa_concept"
     },
     {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "wolnomurarstwo.md",
-      "source": "wolnomurarstwo_masonry",
-      "target": "fey_concept"
+      "source_file": "magiczne-przedmioty.md",
+      "source": "magiczne_przedmioty_magiczne_przedmioty",
+      "target": "daemony_daemony"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "magiczne-przedmioty.md",
+      "source": "magiczne_przedmioty_magiczne_przedmioty",
+      "target": "magiczne_przedmioty_zaklinanie_przedmiotow"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "magiczne-przedmioty.md",
+      "source": "magiczne_przedmioty_zaklinanie_przedmiotow",
+      "target": "magiczne_przedmioty_europejskie_czarostwo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "magiczne-przedmioty.md",
+      "source": "magiczne_przedmioty_zaklinanie_przedmiotow",
+      "target": "magiczne_przedmioty_gildie_smierci"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "magiczne-przedmioty.md",
+      "source": "magiczne_przedmioty_sorcery",
+      "target": "magiczne_przedmioty_europejskie_czarostwo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "magiczne-przedmioty.md",
+      "source": "magiczne_przedmioty_kamienie_mocy",
+      "target": "magiczne_przedmioty_alchemia"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "cudotworcy.md",
+      "source": "cudotworcy_cudotworcy",
+      "target": "cudotworcy_divine_favor"
     },
     {
       "relation": "conceptually_related_to",
       "confidence": "EXTRACTED",
       "confidence_score": 0.9,
-      "source_file": "zywiolaki.md",
-      "source": "zywiolaki_elementals",
-      "target": "fey_concept"
+      "source_file": "korsarze-barbarii.md",
+      "source": "korsarze_barbarii_baraka",
+      "target": "cudotworcy_cudotworcy"
     },
     {
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "wielka-brytania.md",
-      "source": "wielka_brytania_uk",
-      "target": "rewolucja_przemyslowa_concept"
+      "source_file": "daemony.md",
+      "source": "daemony_daemony",
+      "target": "daemony_falszywe_anioly"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "daemony.md",
+      "source": "daemony_daemony",
+      "target": "daemony_karmiciele"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "daemony.md",
+      "source": "daemony_targowe",
+      "target": "voodoo_wanga"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "europejskie-czarostwo.md",
+      "source": "europejskie_czarostwo_czarostwo",
+      "target": "europejskie_czarostwo_magery"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "europejskie-czarostwo.md",
+      "source": "europejskie_czarostwo_czarostwo",
+      "target": "gildie_smierci_gildie_smierci"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "gildie-smierci.md",
+      "source": "gildie_smierci_gildie_smierci",
+      "target": "gildie_smierci_fala"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "korsarze-barbarii.md",
+      "source": "korsarze_barbarii_korsarze",
+      "target": "korsarze_barbarii_baraka"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "sorcery.md",
+      "source": "sorcery_sorcery",
+      "target": "sorcery_smoczy_magowie"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "voodoo.md",
+      "source": "voodoo_voodoo",
+      "target": "voodoo_olow"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "voodoo.md",
+      "source": "voodoo_voodoo",
+      "target": "voodoo_mambo"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "voodoo.md",
+      "source": "voodoo_voodoo",
+      "target": "voodoo_wanga"
     }
   ],
   "hyperedges": [
+    {
+      "id": "magical_item_traditions",
+      "label": "Magical Item Traditions",
+      "nodes": [
+        "magiczne_przedmioty_zaklinanie_przedmiotow",
+        "magiczne_przedmioty_wanga",
+        "magiczne_przedmioty_baraka",
+        "magiczne_przedmioty_relikwie",
+        "daemony_targowe"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "magiczne-przedmioty.md"
+    },
+    {
+      "id": "magic_systems_1802",
+      "label": "Magic Systems of 1802",
+      "nodes": [
+        "cudotworcy_cudotworcy",
+        "europejskie_czarostwo_czarostwo",
+        "sorcery_sorcery",
+        "voodoo_voodoo"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0
+    },
+    {
+      "id": "anti_magic_mechanics",
+      "label": "Anti-Magic and Suppression",
+      "nodes": [
+        "voodoo_olow",
+        "korsarze_barbarii_baraka",
+        "daemony_targowe"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8
+    },
     {
       "id": "magic_system_1802",
       "label": "Magic System of 1802",
@@ -2309,46 +2446,6 @@
       "confidence": "EXTRACTED",
       "confidence_score": 0.9,
       "source_file": "traktat-greenville.md"
-    },
-    {
-      "id": "extraplanar_entities",
-      "label": "Extraplanar Entities",
-      "nodes": [
-        "daemony_daemony",
-        "fey_fey",
-        "daemony_falszywe_anioly"
-      ],
-      "relation": "form",
-      "confidence": "EXTRACTED",
-      "confidence_score": 0.9,
-      "source_file": "daemony.md"
-    },
-    {
-      "id": "magic_systems_1802",
-      "label": "Magic Systems of 1802",
-      "nodes": [
-        "cudotworcy_cudotworcy",
-        "europejskie_czarostwo_czarostwo",
-        "haiti_voodoo",
-        "feng_shui_feng_shui"
-      ],
-      "relation": "participate_in",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "europejskie-czarostwo.md"
-    },
-    {
-      "id": "historical_trauma_magic",
-      "label": "Historical Magic Suppression",
-      "nodes": [
-        "gildie_smierci_gildie_smierci",
-        "hiszpania_inkwizycja",
-        "europejskie_czarostwo_czarostwo"
-      ],
-      "relation": "participate_in",
-      "confidence": "EXTRACTED",
-      "confidence_score": 0.95,
-      "source_file": "gildie-smierci.md"
     },
     {
       "id": "religious_miracles_network",
@@ -2496,5 +2593,5 @@
       "confidence_score": 0.75
     }
   ],
-  "built_at_commit": "ee93377a13060d25990e4d126f2dd2a7e86d14b4"
+  "built_at_commit": "76be9c7fa286a686405bb2e2a5af209a2c9d68d8"
 }

@@ -39,7 +39,7 @@ Trypolisem rządzi od 1711 roku dynastia Karamanlich, która chwyciła władzę,
 
 Jest jedna rzecz, którą korsarze Barbarii robią lepiej i bardziej metodycznie niż ktokolwiek na świecie: łowią i więżą cudzą magię. Statek wpadający w ich ręce wiezie zwykle marynarzy i kupców na okup, lecz co pewien czas trafia się ktoś więcej — europejski [[Sorcery|adept]], [[Cudotwórcy|cudotwórca]], czarownik, ktoś, w kim płynie moc. Dla regencji to najcenniejszy łup ze wszystkich, i jako jedyni umieją go zatrzymać.
 
-Narzędziem jest talizman. Nie wykuwa go żaden rzemieślnik — błogosławią go żywi święci, marabuci maghrebskich bractw sufickich, a moc, którą weń wkładają, to ich baraka, ten sam [[Cudotwórcy|cud]] islamu co u świętych Stambułu, nastawiony na jedno: dławić obcą magię. Amulet wmurowany w kajdany odcina jeńca od jego mocy. Ten sam amulet noszony przez korsarza osłania go przed czarem wroga. Marabut nie sprzedaje błogosławieństwa niewiernemu ani nie spisuje go w żaden przepis. To charyzmat, dar wrodzony w świętą linię, którego nikt z zewnątrz nie powtórzy.
+Narzędziem jest [[Magiczne przedmioty|talizman]]. Nie wykuwa go żaden rzemieślnik — błogosławią go żywi święci, marabuci maghrebskich bractw sufickich, a moc, którą weń wkładają, to ich baraka, ten sam [[Cudotwórcy|cud]] islamu co u świętych Stambułu, nastawiony na jedno: dławić obcą magię. Amulet wmurowany w kajdany odcina jeńca od jego mocy. Ten sam amulet noszony przez korsarza osłania go przed czarem wroga. Marabut nie sprzedaje błogosławieństwa niewiernemu ani nie spisuje go w żaden przepis. To charyzmat, dar wrodzony w świętą linię, którego nikt z zewnątrz nie powtórzy.
 
 Drugą połowę sekretu nosi w sobie sam korsarz. Talizman odpowiada wyłącznie wierze tej jednej tradycji — napędza go poddanie Bogu wyznawcy islamu, i tylko jego. Chrześcijanin czy poganin, który zerwie amulet z trupa i zawiesi na własnej szyi, trzyma martwy kawałek srebra. Uruchamia go wiara, i tylko wiara, rzecz, której nie da się ani podrobić, ani przekazać. Dlatego ta broń jest unikatem regencji w sensie najgłębszym z możliwych. Działa tylko w ręku wierzącego i tylko z błogosławieństwem świętego, a obu tych rzeczy wróg, na którego ją skierowano, z definicji nie ma. Sekret nie jest tu nawet potrzebny.
 
@@ -79,5 +79,5 @@ Władza w Algierze jest transakcyjna i krwawa. Janczarska kasta słucha deja, do
 
 ---
 
-*Powiązane artykuły: [[Imperium Osmańskie]], [[Stany Zjednoczone]], [[Wielka Brytania]], [[Francja Napoleońska]], [[Afryka Subsaharyjska]], [[Handel Trójkątny]], [[Cudotwórcy]], [[Sorcery]], [[Punkty rozbieżności]], [[Chronologia]], [[Słownik terminów]].*
+*Powiązane artykuły: [[Imperium Osmańskie]], [[Stany Zjednoczone]], [[Wielka Brytania]], [[Francja Napoleońska]], [[Afryka Subsaharyjska]], [[Handel Trójkątny]], [[Cudotwórcy]], [[Sorcery]], [[Magiczne przedmioty]], [[Punkty rozbieżności]], [[Chronologia]], [[Słownik terminów]].*
 

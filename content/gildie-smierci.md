@@ -89,7 +89,7 @@ To właśnie ten późniejszy etap, nie wcześniejsze rozproszenie, dał zwycię
 
 Nie wszyscy czarownicy Europy patrzyli na Falę jak na okazję. Większość gildii, które nie skaziła się nekromancją, potraktowała rosnące zagrożenie jako egzystencjalne — bo zwycięstwo choćby jednej grupy dążącej do władzy przez armię nieumarłych oznaczało koniec dla wszystkich, skażonych i czystych jednakowo.
 
-Ci mistrzowie i domy zaangażowały się w wojnę czynnie, nie tylko obronnie. Kuli magiczne przedmioty chroniące mury miast, dzieliły się wiedzą o rozpoznawaniu skażenia, wysyłały uczniów jako zwiadowców tam, gdzie zwykły żołnierz nie miał szans przeżyć starcia z czymś, czego nie rozumiał. Część z nich zginęła w tej wojnie równie anonimowo, jak zginęli ich przeciwnicy.
+Ci mistrzowie i domy zaangażowały się w wojnę czynnie, nie tylko obronnie. Kuli [[Magiczne przedmioty|magiczne przedmioty]] chroniące mury miast, dzieliły się wiedzą o rozpoznawaniu skażenia, wysyłały uczniów jako zwiadowców tam, gdzie zwykły żołnierz nie miał szans przeżyć starcia z czymś, czego nie rozumiał. Część z nich zginęła w tej wojnie równie anonimowo, jak zginęli ich przeciwnicy.
 
 Wdzięczność, jaką dostali, była nierówna i często żadna. W niejednym mieście obronę, którą naprawdę zapewnił magiczny krąg wykuty przez lokalny dom czarodziejski, w kronice zapisano jako cud świętego patrona albo skuteczność miejskiej milicji — bo przyznanie, że miasto przetrwało dzięki magii, oznaczało przyznanie, że magia w ogóle działa na taką skalę, a to samo w sobie było niewygodne dla władzy kościelnej i świeckiej naraz. Niejeden dom, który stracił większość swoich ludzi broniąc cudzych murów, został po latach spisany z historii tak dokładnie, że dziś nie wiadomo nawet, jak się nazywał.
 
@@ -197,5 +197,5 @@ To jest największy koszmar organizacji zbudowanej na przekonaniu, że wojnę wy
 
 ---
 
-*Powiązane artykuły: [[Europejskie czarostwo]], [[Cudotwórcy]], [[Inkwizycja]], [[Hiszpania]], [[Krucjaty]], [[Fey]], [[Sorcery]], [[Punkty rozbieżności]], [[Chronologia]].*
+*Powiązane artykuły: [[Europejskie czarostwo]], [[Cudotwórcy]], [[Inkwizycja]], [[Hiszpania]], [[Krucjaty]], [[Fey]], [[Sorcery]], [[Magiczne przedmioty]], [[Punkty rozbieżności]], [[Chronologia]].*
 

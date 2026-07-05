@@ -82,6 +82,8 @@ Dar lubi się grupować geograficznie, bo grupują się rody, które go niosą. 
 
 [[Święte Cesarstwo Rzymskie|Rzesza]] nie ma jednej sygnatury, lecz muzeum drobnych darów: jeden na starożytny ród, każdy gasnący po swojemu. Trzysta państewek i kilka tysięcy rycerskich linii podległych wprost cesarzowi zgromadziły najwięcej dziedzicznej Sorcery w Europie. Właśnie te dogasające linie połyka teraz mediatyzacja, która od 1803 roku wciela rycerstwo Rzeszy w większe państwa — razem z ziemią znika krew.
 
+[[Szwajcaria|Szwajcarskie]] rody trzymają sygnaturę, o której nikt głośno nie mówi. Nie władają żywiołem ani cudzym umysłem, lecz samą materią przedmiotu — modyfikują, wzmacniają i umagiczniają rzeczy zamiast ciał. Zegarmistrz z Neuchâtel, który sprzedaje w Paryżu czasomierze robiące ponoć więcej niż mierzenie czasu, uchodzi za genialnego rzemieślnika, nigdy za nosiciela krwi, bo cała Europa wie, że Sorcery działa na ludzi, nie na materię. Sam nigdy tego nie potwierdza ani nie zaprzecza, co tylko podbija cenę. Rzecz jest strzeżona równie starannie jak każda inna linia mocy kontynentu — szerzej przy [[Magiczne przedmioty]].
+
 ---
 
 ## Zmierzch ku roku 1802

@@ -80,7 +80,7 @@ Pius VII rozegrał to świadomie. Konkordat z 1801 roku przywrócił katolicki k
 
 Cud nie jest własnością jednego Kościoła. Trzy wielkie wiary Abrahama — judaizm, chrześcijaństwo i islam — sięgają po niego po swojemu, a samo chrześcijaństwo rozpada się na odłamy, które wzajem mają się za heretyków.
 
-Katolicyzm jest biegunem chłodnej, klasztornej powagi, a jego cudotwórcy są najliczniejsi i najpewniej szkoleni, bo Rzym zna swoje rzemiosło od dwóch tysięcy lat. Judaizm niesie tę samą moc w cadykach i uczonych w piśmie, których świętość bywa równie realna co księdza. Islam zna ją jako barakę: błogosławiona moc spływa na marabutów i sufickich świętych, a ich karamat, drobne cuda, są tak samo prawdziwe — szerzej przy [[Korsarze Barbarii|regencjach berberyjskich]], gdzie baraka marabuta ładuje antymagiczne talizmany.
+Katolicyzm jest biegunem chłodnej, klasztornej powagi, a jego cudotwórcy są najliczniejsi i najpewniej szkoleni, bo Rzym zna swoje rzemiosło od dwóch tysięcy lat. Judaizm niesie tę samą moc w cadykach i uczonych w piśmie, których świętość bywa równie realna co księdza. Islam zna ją jako barakę: błogosławiona moc spływa na marabutów i sufickich świętych, a ich karamat, drobne cuda, są tak samo prawdziwe — szerzej przy [[Korsarze Barbarii|regencjach berberyjskich]], gdzie baraka marabuta ładuje [[Magiczne przedmioty|antymagiczne talizmany]].
 
 Protestantyzm jest najmłodszą i najbardziej rozbitą gałęzią chrześcijaństwa. W [[Stany Zjednoczone|Stanach]] rzecz wymknęła się spod kontroli: rewival w Cane Ridge w Kentucky w sierpniu 1801 roku ściągnął ponoć ponad dwadzieścia tysięcy ludzi, a wśród nawróconych objawiła się garstka prawdziwych cudotwórców. Reszta to ekstaza, drgawki i krzyk — lecz ta garstka wystarczyła, by każdy wędrowny kaznodzieja obiecywał teraz cuda, choć sam żadnego nie sprowadzi.
 
@@ -88,4 +88,12 @@ Wiara potrafi też tę moc stracić zbiorowo. Pamięć [[Krucjaty|krucjat]] jest
 
 ---
 
-*Powiązane artykuły: [[Cudotwórcy wojskowi]], [[Papież]], [[Państwo Kościelne]], [[Francja Napoleońska]], [[Stany Zjednoczone]], [[Hiszpania]], [[Korsarze Barbarii]], [[Krucjaty]], [[Punkty rozbieżności]], [[Chronologia]].*
+## Relikwie
+
+Cud zostawia czasem po sobie coś trwalszego niż wspomnienie: przedmiot, w którym modlitwa zostaje zakotwiczona nawet po śmierci cudotwórcy. Kość świętego, strzęp habitu, fiolka krwi męczennika — relikwia czeka na wiernego, który ją aktywuje własną wiarą, tej samej tradycji, z której wyszedł twórca.
+
+Nikt jej nie projektuje z myślą o odbiorcy. Zostaje po świętym, jaki był za życia, i milczy w rękach kogoś spoza jego wyznania równie pewnie, jak talizman baraki milczy w rękach chrześcijanina. Kościół nie produkuje ich na zamówienie — taśma produkcyjna cudów przeczyłaby samej istocie wiary, która je rodzi. Miejsce relikwii wśród innych tradycji magicznych przedmiotów opisuje [[Magiczne przedmioty]].
+
+---
+
+*Powiązane artykuły: [[Cudotwórcy wojskowi]], [[Papież]], [[Państwo Kościelne]], [[Francja Napoleońska]], [[Stany Zjednoczone]], [[Hiszpania]], [[Korsarze Barbarii]], [[Krucjaty]], [[Magiczne przedmioty]], [[Punkty rozbieżności]], [[Chronologia]].*

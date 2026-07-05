@@ -42,6 +42,21 @@ Mambo robi to świadomie i bezpiecznie. Wprawia się w trans bębnem i tańcem, 
 
 ---
 
+## Wanga — fey zamknięty w przedmiocie
+
+Kapłanka nie musi trzymać feya w gotowości do dosiadania. Może zamknąć go w przedmiocie — pierścieniu, flakonie, lasce — i nosić jego moc przy sobie zamiast wzywać go za każdym razem od nowa. Taki przedmiot nazywa się wanga i działa jak każdy inny sługa związany przez mambo: chroni, atakuje albo szpieguje na żądanie właściciela.
+
+Fey w wandze zachowuje wolę. Bywa posłuszny natychmiast, bywa też, że trzeba go przekonać albo zmusić w chwili, gdy jest najbardziej potrzebny — ta sama przekorna natura, która rządzi każdym dosiadaniem, rządzi i przedmiotem. Zapłatą za jego służbę nie jest złoto, tylko dług i opowieść, które karmią go tak, jak karmi się każdego feya poza wangą.
+
+Ołów gasi wangę jak każdą inną afrykańską magię — opiłki przy przedmiocie i głos ducha milknie. Miejsce wangi wśród innych tradycji magicznych przedmiotów opisuje [[Magiczne przedmioty]].
+
+> [!mechanics]
+> **Wanga:** fey związany jako Ally/Patron, tak jak przy dosiadaniu, ale z modyfikatorem Bound to Object zamiast obecności w ciele nosiciela
+> **Aktywacja:** właściciel wydaje rozkaz; opór feya rozgrywa się jak przy dosiadaniu niewprawnego konia
+> **Ołów:** zetknięcie z metalem tłumi wangę identycznie jak każdą inną afrykańską magię
+
+---
+
 ## Czarne Voodoo i zombie
 
 Obok służby feyom istnieje gałąź mroczniejsza. Czarna wiedźma łamie ducha i zmusza go do posłuchu, rzuca klątwy, które gniją żywcem, i sięga po zmarłych. To z tej tradycji pochodzi zombie.
@@ -99,4 +114,4 @@ Skutek dotyka [[Codzienne życie w Stanach Zjednoczonych|codzienności]] na Poł
 
 ---
 
-*Powiązane artykuły: [[Afryka Subsaharyjska]], [[Haiti]], [[Toussaint Louverture]], [[Handel Trójkątny]], [[Stany Zjednoczone]], [[Nowy Orlean]], [[Fey]], [[Daemony]], [[Bois Caïman]], [[Punkty rozbieżności]], [[Chronologia]].*
+*Powiązane artykuły: [[Afryka Subsaharyjska]], [[Haiti]], [[Toussaint Louverture]], [[Handel Trójkątny]], [[Stany Zjednoczone]], [[Nowy Orlean]], [[Fey]], [[Daemony]], [[Bois Caïman]], [[Magiczne przedmioty]], [[Punkty rozbieżności]], [[Chronologia]].*

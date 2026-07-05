@@ -493,7 +493,7 @@ Linki w treści porzuciły sufiks „(1802)" zgodnie z nową konwencją; pliki k
 | [[Europejskie czarostwo]] | TAK |
 | [[Inkwizycja]] | TAK |
 | [[Gildie Śmierci]] | TAK |
-| [[Magiczne przedmioty]] | BRAK |
+| [[Magiczne przedmioty]] | TAK |
 | [[Alchemia]] | TAK |
 | [[Feng shui]] | TAK |
 | [[Sztuki walki]] | TAK |

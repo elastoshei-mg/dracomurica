@@ -52,9 +52,16 @@ Książęta są rzadcy — garstka udokumentowanych przypadków w całej histori
 
 Targowe są niższej rangi i aktywnie oferują się na czarnym rynku okultystycznym Europy, sprzedawane przez pośredników, którzy nierzadko nie rozumieją, co przewożą w zapieczętowanym naczyniu. Cichodajne w zamian za karmienie oferują wiedzę zamiast mocy — czarną gałąź nauki, z której korzysta garstka uczonych świadomych ceny, jaką płacą za każde pytanie zadane na głos.
 
+Forma, w jakiej Targowe krążą po czarnym rynku, nie jest metaforą. Byt zamyka się w przedmiocie — pierścieniu, flakonie, rękojeści broni — i z tego naczynia oferuje jakieś wsparcie temu, kto go nosi albo używa. Mechanizm przypomina [[Voodoo|wangę]] kapłanek Voodoo: duch trzymany w materii, dostępny na żądanie właściciela.
+
+Różnica leży w chętności. Loa zamknięty w wandze idzie tam zwykle wbrew sobie, po długiej perswazji albo przymusie. Targowy najczęściej wybiera formę przedmiotu sam, bo to jedyny sposób, w jaki może utrzymać się długo na Planie Materialnym bez ciągłego karmienia się emocjami żywych. Równie często nie jest to jego wybór — demonolog zamyka go w naczyniu wbrew jego woli i sprzedaje gotowy wynik dalej.
+
+Każdy taki przedmiot dziedziczy ograniczenia paktu, który go stworzył. Pakt określa, co przedmiot może zrobić, dla kogo i ile razy, a warunek ten wiąże samego Targowego równie mocno jak nosiciela przedmiotu — byt zamknięty w sygnecie na życzenie właściciela nie odpali nagle mocy zarezerwowanej dla innego układu. Miejsce takich przedmiotów wśród innych tradycji magicznych przedmiotów opisuje [[Magiczne przedmioty]].
+
 > [!rules]
 > **Ranga i trwałość:** im wyższa ranga, tym dłużej byt przetrwa bez karmienia i tym trudniej go wygłodzić metodą Inkwizycji (zob. [[Inkwizycja]])
 > **Pakt cierpliwy:** dług może przechodzić z pokolenia na pokolenie bez formalnego przeniesienia — spadkobierca dziedziczy zobowiązanie razem z majątkiem, zwykle nieświadomie
+> **Targowy w przedmiocie:** działa wyłącznie w granicach zapisanych w pakcie, który go tam zamknął — MG ustala jaką moc, jak często i jakim kosztem dla nosiciela
 > **Handel targowymi:** MG może traktować to jako źródło przygody kryminalnej — przemyt, oszukani pośrednicy, ładunek, który budzi się w połowie transportu
 
 ## Wyjątki od reguły
@@ -99,5 +106,5 @@ Krąży teoria, nigdy w pełni niepotwierdzona: że sukub znany w Europie, waria
 
 Pakt głodował w zimnej celi fortu de Joux, gdzie nie było czym karmić ognia. Demonolog zgasł razem z nim w kwietniu 1803 roku, oficjalnie z zapalenia płuc. Akta Inkwizycji nie zawierają wpisu o tym bycie. Ktokolwiek go widział z bliska, nie zdążył złożyć zeznania, zanim sprawa przestała mieć znaczenie dla kogokolwiek poza samym Toussaintem.
 
-Ostatnia notatka w tej części archiwum urywa się w połowie zdania, tym samym charakterem pisma, który przewija się przez akta sprzed czterdziestu lat — sprawa, która nie doczekała
+Ostatnia notatka w tej części archiwum urywa się w połowie zdania, tym samym charakterem pisma, który przewija się przez akta sprzed czterdziestu lat — sprawa, która nie doczekała ...
 
