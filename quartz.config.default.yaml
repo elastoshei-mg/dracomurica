@@ -11,8 +11,8 @@ configuration:
   ignorePatterns:
     - private
     - templates
-    - **/.obsidian
-    - **/graphify-out
+    - "**/.obsidian"
+    - "**/graphify-out"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
