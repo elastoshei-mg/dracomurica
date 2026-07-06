@@ -77,7 +77,7 @@ Ten sam przemysł zbroi armie. Brytyjskie rusznikarstwo wyprzedza kontynent — 
 
 ## Royal Navy
 
-Flota wojenna liczy w 1802 roku sto siedemnaście okrętów liniowych, dwieście fregat i mniejszych jednostek oraz sto tysięcy marynarzy w czasie pokoju — dwa razy tylu na wojnie. Ta przewaga wyrasta ze stu pięćdziesięciu lat systematycznej inwestycji: Admiralicja zarządza dziesiątkami stoczni, zaopatrzeniem, szpitalami morskimi i własnym sądownictwem, a Royal Navy jest największym pracodawcą w Anglii.
+Flota wojenna liczy w 1802 roku około stu osiemdziesięciu okrętów liniowych w rejestrze, z czego w czynnej służbie stoi blisko sto dwadzieścia, do tego około dwustu trzydziestu fregat i mniejszych jednostek oraz sto tysięcy marynarzy w czasie pokoju — dwa razy tylu na wojnie. Ta przewaga wyrasta ze stu pięćdziesięciu lat systematycznej inwestycji: Admiralicja zarządza dziesiątkami stoczni, zaopatrzeniem, szpitalami morskimi i własnym sądownictwem, a Royal Navy jest największym pracodawcą w Anglii.
 
 Załogi są po części ochotnicze, po części ściągane przez prasy rekruterskie (*press gangs*) — uzbrojone bandy, które łapały mężczyzn przy portach i wcielały siłą; prawo dopuszczało przymus wobec ludzi z morskim doświadczeniem, w praktyce brano, kogo się dało.
 

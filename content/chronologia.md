@@ -544,7 +544,7 @@ W sierpniu 1801 roku rewival w Cane Ridge w Kentucky ściągnął ponoć dwadzie
 
 **Luizjana**: Formalnie francuska od 1800 roku, faktycznie administrowana przez Hiszpanów, którzy nie dostali rozkazu przekazania władzy. 16 października intendent Morales odebrał amerykańskim kupcom prawo składu w [[Nowy Orlean|Nowym Orleanie]], przez który spływa towar całego zachodniego pogranicza; 13 listopada wiec w Lexington wzywał do zajęcia miasta siłą. Ambasador Livingston szukał w Paryżu możliwości kupna — a rewolucyjny zakaz [[Smocza krew|smoczej krwi]] odbierał Luizjanie i tę wartość, bo własne prawo nie pozwalało Francji czerpać z amerykańskich [[Smoki|smoków]].
 
-**Rosja**: Car [[Rosja|Aleksander I]], dwudziestopięcioletni, zaczyna liberalny eksperyment i tej wiosny przeprowadza realną reformę administracji. Za dziesięć lat będzie konserwatywnym mistykiem; teraz wydaje się, że można rozmawiać.
+**Rosja**: Car [[Rosja|Aleksander I]], dwudziestoczteroletni, zaczyna liberalny eksperyment i tej wiosny przeprowadza realną reformę administracji. Za dziesięć lat będzie konserwatywnym mistykiem; teraz wydaje się, że można rozmawiać.
 
 Świat roku 1802 to świat zawieszony. Każda z wielkich decyzji — luizjańska, haitańska, europejska — jest wciąż otwarta.
 

@@ -8,7 +8,7 @@ aliases: ["Rosja", Rosja (1802), Russia, Imperium Rosyjskie, Carstwo Rosji, Ца
 
 Imperium Rosyjskie jest największym państwem świata — szesnaście milionów kilometrów kwadratowych od Finlandii po Alaskę, od Arktyki po Kaukaz. Trzydzieści pięć do czterdziestu czterech milionów poddanych, zależnie od tego, czy liczyć tylko rdzeń imperium, czy wszystkie świeżo przyłączone ziemie łącznie z Kaukazem; armia trzystu tysięcy ludzi ze służbą na ćwierć wieku, dwór mówiący po francusku i chłopi żyjący jak przed sześciuset laty.
 
-Aleksander I ma dwadzieścia pięć lat. Objął tron w marcu 1801 roku, trzy godziny po tym, jak gwardyjscy oficerowie udusili jego ojca Pawła I w Zamku Michajłowskim. Aleksander wiedział o spisku; do końca życia twierdził, że nie wiedział, iż ojca zabiją, a nie tylko zmuszą do abdykacji.
+Aleksander I ma dwadzieścia cztery lata. Objął tron w marcu 1801 roku, trzy godziny po tym, jak gwardyjscy oficerowie udusili jego ojca Pawła I w Zamku Michajłowskim. Aleksander wiedział o spisku; do końca życia twierdził, że nie wiedział, iż ojca zabiją, a nie tylko zmuszą do abdykacji.
 
 Nad tym wszystkim rozciąga się ziemia tak wielka i tak pusta, że święte zwiędło w niej do urzędu, a czary tlą się nietknięte w zakątkach, których żadna władza nie dosięga.
 
@@ -24,7 +24,7 @@ Sam Aleksander robi na każdym rozmówcy wrażenie jedynego człowieka, który g
 
 > [!rules]
 > **Imperium Rosyjskie (1802)**
-> **Car:** Aleksander I, lat 25 (ur. 1777); panuje od marca 1801
+> **Car:** Aleksander I, lat 24 (ur. 1777); panuje od marca 1801
 > **Terytorium:** ~16 mln km² — od Finlandii po Alaskę
 > **Populacja:** ~35–44 mln (zależnie od metodologii liczenia)
 > **Stolica:** Sankt Petersburg (~250 000)
@@ -62,7 +62,7 @@ Polowania na czarownice, które w zachodniej Europie wytępiły jawną magię po
 
 Większość z nich ma moc małą lub średnią. Zdarzają się jednak prawdziwi demonolodzy, paktujący z [[Daemony|Istotami z Zewnątrz]] w zaciszu, o którym Petersburg nie usłyszy latami, oraz charyzmatycy z realnym darem, wokół których w odciętej osadzie narasta kult. Rosja od dawna boryka się z sektami, które urzędowa cerkiew zna z nazwy i nie umie dosięgnąć — ekstatycznymi wspólnotami biczowników i jeszcze mroczniejszymi odłamami, gdzie obrzęd przestaje być tylko obrzędem. Władza centralna jest wobec tego bezradna: miejscowy pop bywa przekupiony, ślepy albo wspólnik, najbliższy urzędnik o miesiąc drogi, a las nie wydaje swoich. Imperium nosi w sobie przewlekłą, cichą gorączkę czarostwa i kultu, której żaden synodalny edykt nie wyleczył.
 
-Magia krwi ma w Rosji własną sygnaturę. Dziedziczne rody [[Prekursorzy|prekursorów]] biegną tu w stronę pogody i zimy: stara linia potrafi ściągnąć mróz nie w porę, zgęścić śnieżycę, uciszyć albo wzburzyć wiatr. Część tych rodów splata władzę nad pogodą z trucizną, a ich znakiem jest mgła, która jest zarazem wyziewem — opar wpełzający w dwór i kładący śpiących bez śladu prócz chłodu. Takich rodzin jest niewiele i gasną jak [[Sorcery]] wszędzie, lecz ich dar pasuje do okrutnej ziemi: ten sam mróz, który złamał każdą armię najeźdźcy, płynie w ich żyłach. Magnat umiejący przywołać zatrutą mgłę jest w dworskiej i pogranicznej grze cichą bronią, o jakiej zachodni prekursorzy nie marzą.
+Magia krwi ma w Rosji własną sygnaturę. Dziedziczne rody [[Sorcery|prekursorów]] biegną tu w stronę pogody i zimy: stara linia potrafi ściągnąć mróz nie w porę, zgęścić śnieżycę, uciszyć albo wzburzyć wiatr. Część tych rodów splata władzę nad pogodą z trucizną, a ich znakiem jest mgła, która jest zarazem wyziewem — opar wpełzający w dwór i kładący śpiących bez śladu prócz chłodu. Takich rodzin jest niewiele i gasną jak [[Sorcery]] wszędzie, lecz ich dar pasuje do okrutnej ziemi: ten sam mróz, który złamał każdą armię najeźdźcy, płynie w ich żyłach. Magnat umiejący przywołać zatrutą mgłę jest w dworskiej i pogranicznej grze cichą bronią, o jakiej zachodni prekursorzy nie marzą.
 
 ---
 
