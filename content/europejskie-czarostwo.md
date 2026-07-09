@@ -1,7 +1,7 @@
 ﻿---
 title: Europejskie czarostwo
 tags: [magia, czarostwo, mechanika, gurps, kolegia]
-aliases: ["Europejskie czarostwo", Czarostwo, Magia uczona, Czarnoksięstwo, Wizardry, Magia ksiąg]
+aliases: [Czarostwo, Magia uczona, Czarnoksięstwo, Wizardry, Magia ksiąg]
 ---
 
 # Europejskie czarostwo
