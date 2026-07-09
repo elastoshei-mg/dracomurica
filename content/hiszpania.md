@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hiszpania
 tags: [hiszpania, europa, kolonie, burbonowie, historia, polityka, gospodarka, spoleczenstwo, magia]
 aliases: [Hiszpania (1802), España, Spain, Korona Hiszpańska, Monarchia Hiszpańska]
@@ -104,5 +104,4 @@ Codzienne życie toczy się daleko od dworu. Kastylijska wioska to sto do trzyst
 ---
 
 *Powiązane artykuły: [[Francja Napoleońska]], [[Wielka Brytania]], [[Terytorium Luizjany]], [[Haiti]], [[Oświecenie]], [[Cudotwórcy]], [[Sorcery]], [[Burbonowie]], [[Europejskie czarostwo]], [[Polowania na czarownice]], [[Daemony]], [[Smocza krew]], [[Punkty rozbieżności]], [[Chronologia]].*
-
 

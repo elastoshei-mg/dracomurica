@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fey
 tags: [fey, magia, folklor, mity, byty-pozaplanarne, archiwum]
 aliases: [Feye, Plan Snów, Lud Czarów]
@@ -137,5 +137,4 @@ Nie wiem, czy to wystarcza za teorię. Zostawiam teczkę otwartą.
 ---
 
 *Powiązane artykuły: [[Portugalia]], [[Krucjaty]], [[Haiti]], [[Voodoo]], [[Daemony]], [[Żywiołaki]], [[Rdzenne narody Ameryki Północnej]], [[Punkty rozbieżności]], [[Chronologia]].*
-
 

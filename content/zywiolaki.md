@@ -1,96 +1,95 @@
-﻿---
-title: Å»ywioÅ‚aki
+---
+title: Żywiołaki
 tags: [magia, natura, zjawiska, byty-pozaplanarne]
-aliases: [Wielki PoÅ¼ar Londynu, Elementals, Duchy Å¼ywioÅ‚Ã³w]
+aliases: [Wielki Pożar Londynu, Elementals, Duchy żywiołów]
 
 ---
 
-# Å»ywioÅ‚aki
+# Żywiołaki
 
-Å»ywioÅ‚aki to chwilowe albo trwaÅ‚e uosobienia energii ognia, wody, ziemi i powietrza. Rodzi je katastrofa albo natura na tyle dzika i nieprzerwana, Å¼e sama staje siÄ™ ÅºrÃ³dÅ‚em mocy. Nie ma ich wiele â€” Å›wiat liczy je w dziesiÄ…tkach, nie w setkach, a wiÄ™kszoÅ›Ä‡ gaÅ›nie w ciÄ…gu dni od powstania.
+Żywiołaki to chwilowe albo trwałe uosobienia energii ognia, wody, ziemi i powietrza. Rodzi je katastrofa albo natura na tyle dzika i nieprzerwana, że sama staje się źródłem mocy. Nie ma ich wiele — świat liczy je w dziesiątkach, nie w setkach, a większość gaśnie w ciągu dni od powstania.
 
-Nie sÄ… inteligentne. DziaÅ‚ajÄ… instynktownie, zgodnie z naturÄ… Å¼ywioÅ‚u, z ktÃ³rego powstaÅ‚y, bez planu i bez zÅ‚oÅ›liwoÅ›ci â€” co nie czyni ich bezpieczniejszymi.
+Nie są inteligentne. Działają instynktownie, zgodnie z naturą żywiołu, z którego powstały, bez planu i bez złośliwości — co nie czyni ich bezpieczniejszymi.
 
 ---
 
 ## Dwie genezy
 
-Katastrofa jest ÅºrÃ³dÅ‚em najczÄ™stszym. PoÅ¼ar, trzÄ™sienie ziemi, powÃ³dÅº, potÄ™Å¼na burza â€” gdy zjawisko przekracza pewien prÃ³g gwaÅ‚townoÅ›ci, zostawia po sobie coÅ› wiÄ™cej niÅ¼ zniszczenie. WielkoÅ›Ä‡ takiego Å¼ywioÅ‚aka roÅ›nie z intensywnoÅ›ciÄ… ÅºrÃ³dÅ‚a. Ten sam poÅ¼ar rodzi w pierwszej godzinie coÅ› wielkoÅ›ci czÅ‚owieka; po trzech dniach niepohamowanego pÅ‚omienia â€” coÅ› wielkoÅ›ci ulicy.
+Katastrofa jest źródłem najczęstszym. Pożar, trzęsienie ziemi, powódź, potężna burza — gdy zjawisko przekracza pewien próg gwałtowności, zostawia po sobie coś więcej niż zniszczenie. Wielkość takiego żywiołaka rośnie z intensywnością źródła. Ten sam pożar rodzi w pierwszej godzinie coś wielkości człowieka; po trzech dniach niepohamowanego płomienia — coś wielkości ulicy.
 
-Zabicie Å¼ywioÅ‚aka katastroficznego nie koÅ„czy zjawiska, jeÅ›li katastrofa wciÄ…Å¼ trwa. ZgÅ‚adzony wraca w ciÄ…gu godzin, dopÃ³ki pÅ‚onie, trzÄ™sie siÄ™ albo wieje. Dopiero wygaÅ›niÄ™cie ÅºrÃ³dÅ‚a â€” poÅ¼ar strawiony, wstrzÄ…sy ustaÅ‚y â€” daje szansÄ™, by Å¼ywioÅ‚ak rozwiaÅ‚ siÄ™ na dobre. WiÄ™kszoÅ›Ä‡ tak wÅ‚aÅ›nie koÅ„czy.
+Zabicie żywiołaka katastroficznego nie kończy zjawiska, jeśli katastrofa wciąż trwa. Zgładzony wraca w ciągu godzin, dopóki płonie, trzęsie się albo wieje. Dopiero wygaśnięcie źródła — pożar strawiony, wstrząsy ustały — daje szansę, by żywiołak rozwiał się na dobre. Większość tak właśnie kończy.
 
-Druga geneza jest rzadsza i cichsza. Nie kaÅ¼dy Å¼ywioÅ‚ak potrzebuje katastrofy â€” wystarczy siÅ‚a natury na tyle nieprzerwana i skrajna, Å¼e utrzymuje siÄ™ latami albo wiekami. PrÄ…d oceaniczny, ktÃ³ry nigdy nie sÅ‚abnie. Wulkan w ciÄ…gÅ‚ej aktywnoÅ›ci. Pustynia, po ktÃ³rej wiatr przesuwa wydmy bez koÅ„ca. Taka geneza bywa spokojniejsza od katastroficznej, ale nie musi â€” zaleÅ¼y wyÅ‚Ä…cznie od charakteru zjawiska, ktÃ³re jÄ… karmi.
+Druga geneza jest rzadsza i cichsza. Nie każdy żywiołak potrzebuje katastrofy — wystarczy siła natury na tyle nieprzerwana i skrajna, że utrzymuje się latami albo wiekami. Prąd oceaniczny, który nigdy nie słabnie. Wulkan w ciągłej aktywności. Pustynia, po której wiatr przesuwa wydmy bez końca. Taka geneza bywa spokojniejsza od katastroficznej, ale nie musi — zależy wyłącznie od charakteru zjawiska, które ją karmi.
 
 > [!mechanics]
-> **System:** Elemental (GURPS Dungeon Fantasy Monsters / Basic Set) jako baza; Terrain Adaptation zgodnie z Å¼ywioÅ‚em
-> **Inteligencja:** IQ 4â€“6, bez taktyki i mowy â€” zachowanie czysto instynktowne
-> **Skala:** ST i HP skalowane z intensywnoÅ›ciÄ… ÅºrÃ³dÅ‚a; MG dostosowuje od pojedynczego starcia po zagroÅ¼enie obszarowe
-> **TrwaÅ‚oÅ›Ä‡:** Å¼ywioÅ‚ak katastroficzny znika z wygaÅ›niÄ™ciem ÅºrÃ³dÅ‚a; Å¼ywioÅ‚ak trwaÅ‚y nie znika, dopÃ³ki trwa zjawisko, ktÃ³re go karmi
-> **WrogoÅ›Ä‡ wobec Daemony:** instynktowna agresja wobec bytÃ³w spoza planu materialnego wykrytych w zasiÄ™gu â€” traktowaÄ‡ jak Berserk wyzwalany obecnoÅ›ciÄ… [[Daemony|Daemona]], nie wolÄ… wÅ‚aÅ›ciciela terenu
+> **System:** Elemental (GURPS Dungeon Fantasy Monsters / Basic Set) jako baza; Terrain Adaptation zgodnie z żywiołem
+> **Inteligencja:** IQ 4–6, bez taktyki i mowy — zachowanie czysto instynktowne
+> **Skala:** ST i HP skalowane z intensywnością źródła; MG dostosowuje od pojedynczego starcia po zagrożenie obszarowe
+> **Trwałość:** żywiołak katastroficzny znika z wygaśnięciem źródła; żywiołak trwały nie znika, dopóki trwa zjawisko, które go karmi
+> **Wrogość wobec Daemony:** instynktowna agresja wobec bytów spoza planu materialnego wykrytych w zasięgu — traktować jak Berserk wyzwalany obecnością [[Daemony|Daemona]], nie wolą właściciela terenu
 
-## OgieÅ„ i woda
+## Ogień i woda
 
-Å»ywioÅ‚aki przeciwnych Å¼ywioÅ‚Ã³w atakujÄ… siÄ™ nawzajem bez rozkazu, nawet gdy nikt nimi nie kieruje. Å»ywioÅ‚ak ognia i Å¼ywioÅ‚ak wody, postawione blisko siebie, walczÄ… z instynktu â€” sprzecznoÅ›Ä‡ natury, nie decyzja.
+Żywiołaki przeciwnych żywiołów atakują się nawzajem bez rozkazu, nawet gdy nikt nimi nie kieruje. Żywiołak ognia i żywiołak wody, postawione blisko siebie, walczą z instynktu — sprzeczność natury, nie decyzja.
 
-Å»ywioÅ‚ak ziemi porusza siÄ™ wolniej niÅ¼ idÄ…cy czÅ‚owiek. Ucieczka w budynku nie pomaga â€” czuje kroki przez fundament, nie przez powietrze, wiÄ™c mury nie dajÄ… schronienia, jakie dajÄ… przed innym drapieÅ¼nikiem. Å»ywioÅ‚ak powietrza jest jedynym typem niewidocznym dla oka. Zdradza go wyÅ‚Ä…cznie to, co porywa: liÅ›cie, dym, pÅ‚achty tkaniny wyrwane z linii.
+Żywiołak ziemi porusza się wolniej niż idący człowiek. Ucieczka w budynku nie pomaga — czuje kroki przez fundament, nie przez powietrze, więc mury nie dają schronienia, jakie dają przed innym drapieżnikiem. Żywiołak powietrza jest jedynym typem niewidocznym dla oka. Zdradza go wyłącznie to, co porywa: liście, dym, płachty tkaniny wyrwane z linii.
 
-## Wielki PoÅ¼ar Londynu
+## Wielki Pożar Londynu
 
-PoÅ¼ar zaczÄ™ty w piekarni przy Pudding Lane we wrzeÅ›niu 1666 roku strawiÅ‚ wiÄ™kszoÅ›Ä‡ miasta w trzy dni. Katastrofa byÅ‚a na tyle gwaÅ‚towna, Å¼e zaczÄ™Å‚a rodziÄ‡ Å¼ywioÅ‚aki ognia, a te wzmagaÅ‚y pÅ‚omieÅ„ dalej. Dzienniki urzÄ™dnikÃ³w z epoki opisujÄ… ogieÅ„ â€žzachowujÄ…cy siÄ™ jak Å¼ywy". Oficjalna kronika obwinia wiatr. LondyÅ„czycy wiedzÄ… swoje.
+Pożar zaczęty w piekarni przy Pudding Lane we wrześniu 1666 roku strawił większość miasta w trzy dni. Katastrofa była na tyle gwałtowna, że zaczęła rodzić żywiołaki ognia, a te wzmagały płomień dalej. Dzienniki urzędników z epoki opisują ogień „zachowujący się jak żywy". Oficjalna kronika obwinia wiatr. Londyńczycy wiedzą swoje.
 
-Zjawisko wygasÅ‚o z poÅ¼arem. Å»aden Å¼ywioÅ‚ak nie przetrwaÅ‚ odbudowy miasta â€” geneza byÅ‚a czysto katastroficzna, bez trwaÅ‚ego ÅºrÃ³dÅ‚a podtrzymujÄ…cego jÄ… po ugaszeniu ostatniego pÅ‚omienia.
+Zjawisko wygasło z pożarem. Żaden żywiołak nie przetrwał odbudowy miasta — geneza była czysto katastroficzna, bez trwałego źródła podtrzymującego ją po ugaszeniu ostatniego płomienia.
 
 ## Lizbona
 
-TrzÄ™sienie ziemi z 1 listopada 1755 roku, w poranek Wszystkich ÅšwiÄ™tych, zrÃ³wnaÅ‚o miasto z ziemiÄ…. Tu zjawisko nie wygasÅ‚o z katastrofÄ…. Å»ywioÅ‚aki ziemi zostaÅ‚y pod odbudowanym miastem i wynurzajÄ… siÄ™ do dziÅ›, w 1802 roku â€” pÄ™ka bruk, drÅ¼y fundament, piwnica potrafi zacisnÄ…Ä‡ siÄ™ na czÅ‚owieku. InÅ¼ynierowie markiza Pombala nie umiejÄ… tego nazwaÄ‡. KapÅ‚ani nie umiejÄ… wygnaÄ‡.
+Trzęsienie ziemi z 1 listopada 1755 roku, w poranek Wszystkich Świętych, zrównało miasto z ziemią. Tu zjawisko nie wygasło z katastrofą. Żywiołaki ziemi zostały pod odbudowanym miastem i wynurzają się do dziś, w 1802 roku — pęka bruk, drży fundament, piwnica potrafi zacisnąć się na człowieku. Inżynierowie markiza Pombala nie umieją tego nazwać. Kapłani nie umieją wygnać.
 
-Kalabria przeÅ¼yÅ‚a w 1783 roku trzÄ™sienie rÃ³wnie krwawe, mniej znane poza WÅ‚ochami. ObudziÅ‚o wÅ‚asne Å¼ywioÅ‚aki ziemi w poÅ‚udniowej czÄ™Å›ci pÃ³Å‚wyspu. Neapol ukrywa ich istnienie staranniej niÅ¼ Lizbona ukrywaÅ‚a swoje â€” Burbonowie bojÄ… siÄ™ utraty twarzy wobec reszty Europy bardziej, niÅ¼ bojÄ… siÄ™ samego zjawiska.
+Kalabria przeżyła w 1783 roku trzęsienie równie krwawe, mniej znane poza Włochami. Obudziło własne żywiołaki ziemi w południowej części półwyspu. Neapol ukrywa ich istnienie staranniej niż Lizbona ukrywała swoje — Burbonowie boją się utraty twarzy wobec reszty Europy bardziej, niż boją się samego zjawiska.
 
-Wenecja nie ma udokumentowanego przypadku, ale ma coÅ› gorszego: pewnoÅ›Ä‡, Å¼e nigdy by nie odrÃ³Å¼niÅ‚a jednego od drugiego. Miasto budowane na palach wbitych w bagno osiada z naturalnych przyczyn od stuleci â€” nierÃ³wno, nieprzewidywalnie, tak jak osiada kaÅ¼de miasto na miÄ™kkim gruncie. InÅ¼ynierzy miejscy prowadzÄ… od pokoleÅ„ nieoficjalny rejestr â€žniepokojÄ…cych" osiadaÅ„, nie dlatego Å¼e wiedzÄ… o Å¼ywioÅ‚aku, lecz dlatego Å¼e nie potrafiÄ… wykluczyÄ‡ jego istnienia z samej tylko obserwacji gruntu. NiepewnoÅ›Ä‡ jest gorsza od potwierdzenia â€” nikt nie wie, kiedy przestaÄ‡ siÄ™ martwiÄ‡.
+Wenecja nie ma udokumentowanego przypadku, ale ma coś gorszego: pewność, że nigdy by nie odróżniła jednego od drugiego. Miasto budowane na palach wbitych w bagno osiada z naturalnych przyczyn od stuleci — nierówno, nieprzewidywalnie, tak jak osiada każde miasto na miękkim gruncie. Inżynierzy miejscy prowadzą od pokoleń nieoficjalny rejestr „niepokojących" osiadań, nie dlatego że wiedzą o żywiołaku, lecz dlatego że nie potrafią wykluczyć jego istnienia z samej tylko obserwacji gruntu. Niepewność jest gorsza od potwierdzenia — nikt nie wie, kiedy przestać się martwić.
 
-## Miejsca trwaÅ‚ej mocy
+## Miejsca trwałej mocy
 
-Etna i Wezuwiusz karmiÄ… swoje Å¼ywioÅ‚aki ognia nie jednÄ… erupcjÄ…, lecz nieprzerwanÄ… aktywnoÅ›ciÄ… wulkanicznÄ… â€” geneza trwaÅ‚a, nie katastroficzna. MieszkaÅ„cy okolicznych wsi nadali im imiona i traktujÄ… wybuchy jak humory znanej, kapryÅ›nej istoty, nie jak klÄ™skÄ™ Å¼ywioÅ‚owÄ… bez twarzy.
+Etna i Wezuwiusz karmią swoje żywiołaki ognia nie jedną erupcją, lecz nieprzerwaną aktywnością wulkaniczną — geneza trwała, nie katastroficzna. Mieszkańcy okolicznych wsi nadali im imiona i traktują wybuchy jak humory znanej, kapryśnej istoty, nie jak klęskę żywiołową bez twarzy.
 
-Sahara rodzi Å¼ywioÅ‚aki piasku, uznawane przez miejscowe ludy za odrÄ™bny gatunek od Å¼ywioÅ‚akÃ³w ziemi â€” szybsze, prawie niewidzialne w burzy, karmione bezkresem pustyni, nie jednym wydarzeniem. Step rosyjski budzi rzadkie Å¼ywioÅ‚aki powietrza podczas *buranÃ³w*, zimowych zawiei â€” Kozacy nazywajÄ… je swoimi zmarÅ‚ymi, wracajÄ…cymi po zapÅ‚atÄ™ za stare krzywdy, choÄ‡ geneza jest ta sama co na Saharze: nie jedna burza, lecz sam charakter stepu, otwartego i nieprzerwanego.
+Sahara rodzi żywiołaki piasku, uznawane przez miejscowe ludy za odrębny gatunek od żywiołaków ziemi — szybsze, prawie niewidzialne w burzy, karmione bezkresem pustyni, nie jednym wydarzeniem. Step rosyjski budzi rzadkie żywiołaki powietrza podczas *buranów*, zimowych zawiei — Kozacy nazywają je swoimi zmarłymi, wracającymi po zapłatę za stare krzywdy, choć geneza jest ta sama co na Saharze: nie jedna burza, lecz sam charakter stepu, otwartego i nieprzerwanego.
 
-Wodospad Niagara ma niemal na pewno Å¼ywioÅ‚aka wody, karmionego wiecznym spadkiem rzeki. Rdzenni mieszkaÅ„cy znali go, zanim przybyli Europejczycy.
+Wodospad Niagara ma niemal na pewno żywiołaka wody, karmionego wiecznym spadkiem rzeki. Rdzenni mieszkańcy znali go, zanim przybyli Europejczycy.
 
 ## Wiara i interpretacja
 
-KoÅ›ciÃ³Å‚ katolicki nie uznaje Å¼ywioÅ‚akÃ³w za odrÄ™bnÄ… kategoriÄ™ bytÃ³w. Klasyfikuje je jako przejaw gniewu BoÅ¼ego albo dziaÅ‚anie [[Daemony|demonÃ³w]] â€” nigdy jako zjawisko naturalne. Egzorcyzm prÃ³bowany na Å¼ywioÅ‚aku ziemi w Lizbonie nie dziaÅ‚a, co teologowie tÅ‚umaczÄ… na kilkanaÅ›cie sprzecznych sposobÃ³w, Å¼aden w peÅ‚ni nie przekonuje reszty.
+Kościół katolicki nie uznaje żywiołaków za odrębną kategorię bytów. Klasyfikuje je jako przejaw gniewu Bożego albo działanie [[Daemony|demonów]] — nigdy jako zjawisko naturalne. Egzorcyzm próbowany na żywiołaku ziemi w Lizbonie nie działa, co teologowie tłumaczą na kilkanaście sprzecznych sposobów, żaden w pełni nie przekonuje reszty.
 
-Protestanccy kaznodzieje w [[Stany Zjednoczone|Stanach]], ktÃ³rzy sÅ‚yszeli o lizboÅ„skim trzÄ™sieniu, cytujÄ… je jako dowÃ³d boskiej kary za katolicki grzech. Nie wiedzÄ… nic o Å¼ywioÅ‚akach â€” budujÄ… caÅ‚Ä… teologiÄ™ na niepeÅ‚nej informacji, powtarzanÄ… z ambony jako pewnik.
+Protestanccy kaznodzieje w [[Stany Zjednoczone|Stanach]], którzy słyszeli o lizbońskim trzęsieniu, cytują je jako dowód boskiej kary za katolicki grzech. Nie wiedzą nic o żywiołakach — budują całą teologię na niepełnej informacji, powtarzaną z ambony jako pewnik.
 
-WÅ›rÃ³d [[Rdzenne narody Ameryki PÃ³Å‚nocnej|rdzennych narodÃ³w]] Å¼ywioÅ‚ak Niagary bywa mylony z lokalnym duchem opiekuÅ„czym. RozrÃ³Å¼nienie miÄ™dzy jednym a drugim jest przedmiotem sporu miÄ™dzy starszyznÄ… rÃ³Å¼nych narodÃ³w, nierozstrzygniÄ™tego od pokoleÅ„ â€” nie brakiem wiedzy, lecz rÃ³Å¼nicÄ… tradycji, z ktÃ³rych Å¼adna nie ustÄ™puje.
+Wśród [[Rdzenne narody Ameryki Północnej|rdzennych narodów]] żywiołak Niagary bywa mylony z lokalnym duchem opiekuńczym. Rozróżnienie między jednym a drugim jest przedmiotem sporu między starszyzną różnych narodów, nierozstrzygniętego od pokoleń — nie brakiem wiedzy, lecz różnicą tradycji, z których żadna nie ustępuje.
 
-Islam ma wÅ‚asnÄ… kategoriÄ™ bliskÄ… Å¼ywioÅ‚akom: dÅ¼inny, stworzone z bezdymnego ognia. Uczeni muzuÅ‚maÅ„scy spierajÄ… siÄ™, czy europejski Å¼ywioÅ‚ak ognia i arabski dÅ¼inn to ta sama istota widziana przez dwie kultury, czy coÅ› fundamentalnie rÃ³Å¼nego. SpÃ³r nie ma rozstrzygniÄ™cia w tym Å›wiecie â€” dÅ¼inny pustyni, jakie spotykali krzyÅ¼owcy pod Lewantem, wywodzÄ… siÄ™ z zupeÅ‚nie innej genezy niÅ¼ Å¼ywioÅ‚aki, z [[Fey|Planu SnÃ³w]], nie z katastrofy ani z trwaÅ‚ej siÅ‚y natury. Z zewnÄ…trz obie kategorie wyglÄ…dajÄ… podobnie. Å»aden uczony Å¼adnej ze stron nie miaÅ‚ okazji zbadaÄ‡ ich razem na tyle blisko, by odrÃ³Å¼niÄ‡ jedno od drugiego z pewnoÅ›ciÄ….
+Islam ma własną kategorię bliską żywiołakom: dżinny, stworzone z bezdymnego ognia. Uczeni muzułmańscy spierają się, czy europejski żywiołak ognia i arabski dżinn to ta sama istota widziana przez dwie kultury, czy coś fundamentalnie różnego. Spór nie ma rozstrzygnięcia w tym świecie — dżinny pustyni, jakie spotykali krzyżowcy pod Lewantem, wywodzą się z zupełnie innej genezy niż żywiołaki, z [[Fey|Planu Snów]], nie z katastrofy ani z trwałej siły natury. Z zewnątrz obie kategorie wyglądają podobnie. Żaden uczony żadnej ze stron nie miał okazji zbadać ich razem na tyle blisko, by odróżnić jedno od drugiego z pewnością.
 
-## Zabobon gÃ³rniczy
+## Zabobon górniczy
 
-GÃ³rnicy Rzeszy i Kornwalii majÄ… wÅ‚asny, nieoficjalny system pukania w Å›cianÄ™ chodnika przy zawale, przekazywany z ojca na syna jako sposÃ³b â€žuspokojenia" ziemi. Nie dziaÅ‚a. Å»aden udokumentowany przypadek Å¼ywioÅ‚aka ziemi w europejskiej kopalni nie istnieje â€” zjawisko wymaga katastrofy na skalÄ™ miejskÄ… albo trwaÅ‚ej siÅ‚y natury, nie pojedynczego zawaÅ‚u sztolni. GÃ³rnicy pukajÄ… mimo to. Wiara w metodÄ™ przetrwaÅ‚a bez jednego potwierdzonego przypadku, ktÃ³ry by jÄ… uzasadniaÅ‚.
+Górnicy Rzeszy i Kornwalii mają własny, nieoficjalny system pukania w ścianę chodnika przy zawale, przekazywany z ojca na syna jako sposób „uspokojenia" ziemi. Nie działa. Żaden udokumentowany przypadek żywiołaka ziemi w europejskiej kopalni nie istnieje — zjawisko wymaga katastrofy na skalę miejską albo trwałej siły natury, nie pojedynczego zawału sztolni. Górnicy pukają mimo to. Wiara w metodę przetrwała bez jednego potwierdzonego przypadku, który by ją uzasadniał.
 
-## Åšlady i zagadki
+## Ślady i zagadki
 
-PowÃ³dÅº w Holandii z 1421 roku, znana jako DzieÅ„ Å›wiÄ™tej ElÅ¼biety, zatopiÅ‚a kilkadziesiÄ…t wsi. Lokalne podania mÃ³wiÄ… o Å¼ywioÅ‚aku wody wciÄ…Å¼ czajÄ…cym siÄ™ w zalanych polderach. Holendrzy budujÄ… groble z dodatkowÄ… marÅ¼Ä… bezpieczeÅ„stwa, nie tÅ‚umaczÄ…c gÅ‚oÅ›no dlaczego â€” praktyka przetrwaÅ‚a cel, dla ktÃ³rego powstaÅ‚a.
+Powódź w Holandii z 1421 roku, znana jako Dzień świętej Elżbiety, zatopiła kilkadziesiąt wsi. Lokalne podania mówią o żywiołaku wody wciąż czającym się w zalanych polderach. Holendrzy budują groble z dodatkową marżą bezpieczeństwa, nie tłumacząc głośno dlaczego — praktyka przetrwała cel, dla którego powstała.
 
-W Wenecji krÄ…Å¼y legenda o architekcie sprzed dwustu lat, ktÃ³ry miaÅ‚ Å›wiadomie zaprojektowaÄ‡ fundamenty jednego z paÅ‚acÃ³w tak, by â€žuspokoiÄ‡" grunt pod nim. PaÅ‚ac nigdy nie osiadÅ‚ bardziej niÅ¼ budynki sÄ…siednie. Miejscowi uznajÄ… to za dowÃ³d. InÅ¼ynierowie za zbieg okolicznoÅ›ci. Å»adna strona nie ma sposobu, by przekonaÄ‡ drugÄ….
+W Wenecji krąży legenda o architekcie sprzed dwustu lat, który miał świadomie zaprojektować fundamenty jednego z pałaców tak, by „uspokoić" grunt pod nim. Pałac nigdy nie osiadł bardziej niż budynki sąsiednie. Miejscowi uznają to za dowód. Inżynierowie za zbieg okoliczności. Żadna strona nie ma sposobu, by przekonać drugą.
 
-WÅ›rÃ³d ksiÄ…g skonfiskowanych przez [[Inkwizycja|InkwizycjÄ™]] w Portugalii, opisujÄ…cych pakty Å¼eglarzy z bytami wody i sztormu, krÄ…Å¼Ä… fragmenty dotyczÄ…ce â€žprzywoÅ‚ywania" Å¼ywioÅ‚akÃ³w na zawoÅ‚anie. Teoretycznie niemoÅ¼liwe â€” Å¼ywioÅ‚aka rodzi katastrofa albo trwaÅ‚a siÅ‚a natury, nie rytuaÅ‚ wypowiedziany nad stoÅ‚em. Same ksiÄ™gi istniejÄ… mimo to, a nikt, kto je widziaÅ‚, nie potrafi wytÅ‚umaczyÄ‡ dlaczego ktoÅ› je kiedyÅ› spisaÅ‚.
+Wśród ksiąg skonfiskowanych przez [[Inkwizycja|Inkwizycję]] w Portugalii, opisujących pakty żeglarzy z bytami wody i sztormu, krążą fragmenty dotyczące „przywoływania" żywiołaków na zawołanie. Teoretycznie niemożliwe — żywiołaka rodzi katastrofa albo trwała siła natury, nie rytuał wypowiedziany nad stołem. Same księgi istnieją mimo to, a nikt, kto je widział, nie potrafi wytłumaczyć dlaczego ktoś je kiedyś spisał.
 
-## Dawniejszy Å›wiat
+## Dawniejszy świat
 
-WÅ›rÃ³d naturalnych filozofÃ³w krÄ…Å¼y teoria nigdy w peÅ‚ni nieudowodniona: Å¼e w dawniejszych wiekach Å¼ywioÅ‚akÃ³w byÅ‚o znacznie wiÄ™cej, a [[Fey|feyÃ³w]] znacznie mniej niÅ¼ dziÅ›. Åšwiat sprzed gÄ™stego osadnictwa byÅ‚ dzikszy â€” wiÄ™cej nietkniÄ™tej puszczy, wiÄ™cej wybrzeÅ¼y bez portu, wiÄ™cej rzek bez mÅ‚yna. Taki Å›wiat karmiÅ‚ Å¼ywioÅ‚aki obficiej, bo ich geneza trwaÅ‚a wymaga wÅ‚aÅ›nie tego rodzaju nieprzerwanej dziczy.
+Wśród naturalnych filozofów krąży teoria nigdy w pełni nieudowodniona: że w dawniejszych wiekach żywiołaków było znacznie więcej, a [[Fey|feyów]] znacznie mniej niż dziś. Świat sprzed gęstego osadnictwa był dzikszy — więcej nietkniętej puszczy, więcej wybrzeży bez portu, więcej rzek bez młyna. Taki świat karmił żywiołaki obficiej, bo ich geneza trwała wymaga właśnie tego rodzaju nieprzerwanej dziczy.
 
-Fey rosnÄ… z opowieÅ›ci, nie z dzikoÅ›ci terenu. RosnÄ…ce miasta, gÄ™stniejÄ…ce tradycje, powtarzane pokoleniami legendy dajÄ… im wiÄ™cej materiaÅ‚u niÅ¼ kiedykolwiek wczeÅ›niej â€” dokÅ‚adnie w czasie, gdy cywilizacja odbiera przestrzeÅ„ Å¼ywioÅ‚akom. Teoria nie ma dowodu twardszego niÅ¼ zestawienie starych kronik z nowymi, ale zestawienie jest uderzajÄ…ce: im starszy dokument, tym czÄ™Å›ciej pojawia siÄ™ w nim Å¼ywioÅ‚ak; im nowszy, tym czÄ™Å›ciej fey.
+Fey rosną z opowieści, nie z dzikości terenu. Rosnące miasta, gęstniejące tradycje, powtarzane pokoleniami legendy dają im więcej materiału niż kiedykolwiek wcześniej — dokładnie w czasie, gdy cywilizacja odbiera przestrzeń żywiołakom. Teoria nie ma dowodu twardszego niż zestawienie starych kronik z nowymi, ale zestawienie jest uderzające: im starszy dokument, tym częściej pojawia się w nim żywiołak; im nowszy, tym częściej fey.
 
 > [!rules]
-> **RzadkoÅ›Ä‡:** Å›wiat liczy Å¼ywioÅ‚aki w dziesiÄ…tkach, nie w setkach; wiÄ™kszoÅ›Ä‡ MG-owskich kampanii nie spotka wiÄ™cej niÅ¼ jednego lub dwÃ³ch na caÅ‚Ä… grÄ™
-> **Geneza katastroficzna:** wymaga zdarzenia przekraczajÄ…cego prÃ³g gwaÅ‚townoÅ›ci miejskiej skali (wielki poÅ¼ar, trzÄ™sienie, wielka powÃ³dÅº); mija z wygaÅ›niÄ™ciem ÅºrÃ³dÅ‚a
-> **Geneza trwaÅ‚a:** wymaga nieprzerwanej, skrajnej siÅ‚y natury (wulkan czynny, prÄ…d oceaniczny, pustynia, step); nie mija, dopÃ³ki trwa ÅºrÃ³dÅ‚o
-> **Rozpoznanie w terenie:** brak niezawodnej metody; nawet po fakcie trudno odrÃ³Å¼niÄ‡ Å¼ywioÅ‚aka od zwykÅ‚ego, ekstremalnego zjawiska naturalnego
+> **Rzadkość:** świat liczy żywiołaki w dziesiątkach, nie w setkach; większość MG-owskich kampanii nie spotka więcej niż jednego lub dwóch na całą grę
+> **Geneza katastroficzna:** wymaga zdarzenia przekraczającego próg gwałtowności miejskiej skali (wielki pożar, trzęsienie, wielka powódź); mija z wygaśnięciem źródła
+> **Geneza trwała:** wymaga nieprzerwanej, skrajnej siły natury (wulkan czynny, prąd oceaniczny, pustynia, step); nie mija, dopóki trwa źródło
+> **Rozpoznanie w terenie:** brak niezawodnej metody; nawet po fakcie trudno odróżnić żywiołaka od zwykłego, ekstremalnego zjawiska naturalnego
 
 ---
 
-*PowiÄ…zane artykuÅ‚y: [[Portugalia]], [[Fey]], [[Daemony]], [[Krucjaty]], [[Rdzenne narody Ameryki PÃ³Å‚nocnej]], [[Inkwizycja]], [[Punkty rozbieÅ¼noÅ›ci]], [[Chronologia]].*
-
+*Powiązane artykuły: [[Portugalia]], [[Fey]], [[Daemony]], [[Krucjaty]], [[Rdzenne narody Ameryki Północnej]], [[Inkwizycja]], [[Punkty rozbieżności]], [[Chronologia]].*

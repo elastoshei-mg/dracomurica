@@ -1,4 +1,4 @@
-﻿---
+---
 title: Portugalia
 tags: [portugalia, europa, kolonie, brazylia, historia, polityka, gospodarka, spoleczenstwo, magia]
 aliases: [Portugalia (1802), Portugal, Królestwo Portugalii, Korona Portugalska]
@@ -79,5 +79,4 @@ W kraju zostaje wino. Dolina Douro produkuje porto — wino wzmacniane brandy, b
 ---
 
 *Powiązane artykuły: [[Wielka Brytania]], [[Hiszpania]], [[Francja Napoleońska]], [[Ameryka Południowa]], [[Charau-Ka]], [[Handel Trójkątny]], [[Sorcery]], [[Daemony]], [[Fey]], [[Żywiołaki]], [[Punkty rozbieżności]], [[Chronologia]].*
-
 

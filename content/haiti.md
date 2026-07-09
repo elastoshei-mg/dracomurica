@@ -1,4 +1,4 @@
-﻿---
+---
 title: Haiti
 tags: [haiti, rewolucja, karaiby, francja, historia, magia, voodoo]
 aliases: [Haiti (1802), Saint-Domingue, Wyspa Hispaniola, La Perle des Antilles]
@@ -102,5 +102,4 @@ Wyspa zmieniła przy tym układ sił szerszy niż własny. Zebrało się tu doś
 ---
 
 *Powiązane artykuły: [[Toussaint Louverture]], [[Francja Napoleońska]], [[Terytorium Luizjany]], [[Stany Zjednoczone]], [[Handel Trójkątny]], [[Voodoo]], [[Fey]], [[Bois Caïman]], [[Punkty rozbieżności]], [[Chronologia]].*
-
 
