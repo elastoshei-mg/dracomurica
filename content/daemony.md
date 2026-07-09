@@ -1,7 +1,7 @@
 ﻿---
 title: Daemony
 tags: [magia, byty-pozaplanarne, inkwizycja, demonologia]
-aliases: ["Daemony", Istoty z Zewnątrz, Fałszywe anioły, Demony, Byty spoza planu]
+aliases: [Istoty z Zewnątrz, Fałszywe anioły, Demony, Byty spoza planu]
 ---
 
 # Daemony
@@ -113,4 +113,5 @@ Krąży teoria, nigdy w pełni niepotwierdzona: że sukub znany w Europie, waria
 Pakt głodował w zimnej celi fortu de Joux, gdzie nie było czym karmić ognia. Demonolog zgasł razem z nim w kwietniu 1803 roku, oficjalnie z zapalenia płuc. Akta Inkwizycji nie zawierają wpisu o tym bycie. Ktokolwiek go widział z bliska, nie zdążył złożyć zeznania, zanim sprawa przestała mieć znaczenie dla kogokolwiek poza samym Toussaintem.
 
 Ostatnia notatka w tej części archiwum urywa się w połowie zdania, tym samym charakterem pisma, który przewija się przez akta sprzed czterdziestu lat — sprawa, która nie doczekała ...
+
 

@@ -1,7 +1,7 @@
 ﻿---
 title: Alchemia
 tags: [alchemia, magia, mechanika, rzemioslo, smocza krew, czerwone opium, gurps]
-aliases: ["Alchemia", Alchemy, Alchemik, Eliksiry, Destylacja, Smocza krew, Czerwone opium]
+aliases: [Alchemy, Alchemik, Eliksiry, Destylacja, Smocza krew, Czerwone opium]
 ---
 
 # Alchemia
@@ -147,4 +147,5 @@ Wariantowe systemy alchemii — odmienne założenia o naturze przemiany — opi
 ---
 
 *Powiązane artykuły: [[Smoczy Magowie]], [[Smoki]], [[Magiczne przedmioty]], [[Sorcery]], [[Europejskie czarostwo]], [[Cudotwórcy]], [[Nowy Orlean]], [[Handel futrami]], [[Rdzenne narody Ameryki Północnej]], [[Hiszpania]], [[Chiny dynastii Qing]], [[Kompanie Wschodnioindyjskie]], [[Cięcie Powietrza]], [[Rewolucja Przemysłowa]], [[Krucjaty]], [[Punkty rozbieżności]], [[Chronologia]].*
+
 

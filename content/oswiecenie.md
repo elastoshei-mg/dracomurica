@@ -1,7 +1,7 @@
 ﻿---
 title: Oświecenie
 tags: [filozofia, intelekt, historia idei, rewolucja, nauka, kultura, europa, magia]
-aliases: ["Oświecenie", Oświecenie (1802), Enlightenment, Siècle des Lumières, Aufklärung, Ilustración, Iluminismo]
+aliases: [Oświecenie (1802), Enlightenment, Siècle des Lumières, Aufklärung, Ilustración, Iluminismo]
 ---
 
 # Oświecenie
@@ -79,4 +79,5 @@ Romantyzm wyrasta z tego, czego rozum nie obejmuje: z głębi uczucia, z wartoś
 ---
 
 *Powiązane artykuły: [[Wolnomurarstwo]], [[Stany Zjednoczone]], [[Francja Napoleońska]], [[Wielka Brytania]], [[Haiti]], [[Rewolucja Przemysłowa]], [[Państwo Kościelne]], [[Cudotwórcy]], [[Sorcery]], [[Punkty rozbieżności]], [[Chronologia]].*
+
 

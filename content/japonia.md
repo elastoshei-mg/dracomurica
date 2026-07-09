@@ -1,7 +1,7 @@
 ﻿---
 title: Japonia
 tags: [japonia, azja, tokugawa, sakoku, historia, kultura, spoleczenstwo, magia]
-aliases: ["Japonia", Japonia (1802), Japan, Edo Japan, Tokugawa Japan, Nihon, Nippon]
+aliases: [Japonia (1802), Japan, Edo Japan, Tokugawa Japan, Nihon, Nippon]
 ---
 
 # Japonia
@@ -93,4 +93,5 @@ Na uboczu rośnie myśl groźna dla szogunatu. Nauka Mito, rozwijana przez jedn�
 ---
 
 *Powiązane artykuły: [[Chiny dynastii Qing]], [[Kompanie Wschodnioindyjskie]], [[Rosja]], [[Wielka Brytania]], [[Handel Trójkątny]], [[Cięcie Powietrza]], [[Sztuki walki]], [[Fey]], [[Punkty rozbieżności]], [[Chronologia]].*
+
 

@@ -1,7 +1,7 @@
 ﻿---
 title: Burbonowie
 tags: [francja, hiszpania, dynastia, sorcery, magia, genealogia, arystokracja]
-aliases: ["Burbonowie", Bourbon, Dom Burbonów, House of Bourbon, Burbonowie francuscy, Burbonowie hiszpańscy, Burbonowie neapolitańscy]
+aliases: [Bourbon, Dom Burbonów, House of Bourbon, Burbonowie francuscy, Burbonowie hiszpańscy, Burbonowie neapolitańscy]
 ---
 
 # Burbonowie
@@ -115,4 +115,5 @@ Linia neapolitańsko-sycylijska trwa pod Ferdynandem IV, boczna gałąź bez zna
 ---
 
 *Powiązane artykuły: [[Sorcery]], [[Alchemia]], [[Francja Napoleońska]], [[Hiszpania]], [[Punkty rozbieżności]], [[Chronologia]].*
+
 

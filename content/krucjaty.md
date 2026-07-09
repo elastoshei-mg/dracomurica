@@ -1,7 +1,7 @@
 ﻿---
 title: Krucjaty
 tags: [krucjaty, religia, cudotworcy, wojna, historia, magia, bliski-wschod]
-aliases: ["Krucjaty", Wyprawy krzyżowe, Crusades, Krucjata, Wojny krzyżowe]
+aliases: [Wyprawy krzyżowe, Crusades, Krucjata, Wojny krzyżowe]
 ---
 
 # Krucjaty
@@ -121,4 +121,5 @@ Najświeższe echo bije z Arabii. Purytański zryw wahabitów, który w 1802 rok
 ---
 
 *Powiązane artykuły: [[Cudotwórcy]], [[Cudotwórcy wojskowi]], [[Państwo Kościelne]], [[Hiszpania]], [[Imperium Osmańskie]], [[Święte Cesarstwo Rzymskie]], [[Pokój Amiens]], [[Magiczne przedmioty]], [[Alchemia]], [[Europejskie czarostwo]], [[Fey]], [[Nieumarli]], [[Gildie Śmierci]], [[Wolnomurarstwo]], [[Punkty rozbieżności]], [[Chronologia]].*
+
 
