@@ -1,7 +1,7 @@
 ---
 title: Terytorium Luizjany
 tags: [luizjana, terytorium, usa, francja, hiszpania, smoki, alchemia, rdzenne narody, geografia, polityka, historia]
-aliases: ["Terytorium Luizjany", Louisiana Territory, Luizjana, Louisiana Purchase, Louisiana, Terytorium Luizjany (1802)]
+aliases: [Louisiana Territory, Luizjana, Louisiana Purchase, Louisiana, Terytorium Luizjany (1802)]
 
 ---
 

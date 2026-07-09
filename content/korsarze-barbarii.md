@@ -1,7 +1,7 @@
-﻿---
+---
 title: Korsarze Barbarii
 tags: [maghreb, korsarze, islam, afryka, morze, dyplomacja, niewolnictwo, magia, historia]
-aliases: ["Korsarze Barbarii", Korsarze Barbarii (1802), Barbary Pirates, Barbary Corsairs, Berberyjczycy, Państwa berberyjskie, Maghreb]
+aliases: [Korsarze Barbarii (1802), Barbary Pirates, Barbary Corsairs, Berberyjczycy, Państwa berberyjskie, Maghreb]
 ---
 
 # Korsarze Barbarii

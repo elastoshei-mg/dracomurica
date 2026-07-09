@@ -1,7 +1,7 @@
 ---
 title: Sztuki walki
 tags: [magia, sztuki walki, mechanika, gurps, qi, chiny]
-aliases: ["Sztuki walki", Kung-fu, Sztuki walki Wschodu, Qi, Chi, Martial Arts]
+aliases: [Kung-fu, Sztuki walki Wschodu, Qi, Chi, Martial Arts]
 
 ---
 

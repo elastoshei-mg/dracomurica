@@ -1,7 +1,7 @@
-﻿---
+---
 title: Bois Caïman
 tags: [wydarzenie, haiti, voodoo, rewolucja, magia, historia]
-aliases: ["Bois Caïman", Bwa Kayiman, Ceremonia w Bois Caïman, Noc 14 sierpnia, Noc otwartej bramy]
+aliases: [Bwa Kayiman, Ceremonia w Bois Caïman, Noc 14 sierpnia, Noc otwartej bramy]
 ---
 
 # Bois Caïman

@@ -1,7 +1,7 @@
 ---
 title: Magiczne przedmioty
 tags: [magia, przedmioty, mechanika, gurps, rzemioslo, historia]
-aliases: ["Magiczne przedmioty", Artefakty, Enchanted items, Zaklinanie przedmiotów, Talizmany, Amulety, Wanga, Relikwie, Kamień mocy]
+aliases: [Artefakty, Enchanted items, Zaklinanie przedmiotów, Talizmany, Amulety, Wanga, Relikwie, Kamień mocy]
 ---
 
 # Magiczne przedmioty

@@ -1,7 +1,7 @@
 ---
 title: Feng shui
 tags: [magia, feng shui, mechanika, gurps, qi, chiny, geomancja]
-aliases: ["Feng shui", Feng Shui, 風水, Geomancja, Geomancja chińska]
+aliases: [Feng Shui, 風水, Geomancja, Geomancja chińska]
 ---
 
 # Feng shui

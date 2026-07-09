@@ -1,7 +1,7 @@
-﻿---
+---
 title: Kanada Brytyjska
 tags: [kanada, wielka brytania, kolonie, historia, handel, spoleczenstwo, smoki]
-aliases: ["Kanada Brytyjska", Kanada, British North America, Brytyjska Ameryka Północna, Kanada Brytyjska (1802)]
+aliases: [Kanada, British North America, Brytyjska Ameryka Północna, Kanada Brytyjska (1802)]
 ---
 
 # Kanada Brytyjska

@@ -1,7 +1,7 @@
-﻿---
+---
 title: Ameryka Południowa
 tags: [ameryka poludniowa, geografia, kolonie, hiszpania, portugalia, charau-ka, demonologia, magia]
-aliases: ["Ameryka Południowa", Charau-Ka, South America, Ameryka Płd.]
+aliases: [Charau-Ka, South America, Ameryka Płd.]
 ---
 
 # Ameryka Południowa

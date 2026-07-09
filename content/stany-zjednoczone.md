@@ -1,7 +1,7 @@
 ---
 title: Stany Zjednoczone
 tags: [usa, polityka, historia, ustroj, religia, magia]
-aliases: ["Stany Zjednoczone", Stany Zjednoczone (1802), USA, Stany, Republika Amerykańska, Stany Zjednoczone Ameryki]
+aliases: [Stany Zjednoczone (1802), USA, Stany, Republika Amerykańska, Stany Zjednoczone Ameryki]
 
 ---
 

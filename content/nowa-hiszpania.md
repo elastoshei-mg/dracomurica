@@ -1,7 +1,7 @@
-﻿---
+---
 title: Nowa Hiszpania
 tags: [nowa hiszpania, hiszpania, kolonie, smoki, rdzenne narody, alchemia, geografia, polityka, historia, pogranicze]
-aliases: ["Nowa Hiszpania", Nueva España, New Spain, Wicekrólestwo Nowej Hiszpanii]
+aliases: [Nueva España, New Spain, Wicekrólestwo Nowej Hiszpanii]
 ---
 
 # Nowa Hiszpania
