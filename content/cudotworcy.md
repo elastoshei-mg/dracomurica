@@ -7,6 +7,8 @@ aliases: [Cudotwórca, Cudotwórcy, Paragoni, Paragon, Miracle Workers, Cudotwó
 
 # Cudotwórcy
 
+![](./images/26.jpg)
+
 Cudotwórcy to ludzie, których szczera wiara — wzmocniona dogmatem i obrzędem konkretnego wyznania — sprowadza prawdziwe Cuda od Sił Wyższych. Należą do nich księża, zakonnice, kaznodzieje, rabini i marabuci: każdy, kto modlitwą potrafi uprosić pomoc nieba.
 
 Moc jest realna, lecz warunkowa i krucha. Większość modlitw zostaje bez odpowiedzi, a wiara zdolna do Cudu pęka pod ciężarem świata. I nikt nie wie, czyj bóg właściwie odpowiada — Cud rabina, księdza i imama wygląda tak samo.
@@ -78,6 +80,8 @@ Pius VII rozegrał to świadomie. Konkordat z 1801 roku przywrócił katolicki k
 
 ## Wiary roku 1802
 
+![](./images/24.jpg)
+
 Cud nie jest własnością jednego Kościoła. Trzy wielkie wiary Abrahama — judaizm, chrześcijaństwo i islam — sięgają po niego po swojemu, a samo chrześcijaństwo rozpada się na odłamy, które wzajem mają się za heretyków.
 
 Katolicyzm jest biegunem chłodnej, klasztornej powagi, a jego cudotwórcy są najliczniejsi i najpewniej szkoleni, bo Rzym zna swoje rzemiosło od dwóch tysięcy lat. Judaizm niesie tę samą moc w cadykach i uczonych w piśmie, których świętość bywa równie realna co księdza. Islam zna ją jako barakę: błogosławiona moc spływa na marabutów i sufickich świętych, a ich karamat, drobne cuda, są tak samo prawdziwe — szerzej przy [[Korsarze Barbarii|regencjach berberyjskich]], gdzie baraka marabuta ładuje [[Magiczne przedmioty|antymagiczne talizmany]].
@@ -89,6 +93,8 @@ Wiara potrafi też tę moc stracić zbiorowo. Pamięć [[Krucjaty|krucjat]] jest
 ---
 
 ## Relikwie
+
+![](./images/25.jpg)
 
 Cud zostawia czasem po sobie coś trwalszego niż wspomnienie: przedmiot, w którym modlitwa zostaje zakotwiczona nawet po śmierci cudotwórcy. Kość świętego, strzęp habitu, fiolka krwi męczennika — relikwia czeka na wiernego, który ją aktywuje własną wiarą, tej samej tradycji, z której wyszedł twórca.
 

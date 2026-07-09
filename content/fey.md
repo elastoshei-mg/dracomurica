@@ -22,6 +22,8 @@ Poniżej leży to, co ocalało. Strony brakujące oznaczono tam, gdzie brakują,
 
 ### Raport plebana parafii w Kowarach, Śląsk, 14 listopada 1689
 
+![](./images/36.jpg)
+
 Donoszę Jego Wielebności, iż pasterz Hanusz Berger, lat dwudziestu sześciu, zaginął w dniu 2 listopada przy wypasie owiec na granicy lasu zwanego Czarnym. Owce odnaleziono nietknięte, pies również, lecz bez śladu krwi czy szarpaniny. Miejscowi zgodnie twierdzą, iż widziano go ostatni raz, gdy szedł w stronę polany, na której nikt z żywych nie wypasa od pokoleń, „bo tam się woła po imieniu, a kto się odwróci, już nie wraca". Uznałem to za zabobon i poleciłem szukać wilków. Wilków nie znaleziono. Berger również nie.
 
 *[dopisek innym charakterem pisma, później]: Sprawdzić, czy podobny raport nie istnieje z roku 1650 dla tej samej polany. Jeśli tak — dwa pokolenia, ten sam las, to samo wezwanie po imieniu.*
@@ -45,6 +47,8 @@ Podróżny, który nocował we wsi pod Évorą, opisał później pieśń, któr
 ---
 
 ### Protokół przesłuchania świadków, Évora, zima 1640 (fragment, część karty spalona)
+
+![](./images/37.jpg)
 
 [...] zeznał, iż widział na polu bitwy postać w zbroi sprzed lat pięćdziesięciu, która nie miała cienia mimo słońca, i że kastylijscy żołnierze padali wokół niej, jakby walczyła sama, choć nikt nie widział jej miecza w ruchu. Pytany, czy rozpoznał twarz, odpowiedział, że [...]
 
@@ -103,6 +107,8 @@ Sprawa zaginięcia niewolnika imieniem Cato, ostatnio widzianego przy rozstaju d
 ---
 
 ### Fragment opowieści, zapisany bez zgody opowiadającej przez właściciela plantacji (bez daty)
+
+![](./images/38.jpg)
 
 [...] mówiła, że ten na rozstaju nie jest ani biały, ani czarny, ani diabeł z kazania, tylko coś, co było na tej ziemi, zanim przywieziono kogokolwiek, i że teraz handluje z tymi, co przyjechali, bo handel jest handlem niezależnie od tego, kto przypłynął skąd. Nie powiedziała, co sama mu dała. Spytana wprost, zaśmiała się i zmieniła temat, a właściciel, który to spisywał, dopisał na marginesie: „nie wiem, czy żartowała".
 

@@ -6,6 +6,8 @@ aliases: ["Daemony", Istoty z Zewnątrz, Fałszywe anioły, Demony, Byty spoza p
 
 # Daemony
 
+![](./images/27.jpg)
+
 Ten dokument jest kompilacją, nie traktatem. Powstawał w archiwach [[Inkwizycja|Inkwizycji]] przez pokolenia, różnymi rękami, z których część się ze sobą nie zgadzała. Poniższe kategorie nie są taksonomią zamkniętą. Są tym, co udało się złapać, przesłuchać albo odtworzyć z akt zanim dokumenty spłonęły albo sprawę zamknięto jako coś innego.
 
 Daemony przychodzą z Zewnątrz — nie z Planu Snów jak [[Fey]], nie z Zaświatów, do których modlą się [[Cudotwórcy]]. Skąd dokładnie, nikt nie wie. Bez fizycznego ciała, bez jednej wspólnej formy, bez motywu możliwego do uogólnienia na cały gatunek, jeśli to w ogóle jest gatunek.
@@ -50,6 +52,8 @@ Nie każdy Daemon jest tak samo groźny ani tak samo trwały.
 
 Książęta są rzadcy — garstka udokumentowanych przypadków w całej historii Inkwizycji. Przetrwają lata bez karmienia, co czyni ich niemal niemożliwymi do wygłodzenia metodą stosowaną wobec słabszych bytów. Cierpliwe zawierają pakt bez żądania niczego natychmiast, czekając pokoleniami na spłatę długu w chwili, którą same wybiorą — dziadek podpisuje, wnuk płaci, nie wiedząc dlaczego akurat on.
 
+![](./images/28.jpg)
+
 Targowe są niższej rangi i aktywnie oferują się na czarnym rynku okultystycznym Europy, sprzedawane przez pośredników, którzy nierzadko nie rozumieją, co przewożą w zapieczętowanym naczyniu. Cichodajne w zamian za karmienie oferują wiedzę zamiast mocy — czarną gałąź nauki, z której korzysta garstka uczonych świadomych ceny, jaką płacą za każde pytanie zadane na głos.
 
 Forma, w jakiej Targowe krążą po czarnym rynku, nie jest metaforą. Byt zamyka się w przedmiocie — pierścieniu, flakonie, rękojeści broni — i z tego naczynia oferuje jakieś wsparcie temu, kto go nosi albo używa. Mechanizm przypomina [[Voodoo|wangę]] kapłanek Voodoo: duch trzymany w materii, dostępny na żądanie właściciela.
@@ -81,6 +85,8 @@ Zeznanie jednej z zakonnic, spisane lata później przez innego spowiednika i do
 Trzeci fragment, przypisywany samemu przesłuchaniu bytu podczas jednego z egzorcyzmów i zachowany w notatkach obserwującego brata, jest najkrótszy. Byt, pytany o imię, miał odpowiedzieć, że imion miał tyle, ile miast go wzywało, i że każde z nich pasowało równie dobrze.
 
 ## Inne akta
+
+![](./images/29.jpg)
 
 Francuski arystokrata sprzed rewolucji przywołał coś, czego nie potrafił odesłać. Ruiny jego posiadłości stoją do dziś, a okoliczni chłopi omijają je po zmroku — nie z zabobonu bez podstaw, według ostatniej wizyty inspektora Inkwizycji sprzed dwudziestu lat, który odnotował w raporcie, że temperatura w piwnicy różniła się o kilkanaście stopni od reszty budynku bez wytłumaczenia.
 

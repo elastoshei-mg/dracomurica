@@ -10,6 +10,8 @@ Feng shui (風水, dosłownie „wiatr i woda") czyta krajobraz jak księgę i u
 
 ## Dwa opisy jednego zjawiska
 
+![](./images/33.jpg)
+
 Geomanta uczy się mówić językiem *qi* (氣), pięciu żywiołów (*wuxing*) i ośmiu triagramów (*bagua*) — słownika starszego niż jakakolwiek dynastia obecnie panująca. W tym słowniku nie ma miejsca na feye, duchy przodków ani protoplan, z którego się wywodzą. Jest przepływ, blokada i równowaga, opisywane tym samym tonem, którym lekarz opisuje krążenie krwi.
 
 Chiny obrosły przez tysiąclecia gęstszą siecią feyów i duchów przodków niż jakikolwiek inny region świata. Feng shui nie przywołuje tych bytów wprost i żaden geomanta nie odprawia egzorcyzmu ani seansu. Zagęszcza i kanalizuje ślad, jaki te byty zostawiają w ziemi, wiek po wieku, tak jak tama kanalizuje rzekę, nie rozmawiając z wodą.
@@ -17,6 +19,8 @@ Chiny obrosły przez tysiąclecia gęstszą siecią feyów i duchów przodków n
 Dwór cesarski zatrudnia geomantów bez wahania, choć ten sam dwór ściga szamanów i czarowników jak heretyków. [[Chiny dynastii Qing|Ceremonia i tradycja]] osłoniły feng shui przed podejrzeniem, którego nie uniknęła żadna inna sztuka tajemna Państwa Środka.
 
 ## Rzemiosło geomanty
+
+![](./images/34.jpg)
 
 Sztuka dzieli się na dwie szkoły, które rzadko się zgadzają w szczegółach. Szkoła Form (*xingshi*) czyta krajobraz wprost — góry i rzeki jako żyły smoka (*longmai*), którymi płynie *qi*, a zadaniem geomanty jest znaleźć miejsce, gdzie żyła zwalnia i się gromadzi. Szkoła Kompasu (*liqi*) liczy zamiast patrzeć: kierunek, datę urodzenia mieszkańca i ustawienie triagramów na tarczy kompasu *luopan*, warstwa po warstwie, aż wynik wskaże jedną słuszną orientację drzwi.
 
@@ -47,6 +51,8 @@ Klątwa nie rozróżnia siły od zdrady. W 1644 roku generał Wu Sangui, bronią
 > **Luka w konstrukcji:** klątwa reaguje wyłącznie na przekroczenie siłą — zdrada i otwarta z własnej woli brama zostają poza jej zasięgiem
 
 ## Miara Salomonowa: młodsza gałąź za oceanem
+
+![](./images/35.jpg)
 
 Zachodnia gałąź tej sztuki ma własne imię i własną historię, opisaną szerzej w [[Wolnomurarstwo|Wolnomurarstwie]]. Kilka lóż wciąż praktykuje geometrię przekazaną przez średniowieczne cechy budowniczych katedr — sztukę ustawiania kamienia i proporcji tak, by miejsce sprzyjało. Nazywają ją Miarą Salomonową i wiążą z legendą o Świątyni Jerozolimskiej.
 

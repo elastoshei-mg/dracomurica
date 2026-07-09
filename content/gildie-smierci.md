@@ -6,6 +6,8 @@ aliases: ["Gildie Śmierci", Polowania na czarownice, Nieumarli, Czarna Śmierć
 
 # Gildie Śmierci
 
+![](./images/42.jpg)
+
 Między 1347 a 1353 rokiem dżuma zabiła piętnaście do dwudziestu pięciu milionów ludzi w Europie. To jest historia, którą zna każdy kronikarz epoki. Druga historia, ta która nie trafiła do żadnej oficjalnej kroniki, mówi o tym, co zaraza zbudziła pod ziemią razem z ciałami, które w nią wrzucano.
 
 Kroniki miejskie liczą trupy. Rejestry gildii, listy inkwizycyjne i marginalia przetrwałe wbrew czystkom liczą coś innego: jak wielu zmarłych wstało, zanim ktokolwiek zdążył je pochować, i jak wielu żywych zobaczyło w tym szansę zamiast tragedii. [[Gildie Śmierci]] to nazwa nadana z perspektywy zwycięzców. Ci, których nią objęto, nigdy nie nazwali się tak sami.
@@ -147,6 +149,8 @@ Trzeci już raz w tym roku natrafiam na wzmiankę o adepcie, który miał przetr
 
 ## Cena zwycięstwa
 
+![](./images/43.jpg)
+
 Do roku 1366 najsilniejsze skupiska nekromantów były rozbite, a Fala słabła lokalnie tam, gdzie masowe groby przestawały rosnąć. Zwycięstwo nie było jednak czyste. Złamanie Gildii Śmierci pociągnęło za sobą koniec jawnych organizacji czarodziejskich w całej Europie — władcy i Kościoły, nie potrafiąc odróżnić domu badającego zioła od domu hodującego armię umarłych, zniszczyły albo wchłonęły w nadzorowanej formie wszystko, co jawnie praktykowało magię.
 
 Najwięcej wiedzy spłonęło w Hiszpanii, bo osiem wieków sąsiedztwa z Al-Andalus uczyniło z niej bramę arabsko-żydowskiej wiedzy tajemnej i najgęściej usianą gildiami ziemię Europy. To ta sama trauma, sto trzydzieści lat później, stanie się jednym z dwóch korzeni [[Inkwizycja|hiszpańskiej Inkwizycji]] — instytucji zbudowanej częściowo po to, by coś takiego nie powtórzyło się nigdy więcej.
@@ -154,6 +158,8 @@ Najwięcej wiedzy spłonęło w Hiszpanii, bo osiem wieków sąsiedztwa z Al-And
 Od tej pory czarostwo uczy się w ukryciu, łańcuchem jednoosobowych ogniw, mistrz po uczniu, bez jawnych bibliotek i bez jawnych domów. To jest punkt, od którego magia znika z widoku Europy na cztery i pół wieku, aż do roku, w którym rozgrywa się ten setting.
 
 ## Polowania na czarownice
+
+![](./images/44.jpg)
 
 Wspomnienie wojny z Gildiami Śmierci przetrwało w kulturze ludowej dłużej niż w archiwach — jako opowieść uproszczona do jednego zdania: magowie paktują z demonami, a niektórzy wciąż to robią. To zdanie było w gruncie rzeczy prawdziwe. Problem w tym, że po zamknięciu jawnych gildii nikt już nie potrafił odróżnić prawdziwego adepta od sąsiadki, która zbyt dobrze znała się na ziołach.
 

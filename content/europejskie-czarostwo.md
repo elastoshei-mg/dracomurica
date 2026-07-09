@@ -8,6 +8,8 @@ aliases: ["Europejskie czarostwo", Czarostwo, Magia uczona, Czarnoksięstwo, Wiz
 
 Czarostwo to magia, której się uczy, nie magia, którą się rodzi. W odróżnieniu od dziedzicznej [[Sorcery]] i od zależnego od wiary [[Cudotwórcy|Cudu]], każde zaklęcie czarostwa jest osobną, nabytą umiejętnością — toporną, bo odwzorowuje kiedyś zaobserwowany efekt, ale spójną i przekazywalną. Nakładem lat i pieniędzy da się wyszkolić czarownika o określonym zestawie sztuczek i znaleźć mu miejsce na dworze, w klasztorze albo w cieniu. Jednego. Armii z nich nikt nie zbudował.
 
+![](./images/30.jpg)
+
 Po [[Gildie Śmierci|wojnie z Gildiami Śmierci]] z połowy XIV wieku jawne gildie czarodziejskie przestały istnieć. Wiedza przetrwała w pojedynczych, ukrytych łańcuchach mistrz-uczeń — najgęściej tam, gdzie niegdyś dotarła z Lewantu i Al-Andalus, czyli w cieniu [[Hiszpania|Hiszpanii]] i [[Krucjaty|krucjat]]. Pełną historię tego upadku i jego konsekwencje niesie [[Punkty rozbieżności]]; ten artykuł zajmuje się tym, co historia zostawiła grywalnego — systemem, kolegiami i postacią czarownika przy stole.
 
 ---
@@ -31,6 +33,8 @@ Porażka bywa kosztowna inaczej niż przy Cudzie czy Sorcery. Pomyłka w czarost
 > **Porażka krytyczna:** „wypadek" — tabela krytycznych niepowodzeń z GURPS Magic; MG decyduje, na ile dosłownie ją stosować
 
 ## Kolegia
+
+![](./images/31.jpg)
 
 Wiedza czarostwa dzieli się na dwadzieścia dwa kolegia, każde ze swoją drabiną zaklęć. Adept rzadko opanowuje więcej niż dwa lub trzy w ciągu życia — pozostałe zna co najwyżej z opowieści innych czarowników albo z traktatów, które przeczytał, nie potrafiąc ich powtórzyć.
 
@@ -113,6 +117,8 @@ Czarownik w 1802 roku żyje w cieniu dwóch stuleci polowań na czarownice i ins
 **Uczony-samouk.** Wysokie IQ, niskie Magery, mnóstwo punktów w Research i Thaumatology, garstka zaklęć z jednego kolegium opanowana z resztek książek po dawno zmarłym mistrzu. Wolny, metodyczny, fatalny w starciu, świetny w śledztwie.
 
 **Czarownik dworski.** Magery i Energy Reserve wyżej niż przeciętne, zaklęcia z Komunikacji i Empatii albo Światła i Mroku — efektowne, towarzyskie, dyskretne. Diplomacy i Savoir-Faire zamiast Hidden Lore. Żyje pod patronatem, który jest zarazem ochroną i smyczą.
+
+![](./images/32.jpg)
 
 **Wiejski znachor.** Niskie Magery, jedno lub dwa kolegia użytkowe (Uzdrawianie, Rośliny, Pogoda), żadnego Thaumatology — uczył się czystym naśladownictwem, nie teorią. Tolerowany przez sąsiadów, dopóki plony rosną i dzieci nie chorują; pierwszy podejrzany, gdy coś pójdzie źle.
 

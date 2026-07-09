@@ -6,6 +6,8 @@ aliases: ["Burbonowie", Bourbon, Dom Burbonów, House of Bourbon, Burbonowie fra
 
 # Burbonowie
 
+![](./images/18.jpg)
+
 Dynastia panuje we Francji od Henryka IV w 1589 roku, w Hiszpanii od 1700, w Neapolu i Sycylii od 1734, w Parmie od 1748. Wszystkie cztery linie dzielą tę samą sygnaturę [[Sorcery]] — dziedziczną władzę nad cudzym nastrojem, często o dużym zasięgu — i wszystkie cztery, gdy tylko nadarzyła się okazja, sięgały po amerykańską [[Alchemia|smoczą krew]]. To jednak sam rdzeń, nie cała moc rodu: każde pokolenie dokłada do niego krew domu, z którym się skrzyżowało, a Burbon władający wyłącznie jednym darem jest w tej rodzinie wyjątkiem, nie regułą.
 
 ## Dar i jego użycie
@@ -82,6 +84,8 @@ Karol III nosił ją obok dziedzicznego daru nastroju i władał obiema mocami z
 
 ## Smocza krew Wersalu
 
+![](./images/19.jpg)
+
 Gdy naturalny dar słabł z pokolenia na pokolenie, jak słabnie u każdej linii [[Sorcery|Sorcery]], Burbonowie sięgali po [[Alchemia|smoczą krew]] bez wahania, ilekroć transformacja była osiągalna. Rezultat widać było gołym okiem: burgundowe zęby, przeświecające żyły, comiesięczna fiolka, od której zależało życie.
 
 Transformacja robiła więcej niż podbijała dar nastroju. Budziła moce uśpione przez pokolenia rozcieńczania — Burbon po kuracji bywał nosicielem nie jednego dziedzictwa, lecz trzech czy czterech naraz, jakby krew Albretów, Medyceuszy i Wettynów, dawno uznana za wygasłą, tylko czekała na impuls dość silny, by wypłynąć na powierzchnię razem. Dwór znał genealogię na pamięć, więc po każdej kolejnej transformacji obserwował uważnie, która z dawno pogrzebanych zdolności wróci.
@@ -95,6 +99,8 @@ Skutek uboczny okazał się polityczny. Stan trzeci widział w tym jawną demons
 > **Odstawienie:** przerwanie comiesięcznej dawki po transformacji wywołuje mimowolne wyładowania mocy i w końcu śmierć — patrz [[Alchemia]] i [[Francja Napoleońska]]
 
 ## Dziś, 1802
+
+![](./images/20.jpg)
 
 Głównej linii francuskiej na tronie nie ma. Ludwik XVI zginął pod gilotyną w styczniu 1793 roku, jego syn zmarł w więzieniu Temple w 1795 roku w wieku dziesięciu lat, choć plotka o zamienionym dziecku i cudownie ocalałym dziedzicu krąży po dworach emigracyjnych do dziś.
 

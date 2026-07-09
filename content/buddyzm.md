@@ -45,6 +45,8 @@ Genrin powiedział: „Dobra odpowiedź."
 
 ### Fragment kroniki klasztoru Xitan, prowincja Henan, prowadzonej nieprzerwanie od 1053 roku
 
+![](./images/15.jpg)
+
 Opactwo założono na zboczu, które mnich-geomanta uznał za miejsce, gdzie żyła smoka zwalnia bieg — zapis z roku założenia nie podaje jego imienia, tylko tytuł: Nauczyciel Kamieni.
 
 Rok 1231: opat Deshan rozłupał głaz wielkości wołu jednym uderzeniem otwartej dłoni podczas pokazu dla urzędnika prowincji, który przyjechał zamknąć klasztor za niepłacenie podatku. Podatku nie zapłacono. Klasztor nie zamknięto.
@@ -70,6 +72,8 @@ które zawsze było ostrzejsze.
 
 ### Nota urzędnika Lifanyuan (Biura do Spraw Peryferyjnych) o wyborze jedenastego Panczenlamy, Tybet, 1795
 
+![](./images/16.jpg)
+
 Trzej kandydaci, wszyscy poniżej piątego roku życia, przeszli próbę rozpoznania przedmiotów należących do poprzednika. Chłopiec z Tsangu wskazał różaniec, dzwonek i wadżrę bez wahania, choć nigdy ich wcześniej nie widział — tak przynajmniej twierdzą świadkowie, z których żaden nie jest bezstronny.
 
 Dwór cesarski zatwierdził wybór dopiero po losowaniu ze złotej urny wprowadzonej przez Pekin, bo Syn Nieba nie ufa już samym mnichom w sprawach tak ważnych jak następstwo. Czy w chłopcu z Tsangu jest cokolwiek z poprzednika, czy tylko tytuł i pamięć, którą otoczenie wmawia mu od urodzenia, nie rozstrzygnie żaden urzędnik, a rozstrzygnięcie nie leży zresztą w jego kompetencji.
@@ -85,6 +89,8 @@ Nikt, kogo pytałem, nie umiał przetłumaczyć słów dosłownie. Klejnot w lot
 ---
 
 ### Fragment pisma sekty Białego Lotosu, skonfiskowany podczas obławy w Hubei, 1798
+
+![](./images/17.jpg)
 
 Maitreja nadchodzi, a znak jego nadejścia już płonie w piersi każdego, kto oddycha prawidłowo i pości we właściwe dni. Stara era kończy się w ogniu. Kto to zrozumiał, bierze miecz oczyszczający bez wahania, bo zwłoka jest jedynym prawdziwym grzechem, jaki został.
 

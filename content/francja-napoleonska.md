@@ -6,6 +6,8 @@ aliases: [Francja, "Francja Napoleońska", Francja Napoleońska (1802), Konsulat
 
 # Francja Napoleońska
 
+![](./images/39.jpg)
+
 Republika istnieje z nazwy, konsul z faktu. Napoleon Bonaparte, trzydzieści dwa lata, syn drobnego adwokata z Ajaccio, rządzi krajem dwudziestu ośmiu milionów ludzi metodą, której nikt nie pomyli z demokracją — i robi to z wydajnością zdumiewającą nawet wrogów.
 
 Rok 1802 jest jego rokiem pracy. W marcu podpisał pokój z [[Wielka Brytania|Wielką Brytanią]], w sierpniu został Konsulem Dożywotnim, a między tymi datami przeprowadził ugodę z papieżem, reformę szkół, nowy order zasługi i ekspedycję na [[Haiti]], która pochłonie czterdzieści tysięcy żołnierzy i całe atlantyckie imperium.
@@ -73,6 +75,8 @@ Najtrwalsze dzieło dojrzewa od 1800 roku w komisji czterech prawników. Napoleo
 
 ## Armia i Legion magów
 
+![](./images/40.jpg)
+
 Armia Konsulatu jest innym tworem niż królewska z 1789 roku. Oficerowie awansują za talent, choć lojalność dynastyczna zaczyna to wypierać, a szeregowi są poborowymi obywatelami, nie najemnikami. Osiemnaście korpusów, z których każdy łączy piechotę, kawalerię, artylerię i służby, może działać samodzielnie tygodniami i zbiegać się w punkcie rozstrzygnięcia szybciej, niż Austria czy Prusy zdążą zareagować. Fundamentem jest artyleria — ustandaryzowana, ruchliwa, obsługiwana przez człowieka, który zaczynał jako artylerzysta.
 
 Wokół Napoleona stoi pokolenie generałów, jakiego Europa nie ma: Berthier, niezastąpiony szef sztabu noszący w głowie mapy i dyslokacje całej armii; Murat, brawurowy w pościgu i pozbawiony cierpliwości stratega; Masséna, błyskotliwy i chciwy; Lannes, jedyny, który mówi Konsulowi „ty"; Davout, zimny, karny i niepokonany do końca kariery. To oni egzekwują plany, które Napoleon kreśli.
@@ -104,6 +108,8 @@ Atlantyk i Kanał trzyma jednak brytyjska flota, której nawet pokój nie odsun�
 ---
 
 ## Paryż, dwór i opozycja
+
+![](./images/41.jpg)
 
 Paryż liczy około pięćset pięćdziesiąt tysięcy mieszkańców i wciąż jest w planie miastem średniowiecznym — wąskie ulice, brak zbiorczej kanalizacji, kamienice na wyciągnięcie ręki. Rewolucja zostawiła blizny: kościoły zamienione w magazyny lub świątynie Rozumu, rozsprzedane pałace. Napoleon rezyduje w Tuileries z wyboru symbolicznego, choć woli podparyskie Malmaison, gdzie jego żona urządziła ogród z egzotycznymi roślinami i czarnymi łabędziami i gdzie Konsul na godzinę przerywa pracę.
 

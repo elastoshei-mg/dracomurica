@@ -25,6 +25,8 @@ Alchemik opiera się na systemie alchemii z **GURPS Magic**. Podstawą jest jedn
 
 ## Pracownia
 
+![](./images/4.jpg)
+
 Bez wyposażonej pracowni nie ma alchemii. Lepszy sprzęt, czystsze szkło i pełniejszy zestaw odczynników podnoszą szansę powodzenia; warzenie w polowych warunkach, na zaimprowizowanym palenisku, idzie z karą.
 
 Pracownia kosztuje jak dobry warsztat rzemieślniczy i waży tyle, że nie nosi się jej przy sobie — alchemik podróżujący bierze co najwyżej przenośny, podręczny zestaw o ograniczonych możliwościach. Stąd profesja jest osiadła, a jej ośrodki rosną tam, gdzie blisko do surowca.
@@ -73,6 +75,8 @@ Poniżej przekrój typowych preparatów, jakie gracz spotka w 1802 roku. Klasy c
 
 ## Smocza krew — surowiec uniwersalny
 
+![](./images/5.jpg)
+
 Destylat smoczej krwi zmienił alchemię z fanaberii bogaczy w fach o własnym handlu. Jego natura jest uniwersalna: zastępuje niemal każdy rzadki odczynnik, więc z niego da się próbować uwarzyć prawie wszystko, a wprawnemu alchemikowi ułatwia rzut tam, gdzie brak mu właściwego składnika. Receptury, na które wcześniej trzeba było polować po pół świata, leżą teraz w zasięgu każdego, kto ma fiolkę destylatu i pracownię. To czyni go najcenniejszym surowcem alchemicznym, jaki kiedykolwiek istniał.
 
 Pochodzenie krwi nadaje jej skłonność. Krew smoków plujących kwasem (rzecznych i leśnych) najlepiej wiąże się w preparaty żrące, krew pustynnych w ogniste, górskich w lepki, dopalający się ogień, a krew [[Smoki|cienistych]] w preparaty mrozu i gnicia. Destylat dowolnej odmiany działa jako uniwersalny odczynnik, lecz war zgodny z naturą krwi wychodzi pewniej i mocniej.
@@ -93,6 +97,8 @@ Surowiec rodzi własną wojnę. [[Rdzenne narody Ameryki Północnej|Rdzenni]] c
 Produktem ubocznym tego samego polowania jest łuska. Płaszcz ze smoczej łuski chroni przed ogniem i kwasem zarazem i kosztuje fortunę, lecz obrabia go raczej rymarz niż alchemik — to cel numer jeden każdego złodzieja na pograniczu.
 
 ## Smoczy Magowie
+
+![](./images/6.jpg)
 
 Najpotężniejszym warem, jaki potrafi ten fach, jest przemiana w [[Smoczy Magowie|Smoczego Maga]]. Olbrzymia dawka oczyszczonego destylatu — mówi się wprost o kąpieli we krwi — trwale wzmacnia ciało, daje zdrowie i długowieczność, wzmacnia każdą zdolność [[Sorcery]] i potrafi obudzić moce uśpione i rozrzedzone przez pokolenia. Szlachcic z odpowiednimi koneksjami przywraca tak świetność podupadłemu rodowi i włada naraz mocami kilku przodków.
 

@@ -35,6 +35,8 @@ Afryka roku 1802 jest kontynentem suwerennym w stopniu, jakiego XIX-wieczna Euro
 
 ## Magia kobiet i ołów
 
+![](./images/1.jpg)
+
 Afryka jest matecznikiem magii, którą Nowy Świat zna pod nazwą Voodoo. Tu jest u źródła, w setkach lokalnych tradycji od Senegalu po Kongo, i wszędzie rządzi się tą samą regułą: moc należy do kobiet. Kapłanki, żeńskie bractwa, matki-królowe i wyrocznie trzymają to, co duchowe, podczas gdy mężczyźni trzymają włócznię i tron. W wielu ludach prawdziwa władza jest podwójna — król rządzi za dnia, lecz to kapłanka mówi, czy bogowie się zgadzają.
 
 Ta magia jest realna i groźna. Wyrocznia, która przeklnie wioskę, kapłanka, która ześle chorobę, kobieta, która rozmawia z umarłymi i każe im wrócić — to codzienna siła, z którą każda władza w Afryce się liczy. Obok niej żyją mistyczne bestie, stworzenia, których europejski przyrodnik nie ma w żadnym katalogu, gęstniejące w głębi lądu, gdzie biała noga nie postała.
@@ -48,6 +50,8 @@ Bo choroba dokańcza dzieła magii. Malaria i żółta febra zabijają białych 
 ---
 
 ## Handel ludźmi w dwie strony
+
+![](./images/2.jpg)
 
 Afryka eksportuje ludzi w dwóch kierunkach naraz. Większy strumień płynie przez Atlantyk do Nowego Świata, na plantacje cukru, tytoniu i bawełny, i w 1802 roku wciąż sięga osiemdziesięciu tysięcy osób rocznie u szczytu, mimo że w Londynie rośnie ruch abolicyjny, który za pięć lat zakaże Brytyjczykom tego handlu. Mniejszy, lecz starszy o wieki strumień idzie przez Saharę na północ, do Maghrebu i Arabii, karawanami opisanymi przy [[Korsarze Barbarii|regencjach berberyjskich]].
 
@@ -68,6 +72,8 @@ Na wyżynie Rogu trwa najstarsze chrześcijaństwo kontynentu. Etiopia wyznaje w
 ---
 
 ## Kongo, Angola i południe
+
+![](./images/3.jpg)
 
 Afryka Środkowa nosi ślad najstarszego spotkania z Europą. Królestwo Kongo przyjęło katolicyzm w 1491 roku — jego król pisał do papieża i słał posłów do Lizbony — lecz handel niewolnikami rozsadził je od środka, gdy klany konkurowały o europejski towar, sprzedając jeńców z sąsiednich. Dziś król w São Salvador jest postacią symboliczną, a realną władzę mają prowincjonalni panowie, każdy z własną polityką wobec portugalskiej Luandy. Pamięć Kongo wciąż żywi prorokini Beatriz Kimpa Vita, spalona w 1706 roku za głoszenie, że Chrystus narodził się czarny i kongijski — opowieść ustna, nigdzie nie wydrukowana, niezniszczalna.
 

@@ -6,6 +6,8 @@ aliases: ["Hiszpania", Hiszpania (1802), España, Spain, Korona Hiszpańska, Mon
 
 # Hiszpania
 
+![](./images/53.jpg)
+
 Hiszpania jest w 1802 roku najrozleglejszym imperium kolonialnym świata pod względem terytorium — od Argentyny po Filipiny, od Kuby po Nowy Meksyk. Administruje nim kraj jedenastu milionów ludzi z jedną ze słabszych armii Europy, chronicznym deficytem, flotą odbudowywaną po klęskach i dworem, którym od dekady faktycznie rządzi Manuel Godoy.
 
 Karol IV panuje od 1788 roku, decyzje podejmuje jego żona Maria Luiza, a wykonuje je Godoy, faworyt królowej obsypany tytułami przez wdzięcznego monarchę. Dyplomacja europejska od lat wie, jak działa ta trójka i kto trzyma rzeczywistą władzę.
@@ -37,6 +39,8 @@ Sojusz z Francją jest dziełem Godoya. Traktat z San Ildefonso z 1796 roku prze
 
 ## Inkwizycja, gildie i łowy
 
+![](./images/54.jpg)
+
 Hiszpania trzyma najstarszą i najgruntowniejszą machinę pilnowania tego, co nadprzyrodzone, jaką zna Zachód. [[Inkwizycja]], działająca od 1478 roku, jest tu czymś więcej niż sądem nad herezją: jest policją magii, strażniczką granicy między cudem dozwolonym, kościelnym, a czarem zakazanym. [[Cudotwórcy|Cud]] płynący z dwóch tysięcy lat dogmatu ma pieczęć Kościoła; [[Europejskie czarostwo|czarostwo]], demonologia i pakt z [[Daemony|istotą z zewnątrz]] kończą w lochu. Hiszpański Kościół pilnuje monopolu na to, co święte, twardziej niż gdziekolwiek.
 
 Paradoksalnie czyni to z hiszpańskiej Inkwizycji najlepszego znawcę prawdziwej magii w Europie. Jej obsesją była od początku ukryta wiara — *conversos* i *moriscos* podejrzani o potajemny judaizm i islam — oraz herezja, a wiejskie oskarżenia o czary traktowała ze sceptyczną procedurą, żądając dowodów tam, gdzie niemieckie biskupstwa paliły na sam donos. Hiszpański inkwizytor umie odróżnić histeryczną wieś od realnego paktu, i właśnie dlatego przetrwał. W 1802 roku machina przygasła — stosów już prawie nie ma, została cenzura, dochodzenia i *limpieza de sangre*, czystość krwi wymagana przy urzędach — lecz wciąż wie, czego szukać.
@@ -48,6 +52,8 @@ Gorąca pobożność ma tu swój własny, krwawy nawias. Co pewien czas grupa ro
 ---
 
 ## Cud i krew
+
+![](./images/55.jpg)
 
 Pod strażą Inkwizycji leży najgęstsza w Europie tkanka cudu, w odmianie gorącej i niespokojnej. Osiem wieków Rekonkwisty zostawiło kult świętych-wojowników ze świętym Jakubem Maurobójcą na czele — tradycję cudu, który zabija niewiernych zamiast leczyć. Lecz hiszpańska wiara całuje też drugi biegun: ekstazę, wizję i łzy zamiast pokory cenionej gdzie indziej. Po kraju bez przerwy krążą wieści o nowym świętym — tu ktoś lewitował na mszy, tam ktoś nosi rany Chrystusa, owdzie dziewczyna z gór uzdrawia spojrzeniem — i większość z nich jest fałszywa, a niejeden domniemany [[Cudotwórcy|cudotwórca]] sam szczerze wierzy w dar, którego nie ma. Co rusz coś się dzieje, tłum ekscytuje się najświeższym przypadkiem, a ten po kilku tygodniach gaśnie albo trafia pod kuratelę Inkwizycji. W tym hałasie zdarzają się prawdziwi cudotwórcy; odróżnić ich od entuzjastów potrafi niewielu.
 

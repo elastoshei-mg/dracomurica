@@ -6,6 +6,8 @@ aliases: ["Haiti", Haiti (1802), Saint-Domingue, Wyspa Hispaniola, La Perle des 
 
 # Haiti
 
+![](./images/45.jpg)
+
 W 1802 roku wyspa, którą Francja zwie Saint-Domingue, jest najważniejszym polem bitwy świata, choć żaden europejski sztab tego nie ogłasza. Toczy się tu jedyna w dziejach rewolucja zniewolonych, która zakończy się wolnym państwem. Kosi tu francuską armię żółta febra. A pod jednym i drugim płynie coś, czego rozkazy Leclerca nie nazywają: armie umarłych, mściwe [[Fey|feye]] i ogień, który słucha jednego człowieka.
 
 Bez Haiti nie ma sprzedaży [[Terytorium Luizjany|Luizjany]]. Bez niej nie ma ekspansji [[Stany Zjednoczone|Stanów]] na zachód w tym kształcie. Haiti jest zawiasem, na którym obraca się kontynent.
@@ -51,9 +53,13 @@ Osiem dni potem prowincja stanęła w ogniu. W tydzień płonął tysiąc planta
 
 ## Lata wojny
 
+![](./images/46.jpg)
+
 Rewolucja nigdy nie była prostym starciem zniewolonych z panami. W szczytowym chaosie biły się naraz czarne armie, oddziały wolnych ludzi koloru, wielcy biali, Hiszpanie ze wschodu wyspy i trzydzieści tysięcy Brytyjczyków, którzy wylądowali w 1793 roku na zaproszenie plantatorów. Brytyjczycy zostawili po pięciu latach dziesiątki fortów i dwadzieścia pięć tysięcy grobów, wykopanych przez żółtą febrę — endemiczną na wyspie i śmiertelną dla każdego, kto nie nabył odporności w dzieciństwie.
 
 Z szeregów wyrósł [[Toussaint Louverture]] — urodzony w niewoli około 1743 roku, wyzwolony przed rewolucją, czytelnik Epikteta. Walczył najpierw pod hiszpańskimi barwami, a w 1794 roku przeszedł na stronę Francji, gdy Konwent zniósł niewolnictwo w koloniach; abolicja znaczyła dla niego więcej niż sojusznik. Jako dowódca był zjawiskiem — szybkie marsze przez góry, nocne ataki, ciągła zmiana pozycji — a przydomek *Louverture*, „Otwierający Wyłom", oddawał jego styl.
+
+![](./images/47.jpg)
 
 Większość wodzów rewolucji nie miała w sobie magii. Jean-Jacques Dessalines i pozostali generałowie byli żołnierzami, a nadprzyrodzoną siłą — armiami umarłych i mściwymi feyami — władały mambo i afrykańskie wiedźmy, którym generałowie wskazywali tylko cel. Toussaint był wyjątkiem. Po cichu, poza kobiecym kręgiem Voodoo, paktował z [[Daemony|bytami ognia]], a ten ogień szedł za jego armią, wybuchając w ładowniach prochu i w obozach przed świtem. Pełny obraz jego sekretu mieści [[Toussaint Louverture|osobny artykuł]].
 

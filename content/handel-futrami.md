@@ -6,6 +6,8 @@ aliases: ["Handel futrami", Fur Trade, Handel futrzany, Futrzarstwo, Soft Gold, 
 
 # Handel futrami
 
+![](./images/48.jpg)
+
 Bóbr złapany nad rzeką Athabaska potrzebuje dwóch lat, żeby dorosnąć do rozmiaru, przy którym warto go łapać. Jego skóra wędruje do Fortu Chipewyan, kanoe do Grand Portage nad Jeziorem Górnym, wozem do Montrealu, statkiem do Londynu, gdzie idzie pod młotek na aukcji przy Mincing Lane. Kupiec sprzedaje ją filcownikowi w Southwark, ten zdziera wierzchnią ość i zostawia podwłosie, które pod ciepłem i naciskiem spilśnia się w materiał wodoodporny. Z czterech do sześciu skór wychodzi jeden kapelusz, a jeden kapelusz nosi pan w Warszawie, Lyonie czy Filadelfii przez siedem lat, nim kupi następny.
 
 Filcowy kapelusz z bobra napędzał ten łańcuch przez półtora wieku. Moda jednak się zmienia — w 1802 roku jedwab zaczyna podgryzać bobra, o czym w branży nikt nie chce mówić głośno.
@@ -13,6 +15,8 @@ Filcowy kapelusz z bobra napędzał ten łańcuch przez półtora wieku. Moda je
 ---
 
 ## Bóbr, kapelusz i reszta futer
+
+![](./images/49.jpg)
 
 Europejski bóbr wyginął na zachodzie kontynentu jeszcze w XVI wieku z przełowienia; kanadyjski (*Castor canadensis*) rośnie w zimnie i daje podwłosie gęstsze niż jakikolwiek europejski, idealne do filcowania. Filc bobrowy jest wodoodporny, twardy i trzyma kształt w deszczu — własności, których przed XX wiekiem nie daje żaden inny materiał. Rynek zna trzy gatunki kapelusza: pełny bóbr (najdroższy), mieszankę bobrowo-króliczą i tańszą imitację z samego królika dla tych, którym wstyd przyznać, że na bobra ich nie stać.
 
@@ -45,6 +49,8 @@ Wielkie kompanie trzymają się z dala. Hudson's Bay Company i North West Compan
 ---
 
 ## Trzy systemy: Kanada, Rosja, Pacyfik
+
+![](./images/59.jpg)
 
 Szczegóły kanadyjskiego systemu — voyageurów, kanoe, fortów, rywalizacji [[Kanada Brytyjska|Hudson's Bay Company i North West Company]] — opisuje osobny artykuł. Tu liczy się ekonomia polityczna: dwa wrogie przedsiębiorstwa przez pół wieku eksploatują na tym samym terytorium zasób, który nie odradza się w tempie wystarczającym dla obu. HBC siedzi w fortach nad Zatoką Hudsona i czeka, aż rdzenni myśliwi przyniosą futra — tanio, bezpiecznie, powoli. NWC robi odwrotnie, pchając ludzi tam, gdzie są futra, zanim dotrze tam ktoś inny — drogo, ryzykownie, ekspansywnie. W 1802 roku oba stawiają forty w tej samej okolicy nad Athabaską, przekupują tych samych myśliwych alkoholem i sabotują sobie szlaki. Trzeci gracz, XY Company odszczepiona od NWC w 1798 roku, za dwa lata wróci do macierzy — rynek kanadyjski jest za mały dla trzech firm.
 

@@ -12,6 +12,8 @@ W nocy z 14 na 15 sierpnia 1791 roku w lesie na północy Saint-Domingue odbyły
 
 ## Zgromadzenie
 
+![](./images/12.jpg)
+
 Wieczorem dziesiątki wysłanników z plantacji prowincji północnej zeszły się na polanie, do której prowadziła jedna ścieżka od strony traktu na Cap-Français. [[Dutty Boukman|Dutty Boukman]], woźnica i houngan znany na kilku plantacjach naraz dzięki pracy przy transporcie, zwołał ich siecią, której żaden nadzorca nie potrafił wyśledzić — plotka szła szybciej niż jakikolwiek list. Zebrało się kilkuset ludzi, część z maczetami i nożami do trzciny, część z gołymi rękami.
 
 Ceremonia, którą zapamiętali wszyscy, była krótka. Zarżnięto czarną świnię, krew rozlano do naczyń i podano każdemu z obecnych. Boukman poprowadził przysięgę zemsty i wolności w słowach, których nikt później nie zapisał tak samo dwa razy. Nad polaną zebrała się burza — byle jaka o tej porze roku, lecz uczestnicy zapamiętali grzmot, który uderzył dokładnie w chwili przysięgi, jakby ktoś słuchał.
@@ -21,6 +23,8 @@ Większość rozeszła się przed północą, wracając do kwater przed porannym
 ---
 
 ## Krąg wewnętrzny
+
+![](./images/13.jpg)
 
 Zostali nieliczni: Boukman, [[Voodoo|mambo]] Cécile Fatiman i cztery inne kapłanki znane w okolicy z prawdziwej mocy, nie tylko z tytułu. Przed świtem wprowadzono na polanę trzech związanych mężczyzn — nadzorcę z plantacji Lenormand de Mézy i dwóch jego synów, zapamiętanych przez zniewolonych za piętnowanie żelazem i chłostę odmierzaną tak, by bolała jak najdłużej.
 
@@ -70,6 +74,8 @@ Francuzi zabili go w październiku 1791 roku i wbili głowę na pal w Cap-Franç
 ---
 
 ## Cécile Fatiman po bramie
+
+![](./images/14.jpg)
 
 Fatiman miała, według tradycji przekazywanej w rodzinach mambo, ojca Korsykanina — kupca albo oficera, historie różnią się który — i matkę zniewoloną Afrykankę sprzedaną na wyspę wcześniej. Pochodzenie mieszane umieszczało ją formalnie poza kastą zniewolonych, lecz nie poza obowiązkiem, który przyjęła sama: to ona, nie żaden mężczyzna z kręgu, poprowadziła obrzęd, który otworzył bramę.
 

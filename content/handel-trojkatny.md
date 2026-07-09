@@ -6,6 +6,8 @@ aliases: ["Handel trójkątny", Handel Trójkątny (1802), Triangular Trade, Tra
 
 # Handel trójkątny
 
+![](./images/50.jpg)
+
 Od 1500 do 1867 roku przez Atlantyk przepłynęło około dwunastu i pół miliona ludzi — spętanych, załadowanych na statki jak towar, bez prawa zgody. Może dziesięć i siedem dziesiątych miliona dotarło żywych; reszta umarła w drodze.
 
 Trójkąt to skrót na przepływ handlu: towary z Europy do Afryki, ludzie z Afryki do Ameryk, cukier i bawełna z Ameryk do Europy. Każde ramię przynosiło zysk, a całość zbudowała atlantycką gospodarkę, która w 1802 roku napędza ceny herbaty w Londynie, finansuje manufaktury Manchesteru i funduje operę w [[Nowy Orlean|Nowym Orleanie]].
@@ -15,6 +17,8 @@ Statki wiozły jeszcze jedno, czego rejestry ładunkowe nie nazywają wprost: st
 ---
 
 ## Trzy ramiona
+
+![](./images/51.jpg)
 
 Pierwsze ramię wyruszało z portów — Liverpoolu, Bristolu, Nantes, Lizbony, Amsterdamu — z towarem dla afrykańskich handlarzy: bawełną i wełną z Lancashire, bronią palną i prochem, prętami żelaza, mosiądzem, rumem i brandy, szklanymi paciorkami. Marżą była różnica między ceną sukna w Manchesterze a jego wartością wymienną w Dahomeju czy Angoli.
 
@@ -53,6 +57,8 @@ Buntów udokumentowano ponad pięćset, najczęściej tuż przy wyjściu z afryk
 ---
 
 ## Destynacje i liczby
+
+![](./images/52.jpg)
 
 Skumulowane liczby za cały okres handlu (1500–1867) układają się tak. Brazylia wzięła cztery miliony dziewięćset tysięcy — najwięcej w historii — do kopalń złota i diamentów oraz na plantacje trzciny i kawy. Brytyjskie Karaiby dwa miliony czterysta tysięcy, z Jamajką na czele, gdzie produkcja cukru pochłaniała ludzi szybciej, niż się rodzili. Francuskie Karaiby milion sto tysięcy, głównie [[Haiti|Saint-Domingue]]. Hiszpańska Ameryka milion trzysta tysięcy. Ameryka Północna tylko czterysta tysięcy — lecz dzięki wysokiemu przyrostowi naturalnemu populacja zniewolonych w USA dobiła do 1800 roku prawie miliona, jako jedyna duża grupa w Nowym Świecie, która rosła z własnego przyrostu, bez dowozu z Afryki.
 

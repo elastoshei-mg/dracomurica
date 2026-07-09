@@ -6,6 +6,8 @@ aliases: ["Imperium Osmańskie", Imperium Osmańskie (1802), Osmanowie, Turcy, O
 
 # Imperium Osmańskie
 
+![](./images/56.jpg)
+
 Imperium Osmańskie trwa od czterech wieków i umrze za kolejne sto dwadzieścia lat. W 1802 roku żaden z tych faktów nie jest oczywisty — ani trwałość, ani kres.
 
 Terytorium rozciąga się od Maroka po Persję i od dawnych granic węgierskich po Jemen, lecz realnie trzyma się na Anatolii jako rdzeniu, na Bałkanach jako bogatej i niespokojnej peryferii, na prowincjach arabskich rządzonych przez lokalnych satrapów i na Afryce Północnej jako wasalnych ejaletach odsyłających coroczny hołd. Trzydzieści do trzydziestu pięciu milionów poddanych różnych wyznań, języków i statusów.
@@ -24,6 +26,8 @@ Odpowiedzią jest Nizam-ı Cedid, Nowy Porządek: korpus piechoty wzoru europejs
 
 ## Trzy wiary, jedna ziemia cudów
 
+![](./images/57.jpg)
+
 Imperium rządzi trzema religiami naraz, a każda nosi własną odmianę świętej mocy. Islam ma swoją w bractwach sufickich. Tam, gdzie katolicki [[Cudotwórcy|cud]] płynie z dwóch tysięcy lat dogmatu, suficki *wali* — święty — czerpie z *silsili*, łańcucha mistrzów i uczniów ciągnącego się do założyciela zakonu; karamat, łaska świętego, przechodzi z mistrza na ucznia jak rzemiosło, więc bractwa odtwarzają swoich cudotwórców podobnie jak klasztory, tyle że bez jednego ośrodka. Derwisze wirujący, leczący i prorokujący są rozsiani po całym imperium, od Konstantynopola po pustynię.
 
 Jedno z tych bractw siedzi w sercu osmańskiej potęgi. Zakon bektaszytów jest od stuleci duchowym ramieniem janczarów — każda *orta* ma swojego derwisza, a janczarska duma splata żołnierski honor ze świętą mocą starego, wojennego islamu. To czyni reformę Selima czymś więcej niż sporem o krój munduru. Nowy Porządek, wyćwiczony i powtarzalny, wymierzony jest w korpus, za którym stoi nie tylko tradycja, lecz realna moc bektaszyckich świętych — a ci wiedzą, że europejska musztra ich nie potrzebuje. To ta sama lekcja co wszędzie, tylko odwrócona: gdzie indziej rzadki dar przegrywa z powtarzalną bronią, a tutaj dławi ją, nim zdąży się narodzić.
@@ -35,6 +39,8 @@ Na obrzeżach moc się neguje i mnoży. W głębi Arabii rośnie ruch wahabitów
 ---
 
 ## Konstantynopol, Porta i millety
+
+![](./images/58.jpg)
 
 Konstantynopol leży na skraju Europy i Azji, nad Bosforem łączącym Morze Czarne z Marmara, a Złoty Róg dzieli jego europejską połowę na Stare Miasto z Topkapi i Hagią Sophią oraz Galatę i Perę, gdzie mieszkają kupcy i dyplomaci Zachodu. Liczy między czterystu a siedmiuset tysiącami mieszkańców — jedno z trzech, czterech największych miast świata, z trzema religiami i kilkunastoma językami na raz. Pałac Topkapi jest miastem w mieście: dziedzińce, pawilony, biblioteki i harem na przylądku Sarayburnu. Codzienną władzę sprawuje jednak Wysoka Porta, urząd wielkiego wezyra, który rządzi w imieniu sułtana i którego sułtan może odwołać w każdej chwili własnoręcznym reskryptem albo jedwabnym sznurem. W 1802 roku wezyrem jest Yusuf Ziya Pasza, balansujący między sułtanem pragnącym reform, janczarami odmawiającymi ich przyjęcia i ajanami żądającymi autonomii.
 

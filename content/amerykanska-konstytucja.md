@@ -14,6 +14,8 @@ Ten dokument omawia fundamenty ustroju skrótowo — pełny obraz partii, sądó
 
 ## Fundamenty (1787–1789)
 
+![](./images/10.jpg)
+
 Konwencja w Filadelfii latem 1787 roku zastąpiła słabe Artykuły Konfederacji nowym ustrojem: trójpodział władzy, Kongres dwuizbowy, prezydent wybierany przez Kolegium Elektorów, sądownictwo federalne na czele z Sądem Najwyższym. Ratyfikacja zajęła dziewięć miesięcy; dokument wszedł w życie w marcu 1789 roku.
 
 Kompromis trzech piątych, wpisany w artykuł pierwszy, każe liczyć każdego zniewolonego jako trzy piąte osoby przy ustalaniu reprezentacji w Izbie i głosów w Kolegium Elektorów. Klauzula ta nie wspomina magii, lecz jej matematyka nie zna wyjątku — zniewolona kobieta, której duszę Kościół uznaje za wątpliwą, a której krew po Haiti podejrzewa się o [[Voodoo|moc]], liczy się w spisie tak samo jak każda inna.
@@ -21,6 +23,8 @@ Kompromis trzech piątych, wpisany w artykuł pierwszy, każe liczyć każdego z
 Ta sama sekcja dziewiąta artykułu pierwszego zakazuje Kongresowi zabraniania importu „osób, które poszczególne stany uznają za właściwe przyjąć" przed 1808 rokiem — eufemizm dla [[Handel Trójkątny|handlu niewolnikami]], drugi wielki kompromis konwencji obok trzech piątych. Klauzula wygasa sama z siebie: od 1 stycznia 1808 roku Kongres będzie mógł, i zrobi to, zakazać dowozu nowych niewolników z Afryki. Wewnętrzny handel między stanami klauzula nie dotyczy i przetrwa do wojny secesyjnej.
 
 ## Karta praw (1791)
+
+![](./images/11.jpg)
 
 Dziesięć pierwszych poprawek weszło w życie w grudniu 1791 roku, cztery lata po samej konstytucji, jako cena za ratyfikację w stanach nieufnych wobec silnego rządu centralnego.
 

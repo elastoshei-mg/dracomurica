@@ -14,6 +14,8 @@ Dwie korony trzymają porty, plantacje i kopalnie od trzystu lat i nie posunęł
 
 ## Geografia kolonizacji
 
+![](./images/7.jpg)
+
 Administracja hiszpańska dzieli kontynent na trzy wicekrólestwa. Peru, ze stolicą w Limie, istnieje od 1542 roku i obejmuje wybrzeże Pacyfiku oraz wyżyny andyjskie od Ekwadoru po Chile. Nowa Grenada, ze stolicą w Santa Fe de Bogotá, ustabilizowała się w obecnych granicach w 1739 roku i trzyma północ kontynentu — dzisiejszą Kolumbię, Wenezuelę, Panamę. Río de la Plata, najmłodsze z trzech, wydzielone z Peru w 1776 roku ze stolicą w Buenos Aires, broni ujścia wielkiej rzeki przed portugalską ekspansją z północy.
 
 Portugalska Brazylia rządzi się inaczej — systemem kapitanatów rozciągniętych wzdłuż wybrzeża od czasów kolonizacji w XVI wieku. Stolica przeniosła się z Salvadoru do Rio de Janeiro w 1763 roku. Oficjalnym powodem było złoto Minas Gerais, odkryte pod koniec poprzedniego stulecia i wydobywane w głębi lądu bliżej Rio niż Salvadoru. Nieoficjalnym powodem jest położenie — Rio leży dalej od najgorszych odcinków granicy z interiorem niż porty na północy kolonii.
@@ -50,6 +52,8 @@ Spełniła się już raz, choć żadna europejska kronika nie zapisała tego w t
 
 ## Ludy o zatrutej krwi
 
+![](./images/8.jpg)
+
 Interior nie należy wyłącznie do Charau-Ka. Rozproszone po dżungli plemiona ludzkie, mentalnie i fizycznie bliskie ludom Ameryki Północnej, zawarły swój własny pakt z kontynentem — nie ze [[Smoki|smokami]], lecz z trującą roślinnością, do tego stopnia że ich krew stała się trucizną przy kontakcie z otwartą raną. Koloniści nazywają je zbiorczo zdegenerowanymi, bo nie rozumieją, że to, co widzą jako degenerację, jest wynikiem pokoleń świadomego dostrajania ciała do środowiska, którego żaden Europejczyk nie przetrwałby bez zmiany.
 
 Te ludy są terytorialne, nie nomadyczne jak Charau-Ka, i bronią granic swoich łowisk równie zaciekle jak plemiona Ameryki Północnej bronią swoich rzek. Rywalizują z Charau-Ka o te same zasoby dżungli od pokoleń, lecz rywalizacja rzadko przechodzi w otwartą wojnę. Dżungla jest środowiskiem na tyle wymagającym, że obie strony poświęcają większość energii na samo przetrwanie — głód, choroba i drapieżniki zabijają więcej niż jakikolwiek konflikt międzyplemienny. Charau-Ka, bardziej nomadyczne, częściej po prostu omijają terytoria dobrze bronione, niż ryzykują starcie, które osłabi ich bandę przed kolejnym przemarszem.
@@ -73,6 +77,8 @@ Ich magia opiera się na nurcie druidyckim, rytualnym, bliskim temu, co praktyku
 Jedna, konkretna legenda krąży wśród hiszpańskich osadników pogranicza Nowej Grenady, różna od ogólnej reguły zatrutej krwi. Dotyczy jednego klanu, nie całego ludu: potomków rzekomo zaginionej ekspedycji kolonialnej sprzed niemal dwustu lat, która wżeniła się w miejscowe plemię i z czasem przejęła jego więź z trującą roślinnością. Członkowie tego klanu mają podobno jaśniejszą karnację niż sąsiednie ludy, a w ich obrzędach powtarzają się fragmenty słów brzmiących jak zniekształcona hiszpańszczyzna sprzed pokoleń. Nikt tego klanu formalnie nie zlokalizował. Legenda przetrwała mimo to, bo tłumaczy coś, czego czysta biologia nie tłumaczy — dlaczego niektórzy z tych, których korona nazywa dzikimi, noszą imiona brzmiące niepokojąco znajomo.
 
 ## Ekspedycje i ślady w historii
+
+![](./images/9.jpg)
 
 Bandeiranci z São Paulo, słynący z polowań na niewolników w głębi kontynentu od XVII wieku, trzymają się sprawdzonych, znanych szlaków. Bandy, które w poprzednich pokoleniach zboczyły w nieznane rejony w poszukiwaniu łatwiejszego łupu, po prostu nie wróciły. Nikt formalnie nie zbadał ich losu — administracja kolonialna woli zapis „zaginęli w dżungli" od dochodzenia, które musiałoby wyjaśnić dlaczego.
 

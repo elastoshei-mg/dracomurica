@@ -51,6 +51,8 @@ Magia Państwa Środka opiera się na *qi* (氣) — życiowej energii, którą 
 
 Sztuki walki to druga gałąź. W klasztorach i tajnych szkołach mistrzowie hartują qi tak długo, że ich ciosy kruszą kamień, a najlepsi tną powietrze na odległość — technikę tę nazywa się [[Cięcie Powietrza]]. W trzystumilionowym kraju jest ich ledwie tysiące, rozsianych wszędzie: wśród mnichów, strażników karawan, wiejskich nauczycieli. [[Buddyzm|Mnisi buddyjscy]] i taoistyczni alchemicy dorzucają własne ścieżki — uzdrawianie, długowieczność, panowanie nad oddechem i strachem.
 
+![](./images/21.jpg)
+
 Nad tym wszystkim ciągnie się Wielki Mur, a jego rola sięga znacznie dalej niż kamień. Mur jest barierą działającą w obie strony. Broni przed najazdem z północy, lecz przede wszystkim ściąga nieszczęście na każdego, kto przekroczy go z bronią: armie najeźdźców więdną od chorób, klątw i złych zrządzeń losu, które kronikarze przypisują samej budowli. Mongołowie pamiętają, że ich przodkowie złamali Mur tylko wtedy, gdy ktoś otworzył im bramę od środka.
 
 W głębszym sensie Mur to feng shui zaklęte w skali kontynentu. Domyka qi Państwa Środka i zatrzymuje jego pomyślność wewnątrz jak wodę w naczyniu. Skutek bywa dwojaki: gdy czasy są dobre i władca mądry, energia krąży, a Cesarstwo kwitnie jak żaden inny kraj świata; gdy tron słabnie, ta sama zamknięta siła kiśnie bez ujścia, a zaraza, bunt i głód mnożą się za murem, który nie chce ich wypuścić. Bunt Białego Lotosu ma w sobie i ten posmak — moc Cesarstwa, która nie znajduje wyjścia.
@@ -60,6 +62,8 @@ To dziedzictwo czyni Chiny twierdzą duchową, której żadna europejska armia n
 ---
 
 ## Bunt Białego Lotosu — imperium w ogniu
+
+![](./images/23.jpg)
 
 Białe Lotosy (*Báilián jiào*) to millenarystyczna sekta buddyjska z tradycją sięgającą XIII wieku. Jej odmiana z końca XVIII wieku głosiła nadejście nowej ery i Maitrei, Buddy przyszłości, i rekrutowała wśród chłopów środkowych Chin zrujnowanych przez powodzie, suszę i korupcję urzędników. Bunt wybuchł w 1796 roku w Hubei i wkrótce ogarnął Syczuan, Henan i Shaanxi; lokalni przywódcy mieli własne armie po dziesiątki tysięcy ludzi, a cesarska odpowiedź była powolna i kosztowna.
 
@@ -72,6 +76,8 @@ Od 1799 roku Jiaqing zaczął polegać na *xiang yong* — lokalnych milicjach f
 ---
 
 ## System Kantonu — handel na cesarskich warunkach
+
+![](./images/22.jpg)
 
 Wszystkie kontakty handlowe z zagranicą przechodzą przez jeden punkt: Guangzhou, które Europejczycy zwą Kantonem. Edykt z 1757 roku zamknął całą wymianę zamorską do tego portu i do systemu licencjonowanych kupców znanych jako Cohong. Europejski kupiec przypływa na sezon handlowy — od jesieni do wiosny, gdy monsun sprzyja żegludze — nie wolno mu wejść do samego miasta, mieszka i handluje w wąskim pasie faktorii przy rzece Perłowej, a po sezonie opuszcza Chiny. Każdą transakcję prowadzi kupiec Cohong, który bierze marżę i odpowiada przed władzami za zachowanie cudzoziemców.
 
