@@ -470,6 +470,12 @@ Rosja, Prusy i Austria przeprowadziły trzy podziały Rzeczypospolitej — w 177
 
 Dwie fale ospy ścięły Mandanów i Hidatsa z szesnastu tysięcy do może dwóch, skupionych w dwóch wioskach. Żaden [[Smoki|smok]] nie obroni przed zarazą, która przychodzi z oddechem kupca — i to choroba, nie strzał, najpierw wyludnia [[Rdzenne narody Ameryki Północnej|rdzenny]] świat, wyprzedzając osadników o całe dekady.
 
+### 1787 — Pierwsze karawany krwi
+
+Handlarze z Kaskaskia i Vincennes zaczęli spływać Ohio z beczkami świeżo destylowanej [[smocza krew|smoczej krwi]] — pierwszy ładunek masowy, sprzedawany dalej niż najbliższy fort. Cena w Nowym Orleanie biła każdy inny towar pogranicza, a wieść o niej dotarła do Europy szybciej niż niejedna plotka.
+
+Popyt zmienił charakter polowań. Pojedynczy traper zabijał smoka od czasu do czasu, dla łuski albo z konieczności; teraz zorganizowane grupy wchodziły w tereny [[Smoki Leśne|Smoków Leśnych]] z jednym celem — upuścić krew w godzinę od śmierci bestii, zanim moc w niej zgaśnie.
+
 ### 1789 — Rewolucja Francuska i zakaz smoczej krwi
 
 14 lipca padła Bastylia, symbolicznie ważna i praktycznie pusta. Deklaracja Praw Człowieka i Obywatela ogłosiła naród źródłem suwerenności, a konstytucja z 1791 roku ograniczyła króla do władzy wykonawczej.
@@ -478,11 +484,23 @@ Rewolucja miała wymiar, którego podręczniki nie zapisują. [[Burbonowie]] sł
 
 Zwycięska Rewolucja odpowiedziała skrajnie: skoro po smoczą krew sięgała tylko znienawidzona arystokracja, zakazano jej całkowicie. Odcięci [[Smoczy Magowie|Smoczy Magowie]] zaczęli gasnąć, bo przerwana dawka zabija — a [[Francja Napoleońska|Francja]] straciła dostęp do najcenniejszego surowca magicznego świata akurat wtedy, gdy najbardziej by się jej przydał.
 
+### 1790 — Zniknięcia nad Miami
+
+Grupa myśliwych z Kentucky, obładowana beczkami i krwią trzech zabitych smoków, zniknęła bez śladu nad rzeką Miami latem tego roku. Odnaleziono rozbite beczki i wypatroszone konie; ślady prowadziły w las i urywały się.
+
+Podobne zniknięcia mnożyły się miesiącami — traperzy, kupcy jadący do faktorii, samotni poszukiwacze łusek. Nikt nie przeżył, by opowiedzieć, kto uderzył, a pogranicze zaczęło mówić o wojnie, choć żadna ze stron jej nie wypowiedziała.
+
 ### 1791 — Rewolucja Haitańska
 
 22 sierpnia, a ściślej w nocy z 14 na 15 sierpnia 1791 roku, houngan Dutty Boukman i mambo Cécile Fatiman poprowadzili ceremonię w lesie przy [[Bois Caïman]], po której wybuchło największe w historii powstanie zniewolonych. [[Haiti|Saint-Domingue]] było najważniejszą kolonią cukrową świata — osiemset tysięcy zniewolonych, jedna trzecia atlantyckiego handlu cukrem. W ciągu tygodnia spalono tysiąc plantacji.
 
 Według tradycji tej nocy „otwarto bramę". [[Voodoo|Afrykańskie wiedźmy]] odprawiały rytuały, które podnosiły z plantacyjnych grobów armie [[Nieumarli|umarłych]] i spuszczały na francuskie kolumny hordy mściwych [[Fey|feyów]] — sił, przed którymi pierzchali żołnierze umiejący stawić czoła partyzantce. [[Toussaint Louverture]], były zniewolony człowiek, wyłonił się jako główny dowódca i szedł osobną ścieżką: po cichu, poza kobiecym kręgiem Voodoo, paktował z [[Daemony|bytami ognia]] na sposób [[Europejskie czarostwo|europejskiego czarostwa]].
+
+### 1793 — Spalona destylarnia
+
+Improwizowana destylarnia nad Wabash — trzy kadzie, wędzarnia i skład beczek spółki handlowej z Cincinnati — spłonęła w jedną noc razem z całą załogą. Ocalały jeden wozak, który uciekł w porę, mówił potem o strzałach z ciemności.
+
+Sąsiednie narody twierdziły, że nic o tym nie wiedzą. Kupcy z Cincinnati wiedzieli swoje i zaczęli płacić za eskortę uzbrojoną lepiej niż niejeden fort pograniczny.
 
 ### 1793–1794 — Terror
 
@@ -500,6 +518,12 @@ Millenarystyczna sekta buddyjska podniosła chłopów środkowych [[Chiny dynast
 
 Bunt karmi się tą samą studnią co [[Czerwone opium|Czerwone opium]] — mak podlewany smoczą krwią, który brytyjska Kompania pompuje do Kantonu i który wypala wewnętrzną energię chińskich mistyków. Cesarz Jiaqing, który w 1799 roku stracił wszechwładnego dworaka Heshena za korupcję, tłumi rebelię, lecz źródła jej siły nie potrafi wysuszyć; ostateczne stłumienie przyniosą lokalne milicje dopiero w 1804 roku.
 
+### 1796 — Zasadzka na trakcie rzecznym
+
+Konwój sześciu płaskodennych barek wiozący beczki krwi z Wabash i Miami do Nowego Orleanu zniknął na zakolu poniżej ujścia Ohio. Trzy barki odnaleziono tygodnie później, puste i dryfujące; reszta przepadła razem z ładunkiem i załogą.
+
+Kupcy odpowiedzieli, jak zawsze odpowiadają na stratę: podnieśli cenę i zbroili następny transport mocniej. [[Nowy Orlean]] żył z tego handlu za bardzo, by go porzucić dla strachu przed rzeką.
+
 ### 1796–1797 — Napoleon we Włoszech
 
 Bonaparte jako dwudziestosześcioletni generał rozbił Piedmont, pokonał Austrię pięć razy i wynegocjował Campo Formio na własną rękę. Wenecję oddano Austrii po tysiąc stu latach niepodległości, a Francja dostała Belgię i Lombardię. Napoleon wrócił jako bohater, mając dwadzieścia osiem lat.
@@ -511,6 +535,12 @@ Edward Jenner zaszczepił ośmioletniego chłopca krowią ospą, a potem wystawi
 ### 1799 — Wizja Handsome Lake'a
 
 Konający z pijaństwa Seneka Handsome Lake przeżył wizję trzech duchów i zaczął głosić Gai'wiio, Dobre Słowo — zakaz alkoholu, czarów i rozbijania rodziny. Jego nauka dzieli [[Rdzenne narody Ameryki Północnej|naród Seneków]] między tradycję długiego domu a przeszczepiane osiadłe rolnictwo. Młodszy Tenskwatawa przeżyje własną wizję dopiero w 1805 roku.
+
+### 1799 — Obława na alchemika
+
+Wojownicy trzech narodów pogranicza wytropili i spalili obóz [[Smoczy Magowie|Smoczego Maga]], znanego traperom po prostu jako „doktor" — samozwańczy destylator, który od lat sprzedawał usługi każdemu, kto zapłacił. W popiołach znaleziono szczątki laboratorium i kilkanaście pustych fiolek; samego alchemika nie znaleziono, żywego ani martwego.
+
+Jedna plotka mówiła, że uciekł na wschód i zmienił nazwisko. Druga, że rdzenni zabrali go żywcem — a co z nim zrobili, nie nadaje się do opowiadania przy ognisku.
 
 ### 1798–1799 — Egipt, Irlandia, 18 Brumaire
 
@@ -531,6 +561,12 @@ Buduje z nich [[Legion magów|legion]]. Przedsięwzięcie jest piekielnie trudne
 [[Państwo Kościelne|Papież]] Pius VII podpisał z Napoleonem Konkordat 15 lipca 1801 roku, uznając katolicyzm za religię „wielkiej większości Francuzów". Pod polityką krył się cichszy zysk: rewolucja rozpędziła francuskich [[Cudotwórcy|cudotwórców]] razem z księżmi, a pojednanie z Rzymem otwierało ich szkolenie na nowo i dawało Konsulowi częściowy dostęp do tej sieci. Papież zachował ekskomunikę jako ostatnią broń — klątwę, która ma złamać wiarę cudotwórców wroga.
 
 W sierpniu 1801 roku rewival w Cane Ridge w Kentucky ściągnął ponoć dwadzieścia tysięcy ludzi, a wśród ekstazy objawiła się garstka prawdziwych cudotwórców — i ta garstka wystarczyła, by odtąd każdy wędrowny kaznodzieja obiecywał cuda. W lipcu [[Toussaint Louverture]] ogłosił [[Haiti|Haiti]] konstytucję z urzędem dożywotniego gubernatora; Napoleon odczytał ją jako wypowiedzenie posłuszeństwa i w grudniu wysłał z Brestu osiemdziesiąt sześć okrętów i dwadzieścia tysięcy żołnierzy pod generałem Leclerkiem. Akt unii z Wielką Brytanią i Irlandią wszedł w życie 1 stycznia 1801 roku, a w marcu Thomas Jefferson został zaprzysiężony na prezydenta — pierwszy pokojowy transfer władzy między partiami w historii republiki.
+
+### 1801 — Cena krwi
+
+Fiolka destylatu w Nowym Orleanie kosztowała tyle co dobry koń, a i tak brakowało jej na rynku. Handlarze płacili teraz eskorcie więcej niż samym myśliwym; trafny strzał, który kiedyś kończył polowanie, dziś dopiero je zaczynał, bo trzeba było jeszcze przeżyć drogę do miasta.
+
+Wojna nie miała nazwy ani traktatu, który by ją kończył. Miała tylko rosnącą cenę i coraz więcej pustych krzeseł przy handlowych stołach.
 
 ### 1802 — Stan świata przy punkcie rozbieżności
 

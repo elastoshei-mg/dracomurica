@@ -26,7 +26,7 @@ Cena jest cielesna. Każde użycie męczy ciało, a przeforsowanie mocy potrafi 
 > **System:** Sorcery — spells-as-advantages (GURPS Thaumatology: Sorcery)
 > **Rdzeń:** Sorcerous Empowerment [20 pkt za poziom 1, +10/poziom] definiuje adepta; Sorcery Talent pełni rolę Magery i dodaje się do każdego rzutu na rzucenie lub użycie czaru
 > **Czar:** kupowany jako alternatywna zdolność do Sorcerous Empowerment — płaci się 1/5 pełnego kosztu, a pełny koszt nie może przekroczyć kosztu Sorcerous Empowerment
-> **Rzucanie:** zwykle 1 FP i sekunda, najczęściej bez rzutu na sukces; wyczerpanie FP grozi utratą przytomności
+> **Rzucanie:** zwykle 1–3 FP i sekunda, najczęściej bez rzutu na sukces; wyczerpanie FP grozi utratą przytomności
 > **Dziwaczna specyfikacja:** modyfikatory Accessibility i Limited Scope odwzorowują wąskie, tematyczne ograniczenia daru
 
 ---
