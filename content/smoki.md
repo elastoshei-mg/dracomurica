@@ -1,7 +1,7 @@
 ---
 title: Smoki
 tags: [smoki, bestie, ameryka, rdzenne narody, smocza krew, magia, historia]
-aliases: ["Smoki", Drake'i, Draki, Dragons, Smoki Nowego Świata, Smoki Rzeczne, Smoki Leśne, Smoki Pustynne, Smoki Górskie, Cieniste Smoki]
+aliases: [Smoki, Drake'i, Draki, Dragons, Smoki Nowego Świata, Smoki Rzeczne, Smoki Leśne, Smoki Pustynne, Smoki Górskie, Cieniste Smoki]
 
 ---
 
