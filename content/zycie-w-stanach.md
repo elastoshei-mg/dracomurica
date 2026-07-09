@@ -1,7 +1,7 @@
 ---
 title: Codzienne życie w Stanach Zjednoczonych
 tags: [usa, społeczeństwo, codzienność, ekonomia, historia]
-aliases: [Codzienne życie w Stanach Zjednoczonych (1802), Życie w USA, Stany 1802, Społeczeństwo Stanów]
+aliases: [Codzienne życie w Stanach Zjednoczonych, Codzienne życie w Stanach Zjednoczonych (1802), Życie w USA, Stany 1802, Społeczeństwo Stanów]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Imperium Osmańskie
 tags: [osmanowie, turcja, islam, europa, azja, historia, polityka, spoleczenstwo, magia]
-aliases: [Imperium Osmańskie (1802), Osmanowie, Turcy, Ottoman Empire, Wysoka Porta, Sublime Porte]
+aliases: [Imperium Osmańskie, Imperium Osmańskie (1802), Osmanowie, Turcy, Ottoman Empire, Wysoka Porta, Sublime Porte]
 ---
 
 # Imperium Osmańskie

@@ -1,7 +1,7 @@
 ---
 title: Oświecenie
 tags: [filozofia, intelekt, historia idei, rewolucja, nauka, kultura, europa, magia]
-aliases: [Oświecenie (1802), Enlightenment, Siècle des Lumières, Aufklärung, Ilustración, Iluminismo]
+aliases: [Oświecenie, Oświecenie (1802), Enlightenment, Siècle des Lumières, Aufklärung, Ilustración, Iluminismo]
 ---
 
 # Oświecenie
