@@ -6,6 +6,8 @@ aliases: [Japonia (1802), Japan, Edo Japan, Tokugawa Japan, Nihon, Nippon]
 
 # Japonia
 
+![](./images/66.jpg)
+
 Japonia zamknęła drzwi w 1639 roku i nie otworzyła ich od stu sześćdziesięciu trzech lat. Niezupełnie — jeden holenderski statek rocznie w Nagasaki, chińskie dżonki w wydzielonej ćwiartce portu, koreańscy posłowie przez Tsushimę — lecz zamknięcie było świadome, konsekwentne i oparte na filozofii, której mało kto w Japonii podważał głośno.
 
 Tokugawa Ienari, jedenasty szogun dynastii, rządzi z Edo krajem trzydziestu milionów ludzi. Jego stolica jest zapewne największym miastem świata, jego kraj piśmienniejszy od większości europejskich, a jego kultura — drzeworytu, teatru i poezji — przeżywa epokę, którą potomni będą wspominać z zazdrością.
@@ -35,6 +37,8 @@ Kraj dzieli się na około dwieście siedemdziesiąt domen (*han*) pod władzą 
 ---
 
 ## Droga miecza, ki i kami
+
+![](./images/67.jpg)
 
 Japońska magia jest sztuką wojownika. Energię, którą Chińczyk zwie qi, tutaj nazywa się *ki*, a hartuje ją szermierz — przez lata cięć, oddechu i zenistycznej dyscypliny, aż ciało robi rzeczy, których robić nie powinno. Najwyższym dowodem mistrzostwa jest [[Cięcie Powietrza]]: ostrze tnące cel na odległość, falą, która wybiega poza stal. Tę technikę spotyka się wśród samurajów średniego szczebla i wyżej, lecz prawdziwych mistrzów jest garstka.
 
@@ -69,6 +73,8 @@ Samurajów dwa stulecia pokoju pozbawiły wojennej funkcji. Stali się administr
 ## Edo i świat ukiyo
 
 Edo jest w 1802 roku prawdopodobnie największym miastem świata — milion do miliona dwustu tysięcy ludzi, więcej niż Londyn, Paryż czy Pekin. Plan jest koncentryczny: w środku zamek szogunatu z fosą, wokół dzielnice samurajów, a na wschód i południe gęste *shitamachi* rzemieślników i kupców-*chōnin*. Zabudowa drewniana i ciasna sprawia, że wielkie pożary spalają dziesiątki tysięcy domów co kilka lat — wielki pożar z 1657 roku zabił sto tysięcy ludzi i strawił dwie trzecie miasta. Od tamtej pory Edo ma zawodowe brygady strażackie, obowiązkowe zbiorniki wody przy każdym kwartale i akwedukty doprowadzające wodę pitną, a po pożarze odbudowuje się w miesiąc.
+
+![](./images/68.jpg)
 
 Kultura *chōnin* przeżywa złoty wiek. *Ukiyo-e*, barwne drzeworyty „ulotnego świata", drukuje się masowo i sprzedaje za grosze: aktorzy kabuki, zapaśnicy sumō, piękne kobiety, pejzaże, sceny erotyczne. Kitagawa Utamaro jest w 1802 roku u szczytu sławy swoich portretów kobiet z teatrów i herbaciarni; cztery lata później ukarze go bakufu za nieautoryzowany druk. Czterdziestodwuletni Katsushika Hokusai eksperymentuje dopiero z europejską perspektywą — cykl widoków Fudżi, który go unieśmiertelni, przyjdzie dopiero w latach trzydziestych. Teatr kabuki gra od świtu do zmierzchu w trzech wielkich gmachach Edo, z aktorami-mężczyznami w rolach kobiecych i obrotową sceną, a wyrafinowany teatr lalek *bunraku* z Osaki wciąż wystawia stuletnie już dramaty o honorze i podwójnych samobójstwach kochanków. Haiku jest formą masową — pisze każdy wykształcony człowiek — a trzydziestodziewięcioletni Kobayashi Issa układa najbardziej ludzkie wiersze epoki, pełne bólu, komizmu i czułości wobec drobnych istot.
 

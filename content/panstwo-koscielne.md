@@ -49,11 +49,15 @@ Dlatego nawet Napoleon układa się z Rzymem. Konkordat dał mu częściowy dost
 
 ## Pius VII i Konkordat
 
+![](./images/96.jpg)
+
 Pius VII, urodzony Barnaba Chiaramonti w Cesenie w 1742 roku, był benedyktynem i biskupem Imoli, nim trzytygodniowe konklawe w Wenecji uczyniło go papieżem w marcu 1800 roku. Wybrano go jako kompromis, gdy nikt inny nie zebrał głosów, i dlatego, że Francja uznała go za kogoś, z kim da się rozmawiać. Jako biskup głosił w 1797 roku, że demokracja i chrześcijaństwo mogą się wspierać — stanowisko wówczas śmiałe.
 
 Konkordat z Francją był ceną tej rozmowy. Napoleon potrzebował go z kilku powodów naraz: by pogodzić podzieloną religijnie prowincję, by zamknąć ranę Wandei, która kosztowała sto tysięcy ofiar, i dlatego, że w religii widział społeczne spoiwo, choć w Boga nie wierzył. Był też powód, którego żaden artykuł nie nazywa wprost — francuscy cudotwórcy rozpierzchli się razem z księżmi w czasie rewolucji, a tylko pojednanie z Rzymem mogło otworzyć ich szkolenie na nowo i przywieść ich pod sztandar Republiki.
 
 Rokowania ciągnęły się od wiosny 1800 roku. Prowadził je kardynał Ercole Consalvi — sekretarz stanu, dyplomata bez kapłańskich święceń, który rozumiał europejskie dwory lepiej niż ktokolwiek w kurii. Tekst zmieniano osiemnastokrotnie. Napoleon w nocy wyrzucił Consalviego z rozmów, gdy ten nie chciał oddać prawa mianowania biskupów, i zagroził uregulowaniem spraw Kościoła samym dekretem; kardynała przywołano dopiero, gdy bez niego rokowania utknęły. Podpis padł 15 lipca 1801 roku.
+
+![](./images/97.jpg)
 
 Treść była kompromisem. Francja uznała katolicyzm za religię „wielkiej większości obywateli", nie za religię państwową. Rząd płaci pensje duchownym i nominuje biskupów, papież ich zatwierdza, Kościół zrzeka się ziemi utraconej w rewolucji. Ogłoszono to publicznie 18 kwietnia 1802 roku, w Wielkanoc, przed korpusem dyplomatycznym i marszałkami.
 
@@ -76,6 +80,8 @@ Wewnątrz kurii Konkordat ma zaciekłych przeciwników. Najgłośniejszy jest Ba
 ---
 
 ## Rzym między ruinami
+
+![](./images/98.jpg)
 
 Starożytny Rzym stoi pośród nowożytnego jak szkielet. Koloseum od trzystu lat służy za kamieniołom — bloki trawertynu z jego murów poszły w bazylikę świętego Piotra. Forum Romanum jest dziś Campo Vaccino, Krowim Polem: pastwiskiem między kolumnami, z Via Sacra zamienioną w błoto.
 

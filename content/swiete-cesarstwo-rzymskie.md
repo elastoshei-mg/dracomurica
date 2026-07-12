@@ -17,6 +17,8 @@ To również najstarszy rezerwuar magii w Europie — najwięcej klasztorów rod
 
 ## Czym jest Rzesza
 
+![](./images/123.jpg)
+
 Cesarstwo nie rządzi jak [[Francja Napoleońska|Francja]] czy [[Wielka Brytania|Wielka Brytania]]. Nie pobiera podatków od obywateli, nie utrzymuje armii — kontyngenty dostarczają stany wedle przyznanej kwoty, rzadko terminowo i rzadko w pełnej liczbie — i nie ma ministerstwa spraw zagranicznych, bo każdy stan może zawierać własne sojusze z obcymi mocarstwami. Trzyma ją razem prawo i precedens. Reichskammergericht w Wetzlarze i Reichshofrat w Wiedniu rozstrzygają spory między stanami i toną w nich: pierwszy z tych sądów ma w toku może sześćdziesiąt tysięcy spraw, z których część ciągnie się od XVI wieku. Goethe odbył w Wetzlarze praktykę sądową w 1772 roku i wyniósł stamtąd tyle udręki z biurokratycznego bezładu i nieszczęśliwej miłości, że napisał „Cierpienia młodego Wertera".
 
 Sejm Rzeszy obraduje nieprzerwanie w Ratyzbonie od 1663 roku jako stały kongres delegatów, podzielony na trzy kolegia. Kolegium Elektorów liczy dziewięciu do jedenastu książąt z prawem wyboru cesarza: trzej arcybiskupi z Moguncji, Kolonii i Trewiru oraz świeccy panowie Czech, Brandenburgii-Prus, Saksonii, Hanoweru, Bawarii i Wirtembergii. Trzej elektorzy duchowni stracili właśnie zachodnie siedziby na rzecz Francji, więc elektor moguncki rezyduje teraz w Aschaffenburgu. Kolegium Książąt skupia kilkuset panów duchownych i świeckich, od królów po opatów z trzema wsiami. Kolegium Miast to pięćdziesiąt jeden Wolnych Miast Rzeszy — Hamburg, Lubeka, Frankfurt, Norymberga, Augsburg i dziesiątki mniejszych — od wieków broniących swoich przywilejów przed okoliczną szlachtą.
@@ -38,6 +40,8 @@ Pod tym wszystkim szumi las. Niemieckie bory są bliskie [[Fey|feyom]] jak mało
 ---
 
 ## Recess Deputacyjny — rozbiórka w toku
+
+![](./images/124.jpg)
 
 Traktat z Lunéville z 1801 roku potwierdził to, co zaczął Campo Formio: lewy brzeg Renu należy do Francji. Setki panów świeckich i kościelnych straciły posiadłości, a kilka milionów poddanych przeszło pod nową flagę bez pytania i bez procesu. Ustawa zasadnicza wymagała kompensaty, a jedynym dostępnym zasobem były dobra kościelne po prawej stronie Renu. Recess Deputacyjny Rzeszy (*Reichsdeputationshauptschluss*), przygotowywany w Ratyzbonie przez cały 1802 rok i ukończony w lutym 1803, przeprowadził największą redystrybucję ziemi w Rzeszy od Reformacji.
 
@@ -76,6 +80,8 @@ Hanower trwa w unii personalnej z [[Wielka Brytania|Wielką Brytanią]] — Jerz
 ## Kultura bez państwa, Żydzi i codzienność
 
 Niemcy mają jedność kulturalną bez jedności politycznej, a jej stolicą jest siedmiotysięczne miasteczko. Dwór w Weimarze ściągnął w 1775 roku Goethego i nigdy go nie puścił; w 1802 roku pięćdziesięciotrzyletni Goethe jest najsławniejszym pisarzem niemczyzny, pracuje nad „Faustem", prowadzi teatr dworski, zarządza kopalniami księstwa i bada optykę — człowiek renesansowy w epoce, która renesansu już się nie spodziewa. W pobliskiej Jenie tworzy dramaty o narodach i wolności Schiller, karmiąc nimi poczucie niemieckiej wspólnoty, której brak państwa. W Wiedniu trzydziestodwuletni Beethoven pisze w październiku 1802 roku nigdy niewysłany list do braci, w którym wyznaje narastającą głuchotę i myśli samobójcze pokonane przez sztukę; miasto nie wie jeszcze, co ma.
+
+![](./images/125.jpg)
 
 Codzienny obraz Rzeszy najlepiej widać na drodze. Kupiec jadący z Hamburga do Frankfurtu przekracza kilkanaście granic celnych, płaci kilkanaście razy i wypełnia formularze w kilku językach urzędowych, bo część stanów prowadzi akta po łacinie; podróż trwa dwa tygodnie dobrą drogą, koszt jest nie do przewidzenia. Niemcy są przy tym bardziej zurbanizowane od Polski i mniej od Anglii — po Wiedniu, Hamburgu i Berlinie idą już tylko mniejsze miasta i setki targowych miasteczek — a wzorzec osadniczy gęstnieje na zachód od Łaby i rzednie na wschodzie, gdzie rządzi rolnicza szlachta junkrów, właściciel wsi i sędzia w jednej osobie.
 

@@ -19,6 +19,8 @@ Rok 1802 to rok, w którym ta przestrzeń wisi w powietrzu. W Waszyngtonie Jeffe
 
 ## Geografia — rzeka, równina, biała plama
 
+![](./images/130.jpg)
+
 Missisipi jest kręgosłupem kontynentu i jedyną jego autostradą. Płynie dwa tysiące siedemset mil od jezior Minnesoty do Zatoki, a jej zachodni brzeg wyznacza wschodnią krawędź terytorium na całej długości. Dorzecze Missisipi i Missouri obejmuje obszar większy niż Indie, i wszystko, co w nim rośnie albo powstaje, spływa do jednego portu bez jednej mili lądowego transportu. To geografia, dla której Nowy Orlean jest gardłem połowy kontynentu.
 
 Ruch jest jednokierunkowy z natury. Flatboat z Ohio schodzi do delty sześć tygodni, a pod prąd wraca się tylko keelboatem, miesiącami i z mordęgą, albo wcale — flisak rozbiera łódź na deski i idzie pieszo traktem przez Natchez. Tą samą wodą, w przeciwną stronę, schodzi z głębi lądu coś droższego od mąki i whisky: zalakowane skrzynki z destylatem.
@@ -30,6 +32,8 @@ Za Missouri otwierają się Wielkie Równiny, trawiaste morze z milionami bizon�
 Tu bije serce settingowe terytorium. Łowy, które na wschodzie wybiły smoki do nogi i otworzyły ziemię pod pług, za Missisipi dopiero trwają, bo smoków wciąż jest dość, by oddawały cios. Trans-mississipijski zachód jest ostatnią żywą smoczą granicą świata.
 
 Krew schodzi rzeką. Łowca rusza w górę nurtu na smoki i na wsie, które ich bronią; [[Alchemia|alchemik]] przepędza świeżą posokę w godzinę po uboju, nim zgaśnie; destylat płynie w dół do warsztatów [[Nowy Orlean|Nowego Orleanu]] i stamtąd za ocean. Wartość tego strumienia trudno przecenić — fiolka warta jest w Europie dobrego konia, a cała gospodarka kolonialna ułożyła się wokół jego zdobywania. To, nie tytoń i futra, jest prawdziwym bogactwem tej ziemi.
+
+![](./images/129.jpg)
 
 Bogactwo rodzi wojnę, której rejestry nie nazywają. Narody wnętrza czczą smoki jak przodków i ścigają tych, którzy przerabiają ich krew: zabijają napotkanych łowców, a za znanymi [[Smoczy Magowie|Smoczymi Magami]], laboratoriami i ekspedycjami badawczymi ślą komanda. Mechanikę tej symbiozy i samych bestii opisują [[Smoki]] oraz [[Rdzenne narody Ameryki Północnej]]; tu liczy się jeden wniosek. Dopóki smoki żyją, narody Luizjany mają tarczę, której wschodnie ludy już nie mają, i właśnie dlatego ta ziemia wciąż należy do nich, nie do białego człowieka.
 
@@ -54,6 +58,8 @@ Boom przyszedł na papierze. Szkocki finansista John Law oprawił Luizjanę w ak
 Kolonia kilka razy stanęła na krawędzi. Wojna z Natchez w 1729 roku wycięła trzystu Francuzów w jeden dzień i pogrzebała plantacje tytoniu. Wielkie Wygnanie z 1755 roku, gdy Anglia deportowała katolickich Akadyjczyków z Nowej Szkocji, przygnało do bayou na zachód od miasta cztery, może pięć tysięcy ludzi, z których wyrosła osobna kultura Cajunów. Francja oddała Luizjanę Hiszpanii tajnym traktatem w 1762 roku, a gdy wieść dotarła, kreolscy plantatorzy wypędzili pierwszego gubernatora — porządek przywrócił dopiero Irlandczyk Alejandro O'Reilly, który w 1769 roku przybył z dwoma tysiącami żołnierzy i rozstrzelał pięciu przywódców buntu. Za gubernatora Gálveza w latach wojny o niepodległość Stanów kolonia podwoiła ludność i dochody. Traktat z 1795 roku, zwany od amerykańskiego negocjatora Pinckneya, przyznał wreszcie [[Stany Zjednoczone|Stanom]] prawo składu w Nowym Orleanie — i z tej koncesji wyrośnie cały kryzys roku 1802.
 
 ## Dolna Luizjana — plantacje, niewolnictwo, ołów
+
+![](./images/131.jpg)
 
 Na dolnym Missisipi ciągnie się pas plantacyjny. Indygo było pierwszą wielką uprawą, aż angielskie subsydium podcięło jego cenę; ratunkiem okazał się cukier, który Étienne de Boré jako pierwszy skrystalizował z powodzeniem w 1795 roku, po latach prób. Siedem lat później kilkanaście plantacji przeszło na trzcinę, a cukier żąda pracy niszczącej ciało w parę lat — sadzenie, pielenie, jesienne żniwo, mielenie i gotowanie soku bez przerwy. Dolna Luizjana trzyma w 1802 roku trzydzieści do trzydziestu pięciu tysięcy zniewolonych, ściągniętych z Konga, Senegambii i Wybrzeża Niewolniczego, z różnymi językami i bogami pod katolicką powłoką.
 

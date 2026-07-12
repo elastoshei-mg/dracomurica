@@ -11,6 +11,8 @@ Wszystko, co Europa wie o smokach, pochodzi z ponad dwustu lat polowań, handlu 
 
 ## Porządek natury, według przyrodnika
 
+![](./images/114.jpg)
+
 Smok Nowego Świata to jaszczur skrzydlaty, bliższy drake'owi niż wężowi z legend. Wszystkie odmiany latają, są szybkie i odporne na własne tchnienie. Rozumem większość stoi między psem a człowiekiem i ludzkiej mowy nie zna.
 
 Pogranicze dzieli je wedle krainy — rzeczne, leśne, pustynne, górskie. Utrzymuję, że to jeden gatunek, ukształtowany przez kraj, w którym bytuje, zdolny w teorii płodzić potomstwo ponad tymi granicami. Smok rzeczny mierzy do dwóch i pół metra, leśny do trzech, pustynny do czterech, górski ponad pięć; masa rośnie z długością, od czterystu kilogramów u rzecznego do półtorej tony u górskiego.
@@ -52,6 +54,8 @@ Na linii, której od San Antonio na zachód nie przesunęliśmy od pokoleń, sto
 
 ## Opowieść trapera
 
+![](./images/115.jpg)
+
 Leśny chodzi stadem i nie czeka, aż wejdziesz mu w drogę — sam cię szuka. Najgorszy jest dla bezbronnego: zwęszy strach i syci się nim, zanim cię tknie. Puszcza chmurę kwasu, żeby cię oślepić, a potem znika w niej sam.
 
 Słyszałem od jednego Szaunisa rzecz, której nie umiał wytłumaczyć. Smoki zaczęły bić jego lud. Bestie, co przez sto lat nie podniosły pazura na plemię, naraz spadły na obóz. Stary był tym przerażony bardziej niż jakimkolwiek białym; mówił, że to nie z głodu, że one wiedzą, co robią, i że tego umieć nie powinny.
@@ -71,6 +75,8 @@ Morze zabija każdego co do jednego, i tego też nikt nie pojął. Manufaktury s
 *— z korespondencji kupca Archibalda Renny'ego, Nowy Orlean, 1800*
 
 ## Cienisty smok
+
+![](./images/116.jpg)
 
 Smok cienisty jest mały jak kot, złośliwy i chciwy, i jako jedyny włada ludzkimi językami biegle — czasem każdym, jaki mu akurat potrzebny, bez nauki. Pluje rozbryzgową kulą ciemnej substancji, która ścina żywe ciało mrozem; tchnienie to słabsze od innych, ranić ciężko jednak potrafi. Jego łuska chroni wyłącznie przed tym własnym chłodem.
 

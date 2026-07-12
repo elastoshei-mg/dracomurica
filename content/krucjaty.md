@@ -20,6 +20,8 @@ Pierwsza fala zginęła, nim dotarła do celu. Krucjata ludowa Piotra Pustelnika
 
 Armia rycerska szła wolniej i twardziej. Nicea padła w 1097 roku, a pod Antiochią krzyżowcy ugrzęźli w oblężeniu, które omal ich nie złamało. Gdy miasto wreszcie wzięto, sami znaleźli się okrążeni przez odsieczową armię Kerbogi — głodni, chorzy, bez nadziei. Wtedy w katedrze świętego Piotra odkopano grot Świętej Lancy.
 
+![](./images/78.jpg)
+
 > *Z kroniki prowansalskiego pospolitego ruszenia, spisanej krótko po wyprawie:*
 > „Pielgrzym imieniem Piotr powiedział, że we śnie nawiedził go apostoł i wskazał miejsce, gdzie spoczywa żelazo, które przebiło bok Pański. Kopaliśmy w posadzce od rana, aż ramiona zwisły bezwładnie, i nic. Sam Piotr zszedł do dołu i z gołej ziemi wyjął grot. Przeszło przez wojsko coś, czego nie umiem nazwać inaczej niż ogniem bez płomienia: ludzie, którzy o świcie nie mogli unieść tarczy, wyszli z bram i rozbili Turków, choć było ich trzykroć więcej. Niektórzy szeptali, że Piotr sam ukrył grot poprzedniej nocy. Przeszedł więc przez stos rozżarzonych gałęzi, by dowieść prawdy, i wyszedł z drugiej strony żywy. Po dwunastu dniach zmarł od oparzeń. Jedni mówią, że to Bóg go zabrał za świętość, drudzy, że ogień jednak osądził kłamcę. Ja widziałem, jak armia ożyła, i nie potrafię powiedzieć więcej."
 
@@ -42,6 +44,8 @@ Z podboju wyrosły państwa krzyżowców: Królestwo Jerozolimskie, hrabstwa Ede
 > **Klaster:** skupienie wielu Cudotwórców w jednej, żarliwej sprawie pozwala na efekty ponad zwykłą skalę pojedynczego daru — rzecz rzadka i nietrwała.
 
 ## Splamienie
+
+![](./images/79.jpg)
 
 Druga krucjata (1147–1149) skończyła się niczym pod murami Damaszku. Pierwsza wielka rysa: pokolenie po triumfie wyprawa świętych rycerzy nie zdobyła nic. Państwa krzyżowców toczyły wojny o miedzę, kupczyły sojuszami z emirami i bogaciły się na handlu, a żar, który wziął Jerozolimę, stygł z każdym rokiem.
 
@@ -68,6 +72,8 @@ Ostatnim wielkim krzyżowcem był Ludwik IX Francuski. Świątobliwy król, sam 
 Akka, ostatnia twierdza krzyżowców, padła w maju 1291 roku. Dwieście lat wypraw zamknęło się trwałą porażką, a templariusze i joannici ewakuowali się na Cypr. Doktryna była już gotowa i Kościół trzyma ją do dziś: Cud pękł, bo pękła wiara.
 
 ## Zakony rycerskie
+
+![](./images/80.jpg)
 
 Z krucjat wyrosły zakony rycerskie — mnisi z mieczem, których ślad sięga aż roku 1802.
 

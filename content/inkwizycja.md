@@ -22,6 +22,8 @@ Obie gałęzie znają się i nie ufają sobie nawzajem dokładnie tyle, ile wyma
 
 ## Krew czystsza niż błękitna
 
+![](./images/64.jpg)
+
 Hiszpańska gałąź zbudowała całą kolonialną biurokrację na *limpieza de sangre*, czystości krwi od żydowskich i muzułmańskich przodków. Wewnątrz samej Inkwizycji obowiązuje odwrócenie tej zasady, o którym świeccy urzędnicy nie wiedzą i nie powinni się dowiedzieć: kandydat na wyższą rangę przechodzi badanie genealogiczne mające wykazać nie szlachetność krwi, lecz jej brak — zero linii [[Sorcery]] do czwartego, najlepiej piątego pokolenia wstecz.
 
 Funkcję tę pełni Komisarz Czystości Krwi, urząd nieformalny, lecz realny w każdej prowincji, korzystający po cichu z kopii ksiąg parafialnych i genealogii szlacheckich równie pilnie, jak swatowie wielkich rodów korzystają z Almanachu gotajskiego. Procedura jest surowa, bo precedens ją taką uczynił. Nowicjuszom opowiada się o Don Rodrigu, wysokim inkwizytorze sprzed kilku pokoleń, który ukrył przed zwierzchnikami, że jego wnuk obudził w sobie dziedziczną moc — sprawa wyszła na jaw, skończyła się skandalem i upadkiem całej linii rodzinnej w hierarchii, a opowieść o niej do dziś otwiera szkolenie każdego nowego brata.
@@ -31,6 +33,8 @@ Szlachtę bada się jednak ostrożnie, bo zwykły inkwizytor ma wobec możnych n
 Najlepsi łowcy [[Sorcery|magii krwi]] sami nie mogą jej mieć — z definicji urzędu — muszą jednak rozumieć ją lepiej niż niejeden praktykujący czarownik. Stąd osobna, czysto akademicka ścieżka szkolenia: Thaumatology bez śladu daru, studiowana z traktatów i przesłuchań, nie z praktyki. Bracia tej ścieżki bywają pogardzani przez resztę kleru jako sucha, książkowa kasta — i są dziwnie często tymi, którzy jako pierwsi rozpoznają prawdziwego adepta tam, gdzie reszta widzi tylko zabobonną wieś.
 
 ## Klatki dla fałszywych aniołów
+
+![](./images/63.jpg)
 
 Tam, gdzie zwykły ksiądz sięga po egzorcyzm, Inkwizycja od dawna ma coś więcej — metodę chwytania i przesłuchiwania [[Daemony|bytów z Zewnątrz]], nie tylko ich wypędzania. Cele budowane są warstwowo, z soli, żelaza i poświęconej ziemi, projektowane wprost pod naturę więźnia, nie pod ludzkie ciało. Transport schwytanego bytu odbywa się w łańcuchach relikwiarnych — posrebrzanych okowach nasączonych krwią męczenników — które sam zakon traktuje niemal jak relikwie warte własnej czci.
 
@@ -45,6 +49,8 @@ Krąży też coś, czego nikt nie potwierdził i nikt oficjalnie nie zaprzeczył
 > **Głód jako tortura:** odcięcie od źródła zasilania (Dependency/Feeding) zamiast obrażeń fizycznych — mechanicznie szybsza droga do złamania oporu niż klasyczne przesłuchanie
 
 ## Uszy wszędzie
+
+![](./images/65.jpg)
 
 Władza wywiadowcza Inkwizycji nigdy nie opierała się wyłącznie na własnych agentach. Część spowiedników to cisi informatorzy — nie łamią pieczęci spowiedzi wprost, bo nie raportują treści konkretnego grzechu, tylko jego wzorzec: kto żałuje za co, jak często, z jakim niepokojem w głosie. Tym wzorcem, nie cudzą tajemnicą, namierza się podejrzanych.
 

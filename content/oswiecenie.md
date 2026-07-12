@@ -16,6 +16,8 @@ Jest też próba, której nasi filozofowie w żadnym innym świecie nie przechod
 
 ## Co Oświecenie twierdziło
 
+![](./images/94.jpg)
+
 Fundamentem jest jedno zdanie: rozum ludzki potrafi poznać prawdę bez objawienia, tradycji i autorytetu. Kartezjusz dał metodę — wątp we wszystko aż do pewności matematycznej. Newton dał dowód, że świat chodzi wedle praw, które da się odkryć i opisać bez teologii. Wniosek jest prosty i wywrotowy: każda instytucja ma uzasadnić swoje istnienie rozumem, a jeśli nie potrafi, należy ją zreformować lub znieść. Konsekwencje dla monarchii absolutnej, dla Kościoła jako władzy ziemskiej i dla feudalnych przywilejów były rewolucyjne, zanim ktokolwiek wyciągnął wniosek polityczny.
 
 Druga podstawa to natura ludzka — stała, poznawalna, niezależna od kultury, a z niej prawo naturalne i prawa jednostki. Locke ujął to w *Dwóch traktatach o rządzie* z 1689 roku: człowiek rodzi się z prawem do życia, wolności i własności, rząd istnieje z umowy społecznej, a gdy łamie prawo naturalne, poddani mają prawo do buntu. Jefferson wziął to dosłownie i połowa Deklaracji Niepodległości jest parafrazą Locke'a. Rousseau tę opowieść zmącił: jego natura ludzka jest dobra, a psuje ją dopiero społeczeństwo — myśl, która zrobiła zeń patrona i rewolucji, i romantyzmu.
@@ -40,6 +42,8 @@ Jeden problem zostaje nierozwiązany, bo niewygodny. Skoro [[Sorcery]] naprawdę
 
 ## Centra i sieci
 
+![](./images/93.jpg)
+
 Paryż był przez większość stulecia mózgiem Europy dzięki kawiarniom i salonom. W kawiarni Procope czytało się gazety i kłóciło o politykę; ważniejsze bywały jednak salony prowadzone przez kobiety, gdzie idea przechodziła od rękopisu do reputacji, i to u nich encyklopedyści zyskiwali słuch dworu. W 1802 roku emigracja i gilotyna wymiotły połowę starego pokolenia, a salony Konsulatu mają nowy ton: Germaine de Staël, córka ministra finansów Ludwika XVI, prowadzi przy ulicy Montmorency opozycję intelektualną tam, gdzie opozycji parlamentarnej nie ma, i jest z [[Francja Napoleońska|Napoleonem]] w otwartej wojnie. Wywiezie ją z Paryża w 1803 roku.
 
 [[Wielka Brytania|Szkockie]] oświecenie było bardziej empiryczne i mniej skłonne do rewolucji. Hume z chłodną precyzją podważył przyczynowość i nieśmiertelność duszy, a Adam Smith uczynił z ekonomii naukę. W Edynburgu roku 1802 Dugald Stewart wykłada filozofię moralną studentom, którzy za dekadę będą reformować Parlament, a pierwszy numer „Edinburgh Review" wychodzi w październiku — pismo, które wkrótce stanie się najważniejszym głosem intelektualnym Brytanii.
@@ -61,6 +65,8 @@ Rewolucja francuska podzieliła oświeconą Europę jak nic innego. Burke zaatak
 ---
 
 ## Nauka, która się powiela
+
+![](./images/95.jpg)
 
 Siłą nowej nauki jest sieć korespondujących towarzystw — londyńskie Royal Society, paryska Akademia Nauk, towarzystwo w Filadelfii — która wytwarza wiedzę przez publikację i wzajemne sprawdzanie. „Philosophical Transactions" wychodzą nieprzerwanie od 1665 roku i są recenzowane: każdy artykuł ocenia przed drukiem inny uczony. System eliminuje jaskrawe błędy i studzi pochopne rewolucje, i działa dokładnie tak, jak ma działać.
 

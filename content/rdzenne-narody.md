@@ -28,6 +28,8 @@ Osobno trzymają się [[Cieniste Smoki]] — małe jak kot, sprytne, jako jedyne
 
 ### Szamani i Dwudusze
 
+![](./images/105.jpg)
+
 Szamani są tu czymś powszechnym — niemal każda społeczność ma kogoś, kto czyta sny, leczy i prowadzi obrzędy, a spora ich część realnie wpływa na pogodę, zwierzęta i bieg choroby. Dwudusza — człowiek, który odnalazł smoka zrodzonego z tej samej duszy — jest rzadszy, lecz nie wyjątkowy: na większy klan przypada ich kilku. Bez rdzennej krwi ta więź jest w praktyce niemożliwa, co zamyka ją przed każdym europejskim adeptem.
 
 To dzięki nim opór wreszcie się opłaca. Sam smok jest groźny, lecz dziki i samotny; dopiero szaman, który skłoni stado do zsynchronizowanego uderzenia, i Dwudusza, który poprowadzi je w bój — człowiek i bestia jak jeden umysł w dwóch ciałach — zmieniają rozproszone drapieżniki w wojsko. Tam, gdzie tych ludzi jest dość, a na zachodzie i w głębi lądu jest, kolumna osadników albo wyprawa po krew po prostu nie wraca.
@@ -45,6 +47,8 @@ Jednego wroga symbioza nie powstrzymała. Ospa, odra i tyfus zabiły miliony, za
 ---
 
 ## Ziemia, duchy i prawo
+
+![](./images/106.jpg)
 
 Żaden europejski termin nie oddaje rdzennych kosmologii dobrze. Najbliżej prawdy jest obraz świata jako gęstej sieci relacji między osobami — a osobami są nie tylko ludzie, lecz zwierzęta, rośliny, rzeki, skały, wiatry i przodkowie, każde z własną wolą i własnymi wymaganiami. Polowanie wymaga ceremonii, bo zabicie jelenia kończy relację z konkretną osobą: myśliwy zwraca się do niego przed strzałem i dziękuje po zabiciu, a kości oddaje tak, by uczcić ducha, inaczej duch ostrzeże inne i myśliwy wróci z pustymi rękami. Działa to jako praktyczny system gospodarowania zasobami od pięciu tysięcy lat — a w tym świecie sieć owych relacji bywa namacalna, czego więź ze smokiem jest najdobitniejszym przykładem.
 
@@ -113,6 +117,8 @@ Uzdrowiciele — *ada-wehi* u Czerokesów, *Midewiwin* u Odżibwów — bywają 
 ---
 
 ## Polityka 1802
+
+![](./images/107.jpg)
 
 Polityka Waszyngtonu wobec rdzennych narodów ma w 1802 roku dwie twarze. Pierwszą jest ziemia. [[Traktat Greenville|Greenville]] gwarantował narodom grunt na zachód od wyznaczonej linii, lecz linia ta pełznie z każdym rokiem, w miarę jak gubernator Terytorium Indiana, William Henry Harrison, negocjuje cesje z pojedynczymi wodzami zamiast z konfederacjami. Jefferson pisał mu wprost: jeśli narody zadłużą się w rządowych sklepach, ich ziemia posłuży za zabezpieczenie długu. Do 1809 roku Harrison wytarguje siedemdziesiąt dwa miliony akrów.
 

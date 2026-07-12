@@ -36,6 +36,8 @@ W 1801 roku przyszedł rachunek. Napoleon kazał Hiszpanii zmusić Portugalię d
 
 ## Krew morza i pakty wody
 
+![](./images/102.jpg)
+
 Portugalska magia pachnie solą. Tamtejsza dziedziczna [[Sorcery|moc]] biegnie ku oceanowi — stare rody fidalgów i dynastie pilotów rodzą ludzi z wyczuciem prądów, mgły, pogody i lądu za widnokręgiem, czasem z darem wzywania albo uciszania wiatru. To ta krew obeszła świat, gdy Portugalia była małym królestwem na skraju mapy, i to dzięki niej karawele docierały tam, skąd inni nie wracali.
 
 Obok krwi kwitły pakty. Żeglarz bez kropli dziedzicznej mocy potrafi ułożyć się z [[Daemony|bytami]] głębin i sztormu — z czymś, co mieszka pod kilem i pod falą, i co da się przekupić albo zniewolić. Z brzegu nikt nie odróżni jednego od drugiego, bo bywa, że ta sama rodzina sięga po oba: dziadek miał dar, wnuk dobił targu, a sąsiad nie wie o żadnym z nich. Dlatego portugalski kapitan ma renomę z miejsca. Anglik prowadzi statek wyuczonym kunsztem, mapą i chronometrem, i każdy to wie; o Portugalczyku nie wiadomo, czy wiezie cię kunszt, krew, czy coś, z czym się ułożył i co którejś nocy zażąda zapłaty — i właśnie ta niepewność jest jego najlepszą tarczą i najgorszą sławą.
@@ -45,6 +47,8 @@ Stara sztuka żeglarska ma jeszcze jeden owoc, trwalszy od samych rodów. Portug
 ---
 
 ## Powracający król
+
+![](./images/103.jpg)
 
 Portugalia czeka na króla, który nie żyje. Sebastian I zniknął w 1578 roku pod Alcácer Quibir w Maroku, prowadząc kwiat szlachty na klęskę, po której kraj na sześćdziesiąt lat wpadł pod hiszpańskie panowanie. Z tej klęski i tej tęsknoty narósł sebastianizm — wiara, że król powróci i przywróci Portugalii wielkość. Narastał pokoleniami, sam z siebie, organicznie. I dlatego się ziścił, choć nie tak, jak liczono.
 
@@ -57,6 +61,8 @@ Tym dziwniejsze jest milczenie Artura. Mimo tysiąca lat opowieści o królu, kt
 ---
 
 ## Lizbona i to, co pod nią
+
+![](./images/104.jpg)
 
 Lizbona stoi nad czymś, czego nikt nie umie wygnać. 1 listopada 1755 roku, w poranek Wszystkich Świętych, gdy kościoły były pełne, trzęsienie ziemi, pożar i fala morska zrównały miasto z ziemią i zabiły dziesiątki tysięcy ludzi w godzinę. W tym świecie katastrofa obudziła coś, co nie rozwiało się ze wstrząsami wtórnymi — zostało pod gruzami i pod nowym miastem. Dlatego w Lizbonie [[Żywiołaki|żywiołaki ziemi]] wynurzają się do dziś, sporadycznie i bez ostrzeżenia: pęka bruk, drży fundament, piwnica potrafi zacisnąć się na człowieku. Inżynierowie nie umieją tego nazwać, kapłani nie umieją wygnać, a lizbończycy nauczyli się, których zaułków po zmroku unikać.
 

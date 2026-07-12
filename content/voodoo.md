@@ -15,6 +15,8 @@ Jest realna i groźna, a ma jedną słabość: ołów. Garść opiłków gasi na
 
 ## Religia i moc kobiet
 
+![](./images/140.jpg)
+
 Dla wiernych Voodoo jest religią. To diasporyczna nazwa kultów Afryki Zachodniej — służby duchom, które ta metafizyka zalicza do [[Fey|feyów]], istot ukształtowanych przez opowieść. Wierni karmią je, czczą i proszą o przysługi, a bębny, rysowane na ziemi znaki i ofiary zwołują je na ceremonię. W Nowym Świecie duchy przywdziały twarze katolickich świętych, bo pod okiem pana bezpieczniej było modlić się do figury Maryi niż do bóstwa z Dahomeju. Każdy z tych duchów gra rolę z opowieści, jak wszystkie feye — strażnik rozstaja, którego pozdrawia się pierwszego, pani wód i miłości, pan cmentarza w czerni — i każdy żąda swojej ofiary, nim cokolwiek da.
 
 Sama moc należy jednak do kobiet. Mężczyzna bywa houngan — kapłanem, który prowadzi obrzęd — lecz to mambo i wiedźma wiążą feye i każą im służyć. Mężczyźni przewodzą modlitwie; kobiety władają tym, co modlitwa wzywa. Ta zasada jest w Voodoo żelazna i odróżnia je od [[Europejskie czarostwo|europejskiego czarostwa]], gdzie płeć adepta nie znaczy nic.
@@ -44,6 +46,8 @@ Mambo robi to świadomie i bezpiecznie. Wprawia się w trans bębnem i tańcem, 
 
 ## Wanga — fey zamknięty w przedmiocie
 
+![](./images/141.jpg)
+
 Kapłanka nie musi trzymać feya w gotowości do dosiadania. Może zamknąć go w przedmiocie — pierścieniu, flakonie, lasce — i nosić jego moc przy sobie zamiast wzywać go za każdym razem od nowa. Taki przedmiot nazywa się wanga i działa jak każdy inny sługa związany przez mambo: chroni, atakuje albo szpieguje na żądanie właściciela.
 
 Fey w wandze zachowuje wolę. Bywa posłuszny natychmiast, bywa też, że trzeba go przekonać albo zmusić w chwili, gdy jest najbardziej potrzebny — ta sama przekorna natura, która rządzi każdym dosiadaniem, rządzi i przedmiotem. Zapłatą za jego służbę nie jest złoto, tylko dług i opowieść, które karmią go tak, jak karmi się każdego feya poza wangą.
@@ -58,6 +62,8 @@ Ołów gasi wangę jak każdą inną afrykańską magię — opiłki przy przedm
 ---
 
 ## Czarne Voodoo i zombie
+
+![](./images/142.jpg)
 
 Obok służby feyom istnieje gałąź mroczniejsza. Czarna wiedźma łamie ducha i zmusza go do posłuchu, rzuca klątwy, które gniją żywcem, i sięga po zmarłych. To z tej tradycji pochodzi zombie.
 

@@ -58,6 +58,8 @@ Hajderabad rządzony przez Nizama jest największym obszarowo państwem Indii, l
 
 ### Marathowie — ostatnia siła
 
+![](./images/62.jpg)
+
 Konfederacja Marathów jest w 1802 roku jedyną siłą zdolną wystawić armię i prowadzić politykę niezależną od Kompanii. Pięć domów — Peszwa w Pune jako głowa, Sindia w Gwaliorze, Holkar w Indaurze, Bhonsle w Nagpurze, Gaikwad w Barodzie — łączy luźna zwierzchność i ciągła rywalizacja. Ich piechotę przeszkolili francuscy oficerowie, de Boigne i Perron, w czterdzieści tysięcy regularnego wojska z dobrą artylerią i fortecami strzegącymi dróg do Delhi.
 
 Gdy Peszwa Badźi Rao II przegrał z Holkarem i schronił się pod opieką Kompanii, podpisał 31 grudnia 1802 roku traktat z Bassein, oddając Anglikom protektorat nad Pune za ochronę wojskową — akt kapitulacji opatrzony eufemizmem traktatu pomocniczego. Rozumiał, co podpisuje, i uznał Kompanię za mniejsze zło od Holkara; mylił się co do słowa „mniejsze". Sindia i Bhonsle, wściekli o Bassein, wypowiedzą wojnę w sierpniu 1803 roku, a Wellesley będzie gotów.
@@ -75,6 +77,8 @@ Kobieta ma w wielu tradycjach prawnych własny majątek z posagu (stridhan), lec
 ---
 
 ## Religia — trzy światy na jednym subkontynencie
+
+![](./images/61.jpg)
 
 Hinduizm obejmuje wiele tradycji, tekstów, praktyk i bóstw, które łączy wspólna kosmologia, szacunek dla Wed i system kast, bez centralnej hierarchii i jednej ortodoksji. Trzy główne nurty — śiwaizm, wisznuizm i szaktyzm — mają własne świątynie, teksty i święte miasta. Waranasi nad Gangesem jest celem pielgrzymek i miejscem śmierci, która daje wyzwolenie; tysiące przybywają tu co roku, by wydać ostatni oddech nad rzeką. Brahmin-kapłan obsługuje świątynię i obrzędy przejścia za opłatą ustaloną tradycją albo negocjacją.
 

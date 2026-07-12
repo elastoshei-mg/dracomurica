@@ -16,6 +16,8 @@ Trwa też to, czym Hanza była naprawdę: dowodem, że w magicznym świecie moż
 
 ## Co zostało z Hanzy
 
+![](./images/83.jpg)
+
 Hanza wyrosła z prostego problemu. Kupiec z Lubeki handlujący suknem we Flandrii i śledziem w Bergen był poza zasięgiem ochrony własnego miasta, a okraść go mógł każdy miejscowy pan z dość liczną drużyną. Rozwiązaniem była umowa: kupcy z Lubeki dostają w Hamburgu te same przywileje co miejscowi, kupcy z Hamburga w Lubece, a razem negocjują wspólne prawa w Brugii, Bergen i Londynie. Pierwszy traktat, lubecko-hamburski, podpisano w 1241 roku.
 
 Przez półtora wieku struktura rosła. Stałe placówki — kontory — stanęły w Bergen, Brugii, Londynie (*Steelyard*) i Nowogrodzie. Na Bałtyku panował monopol: angielska wełna, skańskie śledzie, pruskie i polskie zboże, moskiewskie futra — wszystko szło przez Hanzę. U szczytu należało do niej, w zmiennych konfiguracjach, sto kilkadziesiąt miast od Kolonii po Rewel, z flotą liczoną w tysiącach jednostek i siłą zdolną zablokować port wrogiego króla.
@@ -36,6 +38,8 @@ Rozpad ciągnął się półtora wieku i miał kilka przyczyn naraz. Rosły pań
 
 ## Księga zamiast krwi
 
+![](./images/82.jpg)
+
 W świecie, w którym krew i wrodzony dar dają władzę, Hanza zbudowała coś przeciwnego: potęgę bez ani jednego maga. Kupieckie miasta nie miały arystokracji, a [[Sorcery|magia dziedziczna]] jest dziełem arystokracji — więc w Hamburgu czy Lubece dar szlachecki nie kupował nic. Rządziła księga rachunkowa, kontrakt, weksel i prawo miejskie, a człowiek z mocą w żyłach, lecz bez kredytu i reputacji, znaczył tu mniej niż kupiec, który nigdy nie rzucił czaru, lecz spłacał długi w terminie.
 
 To jest serce hanzeatyckiego dziedzictwa i jego cichy triumf. Tam, gdzie pan z darem Sorcery radził się jasnowidza przed wyprawą, kupiec hamburski radził się ksiąg i tablic ubezpieczeniowych — a tablice myliły się rzadziej. Podwójna księgowość, polisa morska, akredytywa, prawo awarii: każde z tych narzędzi powtórzy każdy wyszkolony człowiek, w każdym porcie, bez kropli daru. Magia jest rzadka i umiera z magiem; metoda kupiecka rozsiewa się w odpisach i uczy się jej w szkole. Hanza wygrała Bałtyk metodą, którą mógł powtórzyć ktokolwiek.
@@ -51,6 +55,8 @@ A choć same miasta magii nie uprawiają, wożą ją jak każdy inny towar. Prze
 ---
 
 ## Hamburg, Lubeka, Brema
+
+![](./images/81.jpg)
 
 Hamburg jest największym z trzech i największym miastem Rzeszy poza Wiedniem i Berlinem — sto trzydzieści tysięcy ludzi, wolne miasto imperialne z własnym senatem, konstytucją i milicją, rządzone przez czterech rotujących burmistrzów i Senat patrycjuszy. Jego portu nie da się przecenić: Łaba prowadzi w głąb Niemiec, a Hamburg leży na skrzyżowaniu Atlantyku z kontynentem, więc bawełna z Manchesteru, tytoń z Wirginii i cukier z Jamajki trafiają tu przed jakimkolwiek innym miastem lądu. *Hamburger Bank* z 1619 roku prowadzi rachunki w *mark banco*, walucie czysto rachunkowej, której od stu osiemdziesięciu lat żaden władca nie zdołał zepsuć, bo bank należy nie do króla, lecz do senatorów, których interes jest interesem kupców. Gdańsk, Amsterdam, Ryga, Kopenhaga i Londyn rozliczają się przez Hamburg.
 

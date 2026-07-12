@@ -67,6 +67,8 @@ Addington nie demobilizuje floty i trzyma armię w gotowości, bo wie, że rozej
 
 ## Przemysł, który zbroi świat
 
+![](./images/144.jpg)
+
 Wielka Brytania uprzemysławia się szybciej niż ktokolwiek, a [[Rewolucja Przemysłowa|pełen opis tej przemiany]] ma własny artykuł. Tu liczą się rozmiary i skutki. W 1800 roku Wyspy wytopiły sto trzydzieści sześć tysięcy ton żeliwa — więcej niż reszta Europy razem — utkały dwadzieścia sześć milionów jardów bawełny i wydobyły sześćset milionów funtów węgla. Trzy tysiące mil kanałów spina zagłębia węglowe z portami; kanał Bridgewater zbił cenę węgla w Manchesterze o połowę w dniu otwarcia.
 
 Cena jest ludzka. Ustawy o zmowach z lat 1799–1800 zdelegalizowały związki, więc robotnik negocjujący płacę zbiorowo popełnia przestępstwo; w przędzalniach Lancashire pracuje się czternaście do szesnastu godzin za osiem do dwunastu szylingów tygodniowo, a wrzeciona obsługują dzieci od siódmego roku życia. Ustawy grodzeniowe wywłaszczyły chłopów z milionów akrów wspólnej ziemi, spychając ich do fabryk i miast. Niszczenie maszyn przez tracących pracę tkaczy zaczyna się lokalnie, bez nazwy; zorganizowani luddyści przyjdą w 1811 roku.
@@ -76,6 +78,8 @@ Ten sam przemysł zbroi armie. Brytyjskie rusznikarstwo wyprzedza kontynent — 
 ---
 
 ## Royal Navy
+
+![](./images/143.jpg)
 
 Flota wojenna liczy w 1802 roku około stu osiemdziesięciu okrętów liniowych w rejestrze, z czego w czynnej służbie stoi blisko sto dwadzieścia, do tego około dwustu trzydziestu fregat i mniejszych jednostek oraz sto tysięcy marynarzy w czasie pokoju — dwa razy tylu na wojnie. Ta przewaga wyrasta ze stu pięćdziesięciu lat systematycznej inwestycji: Admiralicja zarządza dziesiątkami stoczni, zaopatrzeniem, szpitalami morskimi i własnym sądownictwem, a Royal Navy jest największym pracodawcą w Anglii.
 
@@ -98,6 +102,8 @@ Kanada Górna i Dolna mają własny [[Kanada Brytyjska|artykuł]]. W Nowej Połu
 ---
 
 ## Irlandia
+
+![](./images/145.jpg)
 
 Irlandia liczy pięć i pół miliona ludzi, z czego cztery piąte to katolicy odcięci od głosu, Parlamentu i większości urzędów przez prawa karne (*Penal Laws*). Akt Unii z 1800 roku miał te prawa znieść — Pitt prywatnie obiecywał emancypację — lecz Jerzy III odmówił, a Pitt odszedł. Katoliccy Irlandczycy dostali z unii jedno: parlament, który ich nie reprezentuje, przeniósł się z Dublina do Westminsteru, gdzie nadal ich nie reprezentuje.
 

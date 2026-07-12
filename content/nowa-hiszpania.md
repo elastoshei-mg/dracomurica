@@ -31,6 +31,8 @@ Wokół tego jądra ciągnie się sznur prowincji granicznych — Teksas, Coahui
 
 Komendantura Generalna Provincias Internas, wydzielona z wicekrólestwa w 1776 roku, dowodzi całym pograniczem osobno od reszty administracji — sygnał, że Madryt sam uznał granicę za odrębny problem wojskowy, nie kolejną prowincję cywilną. Pedro de Nava trzymał ten urząd od 1790 roku, prowadząc go jak markiz pograniczny, którego jedynym realnym zadaniem jest nieoddawanie ziemi, nie jej zdobywanie. W 1802 roku przekazuje komendę bratankowi, Nemesio Salcedo y Rábago — nazwisko, które brzmi znajomo każdemu, kto śledzi sprawy znad Missisipi: jego krewny, Manuel de Salcedo, tej samej wiosny obejmuje gubernatorstwo hiszpańskiej [[Terytorium Luizjany|Luizjany]]. Rodzina Salcedo trzyma w 1802 roku obie krawędzie hiszpańskiej Ameryki Północnej naraz.
 
+![](./images/87.jpg)
+
 Pod komendanturą działa urząd bez którego korespondencja z Madrytem dawno by się załamała — biuro określane nieoficjalnie jako komisariat gór i pustkowi. Jego jedyną realną funkcją jest formułowanie raportów tak, by „brak incydentów" znaczyło dokładnie to, co potrzebne, nie to, co się wydarzyło. Uczciwy raport o starciu ze smokiem albo o utraconej placówce zmuszałby Koronę do wyboru między wojną, na którą nie stać, a przyznaniem się do granic własnej suwerenności. Urzędnik na tym stanowisku nie kłamie wprost — po prostu nigdy nie pisze zdania, którego nie da się obronić przed inspektorem z Madrytu.
 
 Z tego samego powodu mapy pogranicza są celowo niedoprecyzowane. Kartograf, który narysuje Provincias Internas zbyt dokładnie, zaczyna mimowolnie rysować drugą mapę — miejsc, gdzie zgłaszano smoki, czyli miejsc, gdzie władza Korony faktycznie się kończy. Takie szkice bywały konfiskowane, a ich autorom tłumaczono to względami wojskowymi.
@@ -55,6 +57,8 @@ Dalej na południe od Komanczerii Korona trzyma inny rodzaj bufora. Polityka osa
 > **Status linii San Antonio – zachód:** faktycznie terytorium komańczańskie, nie hiszpańskie
 
 ## Srebro, nauka i to, co Inkwizycja każe milczeć
+
+![](./images/88.jpg)
 
 Kopalnia Valenciana pod Guanajuato, własność hrabiego de Valenciana, jest najbogatszą żyłą srebra na świecie. Górnicy schodzący coraz głębiej donoszą czasem o czymś poza srebrem — szklistej, czarnej skale, która zda się „pić światło pochodni". Standardowa instrukcja [[Inkwizycja|Świętego Oficjum]] dla takich znalezisk jest krótka: zapieczętować chodnik, zgłosić, nie badać. Nikt jeszcze nie sprawdził, czy ktoś tę instrukcję kiedykolwiek złamał.
 
@@ -101,6 +105,8 @@ Podróżujący po koloniach jezuiccy intelektualiści, oczytani w relacjach z Da
 System intendentur, wprowadzony w 1786 roku i dzielący Nową Hiszpanię na dwanaście jednostek administracyjnych, miał usprawnić zarząd kolonią. W praktyce daje też urzędnikom pogranicza dodatkową warstwę biurokratycznego kamuflażu — „brak incydentów" w raporcie intendenta jest formułą administracyjną, nie faktem, a każdy, kto pracował na granicy dłużej niż rok, wie, jak ją czytać.
 
 ## Zniknięcia
+
+![](./images/89.jpg)
 
 Od czasu do czasu żołnierze i misjonarze z głębi Provincias Internas zgłaszają coś, czego oficjalne raporty nie potrafią dobrze nazwać: presidio albo rancho znalezione w pełni wyposażone — bydło w zagrodzie, żywność na półkach, narzędzia na swoich miejscach — i całkowicie wyludnione. Żadnych śladów walki. Żadnego znaku napadu Apaczów ani niczego, co dałoby się przypisać znanej przyczynie.
 

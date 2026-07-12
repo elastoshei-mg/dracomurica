@@ -7,6 +7,8 @@ aliases: [Kung-fu, Sztuki walki Wschodu, Qi, Chi, Martial Arts]
 
 # Sztuki walki
 
+![](./images/126.jpg)
+
 Mistrz sztuk walki nie rzuca zaklęć i nie modli się o Cud. Lata dyscypliny, oddechu i powtarzanych form otaczają go aurą energii, którą czerpie podświadomie od [[Fey|feyów]] — sam tego nie wie, sam by zaprzeczył, gdyby go zapytać. Autohipnoza zbudowana treningiem otwiera kanał, którego adept nie rozumie i którym nie musi rozumieć, żeby z niego korzystać.
 
 To czyni tę magię najbardziej fizyczną ze wszystkich systemów tego świata. Nie ma tu ksiąg jak w [[Europejskie czarostwo|czarostwie]], nie ma krwi jak w [[Sorcery]], nie ma modlitwy jak w [[Cudotwórcy|Cudzie]]. Jest ciało, dyscyplina i dekady powtórzeń — a na końcu cios, który kruszy kamień, i skok, który nie powinien być możliwy.
@@ -26,6 +28,8 @@ Tą predyspozycją jest **Trained By A Master** — kosztowna cecha otwierająca
 > **Fundament:** zwykła umiejętność stylu walki (Karate, Judo, Kung Fu i podobne) musi być wysoka, zanim adept zacznie nadbudowywać efekty chi
 
 ## Umiejętności chi
+
+![](./images/128.jpg)
 
 Poniżej wybrane, reprezentatywne techniki — nie pełna lista z podręcznika. Każda jest osobną umiejętnością, którą adept kupuje i trenuje oddzielnie; mistrz zna ich zwykle garstkę, nie wszystkie naraz. Nazwy i dokładne mechaniki warto zweryfikować w GURPS Martial Arts przed użyciem przy stole — poniższe opisy oddają charakter efektu, nie są transkrypcją podręcznika.
 
@@ -65,6 +69,8 @@ Poza Chinami efekt słabnie drastycznie, czasem aż do zera, chyba że adept sto
 ## Czym to nie jest
 
 Japońskie [[Cięcie Powietrza]] bywa mylone z tą samą magią, bo wygląda podobnie z zewnątrz — miecz, który tnie na odległość, wygląda jak krewniak ciosu kruszącego kamień. To inny system. Cięcie Powietrza jest nabytą [[Sorcery]], techniką wyuczoną przez nielicznych japońskich mistrzów miecza, nie umiejętnością chi opisaną wyżej — opisuje ją osobno [[Sorcery]], nie ten artykuł. Adept sztuk walki nigdy nie nauczy się Cięcia Powietrza samym treningiem chi, tak jak mistrz Cięcia Powietrza nie nabędzie automatycznie Power Blow czy Flying Leap.
+
+![](./images/127.jpg)
 
 [[Buddyzm|Mnisi buddyjscy]] stoją na styku obu tradycji. Ich droga samodoskonalenia splata mistycyzm energii feyów ze sztukami walki opisanymi tutaj, odstrajając ciało od planu materialnego pokolenie po pokoleniu praktyki — przez co najsilniejsi z nich bywają groźniejsi niż świecki mistrz tej samej dyscypliny. Pełny opis tej ścieżki czeka na własny artykuł.
 

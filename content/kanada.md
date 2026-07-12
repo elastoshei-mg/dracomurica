@@ -14,6 +14,8 @@ Razem dają jakieś czterysta do pięciuset tysięcy białych osadników, dwadzi
 
 ## Smoki i krucha granica
 
+![](./images/70.jpg)
+
 Brytyjską Amerykę Północną zaludnia tak niewielu osadników głównie za sprawą [[Rdzenne narody Ameryki Północnej|rdzennych narodów]] i ich sojuszników — [[Smoki|smoków]]. Klimat to tylko część przyczyny. Lasy i jeziora kontynentu należą do [[Smoki Leśne|Smoków Leśnych]] i [[Smoki Rzeczne|Smoków Rzecznych]], a Cree, Odżibwe i Assiniboinowie żyją z nimi w przymierzu starszym niż pamięć.
 
 Brytyjczycy i Francuzi próbowali tu tego samego co wszędzie — polowania na smoki dla krwi i łuski. Próby były krótkie i krwawe. W rzadkiej tajdze smoków było mniej niż na żyznym południu, a każdy zabity ściągał odwet klanu, którego myśliwych potrzebowano do handlu. Rachunek się nie zgadzał: jedna fiolka destylatu nie była warta utraty całej sieci dostawców bobra. Polowania porzucono i wrócono do [[Handel futrami|futer]] i drewna.
@@ -38,6 +40,8 @@ Skutek widać w każdej osadzie. Osadnik nad Świętym Wawrzyńcem jest ostrożn
 ## Kanada Dolna — la nation canadienne
 
 Kanada Dolna — dawne Lower Canada, dzisiejszy Quebec — istnieje jako osobna kolonia od aktu konstytucyjnego z 1791 roku, który podzielił dawną prowincję Quebec na dwie. Mieszka w niej jakieś dwieście pięćdziesiąt tysięcy ludzi, z czego ponad osiemdziesiąt procent to *habitants* — potomkowie francuskich osadników, mówiący po francusku, katoliccy, żyjący z roli wzdłuż Świętego Wawrzyńca. Brytyjski podbój sprzed czterdziestu dwóch lat zmienił w praktyce tylko garnizon i kupców; kościół, sądy, seigniorialne prawo ziemi, język i zwyczaje trwają jak za Ludwika XV.
+
+![](./images/71.jpg)
 
 Ziemia leży tu w charakterystycznych długich, wąskich pasach prostopadłych do rzeki, każdy z własnym dostępem do wody i każdy należący do *seigneura*, który niegdyś dostał go od korony francuskiej. Habitanci dzierżawią, płacą roczny czynsz i drobne pańszczyzny, mielą zboże w seigniorialnym młynie. System jest w teorii feudalny, w praktyce łagodniejszy od europejskiego — pan zwykle mieszka na miejscu i bywa na tych samych mszach. Ale rodziny mają po siedmioro, ośmioro dzieci, każdy syn dostaje wycinek ojcowskiego pasa, a pas jest już za wąski; za dwa pokolenia problem ziemi wybuchnie.
 
@@ -70,6 +74,8 @@ Nowy Brunszwik wydzielono z Nowej Szkocji w 1784 roku dla nadmiaru lojalistów; 
 ---
 
 ## Ziemie Kompanii i handel futrami
+
+![](./images/69.jpg)
 
 Za osadami zaczyna się kontynent Kompanii. Hudson's Bay Company dostała od Karola II w 1670 roku wyłączne prawa do wszystkich ziem spływających do Zatoki Hudsona — jak się okaże, do trzydziestu dziewięciu procent dzisiejszej Kanady. W 1802 roku to kilkanaście fortów przy rzekach, kilkuset stałych pracowników i kilkanaście tysięcy rdzennych myśliwych, którzy przynoszą futra w zamian za sukno, metal, broń i tolerowany alkohol. Strategia HBC przez sto lat była prosta: siedzieć w fortach nad zatoką i czekać, aż Indianie przyniosą towar.
 

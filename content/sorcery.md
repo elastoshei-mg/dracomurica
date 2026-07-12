@@ -12,6 +12,8 @@ Sorcery to magia, z którą się rodzi. Objawia się instynktownie, bez ksiąg i
 
 ## Jak budzi się dar
 
+![](./images/117.jpg)
+
 Moc przychodzi sama. Manifestuje się u ludzi spontanicznie, w każdym wieku i niemal dowolnej formie — u dziecka przy palenisku, u rekruta pod pierwszym ogniem, u wdowy nad świeżym grobem. Pierwsze objawienie wiąże się zwykle z traumą albo silnym uczuciem, jakby dar czekał na pęknięcie, którym wyjdzie na wierzch.
 
 Dar bywa wąsko tematyczny i dziwaczny w specyfikacji. Potężne uzdrawianie, ale tylko ptactwa. Ogień posłuszny w każdym calu, lecz wyłącznie w kształcie konia. Rozmowa przez sny, jednak jedynie z osobami znanymi osobiście.
@@ -35,6 +37,8 @@ Cena jest cielesna. Każde użycie męczy ciało, a przeforsowanie mocy potrafi 
 
 Adept zna mało czarów, lecz włada nimi jak własną ręką. Tam, gdzie wyuczony czarownik dźwiga grubą księgę zaklęć i rzuca je mozolnie, adept Sorcery ma jeden, najwyżej kilka ściśle powiązanych trików — i wyciąga je bez wysiłku, w sekundę, raz za razem, dopóki starcza mu sił.
 
+![](./images/132.jpg)
+
 Improwizacja jest możliwa, lecz słaba. Adept potrafi sklecić efekt spoza swojego repertuaru, ale początkujący wyczaruje tak najwyżej drobiazg, a sięgnięcie po coś poważniejszego kosztuje go potrójny wysiłek i grozi załamaniem mocy na całe minuty. Dlatego adepci trzymają się tego, co znają, nawet gdy nie pasuje to do sytuacji — kto umie wzniecać ogień, podpali stóg, by napełnić izbę dymem, zamiast szukać po omacku mgły, której nigdy nie rzucił.
 
 Ta wąskość jest źródłem osobliwości całego stanu. Garstka [[Francja Napoleońska|francuskich]] adeptów w legionie [[Napoleon Bonaparte|Napoleona]] przypomina raczej warsztat osobliwości niż kompanię grenadierów: jeden topi ołów spojrzeniem, drugi widzi przez ścianę na dziesięć kroków, trzeci sprawia, że konie wroga stają dęba. Dowodzenie takim oddziałem to nie musztra, lecz układanie łamigłówki z ludzi, z których każdy umie jedną rzecz i tylko tę jedną.
@@ -47,6 +51,8 @@ Ta wąskość jest źródłem osobliwości całego stanu. Garstka [[Francja Napo
 ---
 
 ## Krew, którą się hoduje
+
+![](./images/118.jpg)
 
 Moc dziedziczy się po krwi i to przepisało porządek społeczny Europy. Prekursorzy — ci, u których zdolność objawiła się po raz pierwszy — przekazują potomstwu dokładnie tę samą moc wraz z jej ograniczeniami. Są dla niej zarazem sufitem: żaden potomek nie przewyższy prekursora, a z każdym pokoleniem dar słabnie i objawia się rzadziej, choćby pielęgnować go najstaranniej.
 
@@ -76,17 +82,23 @@ Hiszpańscy Habsburgowie nieśli sygnaturę mroczniejszą. Domowi temu przypisuj
 
 Dar lubi się grupować geograficznie, bo grupują się rody, które go niosą. Każdy kraj ma własny zestaw sygnatur — typowych mocy starych linii — a wprawny obserwator odgadnie czasem pochodzenie adepta po tym, co ten potrafi.
 
+![](./images/133.jpg)
+
 [[Rosja|Rosyjskie]] linie biegną w stronę pogody i zimy. Stara krew potrafi ściągnąć mróz nie w porę, zgęścić śnieżycę, uciszyć albo wzburzyć wiatr; ten sam mróz, który złamał każdą armię najeźdźcy, płynie w żyłach kilku magnackich rodów. Część z nich splata władzę nad pogodą z trucizną. Ich znakiem jest mgła, która jest zarazem wyziewem — opar wpełzający w dwór i kładący śpiących bez śladu prócz chłodu. Magnat umiejący przywołać zatrutą mgłę jest w dworskiej grze cichą bronią, o jakiej zachodni prekursorzy nie marzą.
 
 [[Portugalia|Portugalskie]] rody — fidalgowie i dynastie pilotów — dziedziczą wyczucie oceanu: prądów, mgły, pogody i lądu za widnokręgiem, czasem dar wzywania albo uciszania wiatru. To ta krew obeszła świat, gdy Portugalia była mała. Obok niej kwitły jednak pakty z bytami wody, a z zewnątrz nikt nie odróżni jednego od drugiego, bo bywa, że ta sama rodzina sięga po oba. Portugalski kapitan ma renomę z miejsca, a niepewność, czy prowadzi statek krwią, kunsztem, czy układem z czymś z głębin, jest jego najlepszą tarczą.
 
 [[Święte Cesarstwo Rzymskie|Rzesza]] nie ma jednej sygnatury, lecz muzeum drobnych darów: jeden na starożytny ród, każdy gasnący po swojemu. Trzysta państewek i kilka tysięcy rycerskich linii podległych wprost cesarzowi zgromadziły najwięcej dziedzicznej Sorcery w Europie. Właśnie te dogasające linie połyka teraz mediatyzacja, która od 1803 roku wciela rycerstwo Rzeszy w większe państwa — razem z ziemią znika krew.
 
+![](./images/119.jpg)
+
 [[Szwajcaria|Szwajcarskie]] rody trzymają sygnaturę, o której nikt głośno nie mówi. Nie władają żywiołem ani cudzym umysłem, lecz samą materią przedmiotu — modyfikują, wzmacniają i umagiczniają rzeczy zamiast ciał. Zegarmistrz z Neuchâtel, który sprzedaje w Paryżu czasomierze robiące ponoć więcej niż mierzenie czasu, uchodzi za genialnego rzemieślnika, nigdy za nosiciela krwi, bo cała Europa wie, że Sorcery działa na ludzi, nie na materię. Sam nigdy tego nie potwierdza ani nie zaprzecza, co tylko podbija cenę. Rzecz jest strzeżona równie starannie jak każda inna linia mocy kontynentu — szerzej przy [[Magiczne przedmioty]].
 
 ---
 
 ## Zmierzch ku roku 1802
+
+![](./images/134.jpg)
 
 Moc słabnie od stuleci i nie z jednej przyczyny. Rosnąca populacja, rozwój cywilizacji i religie żądne monopolu sprawiły, że potrzeba silnej magii u szlachcica malała pokolenie po pokoleniu. Sam mechanizm dziedziczenia robi resztę, bo dar rozcieńcza się z każdym małżeństwem zawartym dla ziemi, nie dla krwi.
 

@@ -10,6 +10,8 @@ aliases: [Artefakty, Enchanted items, Zaklinanie przedmiotów, Talizmany, Amulet
 
 ## Zaklinanie przedmiotów
 
+![](./images/84.jpg)
+
 [[Europejskie czarostwo]] ma osobne, szczytowe kolegium — Zaklinanie przedmiotów. Pierwszym krokiem nie jest samo zaklinanie, lecz opanowanie efektu, który adept chce zamknąć w materii. Kolegium pożycza drabinę zaklęć, którą adept zbudował sobie gdzie indziej.
 
 Przed 1347 rokiem robiły to rutynowo domy czarodziejskie zrzeszone w [[Gildie Śmierci|gildiach]] — pierścienie, berła, przedmioty ceremonialne na dwory i do kościołów. Podczas wojny z Gildiami Śmierci część tych domów kuła magiczne przedmioty broniące murów miast wprost na polu walki. Wdzięczność za obronę przypisywano zwykle cudom świętego patrona albo skuteczności miejskiej milicji, nie czarownikom, którzy zginęli broniąc cudzych murów.
@@ -25,6 +27,8 @@ Skutek jest wymierny. Przedmiot z prawdziwą mocą wycenia się jak majątek zie
 > **Divinacja:** nie przewiduje ani nie gwarantuje wyniku próby zaklinania — nikt nie sprawdzi z góry, czy się uda
 
 ## Kamienie mocy
+
+![](./images/85.jpg)
 
 Metoda Quick and Dirty wymaga zasilenia z zewnątrz, żeby nie zabić maga wysiłkiem — stąd kamień mocy, klejnot albo kryształ trzymający naładowaną energię jak bateria. Nadają się do tego wyłącznie okazy naprawdę znaczące: nie każdy szafir, tylko kamień wielkości orzecha, czysty, bez skazy, wart fortunę zanim ktokolwiek go naładuje.
 
@@ -46,6 +50,8 @@ Na Wschodzie ta gałąź żyje dalej. Chińscy i japońscy praktycy łączą ją
 Garstka zachodnich alchemików idzie w trzecią stronę. To konstruktorzy — używają reakcji i odczynników nie do warzenia mikstur, lecz do napędzania i uszczelniania coraz bardziej złożonych mechanizmów. Praca niszowa, bliższa protoinżynierii niż okultyzmowi, rosnąca powoli w cieniu tego samego prądu, który zamienia parę w siłę roboczą.
 
 ## Wanga
+
+![](./images/86.jpg)
 
 [[Voodoo]] nie tworzy przedmiotów w sensie enchantmentu. Wanga jest naczyniem — [[Fey|feyem]] uwięzionym w materii, oddanym do dyspozycji na żądanie właściciela. Kapłanka wiąże ducha tak samo, jak wiąże każdego innego sługę: uwodzi go, przekonuje albo zmusza.
 

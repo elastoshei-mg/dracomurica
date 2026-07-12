@@ -36,6 +36,8 @@ Sam Aleksander robi na każdym rozmówcy wrażenie jedynego człowieka, który g
 
 ## Pańszczyzna — fundament i sprzeczność
 
+![](./images/111.jpg)
+
 Rosyjski chłop pańszczyźniany jest prawnie rzeczą ruchomą należącą do pana. Można go kupić, sprzedać, przegrać w karty, oddać za dług; nie może się ożenić bez zgody właściciela ani opuścić ziemi, a skarga chłopa na pana w sądzie kończy się zwykle karą dla skarżącego. Pan może go wychłostać, zamknąć w prywatnym więzieniu i na piśmie zesłać na katorgę bez wyroku. Tacy chłopi to trzydzieści pięć do czterdziestu procent ludności; drugie tyle to chłopi państwowi, formalnie wolniejsi, lecz przywiązani do ziemi koronnej.
 
 Życie wsi organizuje *mir* — gmina, w której ziemia należy do wspólnoty, nie do jednostki, i co kilka lat dzieli się ją na nowo wedle liczby pracujących dusz. Mir odpowiada zbiorowo za podatki i pańszczyznę: gdy jeden ucieka, płaci reszta, więc wzajemny nadzór jest wbudowany w sąsiedztwo. Decyzje zapadają na zebraniu głów rodzin i nikt ich nie spisuje.
@@ -58,6 +60,8 @@ Skutki widać w cudach. Tam, gdzie [[Cudotwórcy|cudotwórców]] rodzi gorąca, 
 
 ## Kołduny, kulty i krew zimy
 
+![](./images/112.jpg)
+
 Polowania na czarownice, które w zachodniej Europie wytępiły jawną magię po klęsce [[Gildie Śmierci|Gildii Śmierci]], nigdy nie sięgnęły w głąb Rosji. Kraj jest na to za wielki i za pusty: półopuszczone wsie, leśne przysiółki, tydzień drogi od najbliższej władzy. Niskie [[Europejskie czarostwo|czarostwo]] nie zostało więc nigdy wyplenione i wrosło w *dwojewierie* — podwójną wiarę chłopa, który żegna się przed ikoną i zostawia mleko duchowi lasu. Wiejski *kołdun* i *wiedźma* są stałym elementem życia: leczą i rzucają uroki, zamawiają pogodę, odnajdują rzeczy i ludzi, kładą i zdejmują klątwy — tacy, jakich wieś zarazem potrzebuje i się boi.
 
 Większość z nich ma moc małą lub średnią. Zdarzają się jednak prawdziwi demonolodzy, paktujący z [[Daemony|Istotami z Zewnątrz]] w zaciszu, o którym Petersburg nie usłyszy latami, oraz charyzmatycy z realnym darem, wokół których w odciętej osadzie narasta kult. Rosja od dawna boryka się z sektami, które urzędowa cerkiew zna z nazwy i nie umie dosięgnąć — ekstatycznymi wspólnotami biczowników i jeszcze mroczniejszymi odłamami, gdzie obrzęd przestaje być tylko obrzędem. Władza centralna jest wobec tego bezradna: miejscowy pop bywa przekupiony, ślepy albo wspólnik, najbliższy urzędnik o miesiąc drogi, a las nie wydaje swoich. Imperium nosi w sobie przewlekłą, cichą gorączkę czarostwa i kultu, której żaden synodalny edykt nie wyleczył.
@@ -67,6 +71,8 @@ Magia krwi ma w Rosji własną sygnaturę. Dziedziczne rody [[Sorcery|prekursor�
 ---
 
 ## Petersburg, Moskwa i dwór
+
+![](./images/113.jpg)
 
 Sankt Petersburg Piotr Wielki zaczął budować w 1703 roku na podmokłym ujściu Newy, kosztem tysięcy istnień przy fundamentach; miasto stoi na palach wbitych w bagno, a Newa zamarza od listopada do marca. Jest gestem ideologicznym zaklętym w kamień: regularne ulice, oś Newskiego Prospektu, neoklasyczne fasady, granit i marmur. W 1802 roku liczy ćwierć miliona ludzi — szlachtę, biurokrację, garnizon, kupców i dziesiątki tysięcy niepiśmiennych chłopów ściągniętych do robót budowlanych. Moskwa, dawna stolica, jest większa i mniej europejska: drewniana, kręta, z Kremlem jako sercem symbolicznym, gdzie Petersburg jest geometrią oświecenia, Moskwa pozostaje organicznym narostem historii. Za dziesięć lat spłonie, podpalona przez samych Rosjan, by Napoleon nie miał w niej kwatery.
 

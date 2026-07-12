@@ -41,6 +41,8 @@ Prezydent rządzi pośrodku tego zgiełku. Jefferson jest deistą, który własn
 
 ## Ustrój i Konstytucja
 
+![](./images/120.jpg)
+
 Konstytucja z 1789 roku jest dziełem ludzi, którzy bali się i tyranii, i demokracji, więc rozdzielili władzę i kazali jej nawzajem się hamować. Kongres dzieli się na Senat (po dwa miejsca na stan) i Izbę Reprezentantów (proporcjonalną do ludności), prezydenta wybiera Kolegium Elektorów, a dożywotni Sąd Najwyższy dopełnia układu. Pierwszych dziesięć poprawek, Bill of Rights, gwarantuje od 1791 roku wolność słowa, religii, prasy i broni; w praktyce prawa te obejmują wolnych białych mężczyzn, a kobiety, zniewolonych i większość wolnych Czarnych zostawiają poza systemem.
 
 Jedna klauzula ciąży nad wszystkim. Kompromis z 1787 roku każe liczyć każdego zniewolonego jako trzy piąte osoby przy ustalaniu reprezentacji stanów, co daje Południu więcej mandatów, niż miałoby z samych wolnych mieszkańców — i częściowo dzięki niej Jefferson wygrał wybory 1800 roku. Abolicjoniści z Nowej Anglii nazywają to *slave power* i mają rację arytmetycznie.
@@ -50,6 +52,8 @@ W 1802 roku trwa cicha wojna o sądy. Odchodzący Federaliści obsadzili w ostat
 ---
 
 ## Jefferson i partie
+
+![](./images/121.jpg)
 
 Thomas Jefferson, prezydent od 1801 roku, rządzi pod hasłem mniej rządu, mniej długu, mniej wojska, mniej podatków — wierzy w republikę niezależnych farmerów i nie ufa bankom ani manufakturom. Zniósł podatek od whiskey, ściął armię do trzech tysięcy ludzi i spłaca dług z ceł. Rok 1802 obnaża jednak sprzeczność: Luizjana wymaga albo kosztownego kupna, albo wojny, albo sojuszu ze znienawidzoną Anglią, a żadna z tych dróg nie mieści się w jego ideologii. Kupi ją w 1803 roku, nie znajdując w konstytucji podstawy prawnej, i zrobi to mimo wszystko. Wobec rdzennych narodów prowadzi osobną grę — namawia je na pług i własność prywatną, a długi zaciągane w rządowych sklepach traktuje jako drogę do ich ziemi (szerzej w [[Rdzenne narody Ameryki Północnej|osobnym artykule]]).
 
@@ -68,6 +72,8 @@ Na Morzu Śródziemnym trwa od 1801 roku [[Korsarze Barbarii|wojna z Trypolisem]
 ---
 
 ## Napięcia: Północ, Południe, pogranicze
+
+![](./images/122.jpg)
 
 Republikę dzielą linie starsze od niej samej. Północ rośnie manufakturami i wolną pracą, a wśród kwakrów i metodystów krzepnie ruch abolicjonistyczny; Południe stoi na plantacjach i niewolniczej pracy, broni klauzuli trzech piątych i żyje w cieniu [[Haiti]]. W 1802 roku debata o niewolnictwie toczy się w prasie i kościołach, omijając Kongres, bo obie partie mają południowe skrzydła i żadna nie chce tego tematu.
 

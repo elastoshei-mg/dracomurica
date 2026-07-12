@@ -10,6 +10,8 @@ Nowy Orlean leży na zakolu Missisipi sto trzydzieści mil od Zatoki Meksykańsk
 
 ## Miasto na błocie
 
+![](./images/90.jpg)
+
 Miasto stoi w złym miejscu, bo gorsze były wszystkie inne na tym odcinku rzeki. Woda otacza je z trzech stron, powódź zagraża co wiosnę, huragan co kilka lat, a żółta febra zabiera w złym roku od pięciu do dwudziestu procent ludności — niemal zawsze biednych i zniewolonych, bo zamożni latem uciekają na wyższe grunty.
 
 Missisipi pod miastem jest głęboka i wartka, brązowa od mułu, w dole rozszczepiona na kilkanaście ramion delty. Statki morskie wchodzą sto trzydzieści mil w głąb lądu i cumują przy głównym nabrzeżu; flatboaty z Ohio i Tennessee schodzą rzeką sześć tygodni i dobijają od strony zakola z soloną wieprzowiną, mąką i whisky. Spław pod prąd się nie opłaca, więc flisak rozbiera łódź na drewno i wraca pieszo traktem Natchez przez parę tygodni.
@@ -25,6 +27,8 @@ Gubernator Manuel de Salcedo urzęduje w Cabildo przy Plaza de Armas i rządzi w
 Waszyngton patrzy na to z prostą potrzebą: zachodnie stany muszą mieć ujście rzeki, albo uschną. Po odebraniu prawa składu [[Stany Zjednoczone|Stany]] wyślą do Paryża wysłannika z poleceniem kupna samego miasta i usłyszą ofertę całego terytorium.
 
 ## Ludzie miasta
+
+![](./images/91.jpg)
 
 Osiem do dziesięciu tysięcy ludzi, zależnie od tego, kogo spis raczył policzyć. Frankofoński establishment kreolski — potomkowie pierwszych Francuzów i Kanadyjczyków — trzyma towarzystwo i połowę handlu, mówi po francusku i chodzi do katedry, choć od czterdziestu lat rządzą nim Hiszpanie. Hiszpańscy urzędnicy i oficerowie wiedzą, że ich czas mija; wielu kupiło już ziemię, by zostać po zmianie flagi.
 
@@ -69,6 +73,8 @@ Nacje czytają tę samą grozę inaczej. Katolik, Hiszpan i kreolski Francuz, wi
 > **Congo Square:** niedzielne bębny pod obserwacją; przyszłość zgromadzeń niepewna pod Stanami
 
 ## Katedra i klasztor
+
+![](./images/92.jpg)
 
 Wiedza, jaką szczyci się Filadelfia, omija deltę — miasto nie ma akademii ani gabinetu przyrodniczego. Jego instytucje to Kościół: katedra Saint-Louis przy Plaza de Armas, odbudowana po pożarze 1788 roku, i klasztor urszulanek, którego mur z 1752 roku jest najstarszym budynkiem w całej dolinie rzeki.
 

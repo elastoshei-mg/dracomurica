@@ -7,6 +7,8 @@ aliases: [Treaty of Greenville, Traktat z Greenville, Pokój Greenville, Greenvi
 
 # Traktat Greenville
 
+![](./images/137.jpg)
+
 3 sierpnia 1795 roku generał Anthony Wayne i wodzowie dwunastu narodów podpisali w Forcie Greenville traktat, który zamknął dekadę wojny w Terytorium Północno-Zachodnim i otworzył większość dzisiejszego Ohio dla osadnictwa. Cenę ziemi wartej miliony ustalono na towary za dwadzieścia tysięcy dolarów i roczną annuitę dziewięciu i pół tysiąca. W 1802 roku dokument ma siedem lat i jest fikcją w tym samym stopniu, co prawem — a w kraju, gdzie za oddaną granicą wciąż spada kwas z koron drzew, każda odebrana działka jest sporna dwa razy.
 
 ## Dziesięć lat wojny
@@ -20,6 +22,8 @@ Wojnę o Ohio stoczono prawie wyłącznie ołowiem, i jest ku temu powód. [[Smo
 Resztki dawnej tarczy dały o sobie znać i tutaj. Według ocalałych spod Wabash poranna mgła w dniu klęski parzyła płuca, a kilku ludzi zginęło, nim ktokolwiek wystrzelił — ostatnie smoki regionu, prowadzone przez szamanów na zaskoczony obóz.
 
 Odpowiedzią był nowy rodzaj wojska. Anthony Wayne spędził rok na zbudowaniu Legii Stanów Zjednoczonych, pierwszej zawodowej armii regularnej republiki, i przemusztrował ją przez zimę 1793–1794 w Fort Washington. Milicja z Kentucky przegrywała z konfederacją; regularny żołnierz strzelający w zwartym szyku miał wygrać tam, gdzie ona przegrała.
+
+![](./images/138.jpg)
 
 20 sierpnia 1794 roku Wayne dopadł konfederację pod Fallen Timbers, w gąszczu drzew powalonych przez dawne tornado. Naprzeciw około trzech tysięcy regularnych i kawalerii z Kentucky stanęło może półtora tysiąca wojowników i trzystu kanadyjskich milicjantów. Bitwa trwała niecałą godzinę.
 
@@ -58,6 +62,8 @@ Artykuły 3 i 4 ustaliły roczne wypłaty w towarach. Siedem narodów — Wyando
 > **Jeńcy:** obie strony zwracają jeńców
 
 ## Linia na papierze i w terenie
+
+![](./images/139.jpg)
 
 Linia Greenville nie istniała w terenie. W kilku miejscach wbito kamienne słupy albo nacięto drzewa; reszta była opisem na papierze. Osadnicy z Kentucky patrzyli na te drzewa i szli dalej.
 

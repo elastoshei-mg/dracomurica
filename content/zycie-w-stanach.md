@@ -49,7 +49,10 @@ Dalej na południe niewolnictwo było jeszcze gęstsze. W Karolinie Południowej
 
 ## Pogranicze
 
+
 Za górami Kentucky rosło o dwadzieścia procent rocznie, bo granica spotykała się tam z tanią ziemią. Pogranicze znaczyło przede wszystkim pracę: karczowanie lasu, budowę chaty z bali uszczelnionej gliną, orkę kamienistej gleby i przetrwanie pierwszej zimy. Jadło się kukurydzę pod każdą postacią i soloną wieprzowinę, a kukurydziana whiskey po dwadzieścia pięć centów za galon była tańsza od herbaty i pewniejsza od studziennej wody. Publiczną ziemię sprzedawano po dwa dolary za akr, lecz minimalna działka i tak przerastała kieszeń większości, więc spekulanci kupowali ją hurtem i odsprzedawali na kredyt rozłożony na lata.
+
+![](./images/150.jpg)
 
 To tutaj, w Cane Ridge w sierpniu 1801 roku, kaznodzieja Barton Stone poprowadził wspólne nabożeństwo kilku kongregacji, na które przyszło dwadzieścia tysięcy ludzi — więcej, niż liczyło największe miasto stanu. Wzór dał rok wcześniej James McGready nad Gasper River, gdzie mniejsze obozowe przebudzenia po raz pierwszy złączyły kazanie z masową ekstazą. Przez tydzień trwały kazania, śpiew, omdlenia i drgawki, a wśród tych tysięcy objawiła się garstka prawdziwych [[Cudotwórcy|cudotwórców]]. Tyle wystarczyło: odtąd każdy wędrowny kaznodzieja obiecywał cuda, a metodyści i baptyści rośli w tempie, którego żaden kościół z establishmentu nie umiał dogonić. Drugie Wielkie Przebudzenie było odpowiedzią pogranicza na chłodny racjonalizm elit.
 
@@ -67,6 +70,8 @@ Nad tym wszystkim wisiał strach białych, w tym świecie nie bez powodu. Po wyd
 
 ## Kobiety, dom i rodzina
 
+![](./images/149.jpg)
+
 Gospodarstwem od środka rządziła kobieta, a w nieobecności męża — także z zewnątrz. Dzień żony farmera to trzy posiłki gotowane w pochyleniu nad otwartym paleniskiem, wypiek chleba, masło i ser, konserwowanie żywności na zimę, pranie w ługu, szycie odzieży dla całej rodziny, przędzenie, tkanie i opieka nad dziećmi. W Nowej Anglii uboższe kobiety dorabiały chałupniczo, za kilka centów od pary uszytych butów.
 
 Przeciętna biała kobieta przechodziła pięć do ośmiu ciąż, z których dorastało troje do pięciorga dzieci; na sto porodów sześć do dziesięciu kończyło się śmiercią matki, więc w kręgu znajomych każdej z nich była taka, co umarła rodząc. Rodzono w domu, przy akuszerce lub sąsiadkach. Żona plantatora prowadziła z kolei całe domowe przedsiębiorstwo — spiżarnię, kuchnię, ogród i kwatery zniewolonych — i korespondowała z kupcami w Richmond czy Londynie, choć w polityce pozostawała niewidoczna.
@@ -82,6 +87,8 @@ Medycyna szkodziła równie często, co pomagała. Najsławniejszy lekarz kraju 
 ---
 
 ## Drogi, rzeki i poczta
+
+![](./images/151.jpg)
 
 Główna droga pocztowa z Bostonu do Savannah liczyła tysiąc sto mil, z czego utwardzona była może jedna trzecia; reszta to koleiny po osie wozu w błocie i pękająca glina w upale. Dyliżansem z Bostonu do Nowego Jorku jechało się cztery-pięć dni za pięć dolarów; za Appalachami regularnych dróg pocztowych już nie było.
 

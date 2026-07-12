@@ -36,11 +36,15 @@ Druga geneza jest rzadsza i cichsza. Nie każdy żywiołak potrzebuje katastrofy
 
 ## Wielki Pożar Londynu
 
+![](./images/152.jpg)
+
 Pożar zaczęty w piekarni przy Pudding Lane we wrześniu 1666 roku strawił większość miasta w trzy dni. Katastrofa była na tyle gwałtowna, że zaczęła rodzić żywiołaki ognia, a te wzmagały płomień dalej. Dzienniki urzędników z epoki opisują ogień „zachowujący się jak żywy". Oficjalna kronika obwinia wiatr. Londyńczycy wiedzą swoje.
 
 Zjawisko wygasło z pożarem. Żaden żywiołak nie przetrwał odbudowy miasta — geneza była czysto katastroficzna, bez trwałego źródła podtrzymującego ją po ugaszeniu ostatniego płomienia.
 
 ## Lizbona
+
+![](./images/153.jpg)
 
 Trzęsienie ziemi z 1 listopada 1755 roku, w poranek Wszystkich Świętych, zrównało miasto z ziemią. Tu zjawisko nie wygasło z katastrofą. Żywiołaki ziemi zostały pod odbudowanym miastem i wynurzają się do dziś, w 1802 roku — pęka bruk, drży fundament, piwnica potrafi zacisnąć się na człowieku. Inżynierowie markiza Pombala nie umieją tego nazwać. Kapłani nie umieją wygnać.
 
@@ -53,6 +57,8 @@ Wenecja nie ma udokumentowanego przypadku, ale ma coś gorszego: pewność, że 
 Etna i Wezuwiusz karmią swoje żywiołaki ognia nie jedną erupcją, lecz nieprzerwaną aktywnością wulkaniczną — geneza trwała, nie katastroficzna. Mieszkańcy okolicznych wsi nadali im imiona i traktują wybuchy jak humory znanej, kapryśnej istoty, nie jak klęskę żywiołową bez twarzy.
 
 Sahara rodzi żywiołaki piasku, uznawane przez miejscowe ludy za odrębny gatunek od żywiołaków ziemi — szybsze, prawie niewidzialne w burzy, karmione bezkresem pustyni, nie jednym wydarzeniem. Step rosyjski budzi rzadkie żywiołaki powietrza podczas *buranów*, zimowych zawiei — Kozacy nazywają je swoimi zmarłymi, wracającymi po zapłatę za stare krzywdy, choć geneza jest ta sama co na Saharze: nie jedna burza, lecz sam charakter stepu, otwartego i nieprzerwanego.
+
+![](./images/154.jpg)
 
 Wodospad Niagara ma niemal na pewno żywiołaka wody, karmionego wiecznym spadkiem rzeki. Rdzenni mieszkańcy znali go, zanim przybyli Europejczycy.
 

@@ -16,11 +16,15 @@ Nikt tego nie zaprojektował; to wynik stu pięćdziesięciu lat improwizacji na
 
 ### Od handlarzy do suwerenów
 
+![](./images/73.jpg)
+
 Angielska Kompania Wschodnioindyjska (EIC, potocznie *John Company*) dostała statut od Elżbiety I 31 grudnia 1600 roku, z monopolem na handel z Azją. Przez pierwsze sto pięćdziesiąt lat była przedsiębiorstwem handlowym z militarnym ramieniem na własne potrzeby, z faktoriami w Surat, Madrasie, Bombaju i Kalkucie. Zmieniło to jedno popołudnie: 23 czerwca 1757 roku pod Plassey Robert Clive z trzema tysiącami ludzi, w dwóch trzecich indyjskich sipajów, pobił pięćdziesięciotysięczną armię nawaba Bengalu. Nawab zginął, a Kompania przejęła Bengal — pięćdziesiąt milionów mieszkańców i roczny dochód podatkowy przewyższający jej dawne obroty o rząd wielkości. Clive wrócił do Anglii z fortuną wartą dziś kilku miliardów funtów i przed parlamentarnym dochodzeniem bronił się, że przy takim bogactwie w zasięgu ręki wykazał zdumiewającą wstrzemięźliwość. Miał rację.
 
 India Act Pitta Młodszego z 1784 roku powołał rządowy Board of Control, nadzorujący politykę Kompanii bez przejmowania jej handlowych aktywów; dyrektorzy prowadzili codzienność, Board zatwierdzał decyzje wojskowe i dyplomatyczne. System był celowo niespójny, tak że za każdą katastrofę można było obwinić drugą stronę, a gubernator generalny w Kalkucie i tak robił swoje, informując obie instytucje po fakcie. Pierwszy z nich, Warren Hastings, rządził Bengalem bez pardonu dla miejscowych władców, a po powrocie przeszedł najdłuższy proces w dziejach angielskiego parlamentu — siedem lat oskarżeń o nadużycia Kompanii — i w 1795 roku został uniewinniony. Jego sprawa jest zarazem symbolem i ostrzeżeniem: Indiami można rządzić twardą ręką i to przeżyć. Z przedsiębiorstwa handlowego Kompania stała się do 1802 roku rządem z dywizjami.
 
 ### Terytoria i armia
+
+![](./images/72.jpg)
 
 Pod bezpośrednim zarządem leżą Bengal, Bihar i Orisa, zaplecze Madrasu oraz Bombaj; pod protektoratem — Awadh, Hajderabad i Majsur, każde z własnym, nominalnie suwerennym władcą, lecz z angielskim rezydentem, garnizonem i traktatem, który przy każdej odnowie kosztuje władcę kawałek ziemi.
 
@@ -71,6 +75,8 @@ Handlowi oficerowie Kompanii, *superkargo*, mieszkają przez sezon od września 
 ---
 
 ## Indie od środka
+
+![](./images/74.jpg)
 
 Sipaj (od perskiego *sipahi*, żołnierz) zarabia w piechocie siedem rupii miesięcznie, trzy, cztery razy więcej niż w armiach miejscowych władców, ma mundur, broń palną i oficera, który rzadko mówi w jego języku. Regimenty są segregowane kastowo — bengalska armia ma osobne pułki bramińskie i radźpuckie, z własnymi rytuałami i tabu dotyczącymi nieczystości — a oficerowie zwykle te granice szanują, dopóki ich nie naruszą. W 1857 roku naboje smarowane łojem wołowym i wieprzowym wywołają wielkie powstanie sipajów; w 1802 roku napięcie tli się dopiero w codziennych tarciach.
 

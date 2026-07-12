@@ -20,6 +20,8 @@ Jest w tym coś, czego nie widać na pierwszy rzut oka. W świecie, gdzie magia 
 
 ### Węgiel i żelazo w jednym miejscu
 
+![](./images/109.jpg)
+
 Większość prób uprzemysłowienia w historii rozbijała się o logistykę. Żelazo jest ciężkie. Węgiel jest ciężki. Wożenie ich na duże odległości pożerało zysk, zanim fabrykant zdążył go policzyć.
 
 Anglia miała złoża węgla i żelaza blisko siebie i blisko wybrzeża. Coalbrookdale w Shropshire: kopalnie węgla, ruda żelaza i rzeka Severn spływająca do Kanału Bristolskiego — wszystko w promieniu pięciu mil. Black Country na zachód od Birmingham: węgiel, żelazo, wapień do wytopu i sieć dróg wodnych łączących z Liverpoolem i Londynem. Południowa Walia z kopalniami Merthyr Tydfil dostarczała rudę i węgiel do hut pracujących trzy kilometry niżej.
@@ -120,6 +122,8 @@ Węgiel napędza to wszystko dosłownie — każda maszyna parowa spala go od ki
 
 ## Dzień w fabryce
 
+![](./images/108.jpg)
+
 Robotnik wchodzi do przędzalni o szóstej rano albo gdy zatrąbi syrena. Praca trwa do szóstej wieczorem lub dłużej — czternaście godzin z dwiema półgodzinnymi przerwami na posiłek. Zimą przychodził i wychodził po ciemku; dzień widywał tylko przez okno przy maszynie.
 
 Płaca tygodniowa zależy od stanowiska. Wykwalifikowany przędzarz (*mule spinner*) zarabia dwanaście do czternastu szylingów i ma w zakładzie pozycję. Jego pomocnicy, wiążący zerwaną przędzę, dostają trzy do czterech szylingów — zwykle dzieci albo kobiety.
@@ -157,6 +161,8 @@ Niemcy to dziesiątki małych państw bez wspólnego rynku, spójnej sieci kana�
 ---
 
 ## Co widać na horyzoncie
+
+![](./images/110.jpg)
 
 Trevithick i jego parowy powóz są punktem, od którego zmiana staje się nieuchronna: silnik parowy na kołach, jadący po szynach, jest logicznym następnym krokiem po silniku pompującym wodę. Konne koleje — Middleton w Leeds, linie w Surrey i Swansea — działają już od końca XVIII wieku; lokomotywa parowa zastąpi konie w następnej dekadzie. George Stephenson, w 1802 roku dwudziestoletni mechanik kopalniany z Northumberland, dojdzie do swojej linii Liverpool–Manchester dopiero w 1829 roku.
 

@@ -6,6 +6,8 @@ aliases: [Pokój Amiens, Pokój Amiens (1802), Treaty of Amiens, Amiens, Traktat
 
 # Pokój Amiens
 
+![](./images/99.jpg)
+
 Podpisano 27 marca 1802 roku w sali prefektury departamentu Sommy. Francję reprezentował Joseph Bonaparte, brat Pierwszego Konsula; Wielką Brytanię — lord Cornwallis, ten sam, który skapitulował pod Yorktown dwadzieścia jeden lat wcześniej. Hiszpania i Republika Batawska siedziały przy stole jako strony formalne, bez wpływu na tekst.
 
 Traktat zamknął dziewięć lat niemal nieprzerwanej wojny. Obaj pełnomocnicy wiedzieli przy podpisie, że nie zamknie jej na długo.
@@ -21,6 +23,8 @@ Obie strony były zmęczone z różnych powodów. Wielka Brytania prowadziła wo
 ---
 
 ## Warunki traktatu
+
+![](./images/101.jpg)
 
 Wielka Brytania oddawała większość zdobyczy: Maltę zakonowi joannitów pod gwarancją mocarstw, Przylądek Dobrej Nadziei Republice Batawskiej, Martynikę i Gwadelupę Francji, Minorkę Hiszpanii oraz Egipt — ten ostatni dla formalności, bo Francja już go ewakuowała. Zatrzymywała Trynidad zdobyty na Hiszpanii i Cejlon zdobyty na Batawii.
 
@@ -55,6 +59,8 @@ Oba rządy zaprzeczają i żaden nie pokazał pełnego protokołu rozmów. W św
 ---
 
 ## Czternaście miesięcy pokoju
+
+![](./images/100.jpg)
 
 Londyn zredukował armię z trzystu tysięcy do stu siedmiu tysięcy żołnierzy i marynarkę o jedną trzecią, a kupcy w kilka tygodni wyprzedali zatrzymane wcześniej przez blokadę francuskie wina, jedwabie i mody. Między majem 1802 a majem 1803 roku Paryż odwiedziło pięćdziesiąt do sześćdziesięciu tysięcy Anglików — część po raz pierwszy w życiu, część w roli szpiegów. Charles James Fox, lider Wigów i jawny frankofil, wrócił z rozmów z Napoleonem przekonany, że z Bonapartem da się rozmawiać jak z człowiekiem. Handel z Francją wzrósł w tym czasie trzykrotnie, choć ceny cukru w Europie poszły w górę, gdy klęska Leclerca wycięła Saint-Domingue z rynku bez następcy.
 

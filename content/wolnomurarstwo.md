@@ -25,6 +25,8 @@ Ekspansja była szybka i systematyczna. Wielka Loża Irlandii powstała w 1725 r
 
 ## Kątownica, cyrkiel i ukryte rzemiosło
 
+![](./images/148.jpg)
+
 Kątownica i cyrkiel znaczą więcej niż moralną przypowieść. Murarze operatywni znali prawdziwe rzemiosło: jak ustawić kamień, proporcję i orientację, by budowla dobrze siadła na ziemi i na biegnących przez nią siłach. To zachodnia kuzynka chińskiej geomancji, [[Feng shui]] bez tej nazwy, a cechy katedralne nosiły tę wiedzę obok zwykłych sekretów zawodu.
 
 Gdy polowania na czarownice zdławiły jawną magię, murarze zrobili to, czego nie zdołały inne cechy — ukryli się na widoku. Po tym, jak [[Gildie Śmierci]] sprowadziły na [[Europejskie czarostwo|całe rzemiosło tajemne]] stos i topór, otwarte praktykowanie sztuki stało się wyrokiem. Murarze przebrali więc swoje rzemiosło w „spekulatywny" symbolizm: Świątynia Salomona, legenda o Hiramie, Wielki Architekt, święta geometria jako nauka moralna. Prawdziwa treść geomantyczna przetrwała przebrana za metaforę.
@@ -38,6 +40,8 @@ Wrogość Kościoła ma tu ostrzejsze dno niż jawne zarzuty o tajność, przysi
 ---
 
 ## Stopnie i ryty
+
+![](./images/146.jpg)
 
 Trzy stopnie podstawowe tworzą rdzeń każdego rytu. Ucznia (*Entered Apprentice*) wprowadza się z zawiązanymi oczami i odbiera odeń przysięgę milczenia oraz wzajemnej pomocy. Czeladnik (*Fellow Craft*) zgłębia symbolikę geometryczną i nauki o rozumie. Mistrz Masoński (*Master Mason*) dostaje pełnię praw w loży i przechodzi rytuał oparty na legendzie o Hiramie Abiffie, budowniczym Świątyni Salomona zabitym przez trzech zdrajców, którzy chcieli wymusić zeń mistrzowskie sekrety.
 
@@ -58,6 +62,8 @@ Wstąpić może wolny mężczyzna z poręczeniem co najmniej jednego brata, po k
 ---
 
 ## Kościół, Napoleon i panika spiskowa
+
+![](./images/147.jpg)
 
 Papież Klemens XII potępił masonerię bullą *In Eminenti* 28 kwietnia 1738 roku, zarzucając jej tajność, podejrzane przysięgi i mieszanie wyznań bez nadzoru; Benedykt XIV odnowił potępienie w 1751 roku. Pod groźbą ekskomuniki katolicyzm i loża są formalnie nie do pogodzenia — co nie przeszkadza dziesiątkom tysięcy katolickich arystokratów i oficerów we Włoszech, Austrii, Francji i Hiszpanii należeć do bractwa. Tam, gdzie inkwizycja działa naprawdę — w Hiszpanii, Portugalii i [[Państwo Kościelne|Państwie Kościelnym]] — ryzyko procesu jest realne, choć niewielu biskupów faktycznie je wszczyna. Concordat [[Francja Napoleońska|Napoleona]] z Piusem VII z 1802 roku przywrócił Kościołowi obecność we Francji, a papieskie potępienie zostawił na papierze; papież ma pilniejsze kłopoty niż egzekwowanie bulli sprzed sześćdziesięciu lat.
 

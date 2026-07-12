@@ -6,6 +6,8 @@ aliases: [Korsarze Barbarii (1802), Barbary Pirates, Barbary Corsairs, Berberyjc
 
 # Korsarze Barbarii
 
+![](./images/75.jpg)
+
 Cztery państwa wzdłuż północnoafrykańskiego wybrzeża — Maroko, Algier, Tunis i Trypolis — od trzech wieków żyją z rolnictwa, handlu śródziemnomorskiego i okupu. To ostatnie źródło najbardziej zajmuje Europę: korsarskie okręty wypadają z portów, przechwytują statki, a załogi sprzedają albo trzymają do wypłaty okupu. Mocarstwa, które chcą bezpieczeństwa dla swojej bandery, płacą regencjom coroczny trybut.
 
 W 1802 roku [[Stany Zjednoczone|Stany Zjednoczone]] odmówiły płacenia i prowadzą z Trypolisem wojnę morską. Anglia, zajęta Napoleonem, woli płacić i omijać problem; Francja po inwazji na Egipt jest z całym Maghrebem w zawieszonej wrogości.
@@ -37,6 +39,8 @@ Trypolisem rządzi od 1711 roku dynastia Karamanlich, która chwyciła władzę,
 
 ## Łowcy adeptów
 
+![](./images/76.jpg)
+
 Jest jedna rzecz, którą korsarze Barbarii robią lepiej i bardziej metodycznie niż ktokolwiek na świecie: łowią i więżą cudzą magię. Statek wpadający w ich ręce wiezie zwykle marynarzy i kupców na okup, lecz co pewien czas trafia się ktoś więcej — europejski [[Sorcery|adept]], [[Cudotwórcy|cudotwórca]], czarownik, ktoś, w kim płynie moc. Dla regencji to najcenniejszy łup ze wszystkich, i jako jedyni umieją go zatrzymać.
 
 Narzędziem jest [[Magiczne przedmioty|talizman]]. Nie wykuwa go żaden rzemieślnik — błogosławią go żywi święci, marabuci maghrebskich bractw sufickich, a moc, którą weń wkładają, to ich baraka, ten sam [[Cudotwórcy|cud]] islamu co u świętych Stambułu, nastawiony na jedno: dławić obcą magię. Amulet wmurowany w kajdany odcina jeńca od jego mocy. Ten sam amulet noszony przez korsarza osłania go przed czarem wroga. Marabut nie sprzedaje błogosławieństwa niewiernemu ani nie spisuje go w żaden przepis. To charyzmat, dar wrodzony w świętą linię, którego nikt z zewnątrz nie powtórzy.
@@ -50,6 +54,8 @@ Najgłębszy łup to ten, który się nawraca. Adept, który przyjmie islam, sta
 ---
 
 ## Trybut, okup i niewola
+
+![](./images/77.jpg)
 
 Trybut nie jest haraczem w europejskim rozumieniu — to cena traktatu regulującego prawa danej bandery na Morzu Śródziemnym. Każde mocarstwo podpisuje osobną umowę z każdą regencją: coroczna płatność w gotówce, towarach albo materiałach wojennych (cenione zwłaszcza drewno okrętowe, liny i proch), wykup obecnych i przyszłych jeńców, prawo żeglugi w określonych wodach. Szwecja czy Dania płaciły Algierowi dziesiątki tysięcy rocznie; Anglia płaciła więcej i miała lepsze warunki, bo Royal Navy była w tej rozmowie argumentem.
 
